@@ -1,0 +1,277 @@
+% AI over Large Formal Knowledge Bases: The First Decade
+%
+% [Josef Urban](http://cs.ru.nl/~urban), Radboud University Nijmegen
+ 
+
+
+# Talk Structure
+
+* AI for Formal Math or Formal Math for AI?
+* The semantic AI Plan: Large KBs of formal thought + evolving AI tools
+* Premise selection for Mizar/MML, Isabelle/HOL, HOL/Flyspeck, etc. 
+* ATP guidance: E, Prover9, BliStr
+* Larger AI systems: MaLARea, MaLeCoP  
+* Some lessons learned so far
+* Some challenges
+
+
+
+# AI for Formal Math or FM for AI?
+
+* AI/ATP for ITP getting popular ([Sledgehammer](http://isabelle.in.tum.de/website-Isabelle2009/sledgehammer.html)), but it is only one way of looking at it
+* My motivation has been  (also) opposite:
+* *Get to strong AI via a large repository of computer-understandable complex human thought*
+* Formal math proofs/theories: good (best?) approximation? Better than scanning books? 
+* Gradually learn how math/science is done:
+* What are the components (inductive/deductive thinking)? How to combine them together?
+
+
+# The Plan
+
+1. Make large KBs of *formal thought* (Mizar/MML, HOL/Flyspeck, Isabelle) accessible to strong AI tools: DONE (or well under way)
+2. Test/Use/Evolve AI tools:
+    * deductive AI: first-order/higher-order/inductive ATPs, SMTs, decision procs.
+    * inductive AI: statistical learning tools (Bayesian, kernels, neural,...),
+    * inductive AI: semantic learning tools (ILP - Progol, Alef, ..; latent semantics - PCA; genetic methods, ... )
+
+# The Plan (continued)
+
+3. Build custom/combined inductive/deductive tools/metasystems:
+    * usually combining ATP/symbolic techniques with ML/statistical ideas
+    * (statistically governed, "greedy", ...) indexing, subsumption, abstraction, limited inference/induction, concept/lemma creation, strategy generation, etc.
+4. Continuously test performance
+5. Define harder AI tasks as the performance grows (prove theorems from more basic lemmas, develop whole theories, ...)
+6. GOTO 2
+
+# The Plan (continued)
+<!-- \item Then have fun building strong AI! -->
+
+* Corollary: It happens to be useful (Mizar, Isabelle, HOL, etc)
+* Large-scale benchmarks crucial for feedback/progress (this is highly experimental science!)
+* Define benchmarks: whole MML, [MPTP Challenge](http://www.cs.miami.edu/~tptp/MPTPChallenge/), [CASC LTB](http://www.cs.miami.edu/~tptp/CASC/J4/Design.html#Changes), [MPTP2078](https://github.com/JUrban/MPTP2078), [MZR@Turing](http://www.cs.miami.edu/~tptp/CASC/J6/Design.html#CompetitionDivisions)
+* Otherwise many seemingly "cool" ideas that subsume each other in unexpected ways
+* Implementation matters and is the proof of the pudding
+* Observation: This plan seems to have taken off in the last decade
+* Enter the CASC LTB 2013 competition!! (Mizar, Isabelle, HOL, 1-day pre-training)
+
+# Corpora
+
+* Mizar/MML: today about 50-100k formal math theorems/proofs (``Bourbaki'') written by humans (link to MML Query with the known theorems)
+* An interesting AI repository, first translated for AI/ATP experiments in 2003
+* Isabelle/HOL: about 20k theorems (but add AFP!), first translated for ATP experiments in ca. 2005
+* Recent work to allow machine learning (2011-12: consistent naming & translation, proof export)
+* HOL (Light): early translations (MESON, Metis) by Harrison and Hurd
+* HOL/Flyspeck: about 20k theorems, translated for AI/ATPs recently (2012)
+* More: SUMO, LogAnswer (full German Wikipedia in FOL), YAGO, ...
+
+# AI tools: Evolving technology stack
+
+* Try to stay on top of the stack and stimulate its progress
+* ATPs: a lot of progress in handling of large KBs (parsing, indexing, heuristics)
+* New/improved ATP calculi and strategies
+    * instantiation-based methods (iProver, SMT)
+    * (parameterized) preference of conjecture (E, leanCoP, Prover9)
+    * strategy languages (E), weight/ordering specifications
+    * extensive tuning for problems (Vampire, BliStr)
+    * more ITP-friendly extensions (many-sorted, polymorphic) 
+<!-- * better ITP/ATP bridges (eg. type translations - Isabelle) -->
+* Great progress in statistical ML
+    * Netflix Challenge (latent semantics, unsurpervised learning)
+    * DARPA Challenge, Google, Yahoo, Amazon, ...
+    * Bayesian inference (biochemical causal chains, ...)
+
+# Premise Selection
+* Early 2003: Can existing ATPs be used over the freshly translated Mizar library?
+* About 80000 nontrivial math facts at that time.
+* Is good premise selection possible at all? 
+* Or is it a mysterious power of mathematicians? (Penrose!)
+* Today: Premise selection is not a mysterious property of mathematicians. 
+* Reasonably good algorithms started to appear (more below).
+* Will extensive human (math) knowledge get obsolete?? (cf. Watson)
+
+
+
+# Example: Mizar Proof Advisor (2003)
+
+* Train premise selection on all previous Mizar/MML proofs (50k)
+* Recommend relevant premises when proving new conjectures
+* About 70% coverage in the first 100 recommended premises 
+* Chain the recommendations with strong ATPs to get full proofs
+* Used today also for Isabelle/Sledgehammer and HOL/Flyspeck 
+* Many interesting issues: features, labels, their utility and consistency
+* Still easy to improve (waiting for you!)
+
+# Evaluation of methods on MPTP2078 
+ML evaluation (premise recall) 
+![ML evaluation: Recall](recall.png "Recall")
+
+# Evaluation of methods on MPTP2078 
+ATP evaluation (problems solved)
+![ATP evaluation: Solved](vampire.png)
+
+# Combined (ensemble) methods 
+Combining with SInE improves the best method from 726 to 797 (10%)
+![ATP evaluation: Combined](combined.png)
+![ATP evaluation: Solved](vampire.png)
+
+# Learning from ATP and ITP proofs 
+Learning from the shortest ATP proofs helps also by about 10%
+![ATP vs MML](simple.png)
+![ATP and MML, combined with SInE](best.png)
+
+# Evaluation on Flyspeck
+* 628 AI/ATP combinations evaluated so far
+* they differ in the features, learning data, learning method, premise number, ATP
+* [39% of top-level theorems proved by 14 AI/ATP methods - Nov 2012](http://cl-informatik.uibk.ac.at/users/cek/recheck/Table9__ho_asta.html)
+* [45.5% of top-level theorems proved by recent 14 AI/ATP methods - Mar 2013](http://cl-informatik.uibk.ac.at/users/cek/recheck/Table9__ho_asta+++.html)
+
+# Example of a simpler proof
+
+* Mathematicians are good, but sometimes miss things
+* Already in 2005: examples in Mizar where better premises found automatically 
+* Recent HOL Light example: [FACE_OF_POLYHEDRON_POLYHEDRON](http://mws.cs.ru.nl/~mptp/cgi-bin/browseproofs.cgi?refs=FACE_OF_POLYHEDRON_POLYHEDRON) 
+* The premise selection is good enough to rank the needed premises high
+* And then the ATP is good enough to find the proof from them
+
+# The HOL(y)Hammer AI/ATP service
+![HH architecture](advisor-server1.png)
+
+
+# Examples of AI guidance in E and Prover9
+* Proof-trace guidance: 
+* Prover9 hints, KB of abstracted lemmas from previous proofs in E
+* nearest-neighbor guidance: ConjectureRelativeSymbolWeight in E
+* further symbol weighting based on axiom relevance in E
+* semantic guidance: Prover9, iProver, Vampire (since 2012)
+
+# BliStr: Blind Strategymaker, E-MaLeS
+* Problem:
+* Is conjecture-based guidance better than proof-trace guidance?
+* In other words: how do we put all the sophisticated ATP techniques together?
+* Grow a population of diverse strategies by iterative local search (and/or genetics)!
+* Use clusters of similar solvable problems to train for unsolved problems
+* Interleave low-time training with high-time evaluation
+* Thus co-evolve the strategies and their training problems
+* In the end, learn which strategy to use on which problem
+
+# BliStr on 1000 Mizar@Turing problems
+* original E coverage: 597 problems
+* after 30 hours of strategy growing: 22 strategies covering 670 problems
+* A selection of 14 strategies improves E auto-mode by 25% on unseen problems
+* Similar results for the Flyspeck problems
+* Be lazy, don't do "hard" theory-driven ATP research (a.k.a: thinking)
+* In 30 hours, your ATP can self-improve by data-driven methods while you lie on a beach!
+
+
+# Examples of self-evolving metasystems
+
+* BliStr could evolve various parts of the ATP technology for long time
+* Machine Learner for Automated Reasoning (MaLARea)
+* Machine Learning Connection Prover (MaLeCoP)
+
+# Machine Learner for Automated Reasoning
+
+* [MaLARea](https://github.com/JUrban/MPTP2/tree/master/MaLARea): explore \& exploit, reinforcement learning, etc.
+* AI feedback loop interleaving deduction with induction on a large math. theory:
+* The more problems you solve (and fail to solve), the more solutions (and failures) you can learn from
+* The more you can learn from, the more you solve (now also in HH)
+* Systematic concept addition (models, etc.), can be dangerous
+* continuous update of the learning wrt. the new concepts 
+* good performance on AI/ATP benchmarks ([MPTPChallenge](http://www.cs.miami.edu/~tptp/MPTPChallenge/Results/SVGResults.html), [CASC LTB 2008](http://www.cs.miami.edu/~tptp/CASC/J4/WWWFiles/LTBResultsSummary.html),[CASC Mizar 2012](http://www.cs.miami.edu/~tptp/CASC/J6/TuringWWWFiles/DivisionSummary1.html))
+* The CASC performance curve flat for [quite a while](http://www.cs.miami.edu/~tptp/CASC/J6/TuringWWWFiles/ResultsPlots.html#MRTProblems)
+
+
+# MaLARea Architecture
+
+![MaLARea](malarea.png)
+
+
+# Machine Learning Connection Prover
+
+* MaLeCoP: put the AI methods inside a tableau ATP 
+* the learning/deduction feedback loop runs across problems and inside problems
+* The more problems/branches you solve/close, the more solutions you can learn from
+* The more solutions you can learn from, the more problems you solve
+* Not just model avoidance, also ``dangerous pattern'' avoidance
+* still quite a prototype (no CASC)
+* already about 20-time proof search shortening on MPTP Challenge compared to leanCoP (see the [paper](http://dx.doi.org/10.1007/978-3-642-22119-4_21))
+
+# MaLeCoP Architecture
+
+![MaLeCoP](diagram1.png)
+
+
+# Some lessons learned
+
+* Don't push "expensive AI" where "normal AI" is better, do the obvious first:
+* statistical ML vs. symbolic (ILP, etc): needs to be carefully merged: statistical substitution/subsumption trees, ATPs testing generalizations, etc.
+* high-level combination of standard ATPs and learning vs. low-level new "cool" (often non-performing) systems (lots of work on MaLeCoP to make it efficient)
+* make it useful (Sledgehammer, MizAR, HOL(y)Hammer) and have rigorous benchmarks (CASC LTB, etc.)
+
+# Some lessons learned
+
+* one's own sense of "AI coolness" may be totally wrong on the large scale
+* large-scale evaluations will show what is good and what to do next (analyze data often!)
+* simple ML methods applied at the right place can be very powerful (recently e.g. BliStr)
+* the formal domain is very fragile and takes a lot of work, but also very rewarding:
+    * new ATP proofs cannot be trusted/learned from if the translation to ATPs is unsound (funny story with Isabelle)
+    * once the translation is correct, new AI/ATP proofs really emerge
+
+# Challenges in large formal KBs
+
+* selection of knowledge (for ATPs and humans)
+* useful translations between logics, useful ATP calculi and decision procedures
+* training internal guidance of ATPs, SMTs, automation inside ITPs
+* developing the corpora: lemmas, concepts, conjectures, (counter)examples
+
+# transfer ideas from SAT to malecop and E
+
+* Alan Frisch claims that using dynamic features the saT/unsat could
+  be guessed with 75% success on random sat problems
+* dynamic features: random hill-climbing to get as much clauses true, etc
+
+# Challenges in large formal KBs
+
+* refactoring of long ATP proofs for human consumption (50k-long proof by David Stanovsky \& Waldmeister)
+* using strong AI/ATP to help disambiguation/understanding of natural-language math
+* emulating the layer on which mathematicians think (related to natural language)
+* what will it take to prove Brouwer or Jordan fully automatically?
+
+
+# Acknowledgments
+
+* [Prague Automated Reasoning Group](http://arg.mff.cuni.cz/)
+    * Petr Stepanek, Jiri Vyskocil, Petr Pudlak, David Stanovsky, Krystof Hoder, Jan Jakubuv, Ondrej Kuncar, Martin Suda, ...
+
+* HOL(y)Hammer:  [Cezary Kaliszyk](http://cl-informatik.uibk.ac.at/users/cek/) (Innsbruck)
+
+* ATP and ITP people
+    * Stephan Schulz, Geoff Sutcliffe, Larry Paulson, Tobias Nipkow, Jasmin Blanchette, John Harrison, Tom Hales, Andrzej Trybulec, Piotr Rudnicki, Ingo Dahn, Bill McCune, Adam Pease, Andrej Voronkov, Kostya Korovin, ...
+
+* [Learning2Reason](http://www.fnds.cs.ru.nl/fndswiki/Research/Learning2Reason)
+    * Evgeni Tsivtsivadze, Daniel Kuehlwein, Tom Heskes, Herman Geuvers ....
+    
+* ... and many more ...    
+
+
+# Thanks for your Attention!
+* Don't forget to submit your coolest system to CASC-LTB 2013!
+* Questions, Comments, ... ?
+
+
+<!-- -- several aha moments -->
+
+<!-- ILP, inefficient - ten years later with Jiri in a statistical way -->
+
+
+<!--  --- how do we develop thinking AI?? -->
+
+<!--  --- MoMM - half of MML subsumed! -->
+
+<!--  --- MPTP - 40% of MML theorems provable! -->
+
+<!--  --- How do we prove over such a large library?  -->
+<!--    - "correct" methods at that time for some partitioned theories - everything is usable in math! -->
+<!--    - 3 years later - sledgehammer - symbolic, but heuristic; 5 years later - SInE -->
+
+<!--  --- we can really develop semantic AI! - new proofs confirmed by ATPs -->
