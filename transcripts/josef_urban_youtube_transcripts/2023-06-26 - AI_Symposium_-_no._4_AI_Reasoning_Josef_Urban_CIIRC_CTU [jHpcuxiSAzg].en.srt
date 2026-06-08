@@ -1,0 +1,7535 @@
+1
+00:00:10,280 --> 00:00:15,110
+
+uh next speaker is Joseph Urban one of
+
+2
+00:00:15,110 --> 00:00:15,120
+uh next speaker is Joseph Urban one of
+ 
+
+3
+00:00:15,120 --> 00:00:19,269
+uh next speaker is Joseph Urban one of
+the leads of our of his project
+
+4
+00:00:19,269 --> 00:00:19,279
+the leads of our of his project
+ 
+
+5
+00:00:19,279 --> 00:00:22,910
+the leads of our of his project
+focus and Ai and reasoning he is linking
+
+6
+00:00:22,910 --> 00:00:22,920
+focus and Ai and reasoning he is linking
+ 
+
+7
+00:00:22,920 --> 00:00:24,950
+focus and Ai and reasoning he is linking
+in his efforts machine learning with
+
+8
+00:00:24,950 --> 00:00:24,960
+in his efforts machine learning with
+ 
+
+9
+00:00:24,960 --> 00:00:26,810
+in his efforts machine learning with
+reasoning that's quite Noble approach
+
+10
+00:00:26,810 --> 00:00:26,820
+reasoning that's quite Noble approach
+ 
+
+11
+00:00:26,820 --> 00:00:30,769
+reasoning that's quite Noble approach
+and unique pioneering so I don't want to
+
+12
+00:00:30,769 --> 00:00:30,779
+and unique pioneering so I don't want to
+ 
+
+13
+00:00:30,779 --> 00:00:34,850
+and unique pioneering so I don't want to
+talk anymore it's his turn and his time
+
+14
+00:00:34,850 --> 00:00:34,860
+talk anymore it's his turn and his time
+ 
+
+15
+00:00:34,860 --> 00:00:36,950
+talk anymore it's his turn and his time
+to explain what was done thank you very
+
+16
+00:00:36,950 --> 00:00:36,960
+to explain what was done thank you very
+ 
+
+17
+00:00:36,960 --> 00:00:39,170
+to explain what was done thank you very
+much thank you
+
+18
+00:00:39,170 --> 00:00:39,180
+much thank you
+ 
+
+19
+00:00:39,180 --> 00:00:41,030
+much thank you
+um so
+
+20
+00:00:41,030 --> 00:00:41,040
+um so
+ 
+
+21
+00:00:41,040 --> 00:00:43,970
+um so
+thanks everybody for coming here
+
+22
+00:00:43,970 --> 00:00:43,980
+thanks everybody for coming here
+ 
+
+23
+00:00:43,980 --> 00:00:45,369
+thanks everybody for coming here
+um
+
+24
+00:00:45,369 --> 00:00:45,379
+um
+ 
+
+25
+00:00:45,379 --> 00:00:49,610
+um
+and I was I've been working here now for
+
+26
+00:00:49,610 --> 00:00:49,620
+and I was I've been working here now for
+ 
+
+27
+00:00:49,620 --> 00:00:52,310
+and I was I've been working here now for
+let me think seven
+
+28
+00:00:52,310 --> 00:00:52,320
+let me think seven
+ 
+
+29
+00:00:52,320 --> 00:00:54,110
+let me think seven
+eight years
+
+30
+00:00:54,110 --> 00:00:54,120
+eight years
+ 
+
+31
+00:00:54,120 --> 00:00:57,350
+eight years
+I initially came with an ERC
+
+32
+00:00:57,350 --> 00:00:57,360
+I initially came with an ERC
+ 
+
+33
+00:00:57,360 --> 00:00:59,930
+I initially came with an ERC
+consolidatory Grant
+
+34
+00:00:59,930 --> 00:00:59,940
+consolidatory Grant
+ 
+
+35
+00:00:59,940 --> 00:01:02,950
+consolidatory Grant
+and somehow
+
+36
+00:01:02,950 --> 00:01:02,960
+and somehow
+ 
+
+37
+00:01:02,960 --> 00:01:06,350
+and somehow
+Professor Marie implicated me into even
+
+38
+00:01:06,350 --> 00:01:06,360
+Professor Marie implicated me into even
+ 
+
+39
+00:01:06,360 --> 00:01:09,109
+Professor Marie implicated me into even
+a larger Grant so so at some point I was
+
+40
+00:01:09,109 --> 00:01:09,119
+a larger Grant so so at some point I was
+ 
+
+41
+00:01:09,119 --> 00:01:12,410
+a larger Grant so so at some point I was
+I was doing uh
+
+42
+00:01:12,410 --> 00:01:12,420
+I was doing uh
+ 
+
+43
+00:01:12,420 --> 00:01:15,530
+I was doing uh
+two two big Brands together luckily
+
+44
+00:01:15,530 --> 00:01:15,540
+two two big Brands together luckily
+ 
+
+45
+00:01:15,540 --> 00:01:18,469
+two two big Brands together luckily
+there was sort of an overlapping uh
+
+46
+00:01:18,469 --> 00:01:18,479
+there was sort of an overlapping uh
+ 
+
+47
+00:01:18,479 --> 00:01:19,789
+there was sort of an overlapping uh
+theme there
+
+48
+00:01:19,789 --> 00:01:19,799
+theme there
+ 
+
+49
+00:01:19,799 --> 00:01:25,429
+theme there
+and I should say a lot of what
+
+50
+00:01:25,429 --> 00:01:25,439
+and I should say a lot of what
+ 
+
+51
+00:01:25,439 --> 00:01:28,450
+and I should say a lot of what
+I will speak about has already been uh
+
+52
+00:01:28,450 --> 00:01:28,460
+I will speak about has already been uh
+ 
+
+53
+00:01:28,460 --> 00:01:31,490
+I will speak about has already been uh
+sort of introduced by Holger House's
+
+54
+00:01:31,490 --> 00:01:31,500
+sort of introduced by Holger House's
+ 
+
+55
+00:01:31,500 --> 00:01:36,050
+sort of introduced by Holger House's
+talk like um like basically for 25 years
+
+56
+00:01:36,050 --> 00:01:36,060
+talk like um like basically for 25 years
+ 
+
+57
+00:01:36,060 --> 00:01:39,609
+talk like um like basically for 25 years
+I I have tried to combine
+
+58
+00:01:39,609 --> 00:01:39,619
+I I have tried to combine
+ 
+
+59
+00:01:39,619 --> 00:01:45,050
+I I have tried to combine
+uh two areas of what I think forums like
+
+60
+00:01:45,050 --> 00:01:45,060
+uh two areas of what I think forums like
+ 
+
+61
+00:01:45,060 --> 00:01:47,870
+uh two areas of what I think forums like
+human or scientific thinking
+
+62
+00:01:47,870 --> 00:01:47,880
+human or scientific thinking
+ 
+
+63
+00:01:47,880 --> 00:01:51,109
+human or scientific thinking
+and that's learning and deduction
+
+64
+00:01:51,109 --> 00:01:51,119
+and that's learning and deduction
+ 
+
+65
+00:01:51,119 --> 00:01:55,190
+and that's learning and deduction
+and to to start this with a funny slide
+
+66
+00:01:55,190 --> 00:01:55,200
+and to to start this with a funny slide
+ 
+
+67
+00:01:55,200 --> 00:01:58,550
+and to to start this with a funny slide
+so you can you can read this a bit
+
+68
+00:01:58,550 --> 00:01:58,560
+so you can you can read this a bit
+ 
+
+69
+00:01:58,560 --> 00:02:00,770
+so you can you can read this a bit
+uh so so if you
+
+70
+00:02:00,770 --> 00:02:00,780
+uh so so if you
+ 
+
+71
+00:02:00,780 --> 00:02:03,830
+uh so so if you
+if you if nothing else you remember from
+
+72
+00:02:03,830 --> 00:02:03,840
+if you if nothing else you remember from
+ 
+
+73
+00:02:03,840 --> 00:02:07,910
+if you if nothing else you remember from
+the stock remember this book logical mix
+
+74
+00:02:07,910 --> 00:02:07,920
+the stock remember this book logical mix
+ 
+
+75
+00:02:07,920 --> 00:02:11,210
+the stock remember this book logical mix
+and epic search for Truth by Alexis doc
+
+76
+00:02:11,210 --> 00:02:11,220
+and epic search for Truth by Alexis doc
+ 
+
+77
+00:02:11,220 --> 00:02:12,290
+and epic search for Truth by Alexis doc
+serious
+
+78
+00:02:12,290 --> 00:02:12,300
+serious
+ 
+
+79
+00:02:12,300 --> 00:02:17,030
+serious
+which is an amazing Comics book written
+
+80
+00:02:17,030 --> 00:02:17,040
+which is an amazing Comics book written
+ 
+
+81
+00:02:17,040 --> 00:02:18,890
+which is an amazing Comics book written
+some 10
+
+82
+00:02:18,890 --> 00:02:18,900
+some 10
+ 
+
+83
+00:02:18,900 --> 00:02:21,770
+some 10
+maybe more years ago now
+
+84
+00:02:21,770 --> 00:02:21,780
+maybe more years ago now
+ 
+
+85
+00:02:21,780 --> 00:02:25,630
+maybe more years ago now
+about the life of Bertram Russell
+
+86
+00:02:25,630 --> 00:02:25,640
+about the life of Bertram Russell
+ 
+
+87
+00:02:25,640 --> 00:02:30,770
+about the life of Bertram Russell
+and about the basically creation
+
+88
+00:02:30,770 --> 00:02:30,780
+and about the basically creation
+ 
+
+89
+00:02:30,780 --> 00:02:34,610
+and about the basically creation
+about like a major evolution in Science
+
+90
+00:02:34,610 --> 00:02:34,620
+about like a major evolution in Science
+ 
+
+91
+00:02:34,620 --> 00:02:38,930
+about like a major evolution in Science
+and Mathematics which many people do not
+
+92
+00:02:38,930 --> 00:02:38,940
+and Mathematics which many people do not
+ 
+
+93
+00:02:38,940 --> 00:02:41,990
+and Mathematics which many people do not
+understand uh even mathematicians
+
+94
+00:02:41,990 --> 00:02:42,000
+understand uh even mathematicians
+ 
+
+95
+00:02:42,000 --> 00:02:44,990
+understand uh even mathematicians
+sometimes do not understand it so
+
+96
+00:02:44,990 --> 00:02:45,000
+sometimes do not understand it so
+ 
+
+97
+00:02:45,000 --> 00:02:47,750
+sometimes do not understand it so
+so there was this guy called leibnized
+
+98
+00:02:47,750 --> 00:02:47,760
+so there was this guy called leibnized
+ 
+
+99
+00:02:47,760 --> 00:02:49,490
+so there was this guy called leibnized
+some I'm not sure if Holger mentioned
+
+100
+00:02:49,490 --> 00:02:49,500
+some I'm not sure if Holger mentioned
+ 
+
+101
+00:02:49,500 --> 00:02:52,130
+some I'm not sure if Holger mentioned
+him or not I think so
+
+102
+00:02:52,130 --> 00:02:52,140
+him or not I think so
+ 
+
+103
+00:02:52,140 --> 00:02:54,890
+him or not I think so
+who who had a very
+
+104
+00:02:54,890 --> 00:02:54,900
+who who had a very
+ 
+
+105
+00:02:54,900 --> 00:02:58,030
+who who had a very
+crazy dream
+
+106
+00:02:58,030 --> 00:02:58,040
+
+ 
+
+107
+00:02:58,040 --> 00:03:00,770
+
+apart from doing amazing things like
+
+108
+00:03:00,770 --> 00:03:00,780
+apart from doing amazing things like
+ 
+
+109
+00:03:00,780 --> 00:03:02,990
+apart from doing amazing things like
+inventing calculus to together with
+
+110
+00:03:02,990 --> 00:03:03,000
+inventing calculus to together with
+ 
+
+111
+00:03:03,000 --> 00:03:04,190
+inventing calculus to together with
+Newton
+
+112
+00:03:04,190 --> 00:03:04,200
+Newton
+ 
+
+113
+00:03:04,200 --> 00:03:07,670
+Newton
+uh that one day
+
+114
+00:03:07,670 --> 00:03:07,680
+uh that one day
+ 
+
+115
+00:03:07,680 --> 00:03:12,770
+uh that one day
+humans who disagree be be it philosopher
+
+116
+00:03:12,770 --> 00:03:12,780
+humans who disagree be be it philosopher
+ 
+
+117
+00:03:12,780 --> 00:03:15,410
+humans who disagree be be it philosopher
+be it economists be it lawyers be it
+
+118
+00:03:15,410 --> 00:03:15,420
+be it economists be it lawyers be it
+ 
+
+119
+00:03:15,420 --> 00:03:17,330
+be it economists be it lawyers be it
+mathematicians be it physicists be
+
+120
+00:03:17,330 --> 00:03:17,340
+mathematicians be it physicists be
+ 
+
+121
+00:03:17,340 --> 00:03:19,009
+mathematicians be it physicists be
+computer scientists
+
+122
+00:03:19,009 --> 00:03:19,019
+computer scientists
+ 
+
+123
+00:03:19,019 --> 00:03:21,110
+computer scientists
+will be able to resolve their
+
+124
+00:03:21,110 --> 00:03:21,120
+will be able to resolve their
+ 
+
+125
+00:03:21,120 --> 00:03:24,050
+will be able to resolve their
+disagreement by calculation
+
+126
+00:03:24,050 --> 00:03:24,060
+disagreement by calculation
+ 
+
+127
+00:03:24,060 --> 00:03:26,589
+disagreement by calculation
+computation
+
+128
+00:03:26,589 --> 00:03:26,599
+computation
+ 
+
+129
+00:03:26,599 --> 00:03:29,089
+computation
+computation wasn't defined and like they
+
+130
+00:03:29,089 --> 00:03:29,099
+computation wasn't defined and like they
+ 
+
+131
+00:03:29,099 --> 00:03:32,509
+computation wasn't defined and like they
+knew how to calculate some things he was
+
+132
+00:03:32,509 --> 00:03:32,519
+knew how to calculate some things he was
+ 
+
+133
+00:03:32,519 --> 00:03:35,690
+knew how to calculate some things he was
+the co-creator of calculus at the time
+
+134
+00:03:35,690 --> 00:03:35,700
+the co-creator of calculus at the time
+ 
+
+135
+00:03:35,700 --> 00:03:40,309
+the co-creator of calculus at the time
+but by he had this crazy vision
+
+136
+00:03:40,309 --> 00:03:40,319
+but by he had this crazy vision
+ 
+
+137
+00:03:40,319 --> 00:03:44,330
+but by he had this crazy vision
+uh that one day we we will have like
+
+138
+00:03:44,330 --> 00:03:44,340
+uh that one day we we will have like
+ 
+
+139
+00:03:44,340 --> 00:03:47,690
+uh that one day we we will have like
+perfect computational means
+
+140
+00:03:47,690 --> 00:03:47,700
+perfect computational means
+ 
+
+141
+00:03:47,700 --> 00:03:53,630
+perfect computational means
+to to decide major questions disputes
+
+142
+00:03:53,630 --> 00:03:53,640
+to to decide major questions disputes
+ 
+
+143
+00:03:53,640 --> 00:03:55,070
+to to decide major questions disputes
+Etc
+
+144
+00:03:55,070 --> 00:03:55,080
+Etc
+ 
+
+145
+00:03:55,080 --> 00:03:58,070
+Etc
+and this thing
+
+146
+00:03:58,070 --> 00:03:58,080
+and this thing
+ 
+
+147
+00:03:58,080 --> 00:04:00,649
+and this thing
+uh so Bertram Russell is a great
+
+148
+00:04:00,649 --> 00:04:00,659
+uh so Bertram Russell is a great
+ 
+
+149
+00:04:00,659 --> 00:04:03,050
+uh so Bertram Russell is a great
+logician and philosopher who
+
+150
+00:04:03,050 --> 00:04:03,060
+logician and philosopher who
+ 
+
+151
+00:04:03,060 --> 00:04:06,649
+logician and philosopher who
+participated in this revolution in
+
+152
+00:04:06,649 --> 00:04:06,659
+participated in this revolution in
+ 
+
+153
+00:04:06,659 --> 00:04:08,869
+participated in this revolution in
+basically in the beginning of the 20th
+
+154
+00:04:08,869 --> 00:04:08,879
+basically in the beginning of the 20th
+ 
+
+155
+00:04:08,879 --> 00:04:10,009
+basically in the beginning of the 20th
+century
+
+156
+00:04:10,009 --> 00:04:10,019
+century
+ 
+
+157
+00:04:10,019 --> 00:04:14,830
+century
+where people basically embedded
+
+158
+00:04:14,830 --> 00:04:14,840
+where people basically embedded
+ 
+
+159
+00:04:14,840 --> 00:04:18,409
+where people basically embedded
+mathematics and by extension physics and
+
+160
+00:04:18,409 --> 00:04:18,419
+mathematics and by extension physics and
+ 
+
+161
+00:04:18,419 --> 00:04:21,349
+mathematics and by extension physics and
+hard sciences that are modeled by by
+
+162
+00:04:21,349 --> 00:04:21,359
+hard sciences that are modeled by by
+ 
+
+163
+00:04:21,359 --> 00:04:23,090
+hard sciences that are modeled by by
+mathematics
+
+164
+00:04:23,090 --> 00:04:23,100
+mathematics
+ 
+
+165
+00:04:23,100 --> 00:04:24,830
+mathematics
+into logic
+
+166
+00:04:24,830 --> 00:04:24,840
+into logic
+ 
+
+167
+00:04:24,840 --> 00:04:28,070
+into logic
+and they didn't know yet that symbolic
+
+168
+00:04:28,070 --> 00:04:28,080
+and they didn't know yet that symbolic
+ 
+
+169
+00:04:28,080 --> 00:04:29,570
+and they didn't know yet that symbolic
+logic
+
+170
+00:04:29,570 --> 00:04:29,580
+logic
+ 
+
+171
+00:04:29,580 --> 00:04:35,170
+logic
+will be the sort of substrate
+
+172
+00:04:35,170 --> 00:04:35,180
+will be the sort of substrate
+ 
+
+173
+00:04:35,180 --> 00:04:39,290
+will be the sort of substrate
+from which computation will emerge what
+
+174
+00:04:39,290 --> 00:04:39,300
+from which computation will emerge what
+ 
+
+175
+00:04:39,300 --> 00:04:41,450
+from which computation will emerge what
+you today call computers
+
+176
+00:04:41,450 --> 00:04:41,460
+you today call computers
+ 
+
+177
+00:04:41,460 --> 00:04:43,610
+you today call computers
+are symbolic
+
+178
+00:04:43,610 --> 00:04:43,620
+are symbolic
+ 
+
+179
+00:04:43,620 --> 00:04:46,730
+are symbolic
+symbolic logic machines
+
+180
+00:04:46,730 --> 00:04:46,740
+symbolic logic machines
+ 
+
+181
+00:04:46,740 --> 00:04:50,689
+symbolic logic machines
+uh so so many of you have been many of
+
+182
+00:04:50,689 --> 00:04:50,699
+uh so so many of you have been many of
+ 
+
+183
+00:04:50,699 --> 00:04:52,189
+uh so so many of you have been many of
+you are younger than me have been born
+
+184
+00:04:52,189 --> 00:04:52,199
+you are younger than me have been born
+ 
+
+185
+00:04:52,199 --> 00:04:55,070
+you are younger than me have been born
+to computers it's certainly in phones
+
+186
+00:04:55,070 --> 00:04:55,080
+to computers it's certainly in phones
+ 
+
+187
+00:04:55,080 --> 00:04:58,010
+to computers it's certainly in phones
+and normal thing for for many of you
+
+188
+00:04:58,010 --> 00:04:58,020
+and normal thing for for many of you
+ 
+
+189
+00:04:58,020 --> 00:05:00,710
+and normal thing for for many of you
+but whenever you are playing with your
+
+190
+00:05:00,710 --> 00:05:00,720
+but whenever you are playing with your
+ 
+
+191
+00:05:00,720 --> 00:05:02,570
+but whenever you are playing with your
+phone doing something on your computer
+
+192
+00:05:02,570 --> 00:05:02,580
+phone doing something on your computer
+ 
+
+193
+00:05:02,580 --> 00:05:05,870
+phone doing something on your computer
+you are doing symbolic logic
+
+194
+00:05:05,870 --> 00:05:05,880
+you are doing symbolic logic
+ 
+
+195
+00:05:05,880 --> 00:05:07,370
+you are doing symbolic logic
+I'll
+
+196
+00:05:07,370 --> 00:05:07,380
+I'll
+ 
+
+197
+00:05:07,380 --> 00:05:09,409
+I'll
+so
+
+198
+00:05:09,409 --> 00:05:09,419
+so
+ 
+
+199
+00:05:09,419 --> 00:05:11,030
+so
+this
+
+200
+00:05:11,030 --> 00:05:11,040
+this
+ 
+
+201
+00:05:11,040 --> 00:05:15,590
+this
+in this particular uh picture from from
+
+202
+00:05:15,590 --> 00:05:15,600
+in this particular uh picture from from
+ 
+
+203
+00:05:15,600 --> 00:05:16,790
+in this particular uh picture from from
+the book
+
+204
+00:05:16,790 --> 00:05:16,800
+the book
+ 
+
+205
+00:05:16,800 --> 00:05:19,550
+the book
+uh Russell is saying like
+
+206
+00:05:19,550 --> 00:05:19,560
+uh Russell is saying like
+ 
+
+207
+00:05:19,560 --> 00:05:22,730
+uh Russell is saying like
+what what does it mean uh
+
+208
+00:05:22,730 --> 00:05:22,740
+what what does it mean uh
+ 
+
+209
+00:05:22,740 --> 00:05:29,510
+what what does it mean uh
+that uh like like he dreamed uh the the
+
+210
+00:05:29,510 --> 00:05:29,520
+that uh like like he dreamed uh the the
+ 
+
+211
+00:05:29,520 --> 00:05:33,189
+that uh like like he dreamed uh the the
+lightness his dream and and he didn't
+
+212
+00:05:33,189 --> 00:05:33,199
+lightness his dream and and he didn't
+ 
+
+213
+00:05:33,199 --> 00:05:37,550
+lightness his dream and and he didn't
+uh he didn't achieve it well what he
+
+214
+00:05:37,550 --> 00:05:37,560
+uh he didn't achieve it well what he
+ 
+
+215
+00:05:37,560 --> 00:05:40,129
+uh he didn't achieve it well what he
+means there is that like during his
+
+216
+00:05:40,129 --> 00:05:40,139
+means there is that like during his
+ 
+
+217
+00:05:40,139 --> 00:05:43,969
+means there is that like during his
+lifetime uh we we really didn't get
+
+218
+00:05:43,969 --> 00:05:43,979
+lifetime uh we we really didn't get
+ 
+
+219
+00:05:43,979 --> 00:05:47,330
+lifetime uh we we really didn't get
+there like we we started to
+
+220
+00:05:47,330 --> 00:05:47,340
+there like we we started to
+ 
+
+221
+00:05:47,340 --> 00:05:49,550
+there like we we started to
+play with computers
+
+222
+00:05:49,550 --> 00:05:49,560
+play with computers
+ 
+
+223
+00:05:49,560 --> 00:05:52,189
+play with computers
+and we sort of barely by the time he
+
+224
+00:05:52,189 --> 00:05:52,199
+and we sort of barely by the time he
+ 
+
+225
+00:05:52,199 --> 00:05:52,969
+and we sort of barely by the time he
+died
+
+226
+00:05:52,969 --> 00:05:52,979
+died
+ 
+
+227
+00:05:52,979 --> 00:05:55,550
+died
+started to do mathematics on computers
+
+228
+00:05:55,550 --> 00:05:55,560
+started to do mathematics on computers
+ 
+
+229
+00:05:55,560 --> 00:05:58,370
+started to do mathematics on computers
+like really like reasonably advanced
+
+230
+00:05:58,370 --> 00:05:58,380
+like really like reasonably advanced
+ 
+
+231
+00:05:58,380 --> 00:05:59,510
+like really like reasonably advanced
+mathematics
+
+232
+00:05:59,510 --> 00:05:59,520
+mathematics
+ 
+
+233
+00:05:59,520 --> 00:06:02,150
+mathematics
+but but we haven't really moved to to
+
+234
+00:06:02,150 --> 00:06:02,160
+but but we haven't really moved to to
+ 
+
+235
+00:06:02,160 --> 00:06:03,770
+but but we haven't really moved to to
+the more advanced territories like
+
+236
+00:06:03,770 --> 00:06:03,780
+the more advanced territories like
+ 
+
+237
+00:06:03,780 --> 00:06:07,070
+the more advanced territories like
+physics the tall Holger uh mentioned
+
+238
+00:06:07,070 --> 00:06:07,080
+physics the tall Holger uh mentioned
+ 
+
+239
+00:06:07,080 --> 00:06:10,129
+physics the tall Holger uh mentioned
+and to say nothing about like law about
+
+240
+00:06:10,129 --> 00:06:10,139
+and to say nothing about like law about
+ 
+
+241
+00:06:10,139 --> 00:06:13,490
+and to say nothing about like law about
+legalism language Adam is sort of aiming
+
+242
+00:06:13,490 --> 00:06:13,500
+legalism language Adam is sort of aiming
+ 
+
+243
+00:06:13,500 --> 00:06:16,490
+legalism language Adam is sort of aiming
+aiming for this like various ontologies
+
+244
+00:06:16,490 --> 00:06:16,500
+aiming for this like various ontologies
+ 
+
+245
+00:06:16,500 --> 00:06:20,330
+aiming for this like various ontologies
+Etc but it's a dream and and this dream
+
+246
+00:06:20,330 --> 00:06:20,340
+Etc but it's a dream and and this dream
+ 
+
+247
+00:06:20,340 --> 00:06:24,590
+Etc but it's a dream and and this dream
+is sort of coming uh I I think it's sort
+
+248
+00:06:24,590 --> 00:06:24,600
+is sort of coming uh I I think it's sort
+ 
+
+249
+00:06:24,600 --> 00:06:27,170
+is sort of coming uh I I think it's sort
+of unavoidable at this moment with all
+
+250
+00:06:27,170 --> 00:06:27,180
+of unavoidable at this moment with all
+ 
+
+251
+00:06:27,180 --> 00:06:29,689
+of unavoidable at this moment with all
+the technology that we have
+
+252
+00:06:29,689 --> 00:06:29,699
+the technology that we have
+ 
+
+253
+00:06:29,699 --> 00:06:33,710
+the technology that we have
+you you may think that AI is giving us
+
+254
+00:06:33,710 --> 00:06:33,720
+you you may think that AI is giving us
+ 
+
+255
+00:06:33,720 --> 00:06:37,249
+you you may think that AI is giving us
+now with the chair GPT Etc the sort of
+
+256
+00:06:37,249 --> 00:06:37,259
+now with the chair GPT Etc the sort of
+ 
+
+257
+00:06:37,259 --> 00:06:40,490
+now with the chair GPT Etc the sort of
+bad side by like the confusing side like
+
+258
+00:06:40,490 --> 00:06:40,500
+bad side by like the confusing side like
+ 
+
+259
+00:06:40,500 --> 00:06:42,710
+bad side by like the confusing side like
+it can it can do
+
+260
+00:06:42,710 --> 00:06:42,720
+it can it can do
+ 
+
+261
+00:06:42,720 --> 00:06:45,110
+it can it can do
+uh very very confused quote unquote
+
+262
+00:06:45,110 --> 00:06:45,120
+uh very very confused quote unquote
+ 
+
+263
+00:06:45,120 --> 00:06:47,150
+uh very very confused quote unquote
+reasoning which isn't reasoning by by
+
+264
+00:06:47,150 --> 00:06:47,160
+reasoning which isn't reasoning by by
+ 
+
+265
+00:06:47,160 --> 00:06:49,430
+reasoning which isn't reasoning by by
+any reasonable metric
+
+266
+00:06:49,430 --> 00:06:49,440
+any reasonable metric
+ 
+
+267
+00:06:49,440 --> 00:06:52,249
+any reasonable metric
+uh but like with all these technologies
+
+268
+00:06:52,249 --> 00:06:52,259
+uh but like with all these technologies
+ 
+
+269
+00:06:52,259 --> 00:06:55,490
+uh but like with all these technologies
+that we have it it seems that
+
+270
+00:06:55,490 --> 00:06:55,500
+that we have it it seems that
+ 
+
+271
+00:06:55,500 --> 00:06:58,309
+that we have it it seems that
+um like computational mathematics like
+
+272
+00:06:58,309 --> 00:06:58,319
+um like computational mathematics like
+ 
+
+273
+00:06:58,319 --> 00:07:00,830
+um like computational mathematics like
+proving hard mathematical theorems
+
+274
+00:07:00,830 --> 00:07:00,840
+proving hard mathematical theorems
+ 
+
+275
+00:07:00,840 --> 00:07:04,090
+proving hard mathematical theorems
+is really getting
+
+276
+00:07:04,090 --> 00:07:04,100
+is really getting
+ 
+
+277
+00:07:04,100 --> 00:07:06,590
+is really getting
+achievable at this point
+
+278
+00:07:06,590 --> 00:07:06,600
+achievable at this point
+ 
+
+279
+00:07:06,600 --> 00:07:11,150
+achievable at this point
+with that it's achievable like all the
+
+280
+00:07:11,150 --> 00:07:11,160
+with that it's achievable like all the
+ 
+
+281
+00:07:11,160 --> 00:07:13,249
+with that it's achievable like all the
+uh like let's say physics and computer
+
+282
+00:07:13,249 --> 00:07:13,259
+uh like let's say physics and computer
+ 
+
+283
+00:07:13,259 --> 00:07:15,710
+uh like let's say physics and computer
+science which which relies on
+
+284
+00:07:15,710 --> 00:07:15,720
+science which which relies on
+ 
+
+285
+00:07:15,720 --> 00:07:17,090
+science which which relies on
+mathematics
+
+286
+00:07:17,090 --> 00:07:17,100
+mathematics
+ 
+
+287
+00:07:17,100 --> 00:07:20,510
+mathematics
+and I I think what is even achievable
+
+288
+00:07:20,510 --> 00:07:20,520
+and I I think what is even achievable
+ 
+
+289
+00:07:20,520 --> 00:07:22,309
+and I I think what is even achievable
+even though that will be harder because
+
+290
+00:07:22,309 --> 00:07:22,319
+even though that will be harder because
+ 
+
+291
+00:07:22,319 --> 00:07:25,670
+even though that will be harder because
+it's it's not exactly a hard science
+
+292
+00:07:25,670 --> 00:07:25,680
+it's it's not exactly a hard science
+ 
+
+293
+00:07:25,680 --> 00:07:29,390
+it's it's not exactly a hard science
+it's it's really very precise uh logical
+
+294
+00:07:29,390 --> 00:07:29,400
+it's it's really very precise uh logical
+ 
+
+295
+00:07:29,400 --> 00:07:32,629
+it's it's really very precise uh logical
+layer for things like legal reasoning or
+
+296
+00:07:32,629 --> 00:07:32,639
+layer for things like legal reasoning or
+ 
+
+297
+00:07:32,639 --> 00:07:35,089
+layer for things like legal reasoning or
+ethical reasoning I I think the
+
+298
+00:07:35,089 --> 00:07:35,099
+ethical reasoning I I think the
+ 
+
+299
+00:07:35,099 --> 00:07:36,830
+ethical reasoning I I think the
+technology is really really getting
+
+300
+00:07:36,830 --> 00:07:36,840
+technology is really really getting
+ 
+
+301
+00:07:36,840 --> 00:07:38,029
+technology is really really getting
+there
+
+302
+00:07:38,029 --> 00:07:38,039
+there
+ 
+
+303
+00:07:38,039 --> 00:07:41,450
+there
+oh so so so this project was
+
+304
+00:07:41,450 --> 00:07:41,460
+oh so so so this project was
+ 
+
+305
+00:07:41,460 --> 00:07:44,150
+oh so so so this project was
+to a large extent about this about sort
+
+306
+00:07:44,150 --> 00:07:44,160
+to a large extent about this about sort
+ 
+
+307
+00:07:44,160 --> 00:07:49,370
+to a large extent about this about sort
+of trying to combine the two areas uh of
+
+308
+00:07:49,370 --> 00:07:49,380
+of trying to combine the two areas uh of
+ 
+
+309
+00:07:49,380 --> 00:07:51,650
+of trying to combine the two areas uh of
+what's a human thinking
+
+310
+00:07:51,650 --> 00:07:51,660
+what's a human thinking
+ 
+
+311
+00:07:51,660 --> 00:07:54,830
+what's a human thinking
+on computers to to sort of develop
+
+312
+00:07:54,830 --> 00:07:54,840
+on computers to to sort of develop
+ 
+
+313
+00:07:54,840 --> 00:07:56,210
+on computers to to sort of develop
+Technologies
+
+314
+00:07:56,210 --> 00:07:56,220
+Technologies
+ 
+
+315
+00:07:56,220 --> 00:07:59,950
+Technologies
+that that help that sort of
+
+316
+00:07:59,950 --> 00:07:59,960
+that that help that sort of
+ 
+
+317
+00:07:59,960 --> 00:08:04,430
+that that help that sort of
+the help the human or machine reasoners
+
+318
+00:08:04,430 --> 00:08:04,440
+the help the human or machine reasoners
+ 
+
+319
+00:08:04,440 --> 00:08:07,610
+the help the human or machine reasoners
+to find a way to find the proofs to find
+
+320
+00:08:07,610 --> 00:08:07,620
+to find a way to find the proofs to find
+ 
+
+321
+00:08:07,620 --> 00:08:09,469
+to find a way to find the proofs to find
+justifications
+
+322
+00:08:09,469 --> 00:08:09,479
+justifications
+ 
+
+323
+00:08:09,479 --> 00:08:13,969
+justifications
+by combining them with the intuition
+
+324
+00:08:13,969 --> 00:08:13,979
+by combining them with the intuition
+ 
+
+325
+00:08:13,979 --> 00:08:16,430
+by combining them with the intuition
+that you can learn that you that you can
+
+326
+00:08:16,430 --> 00:08:16,440
+that you can learn that you that you can
+ 
+
+327
+00:08:16,440 --> 00:08:18,589
+that you can learn that you that you can
+learn when you solve some problems and
+
+328
+00:08:18,589 --> 00:08:18,599
+learn when you solve some problems and
+ 
+
+329
+00:08:18,599 --> 00:08:21,050
+learn when you solve some problems and
+you learn from those Solutions Etc
+
+330
+00:08:21,050 --> 00:08:21,060
+you learn from those Solutions Etc
+ 
+
+331
+00:08:21,060 --> 00:08:24,230
+you learn from those Solutions Etc
+so so that's in a nutshell
+
+332
+00:08:24,230 --> 00:08:24,240
+so so that's in a nutshell
+ 
+
+333
+00:08:24,240 --> 00:08:28,490
+so so that's in a nutshell
+the the project was sort of bigger than
+
+334
+00:08:28,490 --> 00:08:28,500
+the the project was sort of bigger than
+ 
+
+335
+00:08:28,500 --> 00:08:32,029
+the the project was sort of bigger than
+than that so there are quite a few
+
+336
+00:08:32,029 --> 00:08:32,039
+than that so there are quite a few
+ 
+
+337
+00:08:32,039 --> 00:08:34,730
+than that so there are quite a few
+people they're very seniors
+
+338
+00:08:34,730 --> 00:08:34,740
+people they're very seniors
+ 
+
+339
+00:08:34,740 --> 00:08:36,670
+people they're very seniors
+juniors
+
+340
+00:08:36,670 --> 00:08:36,680
+juniors
+ 
+
+341
+00:08:36,680 --> 00:08:39,969
+juniors
+administrators Affiliated researchers
+
+342
+00:08:39,969 --> 00:08:39,979
+administrators Affiliated researchers
+ 
+
+343
+00:08:39,979 --> 00:08:42,709
+administrators Affiliated researchers
+partner institutions in the Netherlands
+
+344
+00:08:42,709 --> 00:08:42,719
+partner institutions in the Netherlands
+ 
+
+345
+00:08:42,719 --> 00:08:44,449
+partner institutions in the Netherlands
+and in Austria
+
+346
+00:08:44,449 --> 00:08:44,459
+and in Austria
+ 
+
+347
+00:08:44,459 --> 00:08:48,829
+and in Austria
+are valued constant contacts there and
+
+348
+00:08:48,829 --> 00:08:48,839
+are valued constant contacts there and
+ 
+
+349
+00:08:48,839 --> 00:08:52,730
+are valued constant contacts there and
+probably over 40 40 visitors like over
+
+350
+00:08:52,730 --> 00:08:52,740
+probably over 40 40 visitors like over
+ 
+
+351
+00:08:52,740 --> 00:08:55,509
+probably over 40 40 visitors like over
+over this time
+
+352
+00:08:55,509 --> 00:08:55,519
+over this time
+ 
+
+353
+00:08:55,519 --> 00:08:59,990
+over this time
+you can try to see yourself here or CeCe
+
+354
+00:08:59,990 --> 00:09:00,000
+you can try to see yourself here or CeCe
+ 
+
+355
+00:09:00,000 --> 00:09:02,889
+you can try to see yourself here or CeCe
+your colleagues there these are our
+
+356
+00:09:02,889 --> 00:09:02,899
+your colleagues there these are our
+ 
+
+357
+00:09:02,899 --> 00:09:07,070
+your colleagues there these are our
+valued team team members
+
+358
+00:09:07,070 --> 00:09:07,080
+valued team team members
+ 
+
+359
+00:09:07,080 --> 00:09:10,610
+valued team team members
+and the this is just a plain listing of
+
+360
+00:09:10,610 --> 00:09:10,620
+and the this is just a plain listing of
+ 
+
+361
+00:09:10,620 --> 00:09:13,370
+and the this is just a plain listing of
+all the visitors which if you if you
+
+362
+00:09:13,370 --> 00:09:13,380
+all the visitors which if you if you
+ 
+
+363
+00:09:13,380 --> 00:09:14,810
+all the visitors which if you if you
+know something about the field of
+
+364
+00:09:14,810 --> 00:09:14,820
+know something about the field of
+ 
+
+365
+00:09:14,820 --> 00:09:16,670
+know something about the field of
+automated theorem proving and
+
+366
+00:09:16,670 --> 00:09:16,680
+automated theorem proving and
+ 
+
+367
+00:09:16,680 --> 00:09:19,190
+automated theorem proving and
+interactive theorem proving you you will
+
+368
+00:09:19,190 --> 00:09:19,200
+interactive theorem proving you you will
+ 
+
+369
+00:09:19,200 --> 00:09:21,710
+interactive theorem proving you you will
+definitely recognize the names let's say
+
+370
+00:09:21,710 --> 00:09:21,720
+definitely recognize the names let's say
+ 
+
+371
+00:09:21,720 --> 00:09:26,870
+definitely recognize the names let's say
+all of the names at least on the various
+
+372
+00:09:26,870 --> 00:09:26,880
+all of the names at least on the various
+ 
+
+373
+00:09:26,880 --> 00:09:31,730
+all of the names at least on the various
+three to four lines like really the we
+
+374
+00:09:31,730 --> 00:09:31,740
+three to four lines like really the we
+ 
+
+375
+00:09:31,740 --> 00:09:34,750
+three to four lines like really the we
+we managed to to get here
+
+376
+00:09:34,750 --> 00:09:34,760
+we managed to to get here
+ 
+
+377
+00:09:34,760 --> 00:09:38,030
+we managed to to get here
+almost everybody who means something in
+
+378
+00:09:38,030 --> 00:09:38,040
+almost everybody who means something in
+ 
+
+379
+00:09:38,040 --> 00:09:40,370
+almost everybody who means something in
+in the field of automated Theory
+
+380
+00:09:40,370 --> 00:09:40,380
+in the field of automated Theory
+ 
+
+381
+00:09:40,380 --> 00:09:43,190
+in the field of automated Theory
+improving interactive here improving so
+
+382
+00:09:43,190 --> 00:09:43,200
+improving interactive here improving so
+ 
+
+383
+00:09:43,200 --> 00:09:46,910
+improving interactive here improving so
+so that's already was really amazing to
+
+384
+00:09:46,910 --> 00:09:46,920
+so that's already was really amazing to
+ 
+
+385
+00:09:46,920 --> 00:09:49,430
+so that's already was really amazing to
+have this possibility to invite these
+
+386
+00:09:49,430 --> 00:09:49,440
+have this possibility to invite these
+ 
+
+387
+00:09:49,440 --> 00:09:53,870
+have this possibility to invite these
+people here and do do research with them
+
+388
+00:09:53,870 --> 00:09:53,880
+people here and do do research with them
+ 
+
+389
+00:09:53,880 --> 00:09:55,070
+people here and do do research with them
+of
+
+390
+00:09:55,070 --> 00:09:55,080
+of
+ 
+
+391
+00:09:55,080 --> 00:09:58,790
+of
+the the topics was as I mentioned uh
+
+392
+00:09:58,790 --> 00:09:58,800
+the the topics was as I mentioned uh
+ 
+
+393
+00:09:58,800 --> 00:10:01,190
+the the topics was as I mentioned uh
+like like my core area
+
+394
+00:10:01,190 --> 00:10:01,200
+like like my core area
+ 
+
+395
+00:10:01,200 --> 00:10:04,970
+like like my core area
+is combinations of like deduction of
+
+396
+00:10:04,970 --> 00:10:04,980
+is combinations of like deduction of
+ 
+
+397
+00:10:04,980 --> 00:10:09,110
+is combinations of like deduction of
+automated proving with machine learning
+
+398
+00:10:09,110 --> 00:10:09,120
+automated proving with machine learning
+ 
+
+399
+00:10:09,120 --> 00:10:11,150
+automated proving with machine learning
+uh with that
+
+400
+00:10:11,150 --> 00:10:11,160
+uh with that
+ 
+
+401
+00:10:11,160 --> 00:10:11,750
+uh with that
+um
+
+402
+00:10:11,750 --> 00:10:11,760
+um
+ 
+
+403
+00:10:11,760 --> 00:10:13,790
+um
+a very interesting topic which we
+
+404
+00:10:13,790 --> 00:10:13,800
+a very interesting topic which we
+ 
+
+405
+00:10:13,800 --> 00:10:15,769
+a very interesting topic which we
+basically started and which is today
+
+406
+00:10:15,769 --> 00:10:15,779
+basically started and which is today
+ 
+
+407
+00:10:15,779 --> 00:10:18,769
+basically started and which is today
+being taken up by researchers
+
+408
+00:10:18,769 --> 00:10:18,779
+being taken up by researchers
+ 
+
+409
+00:10:18,779 --> 00:10:21,710
+being taken up by researchers
+around the world and that's AI companies
+
+410
+00:10:21,710 --> 00:10:21,720
+around the world and that's AI companies
+ 
+
+411
+00:10:21,720 --> 00:10:24,710
+around the world and that's AI companies
+like Google and openai and Facebook is
+
+412
+00:10:24,710 --> 00:10:24,720
+like Google and openai and Facebook is
+ 
+
+413
+00:10:24,720 --> 00:10:26,690
+like Google and openai and Facebook is
+automated formalization
+
+414
+00:10:26,690 --> 00:10:26,700
+automated formalization
+ 
+
+415
+00:10:26,700 --> 00:10:31,370
+automated formalization
+which basically means that you take
+
+416
+00:10:31,370 --> 00:10:31,380
+which basically means that you take
+ 
+
+417
+00:10:31,380 --> 00:10:33,170
+which basically means that you take
+a piece of
+
+418
+00:10:33,170 --> 00:10:33,180
+a piece of
+ 
+
+419
+00:10:33,180 --> 00:10:35,329
+a piece of
+informally written mathematics like
+
+420
+00:10:35,329 --> 00:10:35,339
+informally written mathematics like
+ 
+
+421
+00:10:35,339 --> 00:10:38,090
+informally written mathematics like
+mathematics written in latex or word or
+
+422
+00:10:38,090 --> 00:10:38,100
+mathematics written in latex or word or
+ 
+
+423
+00:10:38,100 --> 00:10:39,470
+mathematics written in latex or word or
+whatever
+
+424
+00:10:39,470 --> 00:10:39,480
+whatever
+ 
+
+425
+00:10:39,480 --> 00:10:41,810
+whatever
+and now you you train some machine
+
+426
+00:10:41,810 --> 00:10:41,820
+and now you you train some machine
+ 
+
+427
+00:10:41,820 --> 00:10:43,490
+and now you you train some machine
+Learning System
+
+428
+00:10:43,490 --> 00:10:43,500
+Learning System
+ 
+
+429
+00:10:43,500 --> 00:10:47,389
+Learning System
+to to translate that piece of informal
+
+430
+00:10:47,389 --> 00:10:47,399
+to to translate that piece of informal
+ 
+
+431
+00:10:47,399 --> 00:10:49,190
+to to translate that piece of informal
+natural language text
+
+432
+00:10:49,190 --> 00:10:49,200
+natural language text
+ 
+
+433
+00:10:49,200 --> 00:10:52,550
+natural language text
+into a formal text which you can fully
+
+434
+00:10:52,550 --> 00:10:52,560
+into a formal text which you can fully
+ 
+
+435
+00:10:52,560 --> 00:10:55,790
+into a formal text which you can fully
+formally verify by computers so so so
+
+436
+00:10:55,790 --> 00:10:55,800
+formally verify by computers so so so
+ 
+
+437
+00:10:55,800 --> 00:10:59,210
+formally verify by computers so so so
+the computer after the translation to to
+
+438
+00:10:59,210 --> 00:10:59,220
+the computer after the translation to to
+ 
+
+439
+00:10:59,220 --> 00:11:00,769
+the computer after the translation to to
+this formal language I'll show you some
+
+440
+00:11:00,769 --> 00:11:00,779
+this formal language I'll show you some
+ 
+
+441
+00:11:00,779 --> 00:11:02,150
+this formal language I'll show you some
+example later
+
+442
+00:11:02,150 --> 00:11:02,160
+example later
+ 
+
+443
+00:11:02,160 --> 00:11:05,509
+example later
+can really say that the the sort of
+
+444
+00:11:05,509 --> 00:11:05,519
+can really say that the the sort of
+ 
+
+445
+00:11:05,519 --> 00:11:08,329
+can really say that the the sort of
+translated version of this particular
+
+446
+00:11:08,329 --> 00:11:08,339
+translated version of this particular
+ 
+
+447
+00:11:08,339 --> 00:11:11,030
+translated version of this particular
+argument is logically correct
+
+448
+00:11:11,030 --> 00:11:11,040
+argument is logically correct
+ 
+
+449
+00:11:11,040 --> 00:11:14,870
+argument is logically correct
+uh so so this is
+
+450
+00:11:14,870 --> 00:11:14,880
+uh so so this is
+ 
+
+451
+00:11:14,880 --> 00:11:16,730
+uh so so this is
+especially today with large language
+
+452
+00:11:16,730 --> 00:11:16,740
+especially today with large language
+ 
+
+453
+00:11:16,740 --> 00:11:19,190
+especially today with large language
+models or even small language models
+
+454
+00:11:19,190 --> 00:11:19,200
+models or even small language models
+ 
+
+455
+00:11:19,200 --> 00:11:21,710
+models or even small language models
+the and their combinations with various
+
+456
+00:11:21,710 --> 00:11:21,720
+the and their combinations with various
+ 
+
+457
+00:11:21,720 --> 00:11:24,230
+the and their combinations with various
+like feedback loops that are doing type
+
+458
+00:11:24,230 --> 00:11:24,240
+like feedback loops that are doing type
+ 
+
+459
+00:11:24,240 --> 00:11:26,389
+like feedback loops that are doing type
+checking and semantic checking
+
+460
+00:11:26,389 --> 00:11:26,399
+checking and semantic checking
+ 
+
+461
+00:11:26,399 --> 00:11:29,870
+checking and semantic checking
+uh this is like a very
+
+462
+00:11:29,870 --> 00:11:29,880
+uh this is like a very
+ 
+
+463
+00:11:29,880 --> 00:11:32,630
+uh this is like a very
+promising area of research
+
+464
+00:11:32,630 --> 00:11:32,640
+promising area of research
+ 
+
+465
+00:11:32,640 --> 00:11:35,690
+promising area of research
+where it looks like
+
+466
+00:11:35,690 --> 00:11:35,700
+where it looks like
+ 
+
+467
+00:11:35,700 --> 00:11:37,970
+where it looks like
+um instead of what people have been
+
+468
+00:11:37,970 --> 00:11:37,980
+um instead of what people have been
+ 
+
+469
+00:11:37,980 --> 00:11:40,310
+um instead of what people have been
+doing so far in in the field of
+
+470
+00:11:40,310 --> 00:11:40,320
+doing so far in in the field of
+ 
+
+471
+00:11:40,320 --> 00:11:42,170
+doing so far in in the field of
+verification of mathematics which is
+
+472
+00:11:42,170 --> 00:11:42,180
+verification of mathematics which is
+ 
+
+473
+00:11:42,180 --> 00:11:45,889
+verification of mathematics which is
+like typing manually a mathematical
+
+474
+00:11:45,889 --> 00:11:45,899
+like typing manually a mathematical
+ 
+
+475
+00:11:45,899 --> 00:11:47,750
+like typing manually a mathematical
+statement in some sort of programming
+
+476
+00:11:47,750 --> 00:11:47,760
+statement in some sort of programming
+ 
+
+477
+00:11:47,760 --> 00:11:49,610
+statement in some sort of programming
+language and then trying to manually
+
+478
+00:11:49,610 --> 00:11:49,620
+language and then trying to manually
+ 
+
+479
+00:11:49,620 --> 00:11:50,870
+language and then trying to manually
+prove it
+
+480
+00:11:50,870 --> 00:11:50,880
+prove it
+ 
+
+481
+00:11:50,880 --> 00:11:54,829
+prove it
+we will we may have a shot at basically
+
+482
+00:11:54,829 --> 00:11:54,839
+we will we may have a shot at basically
+ 
+
+483
+00:11:54,839 --> 00:11:57,410
+we will we may have a shot at basically
+taking let's say all of the mathematics
+
+484
+00:11:57,410 --> 00:11:57,420
+taking let's say all of the mathematics
+ 
+
+485
+00:11:57,420 --> 00:11:59,150
+taking let's say all of the mathematics
+which is out there which is like in
+
+486
+00:11:59,150 --> 00:11:59,160
+which is out there which is like in
+ 
+
+487
+00:11:59,160 --> 00:12:03,410
+which is out there which is like in
+various textbooks or articles papers Etc
+
+488
+00:12:03,410 --> 00:12:03,420
+various textbooks or articles papers Etc
+ 
+
+489
+00:12:03,420 --> 00:12:07,210
+various textbooks or articles papers Etc
+Iran some sort of reasonably augmented
+
+490
+00:12:07,210 --> 00:12:07,220
+Iran some sort of reasonably augmented
+ 
+
+491
+00:12:07,220 --> 00:12:10,790
+Iran some sort of reasonably augmented
+learning slash type checking semantic
+
+492
+00:12:10,790 --> 00:12:10,800
+learning slash type checking semantic
+ 
+
+493
+00:12:10,800 --> 00:12:13,009
+learning slash type checking semantic
+technology that we train in some
+
+494
+00:12:13,009 --> 00:12:13,019
+technology that we train in some
+ 
+
+495
+00:12:13,019 --> 00:12:14,269
+technology that we train in some
+feedback loop
+
+496
+00:12:14,269 --> 00:12:14,279
+feedback loop
+ 
+
+497
+00:12:14,279 --> 00:12:19,069
+feedback loop
+and for free or for a much lower effort
+
+498
+00:12:19,069 --> 00:12:19,079
+and for free or for a much lower effort
+ 
+
+499
+00:12:19,079 --> 00:12:21,490
+and for free or for a much lower effort
+than these humans are currently doing
+
+500
+00:12:21,490 --> 00:12:21,500
+than these humans are currently doing
+ 
+
+501
+00:12:21,500 --> 00:12:25,550
+than these humans are currently doing
+basically translate some non-trivial
+
+502
+00:12:25,550 --> 00:12:25,560
+basically translate some non-trivial
+ 
+
+503
+00:12:25,560 --> 00:12:29,090
+basically translate some non-trivial
+a part of all all these big mathematical
+
+504
+00:12:29,090 --> 00:12:29,100
+a part of all all these big mathematical
+ 
+
+505
+00:12:29,100 --> 00:12:30,110
+a part of all all these big mathematical
+texts
+
+506
+00:12:30,110 --> 00:12:30,120
+texts
+ 
+
+507
+00:12:30,120 --> 00:12:32,030
+texts
+and that basically leads to the
+
+508
+00:12:32,030 --> 00:12:32,040
+and that basically leads to the
+ 
+
+509
+00:12:32,040 --> 00:12:33,710
+and that basically leads to the
+sliveness dream that I just mentioned
+
+510
+00:12:33,710 --> 00:12:33,720
+sliveness dream that I just mentioned
+ 
+
+511
+00:12:33,720 --> 00:12:35,329
+sliveness dream that I just mentioned
+like suddenly
+
+512
+00:12:35,329 --> 00:12:35,339
+like suddenly
+ 
+
+513
+00:12:35,339 --> 00:12:37,730
+like suddenly
+instead of let's say mathematicians or
+
+514
+00:12:37,730 --> 00:12:37,740
+instead of let's say mathematicians or
+ 
+
+515
+00:12:37,740 --> 00:12:39,410
+instead of let's say mathematicians or
+physicists or computer scientists
+
+516
+00:12:39,410 --> 00:12:39,420
+physicists or computer scientists
+ 
+
+517
+00:12:39,420 --> 00:12:41,690
+physicists or computer scientists
+quarreling whether some proof is correct
+
+518
+00:12:41,690 --> 00:12:41,700
+quarreling whether some proof is correct
+ 
+
+519
+00:12:41,700 --> 00:12:43,329
+quarreling whether some proof is correct
+or incorrect
+
+520
+00:12:43,329 --> 00:12:43,339
+or incorrect
+ 
+
+521
+00:12:43,339 --> 00:12:46,910
+or incorrect
+how to formalize it and how they
+
+522
+00:12:46,910 --> 00:12:46,920
+how to formalize it and how they
+ 
+
+523
+00:12:46,920 --> 00:12:49,730
+how to formalize it and how they
+actually approve steps uh very
+
+524
+00:12:49,730 --> 00:12:49,740
+actually approve steps uh very
+ 
+
+525
+00:12:49,740 --> 00:12:53,449
+actually approve steps uh very
+you you well have a technology that will
+
+526
+00:12:53,449 --> 00:12:53,459
+you you well have a technology that will
+ 
+
+527
+00:12:53,459 --> 00:12:54,829
+you you well have a technology that will
+do this
+
+528
+00:12:54,829 --> 00:12:54,839
+do this
+ 
+
+529
+00:12:54,839 --> 00:12:58,030
+do this
+automatically or semi-automatically
+
+530
+00:12:58,030 --> 00:12:58,040
+automatically or semi-automatically
+ 
+
+531
+00:12:58,040 --> 00:13:02,090
+automatically or semi-automatically
+for you like completely like verifying
+
+532
+00:13:02,090 --> 00:13:02,100
+for you like completely like verifying
+ 
+
+533
+00:13:02,100 --> 00:13:05,569
+for you like completely like verifying
+like even like complicated uh
+
+534
+00:13:05,569 --> 00:13:05,579
+like even like complicated uh
+ 
+
+535
+00:13:05,579 --> 00:13:09,650
+like even like complicated uh
+complicated uh reasonings automatically
+
+536
+00:13:09,650 --> 00:13:09,660
+complicated uh reasonings automatically
+ 
+
+537
+00:13:09,660 --> 00:13:13,009
+complicated uh reasonings automatically
+and again like
+
+538
+00:13:13,009 --> 00:13:13,019
+and again like
+ 
+
+539
+00:13:13,019 --> 00:13:15,050
+and again like
+for for those people who think that
+
+540
+00:13:15,050 --> 00:13:15,060
+for for those people who think that
+ 
+
+541
+00:13:15,060 --> 00:13:16,850
+for for those people who think that
+large language models are some sort of
+
+542
+00:13:16,850 --> 00:13:16,860
+large language models are some sort of
+ 
+
+543
+00:13:16,860 --> 00:13:20,150
+large language models are some sort of
+Doom that will bring
+
+544
+00:13:20,150 --> 00:13:20,160
+Doom that will bring
+ 
+
+545
+00:13:20,160 --> 00:13:22,910
+Doom that will bring
+confusion to the masses
+
+546
+00:13:22,910 --> 00:13:22,920
+confusion to the masses
+ 
+
+547
+00:13:22,920 --> 00:13:25,490
+confusion to the masses
+I think this may be one of the cures
+
+548
+00:13:25,490 --> 00:13:25,500
+I think this may be one of the cures
+ 
+
+549
+00:13:25,500 --> 00:13:28,850
+I think this may be one of the cures
+like the fact that you will take let's
+
+550
+00:13:28,850 --> 00:13:28,860
+like the fact that you will take let's
+ 
+
+551
+00:13:28,860 --> 00:13:31,069
+like the fact that you will take let's
+say you ask some reasonable question
+
+552
+00:13:31,069 --> 00:13:31,079
+say you ask some reasonable question
+ 
+
+553
+00:13:31,079 --> 00:13:32,810
+say you ask some reasonable question
+which is at least slightly scientific
+
+554
+00:13:32,810 --> 00:13:32,820
+which is at least slightly scientific
+ 
+
+555
+00:13:32,820 --> 00:13:35,870
+which is at least slightly scientific
+like how how would you how would I solve
+
+556
+00:13:35,870 --> 00:13:35,880
+like how how would you how would I solve
+ 
+
+557
+00:13:35,880 --> 00:13:37,550
+like how how would you how would I solve
+this let's say mathematical problem or
+
+558
+00:13:37,550 --> 00:13:37,560
+this let's say mathematical problem or
+ 
+
+559
+00:13:37,560 --> 00:13:39,050
+this let's say mathematical problem or
+physics problem
+
+560
+00:13:39,050 --> 00:13:39,060
+physics problem
+ 
+
+561
+00:13:39,060 --> 00:13:41,449
+physics problem
+and and the large language model
+
+562
+00:13:41,449 --> 00:13:41,459
+and and the large language model
+ 
+
+563
+00:13:41,459 --> 00:13:45,290
+and and the large language model
+replies to in some way it may be making
+
+564
+00:13:45,290 --> 00:13:45,300
+replies to in some way it may be making
+ 
+
+565
+00:13:45,300 --> 00:13:49,490
+replies to in some way it may be making
+things up it may be correct but if you
+
+566
+00:13:49,490 --> 00:13:49,500
+things up it may be correct but if you
+ 
+
+567
+00:13:49,500 --> 00:13:51,650
+things up it may be correct but if you
+manage to translate it
+
+568
+00:13:51,650 --> 00:13:51,660
+manage to translate it
+ 
+
+569
+00:13:51,660 --> 00:13:54,410
+manage to translate it
+to a strictly logical form you you may
+
+570
+00:13:54,410 --> 00:13:54,420
+to a strictly logical form you you may
+ 
+
+571
+00:13:54,420 --> 00:13:57,370
+to a strictly logical form you you may
+have it you may have a shot at basically
+
+572
+00:13:57,370 --> 00:13:57,380
+have it you may have a shot at basically
+ 
+
+573
+00:13:57,380 --> 00:14:00,290
+have it you may have a shot at basically
+verifying the answer of the large
+
+574
+00:14:00,290 --> 00:14:00,300
+verifying the answer of the large
+ 
+
+575
+00:14:00,300 --> 00:14:02,030
+verifying the answer of the large
+language model
+
+576
+00:14:02,030 --> 00:14:02,040
+language model
+ 
+
+577
+00:14:02,040 --> 00:14:05,990
+language model
+logically or step by step and if there
+
+578
+00:14:05,990 --> 00:14:06,000
+logically or step by step and if there
+ 
+
+579
+00:14:06,000 --> 00:14:08,210
+logically or step by step and if there
+is a problem like the the logic
+
+580
+00:14:08,210 --> 00:14:08,220
+is a problem like the the logic
+ 
+
+581
+00:14:08,220 --> 00:14:10,970
+is a problem like the the logic
+verification systems are good enough to
+
+582
+00:14:10,970 --> 00:14:10,980
+verification systems are good enough to
+ 
+
+583
+00:14:10,980 --> 00:14:13,190
+verification systems are good enough to
+tell you today like here is The Logical
+
+584
+00:14:13,190 --> 00:14:13,200
+tell you today like here is The Logical
+ 
+
+585
+00:14:13,200 --> 00:14:15,829
+tell you today like here is The Logical
+Gap I I don't see how this that follows
+
+586
+00:14:15,829 --> 00:14:15,839
+Gap I I don't see how this that follows
+ 
+
+587
+00:14:15,839 --> 00:14:20,030
+Gap I I don't see how this that follows
+from uh from the steps so so that that's
+
+588
+00:14:20,030 --> 00:14:20,040
+from uh from the steps so so that that's
+ 
+
+589
+00:14:20,040 --> 00:14:22,730
+from uh from the steps so so that that's
+like a very very interesting area of
+
+590
+00:14:22,730 --> 00:14:22,740
+like a very very interesting area of
+ 
+
+591
+00:14:22,740 --> 00:14:25,550
+like a very very interesting area of
+research that we started
+
+592
+00:14:25,550 --> 00:14:25,560
+research that we started
+ 
+
+593
+00:14:25,560 --> 00:14:28,550
+research that we started
+there there is more like that there are
+
+594
+00:14:28,550 --> 00:14:28,560
+there there is more like that there are
+ 
+
+595
+00:14:28,560 --> 00:14:31,490
+there there is more like that there are
+reasoning areas like Adam pieces working
+
+596
+00:14:31,490 --> 00:14:31,500
+reasoning areas like Adam pieces working
+ 
+
+597
+00:14:31,500 --> 00:14:33,970
+reasoning areas like Adam pieces working
+on ontologies
+
+598
+00:14:33,970 --> 00:14:33,980
+on ontologies
+ 
+
+599
+00:14:33,980 --> 00:14:37,190
+on ontologies
+will be speaking uh later
+
+600
+00:14:37,190 --> 00:14:37,200
+will be speaking uh later
+ 
+
+601
+00:14:37,200 --> 00:14:39,650
+will be speaking uh later
+uh very soon satisfiability module
+
+602
+00:14:39,650 --> 00:14:39,660
+uh very soon satisfiability module
+ 
+
+603
+00:14:39,660 --> 00:14:40,910
+uh very soon satisfiability module
+theories
+
+604
+00:14:40,910 --> 00:14:40,920
+theories
+ 
+
+605
+00:14:40,920 --> 00:14:43,430
+theories
+uh we have people working on complex
+
+606
+00:14:43,430 --> 00:14:43,440
+uh we have people working on complex
+ 
+
+607
+00:14:43,440 --> 00:14:48,050
+uh we have people working on complex
+systems and artificial eyes we have
+
+608
+00:14:48,050 --> 00:14:48,060
+systems and artificial eyes we have
+ 
+
+609
+00:14:48,060 --> 00:14:50,509
+systems and artificial eyes we have
+people working on theory of systems and
+
+610
+00:14:50,509 --> 00:14:50,519
+people working on theory of systems and
+ 
+
+611
+00:14:50,519 --> 00:14:52,990
+people working on theory of systems and
+automatic control data science
+
+612
+00:14:52,990 --> 00:14:53,000
+automatic control data science
+ 
+
+613
+00:14:53,000 --> 00:14:55,370
+automatic control data science
+operations research
+
+614
+00:14:55,370 --> 00:14:55,380
+operations research
+ 
+
+615
+00:14:55,380 --> 00:14:57,110
+operations research
+optimization
+
+616
+00:14:57,110 --> 00:14:57,120
+optimization
+ 
+
+617
+00:14:57,120 --> 00:14:59,689
+optimization
+scheduling and real-time systems then
+
+618
+00:14:59,689 --> 00:14:59,699
+scheduling and real-time systems then
+ 
+
+619
+00:14:59,699 --> 00:15:02,509
+scheduling and real-time systems then
+you can dialect and his colleagues
+
+620
+00:15:02,509 --> 00:15:02,519
+you can dialect and his colleagues
+ 
+
+621
+00:15:02,519 --> 00:15:04,910
+you can dialect and his colleagues
+human computer interaction natural
+
+622
+00:15:04,910 --> 00:15:04,920
+human computer interaction natural
+ 
+
+623
+00:15:04,920 --> 00:15:07,189
+human computer interaction natural
+language processing sign language
+
+624
+00:15:07,189 --> 00:15:07,199
+language processing sign language
+ 
+
+625
+00:15:07,199 --> 00:15:10,250
+language processing sign language
+processing and and some more so so the
+
+626
+00:15:10,250 --> 00:15:10,260
+processing and and some more so so the
+ 
+
+627
+00:15:10,260 --> 00:15:13,189
+processing and and some more so so the
+project was back so it was a many people
+
+628
+00:15:13,189 --> 00:15:13,199
+project was back so it was a many people
+ 
+
+629
+00:15:13,199 --> 00:15:18,290
+project was back so it was a many people
+working for six years and it produced
+
+630
+00:15:18,290 --> 00:15:18,300
+working for six years and it produced
+ 
+
+631
+00:15:18,300 --> 00:15:20,689
+working for six years and it produced
+over 100 papers
+
+632
+00:15:20,689 --> 00:15:20,699
+over 100 papers
+ 
+
+633
+00:15:20,699 --> 00:15:23,990
+over 100 papers
+where more than 50 percent of those very
+
+634
+00:15:23,990 --> 00:15:24,000
+where more than 50 percent of those very
+ 
+
+635
+00:15:24,000 --> 00:15:28,430
+where more than 50 percent of those very
+with International co-authors
+
+636
+00:15:28,430 --> 00:15:28,440
+
+ 
+
+637
+00:15:28,440 --> 00:15:31,910
+
+I'll I'll just give you some highlights
+
+638
+00:15:31,910 --> 00:15:31,920
+I'll I'll just give you some highlights
+ 
+
+639
+00:15:31,920 --> 00:15:35,870
+I'll I'll just give you some highlights
+and then I will go into what I sort of
+
+640
+00:15:35,870 --> 00:15:35,880
+and then I will go into what I sort of
+ 
+
+641
+00:15:35,880 --> 00:15:38,810
+and then I will go into what I sort of
+understand uh most which are like these
+
+642
+00:15:38,810 --> 00:15:38,820
+understand uh most which are like these
+ 
+
+643
+00:15:38,820 --> 00:15:41,090
+understand uh most which are like these
+combinations of machine learning and
+
+644
+00:15:41,090 --> 00:15:41,100
+combinations of machine learning and
+ 
+
+645
+00:15:41,100 --> 00:15:43,129
+combinations of machine learning and
+automated deduction
+
+646
+00:15:43,129 --> 00:15:43,139
+automated deduction
+ 
+
+647
+00:15:43,139 --> 00:15:44,449
+automated deduction
+so
+
+648
+00:15:44,449 --> 00:15:44,459
+so
+ 
+
+649
+00:15:44,459 --> 00:15:47,990
+so
+in the the project was divided into
+
+650
+00:15:47,990 --> 00:15:48,000
+in the the project was divided into
+ 
+
+651
+00:15:48,000 --> 00:15:50,150
+in the the project was divided into
+three work packages
+
+652
+00:15:50,150 --> 00:15:50,160
+three work packages
+ 
+
+653
+00:15:50,160 --> 00:15:52,730
+three work packages
+the the first one was mostly about like
+
+654
+00:15:52,730 --> 00:15:52,740
+the the first one was mostly about like
+ 
+
+655
+00:15:52,740 --> 00:15:56,150
+the the first one was mostly about like
+these these combinations of learning and
+
+656
+00:15:56,150 --> 00:15:56,160
+these these combinations of learning and
+ 
+
+657
+00:15:56,160 --> 00:15:57,710
+these these combinations of learning and
+proving
+
+658
+00:15:57,710 --> 00:15:57,720
+proving
+ 
+
+659
+00:15:57,720 --> 00:16:00,110
+proving
+very basically the main result which I
+
+660
+00:16:00,110 --> 00:16:00,120
+very basically the main result which I
+ 
+
+661
+00:16:00,120 --> 00:16:01,490
+very basically the main result which I
+will show you later
+
+662
+00:16:01,490 --> 00:16:01,500
+will show you later
+ 
+
+663
+00:16:01,500 --> 00:16:05,269
+will show you later
+is that we have shown that it is
+
+664
+00:16:05,269 --> 00:16:05,279
+is that we have shown that it is
+ 
+
+665
+00:16:05,279 --> 00:16:09,650
+is that we have shown that it is
+possible to take the best automated hair
+
+666
+00:16:09,650 --> 00:16:09,660
+possible to take the best automated hair
+ 
+
+667
+00:16:09,660 --> 00:16:13,069
+possible to take the best automated hair
+improving systems today which are
+
+668
+00:16:13,069 --> 00:16:13,079
+improving systems today which are
+ 
+
+669
+00:16:13,079 --> 00:16:15,410
+improving systems today which are
+extremely well engineered
+
+670
+00:16:15,410 --> 00:16:15,420
+extremely well engineered
+ 
+
+671
+00:16:15,420 --> 00:16:17,930
+extremely well engineered
+fast symbolic systems
+
+672
+00:16:17,930 --> 00:16:17,940
+fast symbolic systems
+ 
+
+673
+00:16:17,940 --> 00:16:22,370
+fast symbolic systems
+and make them much better by
+
+674
+00:16:22,370 --> 00:16:22,380
+and make them much better by
+ 
+
+675
+00:16:22,380 --> 00:16:24,350
+and make them much better by
+augmenting them with machine learning
+
+676
+00:16:24,350 --> 00:16:24,360
+augmenting them with machine learning
+ 
+
+677
+00:16:24,360 --> 00:16:27,410
+augmenting them with machine learning
+methods and introducing some sort of
+
+678
+00:16:27,410 --> 00:16:27,420
+methods and introducing some sort of
+ 
+
+679
+00:16:27,420 --> 00:16:31,250
+methods and introducing some sort of
+feedback loops where the
+
+680
+00:16:31,250 --> 00:16:31,260
+feedback loops where the
+ 
+
+681
+00:16:31,260 --> 00:16:35,230
+feedback loops where the
+machine learning gets better as the CRM
+
+682
+00:16:35,230 --> 00:16:35,240
+machine learning gets better as the CRM
+ 
+
+683
+00:16:35,240 --> 00:16:37,970
+machine learning gets better as the CRM
+improves more problems
+
+684
+00:16:37,970 --> 00:16:37,980
+improves more problems
+ 
+
+685
+00:16:37,980 --> 00:16:41,569
+improves more problems
+and the theorem query gets better as the
+
+686
+00:16:41,569 --> 00:16:41,579
+and the theorem query gets better as the
+ 
+
+687
+00:16:41,579 --> 00:16:43,490
+and the theorem query gets better as the
+machine learning machine learner which
+
+688
+00:16:43,490 --> 00:16:43,500
+machine learning machine learner which
+ 
+
+689
+00:16:43,500 --> 00:16:46,490
+machine learning machine learner which
+is sort of advising the the crm3 gets
+
+690
+00:16:46,490 --> 00:16:46,500
+is sort of advising the the crm3 gets
+ 
+
+691
+00:16:46,500 --> 00:16:49,730
+is sort of advising the the crm3 gets
+stronger by training on on these
+
+692
+00:16:49,730 --> 00:16:49,740
+stronger by training on on these
+ 
+
+693
+00:16:49,740 --> 00:16:52,310
+stronger by training on on these
+more and more advanced proofs so so it
+
+694
+00:16:52,310 --> 00:16:52,320
+more and more advanced proofs so so it
+ 
+
+695
+00:16:52,320 --> 00:16:56,389
+more and more advanced proofs so so it
+sounds easy and maybe simple to today
+
+696
+00:16:56,389 --> 00:16:56,399
+sounds easy and maybe simple to today
+ 
+
+697
+00:16:56,399 --> 00:16:59,389
+sounds easy and maybe simple to today
+but basically the main breakthrough we
+
+698
+00:16:59,389 --> 00:16:59,399
+but basically the main breakthrough we
+ 
+
+699
+00:16:59,399 --> 00:17:02,090
+but basically the main breakthrough we
+only did four years ago like before that
+
+700
+00:17:02,090 --> 00:17:02,100
+only did four years ago like before that
+ 
+
+701
+00:17:02,100 --> 00:17:05,750
+only did four years ago like before that
+it wasn't very clear whether we we have
+
+702
+00:17:05,750 --> 00:17:05,760
+it wasn't very clear whether we we have
+ 
+
+703
+00:17:05,760 --> 00:17:07,669
+it wasn't very clear whether we we have
+something or not
+
+704
+00:17:07,669 --> 00:17:07,679
+something or not
+ 
+
+705
+00:17:07,679 --> 00:17:09,829
+something or not
+uh as I mentioned we did the first
+
+706
+00:17:09,829 --> 00:17:09,839
+uh as I mentioned we did the first
+ 
+
+707
+00:17:09,839 --> 00:17:12,829
+uh as I mentioned we did the first
+systems for automated formalization and
+
+708
+00:17:12,829 --> 00:17:12,839
+systems for automated formalization and
+ 
+
+709
+00:17:12,839 --> 00:17:16,429
+systems for automated formalization and
+also for things like automated proposing
+
+710
+00:17:16,429 --> 00:17:16,439
+also for things like automated proposing
+ 
+
+711
+00:17:16,439 --> 00:17:19,069
+also for things like automated proposing
+of mathematical conjectures and
+
+712
+00:17:19,069 --> 00:17:19,079
+of mathematical conjectures and
+ 
+
+713
+00:17:19,079 --> 00:17:20,569
+of mathematical conjectures and
+synthesizing
+
+714
+00:17:20,569 --> 00:17:20,579
+synthesizing
+ 
+
+715
+00:17:20,579 --> 00:17:22,549
+synthesizing
+uh various interesting mathematical
+
+716
+00:17:22,549 --> 00:17:22,559
+uh various interesting mathematical
+ 
+
+717
+00:17:22,559 --> 00:17:23,949
+uh various interesting mathematical
+objects
+
+718
+00:17:23,949 --> 00:17:23,959
+objects
+ 
+
+719
+00:17:23,959 --> 00:17:28,010
+objects
+we have one especially Martin Surah who
+
+720
+00:17:28,010 --> 00:17:28,020
+we have one especially Martin Surah who
+ 
+
+721
+00:17:28,020 --> 00:17:33,409
+we have one especially Martin Surah who
+will be talking yeah later uh some some
+
+722
+00:17:33,409 --> 00:17:33,419
+will be talking yeah later uh some some
+ 
+
+723
+00:17:33,419 --> 00:17:36,409
+will be talking yeah later uh some some
+victories in automated here improving
+
+724
+00:17:36,409 --> 00:17:36,419
+victories in automated here improving
+ 
+
+725
+00:17:36,419 --> 00:17:38,090
+victories in automated here improving
+competitions
+
+726
+00:17:38,090 --> 00:17:38,100
+competitions
+ 
+
+727
+00:17:38,100 --> 00:17:42,289
+competitions
+our our valued Affiliated researcher uh
+
+728
+00:17:42,289 --> 00:17:42,299
+our our valued Affiliated researcher uh
+ 
+
+729
+00:17:42,299 --> 00:17:45,710
+our our valued Affiliated researcher uh
+Bob Vero from who is Emeritus at the
+
+730
+00:17:45,710 --> 00:17:45,720
+Bob Vero from who is Emeritus at the
+ 
+
+731
+00:17:45,720 --> 00:17:48,110
+Bob Vero from who is Emeritus at the
+University of New Mexico and
+
+732
+00:17:48,110 --> 00:17:48,120
+University of New Mexico and
+ 
+
+733
+00:17:48,120 --> 00:17:50,270
+University of New Mexico and
+Affiliated researcher here
+
+734
+00:17:50,270 --> 00:17:50,280
+Affiliated researcher here
+ 
+
+735
+00:17:50,280 --> 00:17:52,970
+Affiliated researcher here
+has actually proved some open
+
+736
+00:17:52,970 --> 00:17:52,980
+has actually proved some open
+ 
+
+737
+00:17:52,980 --> 00:17:55,789
+has actually proved some open
+conjectures producing very very
+
+738
+00:17:55,789 --> 00:17:55,799
+conjectures producing very very
+ 
+
+739
+00:17:55,799 --> 00:17:57,850
+conjectures producing very very
+non-trivial tools
+
+740
+00:17:57,850 --> 00:17:57,860
+non-trivial tools
+ 
+
+741
+00:17:57,860 --> 00:18:01,010
+non-trivial tools
+here at sericon on our machines
+
+742
+00:18:01,010 --> 00:18:01,020
+here at sericon on our machines
+ 
+
+743
+00:18:01,020 --> 00:18:02,710
+here at sericon on our machines
+basically
+
+744
+00:18:02,710 --> 00:18:02,720
+basically
+ 
+
+745
+00:18:02,720 --> 00:18:05,450
+basically
+that really like resolve some problems
+
+746
+00:18:05,450 --> 00:18:05,460
+that really like resolve some problems
+ 
+
+747
+00:18:05,460 --> 00:18:11,750
+that really like resolve some problems
+that are interesting for foreign
+
+748
+00:18:11,750 --> 00:18:11,760
+
+ 
+
+749
+00:18:11,760 --> 00:18:13,850
+
+package two
+
+750
+00:18:13,850 --> 00:18:13,860
+package two
+ 
+
+751
+00:18:13,860 --> 00:18:17,690
+package two
+was added by Zenia Gonzalez who is like
+
+752
+00:18:17,690 --> 00:18:17,700
+was added by Zenia Gonzalez who is like
+ 
+
+753
+00:18:17,700 --> 00:18:22,190
+was added by Zenia Gonzalez who is like
+breaking on scheduling problems so so
+
+754
+00:18:22,190 --> 00:18:22,200
+breaking on scheduling problems so so
+ 
+
+755
+00:18:22,200 --> 00:18:24,590
+breaking on scheduling problems so so
+their results are
+
+756
+00:18:24,590 --> 00:18:24,600
+their results are
+ 
+
+757
+00:18:24,600 --> 00:18:27,650
+their results are
+in mixed criticality scheduling and for
+
+758
+00:18:27,650 --> 00:18:27,660
+in mixed criticality scheduling and for
+ 
+
+759
+00:18:27,660 --> 00:18:31,490
+in mixed criticality scheduling and for
+example they optimize robotic cells or
+
+760
+00:18:31,490 --> 00:18:31,500
+example they optimize robotic cells or
+ 
+
+761
+00:18:31,500 --> 00:18:35,090
+example they optimize robotic cells or
+they they are really applied to the
+
+762
+00:18:35,090 --> 00:18:35,100
+they they are really applied to the
+ 
+
+763
+00:18:35,100 --> 00:18:37,549
+they they are really applied to the
+level of being able to to drive
+
+764
+00:18:37,549 --> 00:18:37,559
+level of being able to to drive
+ 
+
+765
+00:18:37,559 --> 00:18:41,150
+level of being able to to drive
+autonomously these small cars these
+
+766
+00:18:41,150 --> 00:18:41,160
+autonomously these small cars these
+ 
+
+767
+00:18:41,160 --> 00:18:43,610
+autonomously these small cars these
+formulas that actually have their own
+
+768
+00:18:43,610 --> 00:18:43,620
+formulas that actually have their own
+ 
+
+769
+00:18:43,620 --> 00:18:46,850
+formulas that actually have their own
+racing competitions that that they are
+
+770
+00:18:46,850 --> 00:18:46,860
+racing competitions that that they are
+ 
+
+771
+00:18:46,860 --> 00:18:48,529
+racing competitions that that they are
+capable of winning
+
+772
+00:18:48,529 --> 00:18:48,539
+capable of winning
+ 
+
+773
+00:18:48,539 --> 00:18:52,610
+capable of winning
+and then there was a research by
+
+774
+00:18:52,610 --> 00:18:52,620
+and then there was a research by
+ 
+
+775
+00:18:52,620 --> 00:18:55,990
+and then there was a research by
+professor svitak and his colleagues
+
+776
+00:18:55,990 --> 00:18:56,000
+professor svitak and his colleagues
+ 
+
+777
+00:18:56,000 --> 00:18:59,750
+professor svitak and his colleagues
+doing AI for smart smart cities
+
+778
+00:18:59,750 --> 00:18:59,760
+doing AI for smart smart cities
+ 
+
+779
+00:18:59,760 --> 00:19:02,409
+doing AI for smart smart cities
+which I think has taken off like
+
+780
+00:19:02,409 --> 00:19:02,419
+which I think has taken off like
+ 
+
+781
+00:19:02,419 --> 00:19:05,390
+which I think has taken off like
+independently or like there's more
+
+782
+00:19:05,390 --> 00:19:05,400
+independently or like there's more
+ 
+
+783
+00:19:05,400 --> 00:19:07,730
+independently or like there's more
+funding for for it now here
+
+784
+00:19:07,730 --> 00:19:07,740
+funding for for it now here
+ 
+
+785
+00:19:07,740 --> 00:19:10,970
+funding for for it now here
+uh in work package three
+
+786
+00:19:10,970 --> 00:19:10,980
+uh in work package three
+ 
+
+787
+00:19:10,980 --> 00:19:14,350
+uh in work package three
+we had professor of kuchera
+
+788
+00:19:14,350 --> 00:19:14,360
+we had professor of kuchera
+ 
+
+789
+00:19:14,360 --> 00:19:17,390
+we had professor of kuchera
+who who is like
+
+790
+00:19:17,390 --> 00:19:17,400
+who who is like
+ 
+
+791
+00:19:17,400 --> 00:19:20,990
+who who is like
+one of the best Czech scientists who was
+
+792
+00:19:20,990 --> 00:19:21,000
+one of the best Czech scientists who was
+ 
+
+793
+00:19:21,000 --> 00:19:25,669
+one of the best Czech scientists who was
+just recently awarded the chesca lava
+
+794
+00:19:25,669 --> 00:19:25,679
+just recently awarded the chesca lava
+ 
+
+795
+00:19:25,679 --> 00:19:27,669
+just recently awarded the chesca lava
+the the Czech mind
+
+796
+00:19:27,669 --> 00:19:27,679
+the the Czech mind
+ 
+
+797
+00:19:27,679 --> 00:19:31,730
+the the Czech mind
+for solving uh long-standing open
+
+798
+00:19:31,730 --> 00:19:31,740
+for solving uh long-standing open
+ 
+
+799
+00:19:31,740 --> 00:19:34,310
+for solving uh long-standing open
+problems in control theory
+
+800
+00:19:34,310 --> 00:19:34,320
+problems in control theory
+ 
+
+801
+00:19:34,320 --> 00:19:37,549
+problems in control theory
+and then we had people from Polson from
+
+802
+00:19:37,549 --> 00:19:37,559
+and then we had people from Polson from
+ 
+
+803
+00:19:37,559 --> 00:19:39,789
+and then we had people from Polson from
+Belson
+
+804
+00:19:39,789 --> 00:19:39,799
+Belson
+ 
+
+805
+00:19:39,799 --> 00:19:43,669
+Belson
+doing work on Linguistics and sign
+
+806
+00:19:43,669 --> 00:19:43,679
+doing work on Linguistics and sign
+ 
+
+807
+00:19:43,679 --> 00:19:47,529
+doing work on Linguistics and sign
+Linguistics and for example winning
+
+808
+00:19:47,529 --> 00:19:47,539
+Linguistics and for example winning
+ 
+
+809
+00:19:47,539 --> 00:19:51,950
+Linguistics and for example winning
+competitions in hand post estimation
+
+810
+00:19:51,950 --> 00:19:51,960
+competitions in hand post estimation
+ 
+
+811
+00:19:51,960 --> 00:19:57,970
+competitions in hand post estimation
+etc etc so the the group works
+
+812
+00:19:57,970 --> 00:19:57,980
+
+ 
+
+813
+00:19:57,980 --> 00:20:01,610
+
+started a very interesting research
+
+814
+00:20:01,610 --> 00:20:01,620
+started a very interesting research
+ 
+
+815
+00:20:01,620 --> 00:20:03,169
+started a very interesting research
+in
+
+816
+00:20:03,169 --> 00:20:03,179
+in
+ 
+
+817
+00:20:03,179 --> 00:20:06,470
+in
+in complex systems and
+
+818
+00:20:06,470 --> 00:20:06,480
+in complex systems and
+ 
+
+819
+00:20:06,480 --> 00:20:10,130
+in complex systems and
+I I guess we all hope that tomash will
+
+820
+00:20:10,130 --> 00:20:10,140
+I I guess we all hope that tomash will
+ 
+
+821
+00:20:10,140 --> 00:20:12,289
+I I guess we all hope that tomash will
+will get the opportunity to continue
+
+822
+00:20:12,289 --> 00:20:12,299
+will get the opportunity to continue
+ 
+
+823
+00:20:12,299 --> 00:20:15,529
+will get the opportunity to continue
+this research because it's uh what what
+
+824
+00:20:15,529 --> 00:20:15,539
+this research because it's uh what what
+ 
+
+825
+00:20:15,539 --> 00:20:18,529
+this research because it's uh what what
+he is passionate about
+
+826
+00:20:18,529 --> 00:20:18,539
+he is passionate about
+ 
+
+827
+00:20:18,539 --> 00:20:19,970
+he is passionate about
+oh
+
+828
+00:20:19,970 --> 00:20:19,980
+oh
+ 
+
+829
+00:20:19,980 --> 00:20:24,770
+oh
+so so that was a brief summary
+
+830
+00:20:24,770 --> 00:20:24,780
+so so that was a brief summary
+ 
+
+831
+00:20:24,780 --> 00:20:28,430
+so so that was a brief summary
+of of the project and I have 10 minutes
+
+832
+00:20:28,430 --> 00:20:28,440
+of of the project and I have 10 minutes
+ 
+
+833
+00:20:28,440 --> 00:20:31,669
+of of the project and I have 10 minutes
+to to go a bit deeper and I do not know
+
+834
+00:20:31,669 --> 00:20:31,679
+to to go a bit deeper and I do not know
+ 
+
+835
+00:20:31,679 --> 00:20:34,190
+to to go a bit deeper and I do not know
+how much time I will have for that
+
+836
+00:20:34,190 --> 00:20:34,200
+how much time I will have for that
+ 
+
+837
+00:20:34,200 --> 00:20:38,330
+how much time I will have for that
+so I guess you some of you may recognize
+
+838
+00:20:38,330 --> 00:20:38,340
+so I guess you some of you may recognize
+ 
+
+839
+00:20:38,340 --> 00:20:40,070
+so I guess you some of you may recognize
+these pictures
+
+840
+00:20:40,070 --> 00:20:40,080
+these pictures
+ 
+
+841
+00:20:40,080 --> 00:20:43,730
+these pictures
+so so yesterday we we walked to the
+
+842
+00:20:43,730 --> 00:20:43,740
+so so yesterday we we walked to the
+ 
+
+843
+00:20:43,740 --> 00:20:45,169
+so so yesterday we we walked to the
+concert
+
+844
+00:20:45,169 --> 00:20:45,179
+concert
+ 
+
+845
+00:20:45,179 --> 00:20:47,210
+concert
+with
+
+846
+00:20:47,210 --> 00:20:47,220
+with
+ 
+
+847
+00:20:47,220 --> 00:20:48,590
+with
+one
+
+848
+00:20:48,590 --> 00:20:48,600
+one
+ 
+
+849
+00:20:48,600 --> 00:20:51,169
+one
+famous AI researcher
+
+850
+00:20:51,169 --> 00:20:51,179
+famous AI researcher
+ 
+
+851
+00:20:51,179 --> 00:20:54,549
+famous AI researcher
+one famous philosopher like his name is
+
+852
+00:20:54,549 --> 00:20:54,559
+one famous philosopher like his name is
+ 
+
+853
+00:20:54,559 --> 00:20:57,529
+one famous philosopher like his name is
+edsalta but this guy and he he just left
+
+854
+00:20:57,529 --> 00:20:57,539
+edsalta but this guy and he he just left
+ 
+
+855
+00:20:57,539 --> 00:21:01,010
+edsalta but this guy and he he just left
+today and one famous ontologist who is
+
+856
+00:21:01,010 --> 00:21:01,020
+today and one famous ontologist who is
+ 
+
+857
+00:21:01,020 --> 00:21:03,169
+today and one famous ontologist who is
+over there around peace
+
+858
+00:21:03,169 --> 00:21:03,179
+over there around peace
+ 
+
+859
+00:21:03,179 --> 00:21:07,490
+over there around peace
+and uh it was a funny walk because as
+
+860
+00:21:07,490 --> 00:21:07,500
+and uh it was a funny walk because as
+ 
+
+861
+00:21:07,500 --> 00:21:09,490
+and uh it was a funny walk because as
+you go through Prague
+
+862
+00:21:09,490 --> 00:21:09,500
+you go through Prague
+ 
+
+863
+00:21:09,500 --> 00:21:13,730
+you go through Prague
+you you see places where
+
+864
+00:21:13,730 --> 00:21:13,740
+you you see places where
+ 
+
+865
+00:21:13,740 --> 00:21:16,310
+you you see places where
+worked
+
+866
+00:21:16,310 --> 00:21:16,320
+worked
+ 
+
+867
+00:21:16,320 --> 00:21:19,010
+worked
+[Music]
+
+868
+00:21:19,010 --> 00:21:19,020
+[Music]
+ 
+
+869
+00:21:19,020 --> 00:21:22,850
+[Music]
+and I I don't know how how many of you
+
+870
+00:21:22,850 --> 00:21:22,860
+and I I don't know how how many of you
+ 
+
+871
+00:21:22,860 --> 00:21:25,250
+and I I don't know how how many of you
+know know this history
+
+872
+00:21:25,250 --> 00:21:25,260
+know know this history
+ 
+
+873
+00:21:25,260 --> 00:21:28,310
+know know this history
+but basically like when these people
+
+874
+00:21:28,310 --> 00:21:28,320
+but basically like when these people
+ 
+
+875
+00:21:28,320 --> 00:21:31,370
+but basically like when these people
+worked here in 1600s
+
+876
+00:21:31,370 --> 00:21:31,380
+worked here in 1600s
+ 
+
+877
+00:21:31,380 --> 00:21:32,750
+worked here in 1600s
+oh
+
+878
+00:21:32,750 --> 00:21:32,760
+oh
+ 
+
+879
+00:21:32,760 --> 00:21:36,970
+oh
+to some extent to a non-trivial extent
+
+880
+00:21:36,970 --> 00:21:36,980
+to some extent to a non-trivial extent
+ 
+
+881
+00:21:36,980 --> 00:21:39,950
+to some extent to a non-trivial extent
+they they started a process that is
+
+882
+00:21:39,950 --> 00:21:39,960
+they they started a process that is
+ 
+
+883
+00:21:39,960 --> 00:21:42,370
+they they started a process that is
+called the Scientific Revolution
+
+884
+00:21:42,370 --> 00:21:42,380
+called the Scientific Revolution
+ 
+
+885
+00:21:42,380 --> 00:21:45,230
+called the Scientific Revolution
+the the basically development of
+
+886
+00:21:45,230 --> 00:21:45,240
+the the basically development of
+ 
+
+887
+00:21:45,240 --> 00:21:46,730
+the the basically development of
+scientific method
+
+888
+00:21:46,730 --> 00:21:46,740
+scientific method
+ 
+
+889
+00:21:46,740 --> 00:21:48,350
+scientific method
+which
+
+890
+00:21:48,350 --> 00:21:48,360
+which
+ 
+
+891
+00:21:48,360 --> 00:21:50,390
+which
+which
+
+892
+00:21:50,390 --> 00:21:50,400
+which
+ 
+
+893
+00:21:50,400 --> 00:21:52,010
+which
+at some point
+
+894
+00:21:52,010 --> 00:21:52,020
+at some point
+ 
+
+895
+00:21:52,020 --> 00:21:55,430
+at some point
+if you if you sort of
+
+896
+00:21:55,430 --> 00:21:55,440
+if you if you sort of
+ 
+
+897
+00:21:55,440 --> 00:21:57,770
+if you if you sort of
+Follow The Line
+
+898
+00:21:57,770 --> 00:21:57,780
+Follow The Line
+ 
+
+899
+00:21:57,780 --> 00:22:00,590
+Follow The Line
+went through people like Galileo and
+
+900
+00:22:00,590 --> 00:22:00,600
+went through people like Galileo and
+ 
+
+901
+00:22:00,600 --> 00:22:03,049
+went through people like Galileo and
+Newton and leibniz
+
+902
+00:22:03,049 --> 00:22:03,059
+Newton and leibniz
+ 
+
+903
+00:22:03,059 --> 00:22:06,890
+Newton and leibniz
+uh to to to to development of science to
+
+904
+00:22:06,890 --> 00:22:06,900
+uh to to to to development of science to
+ 
+
+905
+00:22:06,900 --> 00:22:08,870
+uh to to to to development of science to
+development of natural philosophy to
+
+906
+00:22:08,870 --> 00:22:08,880
+development of natural philosophy to
+ 
+
+907
+00:22:08,880 --> 00:22:11,510
+development of natural philosophy to
+development of physics to to development
+
+908
+00:22:11,510 --> 00:22:11,520
+development of physics to to development
+ 
+
+909
+00:22:11,520 --> 00:22:12,830
+development of physics to to development
+of other
+
+910
+00:22:12,830 --> 00:22:12,840
+of other
+ 
+
+911
+00:22:12,840 --> 00:22:15,289
+of other
+Sciences or scientists like symbolic
+
+912
+00:22:15,289 --> 00:22:15,299
+Sciences or scientists like symbolic
+ 
+
+913
+00:22:15,299 --> 00:22:17,810
+Sciences or scientists like symbolic
+logic and as I said also the development
+
+914
+00:22:17,810 --> 00:22:17,820
+logic and as I said also the development
+ 
+
+915
+00:22:17,820 --> 00:22:20,090
+logic and as I said also the development
+of computers and to development of
+
+916
+00:22:20,090 --> 00:22:20,100
+of computers and to development of
+ 
+
+917
+00:22:20,100 --> 00:22:21,890
+of computers and to development of
+artificial intelligence
+
+918
+00:22:21,890 --> 00:22:21,900
+artificial intelligence
+ 
+
+919
+00:22:21,900 --> 00:22:24,289
+artificial intelligence
+so
+
+920
+00:22:24,289 --> 00:22:24,299
+so
+ 
+
+921
+00:22:24,299 --> 00:22:27,049
+so
+at that time I I don't know if I have
+
+922
+00:22:27,049 --> 00:22:27,059
+at that time I I don't know if I have
+ 
+
+923
+00:22:27,059 --> 00:22:31,130
+at that time I I don't know if I have
+the slide here of oh
+
+924
+00:22:31,130 --> 00:22:31,140
+the slide here of oh
+ 
+
+925
+00:22:31,140 --> 00:22:32,570
+the slide here of oh
+I
+
+926
+00:22:32,570 --> 00:22:32,580
+I
+ 
+
+927
+00:22:32,580 --> 00:22:35,210
+I
+I think the
+
+928
+00:22:35,210 --> 00:22:35,220
+I think the
+ 
+
+929
+00:22:35,220 --> 00:22:37,549
+I think the
+the funny thing
+
+930
+00:22:37,549 --> 00:22:37,559
+the funny thing
+ 
+
+931
+00:22:37,559 --> 00:22:40,430
+the funny thing
+is that at that time
+
+932
+00:22:40,430 --> 00:22:40,440
+is that at that time
+ 
+
+933
+00:22:40,440 --> 00:22:43,450
+is that at that time
+there was such a concentration of smart
+
+934
+00:22:43,450 --> 00:22:43,460
+there was such a concentration of smart
+ 
+
+935
+00:22:43,460 --> 00:22:46,850
+there was such a concentration of smart
+people doing things in Prague
+
+936
+00:22:46,850 --> 00:22:46,860
+people doing things in Prague
+ 
+
+937
+00:22:46,860 --> 00:22:50,390
+people doing things in Prague
+that they they were thinking
+
+938
+00:22:50,390 --> 00:22:50,400
+that they they were thinking
+ 
+
+939
+00:22:50,400 --> 00:22:53,690
+that they they were thinking
+that this could be some sort of
+
+940
+00:22:53,690 --> 00:22:53,700
+that this could be some sort of
+ 
+
+941
+00:22:53,700 --> 00:22:55,549
+that this could be some sort of
+Singularity so something that people
+
+942
+00:22:55,549 --> 00:22:55,559
+Singularity so something that people
+ 
+
+943
+00:22:55,559 --> 00:22:57,649
+Singularity so something that people
+would call Singularity today that the
+
+944
+00:22:57,649 --> 00:22:57,659
+would call Singularity today that the
+ 
+
+945
+00:22:57,659 --> 00:23:01,610
+would call Singularity today that the
+world will radically change and it
+
+946
+00:23:01,610 --> 00:23:01,620
+world will radically change and it
+ 
+
+947
+00:23:01,620 --> 00:23:03,770
+world will radically change and it
+changed it didn't change so quickly they
+
+948
+00:23:03,770 --> 00:23:03,780
+changed it didn't change so quickly they
+ 
+
+949
+00:23:03,780 --> 00:23:07,310
+changed it didn't change so quickly they
+started uh 30 Years War and the sort of
+
+950
+00:23:07,310 --> 00:23:07,320
+started uh 30 Years War and the sort of
+ 
+
+951
+00:23:07,320 --> 00:23:09,350
+started uh 30 Years War and the sort of
+slowed down things a lot
+
+952
+00:23:09,350 --> 00:23:09,360
+slowed down things a lot
+ 
+
+953
+00:23:09,360 --> 00:23:12,890
+slowed down things a lot
+uh but like it got to people like Newton
+
+954
+00:23:12,890 --> 00:23:12,900
+uh but like it got to people like Newton
+ 
+
+955
+00:23:12,900 --> 00:23:14,210
+uh but like it got to people like Newton
+and leibniz
+
+956
+00:23:14,210 --> 00:23:14,220
+and leibniz
+ 
+
+957
+00:23:14,220 --> 00:23:17,390
+and leibniz
+who as I said like they developed
+
+958
+00:23:17,390 --> 00:23:17,400
+who as I said like they developed
+ 
+
+959
+00:23:17,400 --> 00:23:20,210
+who as I said like they developed
+physics and they they all declared all
+
+960
+00:23:20,210 --> 00:23:20,220
+physics and they they all declared all
+ 
+
+961
+00:23:20,220 --> 00:23:23,570
+physics and they they all declared all
+these crazy ideas about computation
+
+962
+00:23:23,570 --> 00:23:23,580
+these crazy ideas about computation
+ 
+
+963
+00:23:23,580 --> 00:23:26,149
+these crazy ideas about computation
+which materialized like it took some
+
+964
+00:23:26,149 --> 00:23:26,159
+which materialized like it took some
+ 
+
+965
+00:23:26,159 --> 00:23:29,450
+which materialized like it took some
+Centuries with example computation maybe
+
+966
+00:23:29,450 --> 00:23:29,460
+Centuries with example computation maybe
+ 
+
+967
+00:23:29,460 --> 00:23:32,450
+Centuries with example computation maybe
+unfortunately because babich babich
+
+968
+00:23:32,450 --> 00:23:32,460
+unfortunately because babich babich
+ 
+
+969
+00:23:32,460 --> 00:23:35,330
+unfortunately because babich babich
+wasn't wasn't funded as soon as he
+
+970
+00:23:35,330 --> 00:23:35,340
+wasn't wasn't funded as soon as he
+ 
+
+971
+00:23:35,340 --> 00:23:36,470
+wasn't wasn't funded as soon as he
+should have
+
+972
+00:23:36,470 --> 00:23:36,480
+should have
+ 
+
+973
+00:23:36,480 --> 00:23:39,409
+should have
+uh but but it basically happened
+
+974
+00:23:39,409 --> 00:23:39,419
+uh but but it basically happened
+ 
+
+975
+00:23:39,419 --> 00:23:41,090
+uh but but it basically happened
+and
+
+976
+00:23:41,090 --> 00:23:41,100
+and
+ 
+
+977
+00:23:41,100 --> 00:23:45,710
+and
+to some extent uh it started
+
+978
+00:23:45,710 --> 00:23:45,720
+to some extent uh it started
+ 
+
+979
+00:23:45,720 --> 00:23:48,529
+to some extent uh it started
+um by people like Braha and Kepler
+
+980
+00:23:48,529 --> 00:23:48,539
+um by people like Braha and Kepler
+ 
+
+981
+00:23:48,539 --> 00:23:52,010
+um by people like Braha and Kepler
+doing uh what we call today science
+
+982
+00:23:52,010 --> 00:23:52,020
+doing uh what we call today science
+ 
+
+983
+00:23:52,020 --> 00:23:54,909
+doing uh what we call today science
+doing
+
+984
+00:23:54,909 --> 00:23:54,919
+doing
+ 
+
+985
+00:23:54,919 --> 00:23:57,110
+doing
+analysis of data
+
+986
+00:23:57,110 --> 00:23:57,120
+analysis of data
+ 
+
+987
+00:23:57,120 --> 00:24:00,110
+analysis of data
+proposing conjectures doing computation
+
+988
+00:24:00,110 --> 00:24:00,120
+proposing conjectures doing computation
+ 
+
+989
+00:24:00,120 --> 00:24:02,529
+proposing conjectures doing computation
+with the proposed conjectures
+
+990
+00:24:02,529 --> 00:24:02,539
+with the proposed conjectures
+ 
+
+991
+00:24:02,539 --> 00:24:04,430
+with the proposed conjectures
+verifying whether the proposed
+
+992
+00:24:04,430 --> 00:24:04,440
+verifying whether the proposed
+ 
+
+993
+00:24:04,440 --> 00:24:06,590
+verifying whether the proposed
+conjectures were refuting then modifying
+
+994
+00:24:06,590 --> 00:24:06,600
+conjectures were refuting then modifying
+ 
+
+995
+00:24:06,600 --> 00:24:09,169
+conjectures were refuting then modifying
+them and iterating this process
+
+996
+00:24:09,169 --> 00:24:09,179
+them and iterating this process
+ 
+
+997
+00:24:09,179 --> 00:24:12,049
+them and iterating this process
+and the the this is the process
+
+998
+00:24:12,049 --> 00:24:12,059
+and the the this is the process
+ 
+
+999
+00:24:12,059 --> 00:24:16,250
+and the the this is the process
+that we today in my project want to
+
+1000
+00:24:16,250 --> 00:24:16,260
+that we today in my project want to
+ 
+
+1001
+00:24:16,260 --> 00:24:18,409
+that we today in my project want to
+emulate on computers it's it's the
+
+1002
+00:24:18,409 --> 00:24:18,419
+emulate on computers it's it's the
+ 
+
+1003
+00:24:18,419 --> 00:24:20,930
+emulate on computers it's it's the
+process of scientific method the the
+
+1004
+00:24:20,930 --> 00:24:20,940
+process of scientific method the the
+ 
+
+1005
+00:24:20,940 --> 00:24:24,049
+process of scientific method the the
+process of doing science basically
+
+1006
+00:24:24,049 --> 00:24:24,059
+process of doing science basically
+ 
+
+1007
+00:24:24,059 --> 00:24:27,590
+process of doing science basically
+and I think if he managed to automate it
+
+1008
+00:24:27,590 --> 00:24:27,600
+and I think if he managed to automate it
+ 
+
+1009
+00:24:27,600 --> 00:24:30,230
+and I think if he managed to automate it
+like their Visions might come true like
+
+1010
+00:24:30,230 --> 00:24:30,240
+like their Visions might come true like
+ 
+
+1011
+00:24:30,240 --> 00:24:33,649
+like their Visions might come true like
+the the the division
+
+1012
+00:24:33,649 --> 00:24:33,659
+the the the division
+ 
+
+1013
+00:24:33,659 --> 00:24:36,470
+the the the division
+of computers
+
+1014
+00:24:36,470 --> 00:24:36,480
+of computers
+ 
+
+1015
+00:24:36,480 --> 00:24:38,870
+of computers
+automatically doing superhuman physics
+
+1016
+00:24:38,870 --> 00:24:38,880
+automatically doing superhuman physics
+ 
+
+1017
+00:24:38,880 --> 00:24:41,570
+automatically doing superhuman physics
+or superhuman computer science
+
+1018
+00:24:41,570 --> 00:24:41,580
+or superhuman computer science
+ 
+
+1019
+00:24:41,580 --> 00:24:45,350
+or superhuman computer science
+is really crazy like none of us can
+
+1020
+00:24:45,350 --> 00:24:45,360
+is really crazy like none of us can
+ 
+
+1021
+00:24:45,360 --> 00:24:48,950
+is really crazy like none of us can
+think what will happen when machines
+
+1022
+00:24:48,950 --> 00:24:48,960
+think what will happen when machines
+ 
+
+1023
+00:24:48,960 --> 00:24:52,130
+think what will happen when machines
+will start to develop new laws of
+
+1024
+00:24:52,130 --> 00:24:52,140
+will start to develop new laws of
+ 
+
+1025
+00:24:52,140 --> 00:24:54,110
+will start to develop new laws of
+physics for example
+
+1026
+00:24:54,110 --> 00:24:54,120
+physics for example
+ 
+
+1027
+00:24:54,120 --> 00:24:58,310
+physics for example
+oh so I'll move on a bit because some
+
+1028
+00:24:58,310 --> 00:24:58,320
+oh so I'll move on a bit because some
+ 
+
+1029
+00:24:58,320 --> 00:25:01,610
+oh so I'll move on a bit because some
+five minutes down to to the countdown
+
+1030
+00:25:01,610 --> 00:25:01,620
+five minutes down to to the countdown
+ 
+
+1031
+00:25:01,620 --> 00:25:05,270
+five minutes down to to the countdown
+so I I have already explained quite a
+
+1032
+00:25:05,270 --> 00:25:05,280
+so I I have already explained quite a
+ 
+
+1033
+00:25:05,280 --> 00:25:06,590
+so I I have already explained quite a
+bit of this like
+
+1034
+00:25:06,590 --> 00:25:06,600
+bit of this like
+ 
+
+1035
+00:25:06,600 --> 00:25:10,370
+bit of this like
+what what we are aiming at
+
+1036
+00:25:10,370 --> 00:25:10,380
+what what we are aiming at
+ 
+
+1037
+00:25:10,380 --> 00:25:13,850
+what what we are aiming at
+is development of methods that combine
+
+1038
+00:25:13,850 --> 00:25:13,860
+is development of methods that combine
+ 
+
+1039
+00:25:13,860 --> 00:25:15,950
+is development of methods that combine
+the inductive thinking which is like
+
+1040
+00:25:15,950 --> 00:25:15,960
+the inductive thinking which is like
+ 
+
+1041
+00:25:15,960 --> 00:25:17,990
+the inductive thinking which is like
+learning from examples proposing
+
+1042
+00:25:17,990 --> 00:25:18,000
+learning from examples proposing
+ 
+
+1043
+00:25:18,000 --> 00:25:20,630
+learning from examples proposing
+explanations conjectures Etc
+
+1044
+00:25:20,630 --> 00:25:20,640
+explanations conjectures Etc
+ 
+
+1045
+00:25:20,640 --> 00:25:22,850
+explanations conjectures Etc
+and basically some sort of deduction
+
+1046
+00:25:22,850 --> 00:25:22,860
+and basically some sort of deduction
+ 
+
+1047
+00:25:22,860 --> 00:25:25,310
+and basically some sort of deduction
+reasoning computation
+
+1048
+00:25:25,310 --> 00:25:25,320
+reasoning computation
+ 
+
+1049
+00:25:25,320 --> 00:25:27,769
+reasoning computation
+and designing the mechanisms which
+
+1050
+00:25:27,769 --> 00:25:27,779
+and designing the mechanisms which
+ 
+
+1051
+00:25:27,779 --> 00:25:30,529
+and designing the mechanisms which
+humans have human scientists have in
+
+1052
+00:25:30,529 --> 00:25:30,539
+humans have human scientists have in
+ 
+
+1053
+00:25:30,539 --> 00:25:31,669
+humans have human scientists have in
+their minds
+
+1054
+00:25:31,669 --> 00:25:31,679
+their minds
+ 
+
+1055
+00:25:31,679 --> 00:25:36,010
+their minds
+but but somehow we don't really have yet
+
+1056
+00:25:36,010 --> 00:25:36,020
+but but somehow we don't really have yet
+ 
+
+1057
+00:25:36,020 --> 00:25:38,450
+but but somehow we don't really have yet
+systems that would be as good as human
+
+1058
+00:25:38,450 --> 00:25:38,460
+systems that would be as good as human
+ 
+
+1059
+00:25:38,460 --> 00:25:42,350
+systems that would be as good as human
+scientists in in in many so so
+
+1060
+00:25:42,350 --> 00:25:42,360
+scientists in in in many so so
+ 
+
+1061
+00:25:42,360 --> 00:25:45,590
+scientists in in in many so so
+very a good
+
+1062
+00:25:45,590 --> 00:25:45,600
+very a good
+ 
+
+1063
+00:25:45,600 --> 00:25:48,590
+very a good
+uh environment for doing this research
+
+1064
+00:25:48,590 --> 00:25:48,600
+uh environment for doing this research
+ 
+
+1065
+00:25:48,600 --> 00:25:51,590
+uh environment for doing this research
+is actually mathematics and in
+
+1066
+00:25:51,590 --> 00:25:51,600
+is actually mathematics and in
+ 
+
+1067
+00:25:51,600 --> 00:25:53,750
+is actually mathematics and in
+particular computer mathematics
+
+1068
+00:25:53,750 --> 00:25:53,760
+particular computer mathematics
+ 
+
+1069
+00:25:53,760 --> 00:25:57,769
+particular computer mathematics
+because in other fields it's really hard
+
+1070
+00:25:57,769 --> 00:25:57,779
+because in other fields it's really hard
+ 
+
+1071
+00:25:57,779 --> 00:26:02,210
+because in other fields it's really hard
+to to see when an idea is right or wrong
+
+1072
+00:26:02,210 --> 00:26:02,220
+to to see when an idea is right or wrong
+ 
+
+1073
+00:26:02,220 --> 00:26:06,169
+to to see when an idea is right or wrong
+you you need a human who will sit there
+
+1074
+00:26:06,169 --> 00:26:06,179
+you you need a human who will sit there
+ 
+
+1075
+00:26:06,179 --> 00:26:08,810
+you you need a human who will sit there
+for a long time stare at some chair gbd
+
+1076
+00:26:08,810 --> 00:26:08,820
+for a long time stare at some chair gbd
+ 
+
+1077
+00:26:08,820 --> 00:26:13,430
+for a long time stare at some chair gbd
+output and and wonder whether this is a
+
+1078
+00:26:13,430 --> 00:26:13,440
+output and and wonder whether this is a
+ 
+
+1079
+00:26:13,440 --> 00:26:14,870
+output and and wonder whether this is a
+good product whether it's a good
+
+1080
+00:26:14,870 --> 00:26:14,880
+good product whether it's a good
+ 
+
+1081
+00:26:14,880 --> 00:26:17,390
+good product whether it's a good
+mathematical argument or a good physical
+
+1082
+00:26:17,390 --> 00:26:17,400
+mathematical argument or a good physical
+ 
+
+1083
+00:26:17,400 --> 00:26:20,269
+mathematical argument or a good physical
+argument Etc or not
+
+1084
+00:26:20,269 --> 00:26:20,279
+argument Etc or not
+ 
+
+1085
+00:26:20,279 --> 00:26:23,990
+argument Etc or not
+uh in in this particular
+
+1086
+00:26:23,990 --> 00:26:24,000
+uh in in this particular
+ 
+
+1087
+00:26:24,000 --> 00:26:27,610
+uh in in this particular
+slightly unusual field of of computer
+
+1088
+00:26:27,610 --> 00:26:27,620
+slightly unusual field of of computer
+ 
+
+1089
+00:26:27,620 --> 00:26:30,649
+slightly unusual field of of computer
+computerized mathematics you get this
+
+1090
+00:26:30,649 --> 00:26:30,659
+computerized mathematics you get this
+ 
+
+1091
+00:26:30,659 --> 00:26:34,130
+computerized mathematics you get this
+basically for free so so people in the
+
+1092
+00:26:34,130 --> 00:26:34,140
+basically for free so so people in the
+ 
+
+1093
+00:26:34,140 --> 00:26:36,470
+basically for free so so people in the
+past uh several decades
+
+1094
+00:26:36,470 --> 00:26:36,480
+past uh several decades
+ 
+
+1095
+00:26:36,480 --> 00:26:39,230
+past uh several decades
+have basically managed by fight out of
+
+1096
+00:26:39,230 --> 00:26:39,240
+have basically managed by fight out of
+ 
+
+1097
+00:26:39,240 --> 00:26:40,909
+have basically managed by fight out of
+manual effort but also by some
+
+1098
+00:26:40,909 --> 00:26:40,919
+manual effort but also by some
+ 
+
+1099
+00:26:40,919 --> 00:26:42,110
+manual effort but also by some
+automation
+
+1100
+00:26:42,110 --> 00:26:42,120
+automation
+ 
+
+1101
+00:26:42,120 --> 00:26:47,330
+automation
+to let's say formally Express
+
+1102
+00:26:47,330 --> 00:26:47,340
+to let's say formally Express
+ 
+
+1103
+00:26:47,340 --> 00:26:50,029
+to let's say formally Express
+and and formally verify
+
+1104
+00:26:50,029 --> 00:26:50,039
+and and formally verify
+ 
+
+1105
+00:26:50,039 --> 00:26:53,210
+and and formally verify
+a lot of non-trivial mathematics so I
+
+1106
+00:26:53,210 --> 00:26:53,220
+a lot of non-trivial mathematics so I
+ 
+
+1107
+00:26:53,220 --> 00:26:55,070
+a lot of non-trivial mathematics so I
+may show you some examples
+
+1108
+00:26:55,070 --> 00:26:55,080
+may show you some examples
+ 
+
+1109
+00:26:55,080 --> 00:26:58,730
+may show you some examples
+uh but but also like really verified
+
+1110
+00:26:58,730 --> 00:26:58,740
+uh but but also like really verified
+ 
+
+1111
+00:26:58,740 --> 00:27:00,769
+uh but but also like really verified
+pieces of code that
+
+1112
+00:27:00,769 --> 00:27:00,779
+pieces of code that
+ 
+
+1113
+00:27:00,779 --> 00:27:03,110
+pieces of code that
+Etc like coding libraries
+
+1114
+00:27:03,110 --> 00:27:03,120
+Etc like coding libraries
+ 
+
+1115
+00:27:03,120 --> 00:27:05,090
+Etc like coding libraries
+oh so
+
+1116
+00:27:05,090 --> 00:27:05,100
+oh so
+ 
+
+1117
+00:27:05,100 --> 00:27:07,970
+oh so
+this is another picture from from that
+
+1118
+00:27:07,970 --> 00:27:07,980
+this is another picture from from that
+ 
+
+1119
+00:27:07,980 --> 00:27:11,330
+this is another picture from from that
+funny book that I advertised this this
+
+1120
+00:27:11,330 --> 00:27:11,340
+funny book that I advertised this this
+ 
+
+1121
+00:27:11,340 --> 00:27:13,970
+funny book that I advertised this this
+effort of putting mathematics on on this
+
+1122
+00:27:13,970 --> 00:27:13,980
+effort of putting mathematics on on this
+ 
+
+1123
+00:27:13,980 --> 00:27:15,590
+effort of putting mathematics on on this
+like solid
+
+1124
+00:27:15,590 --> 00:27:15,600
+like solid
+ 
+
+1125
+00:27:15,600 --> 00:27:18,529
+like solid
+a symbolic compute computational
+
+1126
+00:27:18,529 --> 00:27:18,539
+a symbolic compute computational
+ 
+
+1127
+00:27:18,539 --> 00:27:22,130
+a symbolic compute computational
+Foundation wasn't without problems so so
+
+1128
+00:27:22,130 --> 00:27:22,140
+Foundation wasn't without problems so so
+ 
+
+1129
+00:27:22,140 --> 00:27:24,529
+Foundation wasn't without problems so so
+even in mathematics they're very big
+
+1130
+00:27:24,529 --> 00:27:24,539
+even in mathematics they're very big
+ 
+
+1131
+00:27:24,539 --> 00:27:27,470
+even in mathematics they're very big
+people like Herbert versus
+
+1132
+00:27:27,470 --> 00:27:27,480
+people like Herbert versus
+ 
+
+1133
+00:27:27,480 --> 00:27:28,970
+people like Herbert versus
+who
+
+1134
+00:27:28,970 --> 00:27:28,980
+who
+ 
+
+1135
+00:27:28,980 --> 00:27:30,830
+who
+who had different opinions about it like
+
+1136
+00:27:30,830 --> 00:27:30,840
+who had different opinions about it like
+ 
+
+1137
+00:27:30,840 --> 00:27:33,649
+who had different opinions about it like
+some of them very more in the sort of
+
+1138
+00:27:33,649 --> 00:27:33,659
+some of them very more in the sort of
+ 
+
+1139
+00:27:33,659 --> 00:27:34,750
+some of them very more in the sort of
+deduction
+
+1140
+00:27:34,750 --> 00:27:34,760
+deduction
+ 
+
+1141
+00:27:34,760 --> 00:27:39,169
+deduction
+uh the deduction Direction and some of
+
+1142
+00:27:39,169 --> 00:27:39,179
+uh the deduction Direction and some of
+ 
+
+1143
+00:27:39,179 --> 00:27:41,510
+uh the deduction Direction and some of
+them were protesting saying that like if
+
+1144
+00:27:41,510 --> 00:27:41,520
+them were protesting saying that like if
+ 
+
+1145
+00:27:41,520 --> 00:27:44,570
+them were protesting saying that like if
+you mechanized mathematics it will kill
+
+1146
+00:27:44,570 --> 00:27:44,580
+you mechanized mathematics it will kill
+ 
+
+1147
+00:27:44,580 --> 00:27:47,510
+you mechanized mathematics it will kill
+in the uh like the intuition that that
+
+1148
+00:27:47,510 --> 00:27:47,520
+in the uh like the intuition that that
+ 
+
+1149
+00:27:47,520 --> 00:27:49,730
+in the uh like the intuition that that
+mathematicians are working with so so
+
+1150
+00:27:49,730 --> 00:27:49,740
+mathematicians are working with so so
+ 
+
+1151
+00:27:49,740 --> 00:27:53,029
+mathematicians are working with so so
+this was actually an untraveled process
+
+1152
+00:27:53,029 --> 00:27:53,039
+this was actually an untraveled process
+ 
+
+1153
+00:27:53,039 --> 00:27:57,169
+this was actually an untraveled process
+but it happened like it in in the last
+
+1154
+00:27:57,169 --> 00:27:57,179
+but it happened like it in in the last
+ 
+
+1155
+00:27:57,179 --> 00:27:58,490
+but it happened like it in in the last
+century
+
+1156
+00:27:58,490 --> 00:27:58,500
+century
+ 
+
+1157
+00:27:58,500 --> 00:28:01,450
+century
+after like this
+
+1158
+00:28:01,450 --> 00:28:01,460
+after like this
+ 
+
+1159
+00:28:01,460 --> 00:28:04,909
+after like this
+invention of symbolic logic invention of
+
+1160
+00:28:04,909 --> 00:28:04,919
+invention of symbolic logic invention of
+ 
+
+1161
+00:28:04,919 --> 00:28:06,490
+invention of symbolic logic invention of
+computers
+
+1162
+00:28:06,490 --> 00:28:06,500
+computers
+ 
+
+1163
+00:28:06,500 --> 00:28:10,549
+computers
+uh starting to develop AI which by the
+
+1164
+00:28:10,549 --> 00:28:10,559
+uh starting to develop AI which by the
+ 
+
+1165
+00:28:10,559 --> 00:28:12,830
+uh starting to develop AI which by the
+way started with how to make the theorem
+
+1166
+00:28:12,830 --> 00:28:12,840
+way started with how to make the theorem
+ 
+
+1167
+00:28:12,840 --> 00:28:15,169
+way started with how to make the theorem
+previous called logic series by Neil and
+
+1168
+00:28:15,169 --> 00:28:15,179
+previous called logic series by Neil and
+ 
+
+1169
+00:28:15,179 --> 00:28:16,190
+previous called logic series by Neil and
+Simon
+
+1170
+00:28:16,190 --> 00:28:16,200
+Simon
+ 
+
+1171
+00:28:16,200 --> 00:28:18,649
+Simon
+uh people started to formalize
+
+1172
+00:28:18,649 --> 00:28:18,659
+uh people started to formalize
+ 
+
+1173
+00:28:18,659 --> 00:28:21,169
+uh people started to formalize
+mathematics on computers develop
+
+1174
+00:28:21,169 --> 00:28:21,179
+mathematics on computers develop
+ 
+
+1175
+00:28:21,179 --> 00:28:23,269
+mathematics on computers develop
+automated and interactive theorem
+
+1176
+00:28:23,269 --> 00:28:23,279
+automated and interactive theorem
+ 
+
+1177
+00:28:23,279 --> 00:28:24,409
+automated and interactive theorem
+previous
+
+1178
+00:28:24,409 --> 00:28:24,419
+previous
+ 
+
+1179
+00:28:24,419 --> 00:28:27,590
+previous
+and do do things with them and you you
+
+1180
+00:28:27,590 --> 00:28:27,600
+and do do things with them and you you
+ 
+
+1181
+00:28:27,600 --> 00:28:30,350
+and do do things with them and you you
+will hear a bit more from Martin and
+
+1182
+00:28:30,350 --> 00:28:30,360
+will hear a bit more from Martin and
+ 
+
+1183
+00:28:30,360 --> 00:28:32,750
+will hear a bit more from Martin and
+mcclash
+
+1184
+00:28:32,750 --> 00:28:32,760
+mcclash
+ 
+
+1185
+00:28:32,760 --> 00:28:35,750
+mcclash
+and this technology is today already
+
+1186
+00:28:35,750 --> 00:28:35,760
+and this technology is today already
+ 
+
+1187
+00:28:35,760 --> 00:28:39,529
+and this technology is today already
+useful so people have verified
+
+1188
+00:28:39,529 --> 00:28:39,539
+useful so people have verified
+ 
+
+1189
+00:28:39,539 --> 00:28:42,350
+useful so people have verified
+graduate books in mathematics and in
+
+1190
+00:28:42,350 --> 00:28:42,360
+graduate books in mathematics and in
+ 
+
+1191
+00:28:42,360 --> 00:28:45,130
+graduate books in mathematics and in
+these large projects they have verified
+
+1192
+00:28:45,130 --> 00:28:45,140
+these large projects they have verified
+ 
+
+1193
+00:28:45,140 --> 00:28:48,049
+these large projects they have verified
+serious compilers like C compilers
+
+1194
+00:28:48,049 --> 00:28:48,059
+serious compilers like C compilers
+ 
+
+1195
+00:28:48,059 --> 00:28:50,690
+serious compilers like C compilers
+operating system micro kernels Hardware
+
+1196
+00:28:50,690 --> 00:28:50,700
+operating system micro kernels Hardware
+ 
+
+1197
+00:28:50,700 --> 00:28:53,810
+operating system micro kernels Hardware
+chips transport Finance systems
+
+1198
+00:28:53,810 --> 00:28:53,820
+chips transport Finance systems
+ 
+
+1199
+00:28:53,820 --> 00:28:56,690
+chips transport Finance systems
+cryptographic protocols Etc and there
+
+1200
+00:28:56,690 --> 00:28:56,700
+cryptographic protocols Etc and there
+ 
+
+1201
+00:28:56,700 --> 00:28:58,549
+cryptographic protocols Etc and there
+are all these crazy visions that start
+
+1202
+00:28:58,549 --> 00:28:58,559
+are all these crazy visions that start
+ 
+
+1203
+00:28:58,559 --> 00:29:01,010
+are all these crazy visions that start
+with slide nights Etc
+
+1204
+00:29:01,010 --> 00:29:01,020
+with slide nights Etc
+ 
+
+1205
+00:29:01,020 --> 00:29:03,590
+with slide nights Etc
+I'll I'll just quickly I'm running out
+
+1206
+00:29:03,590 --> 00:29:03,600
+I'll I'll just quickly I'm running out
+ 
+
+1207
+00:29:03,600 --> 00:29:05,930
+I'll I'll just quickly I'm running out
+of time show you one example of formal
+
+1208
+00:29:05,930 --> 00:29:05,940
+of time show you one example of formal
+ 
+
+1209
+00:29:05,940 --> 00:29:08,990
+of time show you one example of formal
+formal mathematics so so this is a proof
+
+1210
+00:29:08,990 --> 00:29:09,000
+formal mathematics so so this is a proof
+ 
+
+1211
+00:29:09,000 --> 00:29:11,510
+formal mathematics so so this is a proof
+that every student of mathematics has at
+
+1212
+00:29:11,510 --> 00:29:11,520
+that every student of mathematics has at
+ 
+
+1213
+00:29:11,520 --> 00:29:13,070
+that every student of mathematics has at
+some point seen it's it's the
+
+1214
+00:29:13,070 --> 00:29:13,080
+some point seen it's it's the
+ 
+
+1215
+00:29:13,080 --> 00:29:15,830
+some point seen it's it's the
+irrationality of the square root of two
+
+1216
+00:29:15,830 --> 00:29:15,840
+irrationality of the square root of two
+ 
+
+1217
+00:29:15,840 --> 00:29:18,470
+irrationality of the square root of two
+and and this is how it looks in a formal
+
+1218
+00:29:18,470 --> 00:29:18,480
+and and this is how it looks in a formal
+ 
+
+1219
+00:29:18,480 --> 00:29:21,169
+and and this is how it looks in a formal
+proof language this this is what you do
+
+1220
+00:29:21,169 --> 00:29:21,179
+proof language this this is what you do
+ 
+
+1221
+00:29:21,179 --> 00:29:24,950
+proof language this this is what you do
+to to have that piece of text that is
+
+1222
+00:29:24,950 --> 00:29:24,960
+to to have that piece of text that is
+ 
+
+1223
+00:29:24,960 --> 00:29:26,330
+to to have that piece of text that is
+here
+
+1224
+00:29:26,330 --> 00:29:26,340
+here
+ 
+
+1225
+00:29:26,340 --> 00:29:30,769
+here
+formally checked by a computer by by a
+
+1226
+00:29:30,769 --> 00:29:30,779
+formally checked by a computer by by a
+ 
+
+1227
+00:29:30,779 --> 00:29:32,870
+formally checked by a computer by by a
+machine basically so so that's what
+
+1228
+00:29:32,870 --> 00:29:32,880
+machine basically so so that's what
+ 
+
+1229
+00:29:32,880 --> 00:29:34,970
+machine basically so so that's what
+these people are doing what we are doing
+
+1230
+00:29:34,970 --> 00:29:34,980
+these people are doing what we are doing
+ 
+
+1231
+00:29:34,980 --> 00:29:37,370
+these people are doing what we are doing
+is to do these things automatically not
+
+1232
+00:29:37,370 --> 00:29:37,380
+is to do these things automatically not
+ 
+
+1233
+00:29:37,380 --> 00:29:40,370
+is to do these things automatically not
+we do not want to write them manually we
+
+1234
+00:29:40,370 --> 00:29:40,380
+we do not want to write them manually we
+ 
+
+1235
+00:29:40,380 --> 00:29:42,230
+we do not want to write them manually we
+we sort of try to
+
+1236
+00:29:42,230 --> 00:29:42,240
+we sort of try to
+ 
+
+1237
+00:29:42,240 --> 00:29:45,649
+we sort of try to
+uh through them uh automatically
+
+1238
+00:29:45,649 --> 00:29:45,659
+uh through them uh automatically
+ 
+
+1239
+00:29:45,659 --> 00:29:47,269
+uh through them uh automatically
+this is
+
+1240
+00:29:47,269 --> 00:29:47,279
+this is
+ 
+
+1241
+00:29:47,279 --> 00:29:51,169
+this is
+an example of one of the bigger projects
+
+1242
+00:29:51,169 --> 00:29:51,179
+an example of one of the bigger projects
+ 
+
+1243
+00:29:51,179 --> 00:29:53,690
+an example of one of the bigger projects
+called the Kepler conjecture I started
+
+1244
+00:29:53,690 --> 00:29:53,700
+called the Kepler conjecture I started
+ 
+
+1245
+00:29:53,700 --> 00:29:55,130
+called the Kepler conjecture I started
+to talk about Kepler
+
+1246
+00:29:55,130 --> 00:29:55,140
+to talk about Kepler
+ 
+
+1247
+00:29:55,140 --> 00:29:58,310
+to talk about Kepler
+so there is a story about him walking
+
+1248
+00:29:58,310 --> 00:29:58,320
+so there is a story about him walking
+ 
+
+1249
+00:29:58,320 --> 00:30:01,970
+so there is a story about him walking
+across the Charles bridge in 1610 and
+
+1250
+00:30:01,970 --> 00:30:01,980
+across the Charles bridge in 1610 and
+ 
+
+1251
+00:30:01,980 --> 00:30:04,370
+across the Charles bridge in 1610 and
+being hit by a snowflake
+
+1252
+00:30:04,370 --> 00:30:04,380
+being hit by a snowflake
+ 
+
+1253
+00:30:04,380 --> 00:30:07,370
+being hit by a snowflake
+and as he was hit he started to wonder
+
+1254
+00:30:07,370 --> 00:30:07,380
+and as he was hit he started to wonder
+ 
+
+1255
+00:30:07,380 --> 00:30:10,070
+and as he was hit he started to wonder
+how uh like why the snowflake has a
+
+1256
+00:30:10,070 --> 00:30:10,080
+how uh like why the snowflake has a
+ 
+
+1257
+00:30:10,080 --> 00:30:11,510
+how uh like why the snowflake has a
+hexagonal shape
+
+1258
+00:30:11,510 --> 00:30:11,520
+hexagonal shape
+ 
+
+1259
+00:30:11,520 --> 00:30:15,529
+hexagonal shape
+and he wrote the treaties about it and
+
+1260
+00:30:15,529 --> 00:30:15,539
+and he wrote the treaties about it and
+ 
+
+1261
+00:30:15,539 --> 00:30:18,769
+and he wrote the treaties about it and
+in the treaties he conjectured that the
+
+1262
+00:30:18,769 --> 00:30:18,779
+in the treaties he conjectured that the
+ 
+
+1263
+00:30:18,779 --> 00:30:21,830
+in the treaties he conjectured that the
+most compact way of stacking balls
+
+1264
+00:30:21,830 --> 00:30:21,840
+most compact way of stacking balls
+ 
+
+1265
+00:30:21,840 --> 00:30:25,190
+most compact way of stacking balls
+of the same same size is this sort of
+
+1266
+00:30:25,190 --> 00:30:25,200
+of the same same size is this sort of
+ 
+
+1267
+00:30:25,200 --> 00:30:27,710
+of the same same size is this sort of
+orange uh pyramid
+
+1268
+00:30:27,710 --> 00:30:27,720
+orange uh pyramid
+ 
+
+1269
+00:30:27,720 --> 00:30:32,570
+orange uh pyramid
+so so this big State open and unproved
+
+1270
+00:30:32,570 --> 00:30:32,580
+so so this big State open and unproved
+ 
+
+1271
+00:30:32,580 --> 00:30:34,730
+so so this big State open and unproved
+for for a hundred years then it was
+
+1272
+00:30:34,730 --> 00:30:34,740
+for for a hundred years then it was
+ 
+
+1273
+00:30:34,740 --> 00:30:37,730
+for for a hundred years then it was
+proved in like 1998
+
+1274
+00:30:37,730 --> 00:30:37,740
+proved in like 1998
+ 
+
+1275
+00:30:37,740 --> 00:30:40,010
+proved in like 1998
+but the mathematicians didn't believe
+
+1276
+00:30:40,010 --> 00:30:40,020
+but the mathematicians didn't believe
+ 
+
+1277
+00:30:40,020 --> 00:30:41,210
+but the mathematicians didn't believe
+the truth
+
+1278
+00:30:41,210 --> 00:30:41,220
+the truth
+ 
+
+1279
+00:30:41,220 --> 00:30:44,750
+the truth
+so what the offers of the proof date was
+
+1280
+00:30:44,750 --> 00:30:44,760
+so what the offers of the proof date was
+ 
+
+1281
+00:30:44,760 --> 00:30:49,610
+so what the offers of the proof date was
+to fully formally verify this uh long
+
+1282
+00:30:49,610 --> 00:30:49,620
+to fully formally verify this uh long
+ 
+
+1283
+00:30:49,620 --> 00:30:51,590
+to fully formally verify this uh long
+mathematical proofs
+
+1284
+00:30:51,590 --> 00:30:51,600
+mathematical proofs
+ 
+
+1285
+00:30:51,600 --> 00:30:55,070
+mathematical proofs
+in in computer and on computers that
+
+1286
+00:30:55,070 --> 00:30:55,080
+in in computer and on computers that
+ 
+
+1287
+00:30:55,080 --> 00:30:57,889
+in in computer and on computers that
+gave them something like 20 000 lemas of
+
+1288
+00:30:57,889 --> 00:30:57,899
+gave them something like 20 000 lemas of
+ 
+
+1289
+00:30:57,899 --> 00:31:00,169
+gave them something like 20 000 lemas of
+of this sort of shape
+
+1290
+00:31:00,169 --> 00:31:00,179
+of this sort of shape
+ 
+
+1291
+00:31:00,179 --> 00:31:03,470
+of this sort of shape
+which which took immense amount of time
+
+1292
+00:31:03,470 --> 00:31:03,480
+which which took immense amount of time
+ 
+
+1293
+00:31:03,480 --> 00:31:05,990
+which which took immense amount of time
+but what we could show like nine years
+
+1294
+00:31:05,990 --> 00:31:06,000
+but what we could show like nine years
+ 
+
+1295
+00:31:06,000 --> 00:31:09,889
+but what we could show like nine years
+ago is is that you can basically
+
+1296
+00:31:09,889 --> 00:31:09,899
+ago is is that you can basically
+ 
+
+1297
+00:31:09,899 --> 00:31:12,950
+ago is is that you can basically
+automate a lot of a lot of that stuff
+
+1298
+00:31:12,950 --> 00:31:12,960
+automate a lot of a lot of that stuff
+ 
+
+1299
+00:31:12,960 --> 00:31:15,769
+automate a lot of a lot of that stuff
+by doing some combinations of machine
+
+1300
+00:31:15,769 --> 00:31:15,779
+by doing some combinations of machine
+ 
+
+1301
+00:31:15,779 --> 00:31:18,590
+by doing some combinations of machine
+learning and automated so so that was
+
+1302
+00:31:18,590 --> 00:31:18,600
+learning and automated so so that was
+ 
+
+1303
+00:31:18,600 --> 00:31:20,690
+learning and automated so so that was
+like the first
+
+1304
+00:31:20,690 --> 00:31:20,700
+like the first
+ 
+
+1305
+00:31:20,700 --> 00:31:25,130
+like the first
+plausible sign that things could be done
+
+1306
+00:31:25,130 --> 00:31:25,140
+plausible sign that things could be done
+ 
+
+1307
+00:31:25,140 --> 00:31:30,710
+plausible sign that things could be done
+um how much more can I talk
+
+1308
+00:31:30,710 --> 00:31:30,720
+
+ 
+
+1309
+00:31:30,720 --> 00:31:34,850
+
+two seconds all right
+
+1310
+00:31:34,850 --> 00:31:34,860
+
+ 
+
+1311
+00:31:34,860 --> 00:31:38,450
+
+um so I'll ask you this like these are
+
+1312
+00:31:38,450 --> 00:31:38,460
+um so I'll ask you this like these are
+ 
+
+1313
+00:31:38,460 --> 00:31:41,389
+um so I'll ask you this like these are
+like technical details then
+
+1314
+00:31:41,389 --> 00:31:41,399
+like technical details then
+ 
+
+1315
+00:31:41,399 --> 00:31:43,190
+like technical details then
+showing you can probably download the
+
+1316
+00:31:43,190 --> 00:31:43,200
+showing you can probably download the
+ 
+
+1317
+00:31:43,200 --> 00:31:47,210
+showing you can probably download the
+slides later uh showing you what are all
+
+1318
+00:31:47,210 --> 00:31:47,220
+slides later uh showing you what are all
+ 
+
+1319
+00:31:47,220 --> 00:31:49,789
+slides later uh showing you what are all
+the things that you can do and uh you
+
+1320
+00:31:49,789 --> 00:31:49,799
+the things that you can do and uh you
+ 
+
+1321
+00:31:49,799 --> 00:31:52,370
+the things that you can do and uh you
+you combine learning countries I think
+
+1322
+00:31:52,370 --> 00:31:52,380
+you combine learning countries I think
+ 
+
+1323
+00:31:52,380 --> 00:31:55,430
+you combine learning countries I think
+uh these are demos again you can click
+
+1324
+00:31:55,430 --> 00:31:55,440
+uh these are demos again you can click
+ 
+
+1325
+00:31:55,440 --> 00:31:57,590
+uh these are demos again you can click
+on them and these are the products that
+
+1326
+00:31:57,590 --> 00:31:57,600
+on them and these are the products that
+ 
+
+1327
+00:31:57,600 --> 00:32:00,350
+on them and these are the products that
+we have been creating during the six
+
+1328
+00:32:00,350 --> 00:32:00,360
+we have been creating during the six
+ 
+
+1329
+00:32:00,360 --> 00:32:02,029
+we have been creating during the six
+years of the project
+
+1330
+00:32:02,029 --> 00:32:02,039
+years of the project
+ 
+
+1331
+00:32:02,039 --> 00:32:06,049
+years of the project
+uh this is one of our main system which
+
+1332
+00:32:06,049 --> 00:32:06,059
+uh this is one of our main system which
+ 
+
+1333
+00:32:06,059 --> 00:32:08,210
+uh this is one of our main system which
+really broke the ground
+
+1334
+00:32:08,210 --> 00:32:08,220
+really broke the ground
+ 
+
+1335
+00:32:08,220 --> 00:32:11,870
+really broke the ground
+in the sense that it
+
+1336
+00:32:11,870 --> 00:32:11,880
+in the sense that it
+ 
+
+1337
+00:32:11,880 --> 00:32:14,510
+in the sense that it
+improved on the best automated CRM
+
+1338
+00:32:14,510 --> 00:32:14,520
+improved on the best automated CRM
+ 
+
+1339
+00:32:14,520 --> 00:32:17,090
+improved on the best automated CRM
+previous in in the field and I I will
+
+1340
+00:32:17,090 --> 00:32:17,100
+previous in in the field and I I will
+ 
+
+1341
+00:32:17,100 --> 00:32:19,029
+previous in in the field and I I will
+not go into it here
+
+1342
+00:32:19,029 --> 00:32:19,039
+not go into it here
+ 
+
+1343
+00:32:19,039 --> 00:32:22,430
+not go into it here
+what I will just say is that on on the
+
+1344
+00:32:22,430 --> 00:32:22,440
+what I will just say is that on on the
+ 
+
+1345
+00:32:22,440 --> 00:32:25,430
+what I will just say is that on on the
+side you can see one of these feedback
+
+1346
+00:32:25,430 --> 00:32:25,440
+side you can see one of these feedback
+ 
+
+1347
+00:32:25,440 --> 00:32:27,889
+side you can see one of these feedback
+loops between learning and reasoning you
+
+1348
+00:32:27,889 --> 00:32:27,899
+loops between learning and reasoning you
+ 
+
+1349
+00:32:27,899 --> 00:32:29,990
+loops between learning and reasoning you
+you start with a system which is not
+
+1350
+00:32:29,990 --> 00:32:30,000
+you start with a system which is not
+ 
+
+1351
+00:32:30,000 --> 00:32:32,630
+you start with a system which is not
+trained and you run it to solve some
+
+1352
+00:32:32,630 --> 00:32:32,640
+trained and you run it to solve some
+ 
+
+1353
+00:32:32,640 --> 00:32:34,789
+trained and you run it to solve some
+problems and you learn from the
+
+1354
+00:32:34,789 --> 00:32:34,799
+problems and you learn from the
+ 
+
+1355
+00:32:34,799 --> 00:32:37,490
+problems and you learn from the
+solutions that when you run the train
+
+1356
+00:32:37,490 --> 00:32:37,500
+solutions that when you run the train
+ 
+
+1357
+00:32:37,500 --> 00:32:38,990
+solutions that when you run the train
+system again and we solve some more
+
+1358
+00:32:38,990 --> 00:32:39,000
+system again and we solve some more
+ 
+
+1359
+00:32:39,000 --> 00:32:41,210
+system again and we solve some more
+problems and then you learn from it
+
+1360
+00:32:41,210 --> 00:32:41,220
+problems and then you learn from it
+ 
+
+1361
+00:32:41,220 --> 00:32:44,269
+problems and then you learn from it
+again if you repeat this six times the
+
+1362
+00:32:44,269 --> 00:32:44,279
+again if you repeat this six times the
+ 
+
+1363
+00:32:44,279 --> 00:32:48,710
+again if you repeat this six times the
+the system improves by some 70 percent
+
+1364
+00:32:48,710 --> 00:32:48,720
+the system improves by some 70 percent
+ 
+
+1365
+00:32:48,720 --> 00:32:51,110
+the system improves by some 70 percent
+that this is the kind of proof that we
+
+1366
+00:32:51,110 --> 00:32:51,120
+that this is the kind of proof that we
+ 
+
+1367
+00:32:51,120 --> 00:32:53,029
+that this is the kind of proof that we
+can get today we can get this one in
+
+1368
+00:32:53,029 --> 00:32:53,039
+can get today we can get this one in
+ 
+
+1369
+00:32:53,039 --> 00:32:54,289
+can get today we can get this one in
+four minutes
+
+1370
+00:32:54,289 --> 00:32:54,299
+four minutes
+ 
+
+1371
+00:32:54,299 --> 00:32:56,630
+four minutes
+looks like this if you if you write it
+
+1372
+00:32:56,630 --> 00:32:56,640
+looks like this if you if you write it
+ 
+
+1373
+00:32:56,640 --> 00:32:59,750
+looks like this if you if you write it
+manually this is some sort of statistics
+
+1374
+00:32:59,750 --> 00:32:59,760
+manually this is some sort of statistics
+ 
+
+1375
+00:32:59,760 --> 00:33:01,190
+manually this is some sort of statistics
+about it
+
+1376
+00:33:01,190 --> 00:33:01,200
+about it
+ 
+
+1377
+00:33:01,200 --> 00:33:04,610
+about it
+uh we we have done other things and I
+
+1378
+00:33:04,610 --> 00:33:04,620
+uh we we have done other things and I
+ 
+
+1379
+00:33:04,620 --> 00:33:06,649
+uh we we have done other things and I
+wanted to show this to Holger but I will
+
+1380
+00:33:06,649 --> 00:33:06,659
+wanted to show this to Holger but I will
+ 
+
+1381
+00:33:06,659 --> 00:33:11,210
+wanted to show this to Holger but I will
+show show him show him offline this is a
+
+1382
+00:33:11,210 --> 00:33:11,220
+show show him show him offline this is a
+ 
+
+1383
+00:33:11,220 --> 00:33:12,350
+show show him show him offline this is a
+system
+
+1384
+00:33:12,350 --> 00:33:12,360
+system
+ 
+
+1385
+00:33:12,360 --> 00:33:14,870
+system
+to which you can give an integer
+
+1386
+00:33:14,870 --> 00:33:14,880
+to which you can give an integer
+ 
+
+1387
+00:33:14,880 --> 00:33:17,029
+to which you can give an integer
+sequence and it's also running this
+
+1388
+00:33:17,029 --> 00:33:17,039
+sequence and it's also running this
+ 
+
+1389
+00:33:17,039 --> 00:33:19,310
+sequence and it's also running this
+feedback loop between like verification
+
+1390
+00:33:19,310 --> 00:33:19,320
+feedback loop between like verification
+ 
+
+1391
+00:33:19,320 --> 00:33:21,769
+feedback loop between like verification
+and invention using actual language
+
+1392
+00:33:21,769 --> 00:33:21,779
+and invention using actual language
+ 
+
+1393
+00:33:21,779 --> 00:33:23,450
+and invention using actual language
+models today
+
+1394
+00:33:23,450 --> 00:33:23,460
+models today
+ 
+
+1395
+00:33:23,460 --> 00:33:27,169
+models today
+and I will skip the language and the
+
+1396
+00:33:27,169 --> 00:33:27,179
+and I will skip the language and the
+ 
+
+1397
+00:33:27,179 --> 00:33:29,570
+and I will skip the language and the
+Monte Carlo basically what you give it
+
+1398
+00:33:29,570 --> 00:33:29,580
+Monte Carlo basically what you give it
+ 
+
+1399
+00:33:29,580 --> 00:33:32,269
+Monte Carlo basically what you give it
+is a sequence of integers like times in
+
+1400
+00:33:32,269 --> 00:33:32,279
+is a sequence of integers like times in
+ 
+
+1401
+00:33:32,279 --> 00:33:35,630
+is a sequence of integers like times in
+this in this case and it will spit out a
+
+1402
+00:33:35,630 --> 00:33:35,640
+this in this case and it will spit out a
+ 
+
+1403
+00:33:35,640 --> 00:33:37,190
+this in this case and it will spit out a
+program
+
+1404
+00:33:37,190 --> 00:33:37,200
+program
+ 
+
+1405
+00:33:37,200 --> 00:33:40,070
+program
+that is trying to capture the sequence
+
+1406
+00:33:40,070 --> 00:33:40,080
+that is trying to capture the sequence
+ 
+
+1407
+00:33:40,080 --> 00:33:42,230
+that is trying to capture the sequence
+like in this case these are pseudo
+
+1408
+00:33:42,230 --> 00:33:42,240
+like in this case these are pseudo
+ 
+
+1409
+00:33:42,240 --> 00:33:43,370
+like in this case these are pseudo
+Primes
+
+1410
+00:33:43,370 --> 00:33:43,380
+Primes
+ 
+
+1411
+00:33:43,380 --> 00:33:48,169
+Primes
+uh and it can do it in different ways
+
+1412
+00:33:48,169 --> 00:33:48,179
+uh and it can do it in different ways
+ 
+
+1413
+00:33:48,179 --> 00:33:50,870
+uh and it can do it in different ways
+and sometimes when you have two
+
+1414
+00:33:50,870 --> 00:33:50,880
+and sometimes when you have two
+ 
+
+1415
+00:33:50,880 --> 00:33:53,930
+and sometimes when you have two
+different ways how the system thinks
+
+1416
+00:33:53,930 --> 00:33:53,940
+different ways how the system thinks
+ 
+
+1417
+00:33:53,940 --> 00:33:55,850
+different ways how the system thinks
+that it expresses some pattern like
+
+1418
+00:33:55,850 --> 00:33:55,860
+that it expresses some pattern like
+ 
+
+1419
+00:33:55,860 --> 00:33:57,889
+that it expresses some pattern like
+Branch for example you can ask the
+
+1420
+00:33:57,889 --> 00:33:57,899
+Branch for example you can ask the
+ 
+
+1421
+00:33:57,899 --> 00:34:00,169
+Branch for example you can ask the
+question can I prove that these two
+
+1422
+00:34:00,169 --> 00:34:00,179
+question can I prove that these two
+ 
+
+1423
+00:34:00,179 --> 00:34:02,690
+question can I prove that these two
+things are actually the same can I prove
+
+1424
+00:34:02,690 --> 00:34:02,700
+things are actually the same can I prove
+ 
+
+1425
+00:34:02,700 --> 00:34:05,090
+things are actually the same can I prove
+that these two programs are the same and
+
+1426
+00:34:05,090 --> 00:34:05,100
+that these two programs are the same and
+ 
+
+1427
+00:34:05,100 --> 00:34:07,089
+that these two programs are the same and
+actually in in some cases
+
+1428
+00:34:07,089 --> 00:34:07,099
+actually in in some cases
+ 
+
+1429
+00:34:07,099 --> 00:34:10,369
+actually in in some cases
+will be talking about it we can do it so
+
+1430
+00:34:10,369 --> 00:34:10,379
+will be talking about it we can do it so
+ 
+
+1431
+00:34:10,379 --> 00:34:14,210
+will be talking about it we can do it so
+so this is a smt problem encoding the
+
+1432
+00:34:14,210 --> 00:34:14,220
+so this is a smt problem encoding the
+ 
+
+1433
+00:34:14,220 --> 00:34:17,990
+so this is a smt problem encoding the
+equality of the of the two programs
+
+1434
+00:34:17,990 --> 00:34:18,000
+equality of the of the two programs
+ 
+
+1435
+00:34:18,000 --> 00:34:20,690
+equality of the of the two programs
+and this is a proof that Martin can
+
+1436
+00:34:20,690 --> 00:34:20,700
+and this is a proof that Martin can
+ 
+
+1437
+00:34:20,700 --> 00:34:23,210
+and this is a proof that Martin can
+produce with the with the Vampire system
+
+1438
+00:34:23,210 --> 00:34:23,220
+produce with the with the Vampire system
+ 
+
+1439
+00:34:23,220 --> 00:34:26,149
+produce with the with the Vampire system
+of of that particular he called
+
+1440
+00:34:26,149 --> 00:34:26,159
+of of that particular he called
+ 
+
+1441
+00:34:26,159 --> 00:34:30,290
+of of that particular he called
+oh here are some bats but like that I
+
+1442
+00:34:30,290 --> 00:34:30,300
+oh here are some bats but like that I
+ 
+
+1443
+00:34:30,300 --> 00:34:33,169
+oh here are some bats but like that I
+did actually in 2014 like how far and
+
+1444
+00:34:33,169 --> 00:34:33,179
+did actually in 2014 like how far and
+ 
+
+1445
+00:34:33,179 --> 00:34:34,369
+did actually in 2014 like how far and
+how quickly
+
+1446
+00:34:34,369 --> 00:34:34,379
+how quickly
+ 
+
+1447
+00:34:34,379 --> 00:34:37,369
+how quickly
+the this field will move and I will not
+
+1448
+00:34:37,369 --> 00:34:37,379
+the this field will move and I will not
+ 
+
+1449
+00:34:37,379 --> 00:34:38,930
+the this field will move and I will not
+linger on that
+
+1450
+00:34:38,930 --> 00:34:38,940
+linger on that
+ 
+
+1451
+00:34:38,940 --> 00:34:42,010
+linger on that
+and let me just thank
+
+1452
+00:34:42,010 --> 00:34:42,020
+and let me just thank
+ 
+
+1453
+00:34:42,020 --> 00:34:45,050
+and let me just thank
+and in particular Professor Majid for
+
+1454
+00:34:45,050 --> 00:34:45,060
+and in particular Professor Majid for
+ 
+
+1455
+00:34:45,060 --> 00:34:48,349
+and in particular Professor Majid for
+welcoming us all here
+
+1456
+00:34:48,349 --> 00:34:48,359
+welcoming us all here
+ 
+
+1457
+00:34:48,359 --> 00:34:51,470
+welcoming us all here
+let's let me thank our sponsors in
+
+1458
+00:34:51,470 --> 00:34:51,480
+let's let me thank our sponsors in
+ 
+
+1459
+00:34:51,480 --> 00:34:53,810
+let's let me thank our sponsors in
+particular the European structural funds
+
+1460
+00:34:53,810 --> 00:34:53,820
+particular the European structural funds
+ 
+
+1461
+00:34:53,820 --> 00:34:57,410
+particular the European structural funds
+uh and the oob projects
+
+1462
+00:34:57,410 --> 00:34:57,420
+uh and the oob projects
+ 
+
+1463
+00:34:57,420 --> 00:35:00,950
+uh and the oob projects
+my valued team members who were all
+
+1464
+00:35:00,950 --> 00:35:00,960
+my valued team members who were all
+ 
+
+1465
+00:35:00,960 --> 00:35:02,510
+my valued team members who were all
+grades to work with
+
+1466
+00:35:02,510 --> 00:35:02,520
+grades to work with
+ 
+
+1467
+00:35:02,520 --> 00:35:04,910
+grades to work with
+our International Partners who helped us
+
+1468
+00:35:04,910 --> 00:35:04,920
+our International Partners who helped us
+ 
+
+1469
+00:35:04,920 --> 00:35:05,990
+our International Partners who helped us
+a lot
+
+1470
+00:35:05,990 --> 00:35:06,000
+a lot
+ 
+
+1471
+00:35:06,000 --> 00:35:07,849
+a lot
+the the visitors
+
+1472
+00:35:07,849 --> 00:35:07,859
+the the visitors
+ 
+
+1473
+00:35:07,859 --> 00:35:11,089
+the the visitors
+and most of all I would like to thank
+
+1474
+00:35:11,089 --> 00:35:11,099
+and most of all I would like to thank
+ 
+
+1475
+00:35:11,099 --> 00:35:14,510
+and most of all I would like to thank
+all the international or the people not
+
+1476
+00:35:14,510 --> 00:35:14,520
+all the international or the people not
+ 
+
+1477
+00:35:14,520 --> 00:35:16,250
+all the international or the people not
+just International ones
+
+1478
+00:35:16,250 --> 00:35:16,260
+just International ones
+ 
+
+1479
+00:35:16,260 --> 00:35:18,109
+just International ones
+but the people who returned to Czech
+
+1480
+00:35:18,109 --> 00:35:18,119
+but the people who returned to Czech
+ 
+
+1481
+00:35:18,119 --> 00:35:19,010
+but the people who returned to Czech
+Republic
+
+1482
+00:35:19,010 --> 00:35:19,020
+Republic
+ 
+
+1483
+00:35:19,020 --> 00:35:21,710
+Republic
+and and sort of took this risk of coming
+
+1484
+00:35:21,710 --> 00:35:21,720
+and and sort of took this risk of coming
+ 
+
+1485
+00:35:21,720 --> 00:35:24,349
+and and sort of took this risk of coming
+from I know Austria or in the
+
+1486
+00:35:24,349 --> 00:35:24,359
+from I know Austria or in the
+ 
+
+1487
+00:35:24,359 --> 00:35:27,050
+from I know Austria or in the
+Netherlands Etc and actually survived
+
+1488
+00:35:27,050 --> 00:35:27,060
+Netherlands Etc and actually survived
+ 
+
+1489
+00:35:27,060 --> 00:35:29,930
+Netherlands Etc and actually survived
+here and I think started one of the
+
+1490
+00:35:29,930 --> 00:35:29,940
+here and I think started one of the
+ 
+
+1491
+00:35:29,940 --> 00:35:32,030
+here and I think started one of the
+first really like International English
+
+1492
+00:35:32,030 --> 00:35:32,040
+first really like International English
+ 
+
+1493
+00:35:32,040 --> 00:35:34,490
+first really like International English
+speaker groups at uh at the Czech
+
+1494
+00:35:34,490 --> 00:35:34,500
+speaker groups at uh at the Czech
+ 
+
+1495
+00:35:34,500 --> 00:35:42,190
+speaker groups at uh at the Czech
+Technical University oh so thanks a lot
+
+1496
+00:35:42,190 --> 00:35:42,200
+
+ 
+
+1497
+00:35:42,200 --> 00:35:45,950
+
+thank you very much I have to say thank
+
+1498
+00:35:45,950 --> 00:35:45,960
+thank you very much I have to say thank
+ 
+
+1499
+00:35:45,960 --> 00:35:48,770
+thank you very much I have to say thank
+you for organizing such a group for
+
+1500
+00:35:48,770 --> 00:35:48,780
+you for organizing such a group for
+ 
+
+1501
+00:35:48,780 --> 00:35:51,230
+you for organizing such a group for
+staying with us and for promoting the
+
+1502
+00:35:51,230 --> 00:35:51,240
+staying with us and for promoting the
+ 
+
+1503
+00:35:51,240 --> 00:35:54,410
+staying with us and for promoting the
+Czech science across Europe we are a
+
+1504
+00:35:54,410 --> 00:35:54,420
+Czech science across Europe we are a
+ 
+
+1505
+00:35:54,420 --> 00:35:56,210
+Czech science across Europe we are a
+little bit thank you very much also for
+
+1506
+00:35:56,210 --> 00:35:56,220
+little bit thank you very much also for
+ 
+
+1507
+00:35:56,220 --> 00:35:58,820
+little bit thank you very much also for
+the presentation
+

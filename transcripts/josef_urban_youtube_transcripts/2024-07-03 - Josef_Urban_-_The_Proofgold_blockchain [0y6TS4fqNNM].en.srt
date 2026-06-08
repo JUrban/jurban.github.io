@@ -1,0 +1,9915 @@
+1
+00:00:00,080 --> 00:00:01,470
+
+I can tell you
+
+2
+00:00:01,470 --> 00:00:01,480
+I can tell you
+ 
+
+3
+00:00:01,480 --> 00:00:03,870
+I can tell you
+something uh
+
+4
+00:00:03,870 --> 00:00:03,880
+something uh
+ 
+
+5
+00:00:03,880 --> 00:00:09,310
+something uh
+so so proof gold is a cryptocurrency or
+
+6
+00:00:09,310 --> 00:00:09,320
+so so proof gold is a cryptocurrency or
+ 
+
+7
+00:00:09,320 --> 00:00:12,390
+so so proof gold is a cryptocurrency or
+blockchain uh supporting formal logic
+
+8
+00:00:12,390 --> 00:00:12,400
+blockchain uh supporting formal logic
+ 
+
+9
+00:00:12,400 --> 00:00:15,990
+blockchain uh supporting formal logic
+formal proof and form formal
+
+10
+00:00:15,990 --> 00:00:16,000
+formal proof and form formal
+ 
+
+11
+00:00:16,000 --> 00:00:20,269
+formal proof and form formal
+ma uh it's it's buil mostly on a project
+
+12
+00:00:20,269 --> 00:00:20,279
+ma uh it's it's buil mostly on a project
+ 
+
+13
+00:00:20,279 --> 00:00:22,590
+ma uh it's it's buil mostly on a project
+called kitas which I will say something
+
+14
+00:00:22,590 --> 00:00:22,600
+called kitas which I will say something
+ 
+
+15
+00:00:22,600 --> 00:00:23,830
+called kitas which I will say something
+about
+
+16
+00:00:23,830 --> 00:00:23,840
+about
+ 
+
+17
+00:00:23,840 --> 00:00:27,990
+about
+later uh I will explain maybe to some
+
+18
+00:00:27,990 --> 00:00:28,000
+later uh I will explain maybe to some
+ 
+
+19
+00:00:28,000 --> 00:00:30,230
+later uh I will explain maybe to some
+extent these Concepts like proof of AK
+
+20
+00:00:30,230 --> 00:00:30,240
+extent these Concepts like proof of AK
+ 
+
+21
+00:00:30,240 --> 00:00:33,310
+extent these Concepts like proof of AK
+and proof of burn uh but the point is is
+
+22
+00:00:33,310 --> 00:00:33,320
+and proof of burn uh but the point is is
+ 
+
+23
+00:00:33,320 --> 00:00:36,430
+and proof of burn uh but the point is is
+that it sort of isn't some sort of heavy
+
+24
+00:00:36,430 --> 00:00:36,440
+that it sort of isn't some sort of heavy
+ 
+
+25
+00:00:36,440 --> 00:00:40,310
+that it sort of isn't some sort of heavy
+Bitcoin proof of work energy mining but
+
+26
+00:00:40,310 --> 00:00:40,320
+Bitcoin proof of work energy mining but
+ 
+
+27
+00:00:40,320 --> 00:00:41,830
+Bitcoin proof of work energy mining but
+but it's sort of an interesting
+
+28
+00:00:41,830 --> 00:00:41,840
+but it's sort of an interesting
+ 
+
+29
+00:00:41,840 --> 00:00:45,709
+but it's sort of an interesting
+combination of two ways how to secure a
+
+30
+00:00:45,709 --> 00:00:45,719
+combination of two ways how to secure a
+ 
+
+31
+00:00:45,719 --> 00:00:48,430
+combination of two ways how to secure a
+blockchain and it's also interesting
+
+32
+00:00:48,430 --> 00:00:48,440
+blockchain and it's also interesting
+ 
+
+33
+00:00:48,440 --> 00:00:50,470
+blockchain and it's also interesting
+because it's relying on another
+
+34
+00:00:50,470 --> 00:00:50,480
+because it's relying on another
+ 
+
+35
+00:00:50,480 --> 00:00:52,510
+because it's relying on another
+established blockchain called Litecoin
+
+36
+00:00:52,510 --> 00:00:52,520
+established blockchain called Litecoin
+ 
+
+37
+00:00:52,520 --> 00:00:56,590
+established blockchain called Litecoin
+which is like the younger brother of
+
+38
+00:00:56,590 --> 00:00:56,600
+which is like the younger brother of
+ 
+
+39
+00:00:56,600 --> 00:01:00,069
+which is like the younger brother of
+Bitcoin uh it allows what you would
+
+40
+00:01:00,069 --> 00:01:00,079
+Bitcoin uh it allows what you would
+ 
+
+41
+00:01:00,079 --> 00:01:02,229
+Bitcoin uh it allows what you would
+expect from a book chain for form Mass
+
+42
+00:01:02,229 --> 00:01:02,239
+expect from a book chain for form Mass
+ 
+
+43
+00:01:02,239 --> 00:01:04,590
+expect from a book chain for form Mass
+like publishing theories definitions
+
+44
+00:01:04,590 --> 00:01:04,600
+like publishing theories definitions
+ 
+
+45
+00:01:04,600 --> 00:01:06,109
+like publishing theories definitions
+conjectures and
+
+46
+00:01:06,109 --> 00:01:06,119
+conjectures and
+ 
+
+47
+00:01:06,119 --> 00:01:09,910
+conjectures and
+proofs it also like I guess the main
+
+48
+00:01:09,910 --> 00:01:09,920
+proofs it also like I guess the main
+ 
+
+49
+00:01:09,920 --> 00:01:14,030
+proofs it also like I guess the main
+selling or interesting point includes uh
+
+50
+00:01:14,030 --> 00:01:14,040
+selling or interesting point includes uh
+ 
+
+51
+00:01:14,040 --> 00:01:19,390
+selling or interesting point includes uh
+Bounty and ownership uh system for like
+
+52
+00:01:19,390 --> 00:01:19,400
+Bounty and ownership uh system for like
+ 
+
+53
+00:01:19,400 --> 00:01:22,910
+Bounty and ownership uh system for like
+you can put a reward on somebody else
+
+54
+00:01:22,910 --> 00:01:22,920
+you can put a reward on somebody else
+ 
+
+55
+00:01:22,920 --> 00:01:26,789
+you can put a reward on somebody else
+aure for you and uh that there are some
+
+56
+00:01:26,789 --> 00:01:26,799
+aure for you and uh that there are some
+ 
+
+57
+00:01:26,799 --> 00:01:29,270
+aure for you and uh that there are some
+mechanisms for the person who really
+
+58
+00:01:29,270 --> 00:01:29,280
+mechanisms for the person who really
+ 
+
+59
+00:01:29,280 --> 00:01:31,190
+mechanisms for the person who really
+proves the
+
+60
+00:01:31,190 --> 00:01:31,200
+proves the
+ 
+
+61
+00:01:31,200 --> 00:01:33,710
+proves the
+for his money not to be stolen or
+
+62
+00:01:33,710 --> 00:01:33,720
+for his money not to be stolen or
+ 
+
+63
+00:01:33,720 --> 00:01:35,990
+for his money not to be stolen or
+redistributed by by some
+
+64
+00:01:35,990 --> 00:01:36,000
+redistributed by by some
+ 
+
+65
+00:01:36,000 --> 00:01:38,870
+redistributed by by some
+C committee right so that's the main
+
+66
+00:01:38,870 --> 00:01:38,880
+C committee right so that's the main
+ 
+
+67
+00:01:38,880 --> 00:01:42,870
+C committee right so that's the main
+point of blockchains in general the S of
+
+68
+00:01:42,870 --> 00:01:42,880
+point of blockchains in general the S of
+ 
+
+69
+00:01:42,880 --> 00:01:47,310
+point of blockchains in general the S of
+blockchain metor is the is the is the
+
+70
+00:01:47,310 --> 00:01:47,320
+blockchain metor is the is the is the
+ 
+
+71
+00:01:47,320 --> 00:01:49,310
+blockchain metor is the is the is the
+law right like that there is no Central
+
+72
+00:01:49,310 --> 00:01:49,320
+law right like that there is no Central
+ 
+
+73
+00:01:49,320 --> 00:01:52,429
+law right like that there is no Central
+Bank which will take away your credit
+
+74
+00:01:52,429 --> 00:01:52,439
+Bank which will take away your credit
+ 
+
+75
+00:01:52,439 --> 00:01:54,149
+Bank which will take away your credit
+card
+
+76
+00:01:54,149 --> 00:01:54,159
+card
+ 
+
+77
+00:01:54,159 --> 00:01:57,789
+card
+payments that's the the blockchain
+
+78
+00:01:57,789 --> 00:01:57,799
+payments that's the the blockchain
+ 
+
+79
+00:01:57,799 --> 00:02:00,389
+payments that's the the blockchain
+people good question yes that one of
+
+80
+00:02:00,389 --> 00:02:00,399
+people good question yes that one of
+ 
+
+81
+00:02:00,399 --> 00:02:02,510
+people good question yes that one of
+those things that we don't know who is
+
+82
+00:02:02,510 --> 00:02:02,520
+those things that we don't know who is
+ 
+
+83
+00:02:02,520 --> 00:02:05,590
+those things that we don't know who is
+this crus code Bas is one of the things
+
+84
+00:02:05,590 --> 00:02:05,600
+this crus code Bas is one of the things
+ 
+
+85
+00:02:05,600 --> 00:02:07,630
+this crus code Bas is one of the things
+that we don't know who is doing it or I
+
+86
+00:02:07,630 --> 00:02:07,640
+that we don't know who is doing it or I
+ 
+
+87
+00:02:07,640 --> 00:02:10,430
+that we don't know who is doing it or I
+will I will set in the next slide thank
+
+88
+00:02:10,430 --> 00:02:10,440
+will I will set in the next slide thank
+ 
+
+89
+00:02:10,440 --> 00:02:15,150
+will I will set in the next slide thank
+you uh it's uh quite a bit based on chat
+
+90
+00:02:15,150 --> 00:02:15,160
+you uh it's uh quite a bit based on chat
+ 
+
+91
+00:02:15,160 --> 00:02:20,509
+you uh it's uh quite a bit based on chat
+Downs uh favorite uh attempts at proof
+
+92
+00:02:20,509 --> 00:02:20,519
+Downs uh favorite uh attempts at proof
+ 
+
+93
+00:02:20,519 --> 00:02:24,110
+Downs uh favorite uh attempts at proof
+assistance uh called agal and later my
+
+94
+00:02:24,110 --> 00:02:24,120
+assistance uh called agal and later my
+ 
+
+95
+00:02:24,120 --> 00:02:25,930
+assistance uh called agal and later my
+which is some sort
+
+96
+00:02:25,930 --> 00:02:25,940
+which is some sort
+ 
+
+97
+00:02:25,940 --> 00:02:27,630
+which is some sort
+[Music]
+
+98
+00:02:27,630 --> 00:02:27,640
+[Music]
+ 
+
+99
+00:02:27,640 --> 00:02:30,350
+[Music]
+of logic
+
+100
+00:02:30,350 --> 00:02:30,360
+of logic
+ 
+
+101
+00:02:30,360 --> 00:02:33,750
+of logic
+uh but today you can also interact with
+
+102
+00:02:33,750 --> 00:02:33,760
+uh but today you can also interact with
+ 
+
+103
+00:02:33,760 --> 00:02:36,630
+uh but today you can also interact with
+it using for
+
+104
+00:02:36,630 --> 00:02:36,640
+it using for
+ 
+
+105
+00:02:36,640 --> 00:02:40,190
+it using for
+and to interactive one interactive and
+
+106
+00:02:40,190 --> 00:02:40,200
+and to interactive one interactive and
+ 
+
+107
+00:02:40,200 --> 00:02:42,430
+and to interactive one interactive and
+one
+
+108
+00:02:42,430 --> 00:02:42,440
+one
+ 
+
+109
+00:02:42,440 --> 00:02:47,750
+one
+automated uh the initially it was
+
+110
+00:02:47,750 --> 00:02:47,760
+automated uh the initially it was
+ 
+
+111
+00:02:47,760 --> 00:02:52,949
+automated uh the initially it was
+announced in June 2020 by this uh this
+
+112
+00:02:52,949 --> 00:02:52,959
+announced in June 2020 by this uh this
+ 
+
+113
+00:02:52,959 --> 00:02:57,390
+announced in June 2020 by this uh this
+memo cach uh thingy which is some sort
+
+114
+00:02:57,390 --> 00:02:57,400
+memo cach uh thingy which is some sort
+ 
+
+115
+00:02:57,400 --> 00:02:59,470
+memo cach uh thingy which is some sort
+of super secret way how the blockchain
+
+116
+00:02:59,470 --> 00:02:59,480
+of super secret way how the blockchain
+ 
+
+117
+00:02:59,480 --> 00:03:00,430
+of super secret way how the blockchain
+people
+
+118
+00:03:00,430 --> 00:03:00,440
+people
+ 
+
+119
+00:03:00,440 --> 00:03:03,789
+people
+communicate without revealing their uh
+
+120
+00:03:03,789 --> 00:03:03,799
+communicate without revealing their uh
+ 
+
+121
+00:03:03,799 --> 00:03:07,390
+communicate without revealing their uh
+identities so I think the the point the
+
+122
+00:03:07,390 --> 00:03:07,400
+identities so I think the the point the
+ 
+
+123
+00:03:07,400 --> 00:03:10,270
+identities so I think the the point the
+announcer calls himself Blake Kyler
+
+124
+00:03:10,270 --> 00:03:10,280
+announcer calls himself Blake Kyler
+ 
+
+125
+00:03:10,280 --> 00:03:12,309
+announcer calls himself Blake Kyler
+nobody knows who it is so so it's sort
+
+126
+00:03:12,309 --> 00:03:12,319
+nobody knows who it is so so it's sort
+ 
+
+127
+00:03:12,319 --> 00:03:16,149
+nobody knows who it is so so it's sort
+of mod after this sat Nakamoto think
+
+128
+00:03:16,149 --> 00:03:16,159
+of mod after this sat Nakamoto think
+ 
+
+129
+00:03:16,159 --> 00:03:19,910
+of mod after this sat Nakamoto think
+announcing the the Bitcoin blockchain in
+
+130
+00:03:19,910 --> 00:03:19,920
+announcing the the Bitcoin blockchain in
+ 
+
+131
+00:03:19,920 --> 00:03:23,949
+announcing the the Bitcoin blockchain in
+2008 and so like I I I guess the the
+
+132
+00:03:23,949 --> 00:03:23,959
+2008 and so like I I I guess the the
+ 
+
+133
+00:03:23,959 --> 00:03:26,190
+2008 and so like I I I guess the the
+reason why people are doing it this way
+
+134
+00:03:26,190 --> 00:03:26,200
+reason why people are doing it this way
+ 
+
+135
+00:03:26,200 --> 00:03:28,949
+reason why people are doing it this way
+is that it's sort of the sort of
+
+136
+00:03:28,949 --> 00:03:28,959
+is that it's sort of the sort of
+ 
+
+137
+00:03:28,959 --> 00:03:30,390
+is that it's sort of the sort of
+classical
+
+138
+00:03:30,390 --> 00:03:30,400
+classical
+ 
+
+139
+00:03:30,400 --> 00:03:34,990
+classical
+way of let's announce a blockchain from
+
+140
+00:03:34,990 --> 00:03:35,000
+way of let's announce a blockchain from
+ 
+
+141
+00:03:35,000 --> 00:03:37,229
+way of let's announce a blockchain from
+so that everybody has a fair CH chance
+
+142
+00:03:37,229 --> 00:03:37,239
+so that everybody has a fair CH chance
+ 
+
+143
+00:03:37,239 --> 00:03:40,030
+so that everybody has a fair CH chance
+of getting into it like without I don't
+
+144
+00:03:40,030 --> 00:03:40,040
+of getting into it like without I don't
+ 
+
+145
+00:03:40,040 --> 00:03:43,110
+of getting into it like without I don't
+know me immediately grabbing 20% of the
+
+146
+00:03:43,110 --> 00:03:43,120
+know me immediately grabbing 20% of the
+ 
+
+147
+00:03:43,120 --> 00:03:46,509
+know me immediately grabbing 20% of the
+whole money supply to F go support the
+
+148
+00:03:46,509 --> 00:03:46,519
+whole money supply to F go support the
+ 
+
+149
+00:03:46,519 --> 00:03:49,589
+whole money supply to F go support the
+blockchain development or whatever and
+
+150
+00:03:49,589 --> 00:03:49,599
+blockchain development or whatever and
+ 
+
+151
+00:03:49,599 --> 00:03:52,270
+blockchain development or whatever and
+also people do it this way because they
+
+152
+00:03:52,270 --> 00:03:52,280
+also people do it this way because they
+ 
+
+153
+00:03:52,280 --> 00:03:54,670
+also people do it this way because they
+don't want to be exposed to some I don't
+
+154
+00:03:54,670 --> 00:03:54,680
+don't want to be exposed to some I don't
+ 
+
+155
+00:03:54,680 --> 00:03:58,589
+don't want to be exposed to some I don't
+know SEC people suing them in the United
+
+156
+00:03:58,589 --> 00:03:58,599
+know SEC people suing them in the United
+ 
+
+157
+00:03:58,599 --> 00:04:01,789
+know SEC people suing them in the United
+States Etc so so it's seems to be one
+
+158
+00:04:01,789 --> 00:04:01,799
+States Etc so so it's seems to be one
+ 
+
+159
+00:04:01,799 --> 00:04:04,069
+States Etc so so it's seems to be one
+one way how people are starting
+
+160
+00:04:04,069 --> 00:04:04,079
+one way how people are starting
+ 
+
+161
+00:04:04,079 --> 00:04:06,110
+one way how people are starting
+blockchains uh these
+
+162
+00:04:06,110 --> 00:04:06,120
+blockchains uh these
+ 
+
+163
+00:04:06,120 --> 00:04:08,550
+blockchains uh these
+days there there is an explorer that I
+
+164
+00:04:08,550 --> 00:04:08,560
+days there there is an explorer that I
+ 
+
+165
+00:04:08,560 --> 00:04:10,910
+days there there is an explorer that I
+will show you
+
+166
+00:04:10,910 --> 00:04:10,920
+will show you
+ 
+
+167
+00:04:10,920 --> 00:04:14,990
+will show you
+later there are today three to four uh
+
+168
+00:04:14,990 --> 00:04:15,000
+later there are today three to four uh
+ 
+
+169
+00:04:15,000 --> 00:04:19,270
+later there are today three to four uh
+different uh clients so uh the one that
+
+170
+00:04:19,270 --> 00:04:19,280
+different uh clients so uh the one that
+ 
+
+171
+00:04:19,280 --> 00:04:21,949
+different uh clients so uh the one that
+is like most developed and uh most used
+
+172
+00:04:21,949 --> 00:04:21,959
+is like most developed and uh most used
+ 
+
+173
+00:04:21,959 --> 00:04:24,629
+is like most developed and uh most used
+is a spild lava client which I will say
+
+174
+00:04:24,629 --> 00:04:24,639
+is a spild lava client which I will say
+ 
+
+175
+00:04:24,639 --> 00:04:27,670
+is a spild lava client which I will say
+something about uh later the original
+
+176
+00:04:27,670 --> 00:04:27,680
+something about uh later the original
+ 
+
+177
+00:04:27,680 --> 00:04:30,950
+something about uh later the original
+one is this Pro gold color which was
+
+178
+00:04:30,950 --> 00:04:30,960
+one is this Pro gold color which was
+ 
+
+179
+00:04:30,960 --> 00:04:33,510
+one is this Pro gold color which was
+basically published when when the
+
+180
+00:04:33,510 --> 00:04:33,520
+basically published when when the
+ 
+
+181
+00:04:33,520 --> 00:04:36,270
+basically published when when the
+announcement was made and there is
+
+182
+00:04:36,270 --> 00:04:36,280
+announcement was made and there is
+ 
+
+183
+00:04:36,280 --> 00:04:38,590
+announcement was made and there is
+another one which is more lightweight is
+
+184
+00:04:38,590 --> 00:04:38,600
+another one which is more lightweight is
+ 
+
+185
+00:04:38,600 --> 00:04:41,629
+another one which is more lightweight is
+BL Gold light
+
+186
+00:04:41,629 --> 00:04:41,639
+BL Gold light
+ 
+
+187
+00:04:41,639 --> 00:04:47,670
+BL Gold light
+which allows some sort of less resource
+
+188
+00:04:47,670 --> 00:04:47,680
+which allows some sort of less resource
+ 
+
+189
+00:04:47,680 --> 00:04:53,670
+which allows some sort of less resource
+of uh like heavy
+
+190
+00:04:53,670 --> 00:04:53,680
+of uh like heavy
+ 
+
+191
+00:04:53,680 --> 00:04:56,230
+of uh like heavy
+uh there is also one which I couldn't
+
+192
+00:04:56,230 --> 00:04:56,240
+uh there is also one which I couldn't
+ 
+
+193
+00:04:56,240 --> 00:04:57,909
+uh there is also one which I couldn't
+quickly find which is some extra
+
+194
+00:04:57,909 --> 00:04:57,919
+quickly find which is some extra
+ 
+
+195
+00:04:57,919 --> 00:05:01,670
+quickly find which is some extra
+features like for example Atomic SW
+
+196
+00:05:01,670 --> 00:05:01,680
+
+ 
+
+197
+00:05:01,680 --> 00:05:03,469
+
+between
+
+198
+00:05:03,469 --> 00:05:03,479
+between
+ 
+
+199
+00:05:03,479 --> 00:05:09,950
+between
+expic SWS we we wrote a paper for this
+
+200
+00:05:09,950 --> 00:05:09,960
+expic SWS we we wrote a paper for this
+ 
+
+201
+00:05:09,960 --> 00:05:14,230
+expic SWS we we wrote a paper for this
+fnbc uh formal methods for blockchains
+
+202
+00:05:14,230 --> 00:05:14,240
+fnbc uh formal methods for blockchains
+ 
+
+203
+00:05:14,240 --> 00:05:17,390
+fnbc uh formal methods for blockchains
+or something like that in
+
+204
+00:05:17,390 --> 00:05:17,400
+or something like that in
+ 
+
+205
+00:05:17,400 --> 00:05:21,110
+or something like that in
+2022 when basically most say
+
+206
+00:05:21,110 --> 00:05:21,120
+2022 when basically most say
+ 
+
+207
+00:05:21,120 --> 00:05:27,430
+2022 when basically most say
+I the clent so so he gave a talk in hi
+
+208
+00:05:27,430 --> 00:05:27,440
+I the clent so so he gave a talk in hi
+ 
+
+209
+00:05:27,440 --> 00:05:28,469
+I the clent so so he gave a talk in hi
+in
+
+210
+00:05:28,469 --> 00:05:28,479
+in
+ 
+
+211
+00:05:28,479 --> 00:05:32,110
+in
+2022 and and later it says I got
+
+212
+00:05:32,110 --> 00:05:32,120
+2022 and and later it says I got
+ 
+
+213
+00:05:32,120 --> 00:05:35,110
+2022 and and later it says I got
+this Pro of concept project sorry for
+
+214
+00:05:35,110 --> 00:05:35,120
+this Pro of concept project sorry for
+ 
+
+215
+00:05:35,120 --> 00:05:38,270
+this Pro of concept project sorry for
+the tles uh which like
+
+216
+00:05:38,270 --> 00:05:38,280
+the tles uh which like
+ 
+
+217
+00:05:38,280 --> 00:05:41,629
+the tles uh which like
+finances the the development and hold un
+
+218
+00:05:41,629 --> 00:05:41,639
+finances the the development and hold un
+ 
+
+219
+00:05:41,639 --> 00:05:43,469
+finances the the development and hold un
+commercialization of of some of these
+
+220
+00:05:43,469 --> 00:05:43,479
+commercialization of of some of these
+ 
+
+221
+00:05:43,479 --> 00:05:46,230
+commercialization of of some of these
+parts so so these ERC Concepts projects
+
+222
+00:05:46,230 --> 00:05:46,240
+parts so so these ERC Concepts projects
+ 
+
+223
+00:05:46,240 --> 00:05:49,189
+parts so so these ERC Concepts projects
+are directed at some sort of
+
+224
+00:05:49,189 --> 00:05:49,199
+are directed at some sort of
+ 
+
+225
+00:05:49,199 --> 00:05:52,870
+are directed at some sort of
+commercialization of of the research in
+
+226
+00:05:52,870 --> 00:05:52,880
+commercialization of of the research in
+ 
+
+227
+00:05:52,880 --> 00:05:56,189
+commercialization of of the research in
+European so so this is the
+
+228
+00:05:56,189 --> 00:05:56,199
+European so so this is the
+ 
+
+229
+00:05:56,199 --> 00:05:59,909
+European so so this is the
+history so you probably all know that
+
+230
+00:05:59,909 --> 00:05:59,919
+history so you probably all know that
+ 
+
+231
+00:05:59,919 --> 00:06:02,950
+history so you probably all know that
+there there is this Bitcoin thing which
+
+232
+00:06:02,950 --> 00:06:02,960
+there there is this Bitcoin thing which
+ 
+
+233
+00:06:02,960 --> 00:06:06,550
+there there is this Bitcoin thing which
+was announced by this magical saot in
+
+234
+00:06:06,550 --> 00:06:06,560
+was announced by this magical saot in
+ 
+
+235
+00:06:06,560 --> 00:06:09,950
+was announced by this magical saot in
+2008 then white paper and launched in
+
+236
+00:06:09,950 --> 00:06:09,960
+2008 then white paper and launched in
+ 
+
+237
+00:06:09,960 --> 00:06:11,950
+2008 then white paper and launched in
+early
+
+238
+00:06:11,950 --> 00:06:11,960
+early
+ 
+
+239
+00:06:11,960 --> 00:06:17,029
+early
+2009 uh and we can spent years
+
+240
+00:06:17,029 --> 00:06:17,039
+2009 uh and we can spent years
+ 
+
+241
+00:06:17,039 --> 00:06:19,710
+2009 uh and we can spent years
+discussing blockchains I I I guess right
+
+242
+00:06:19,710 --> 00:06:19,720
+discussing blockchains I I I guess right
+ 
+
+243
+00:06:19,720 --> 00:06:23,909
+discussing blockchains I I I guess right
+so maybe let's not do it here in
+
+244
+00:06:23,909 --> 00:06:23,919
+so maybe let's not do it here in
+ 
+
+245
+00:06:23,919 --> 00:06:26,990
+so maybe let's not do it here in
+2011 somebody sort of cloned the the
+
+246
+00:06:26,990 --> 00:06:27,000
+2011 somebody sort of cloned the the
+ 
+
+247
+00:06:27,000 --> 00:06:29,629
+2011 somebody sort of cloned the the
+Bitcoin uh blockchain and did some
+
+248
+00:06:29,629 --> 00:06:29,639
+Bitcoin uh blockchain and did some
+ 
+
+249
+00:06:29,639 --> 00:06:32,270
+Bitcoin uh blockchain and did some
+changes which sort of made it
+
+250
+00:06:32,270 --> 00:06:32,280
+changes which sort of made it
+ 
+
+251
+00:06:32,280 --> 00:06:36,029
+changes which sort of made it
+faster uh it's also cheaper and smaller
+
+252
+00:06:36,029 --> 00:06:36,039
+faster uh it's also cheaper and smaller
+ 
+
+253
+00:06:36,039 --> 00:06:38,390
+faster uh it's also cheaper and smaller
+for for various
+
+254
+00:06:38,390 --> 00:06:38,400
+for for various
+ 
+
+255
+00:06:38,400 --> 00:06:43,029
+for for various
+reasons uh so Chad Brown uh was probably
+
+256
+00:06:43,029 --> 00:06:43,039
+reasons uh so Chad Brown uh was probably
+ 
+
+257
+00:06:43,039 --> 00:06:44,430
+reasons uh so Chad Brown uh was probably
+an
+
+258
+00:06:44,430 --> 00:06:44,440
+an
+ 
+
+259
+00:06:44,440 --> 00:06:48,430
+an
+early uh blockchain SL
+
+260
+00:06:48,430 --> 00:06:48,440
+early uh blockchain SL
+ 
+
+261
+00:06:48,440 --> 00:06:55,029
+early uh blockchain SL
+Bitcoin uh like aado or whatever uh um
+
+262
+00:06:55,029 --> 00:06:55,039
+Bitcoin uh like aado or whatever uh um
+ 
+
+263
+00:06:55,039 --> 00:06:58,589
+Bitcoin uh like aado or whatever uh um
+you you would call him so in 2014 he
+
+264
+00:06:58,589 --> 00:06:58,599
+you you would call him so in 2014 he
+ 
+
+265
+00:06:58,599 --> 00:07:03,110
+you you would call him so in 2014 he
+came up with this mgate website where he
+
+266
+00:07:03,110 --> 00:07:03,120
+came up with this mgate website where he
+ 
+
+267
+00:07:03,120 --> 00:07:08,270
+came up with this mgate website where he
+had the idea that you would sort of put
+
+268
+00:07:08,270 --> 00:07:08,280
+had the idea that you would sort of put
+ 
+
+269
+00:07:08,280 --> 00:07:13,189
+had the idea that you would sort of put
+some amount of Bitcoins on uh particular
+
+270
+00:07:13,189 --> 00:07:13,199
+some amount of Bitcoins on uh particular
+ 
+
+271
+00:07:13,199 --> 00:07:16,510
+some amount of Bitcoins on uh particular
+proofs like so so this Mar just uh so
+
+272
+00:07:16,510 --> 00:07:16,520
+proofs like so so this Mar just uh so
+ 
+
+273
+00:07:16,520 --> 00:07:20,790
+proofs like so so this Mar just uh so
+educational website and you would have
+
+274
+00:07:20,790 --> 00:07:20,800
+educational website and you would have
+ 
+
+275
+00:07:20,800 --> 00:07:23,150
+educational website and you would have
+always like a competition where people
+
+276
+00:07:23,150 --> 00:07:23,160
+always like a competition where people
+ 
+
+277
+00:07:23,160 --> 00:07:26,070
+always like a competition where people
+would need to register by paying some
+
+278
+00:07:26,070 --> 00:07:26,080
+would need to register by paying some
+ 
+
+279
+00:07:26,080 --> 00:07:28,990
+would need to register by paying some
+amount of Bitcoins and then they would
+
+280
+00:07:28,990 --> 00:07:29,000
+amount of Bitcoins and then they would
+ 
+
+281
+00:07:29,000 --> 00:07:32,230
+amount of Bitcoins and then they would
+be competing in soling like educational
+
+282
+00:07:32,230 --> 00:07:32,240
+be competing in soling like educational
+ 
+
+283
+00:07:32,240 --> 00:07:35,629
+be competing in soling like educational
+exercises and if you got exactly the
+
+284
+00:07:35,629 --> 00:07:35,639
+exercises and if you got exactly the
+ 
+
+285
+00:07:35,639 --> 00:07:39,390
+exercises and if you got exactly the
+proof that he intended written typically
+
+286
+00:07:39,390 --> 00:07:39,400
+proof that he intended written typically
+ 
+
+287
+00:07:39,400 --> 00:07:42,909
+proof that he intended written typically
+as a system if I remember correctly then
+
+288
+00:07:42,909 --> 00:07:42,919
+as a system if I remember correctly then
+ 
+
+289
+00:07:42,919 --> 00:07:46,909
+as a system if I remember correctly then
+the proof would hash to the private
+
+290
+00:07:46,909 --> 00:07:46,919
+the proof would hash to the private
+ 
+
+291
+00:07:46,919 --> 00:07:50,070
+the proof would hash to the private
+address uh or to to to the secret that
+
+292
+00:07:50,070 --> 00:07:50,080
+address uh or to to to the secret that
+ 
+
+293
+00:07:50,080 --> 00:07:53,390
+address uh or to to to the secret that
+you need uh to to basically get the the
+
+294
+00:07:53,390 --> 00:07:53,400
+you need uh to to basically get the the
+ 
+
+295
+00:07:53,400 --> 00:07:55,909
+you need uh to to basically get the the
+B connected to to this particular
+
+296
+00:07:55,909 --> 00:07:55,919
+B connected to to this particular
+ 
+
+297
+00:07:55,919 --> 00:07:59,110
+B connected to to this particular
+exercise so in in some sense it was I
+
+298
+00:07:59,110 --> 00:07:59,120
+exercise so in in some sense it was I
+ 
+
+299
+00:07:59,120 --> 00:08:02,430
+exercise so in in some sense it was I
+think like like the the first idea to to
+
+300
+00:08:02,430 --> 00:08:02,440
+think like like the the first idea to to
+ 
+
+301
+00:08:02,440 --> 00:08:05,469
+think like like the the first idea to to
+apply this sort of distributed uh
+
+302
+00:08:05,469 --> 00:08:05,479
+apply this sort of distributed uh
+ 
+
+303
+00:08:05,479 --> 00:08:09,430
+apply this sort of distributed uh
+blockchain uh technology to to form a ma
+
+304
+00:08:09,430 --> 00:08:09,440
+blockchain uh technology to to form a ma
+ 
+
+305
+00:08:09,440 --> 00:08:12,149
+blockchain uh technology to to form a ma
+like the obvious disadvantage of this
+
+306
+00:08:12,149 --> 00:08:12,159
+like the obvious disadvantage of this
+ 
+
+307
+00:08:12,159 --> 00:08:14,110
+like the obvious disadvantage of this
+like yes it has this distributed
+
+308
+00:08:14,110 --> 00:08:14,120
+like yes it has this distributed
+ 
+
+309
+00:08:14,120 --> 00:08:16,350
+like yes it has this distributed
+decentralized propeper that whoever gets
+
+310
+00:08:16,350 --> 00:08:16,360
+decentralized propeper that whoever gets
+ 
+
+311
+00:08:16,360 --> 00:08:20,309
+decentralized propeper that whoever gets
+the right proof can claim uh the bount
+
+312
+00:08:20,309 --> 00:08:20,319
+the right proof can claim uh the bount
+ 
+
+313
+00:08:20,319 --> 00:08:22,110
+the right proof can claim uh the bount
+but the obvious disadvantage is that you
+
+314
+00:08:22,110 --> 00:08:22,120
+but the obvious disadvantage is that you
+ 
+
+315
+00:08:22,120 --> 00:08:25,070
+but the obvious disadvantage is that you
+need to get exactly the correct proof
+
+316
+00:08:25,070 --> 00:08:25,080
+need to get exactly the correct proof
+ 
+
+317
+00:08:25,080 --> 00:08:27,790
+need to get exactly the correct proof
+like you need to get exactly the pro
+
+318
+00:08:27,790 --> 00:08:27,800
+like you need to get exactly the pro
+ 
+
+319
+00:08:27,800 --> 00:08:30,710
+like you need to get exactly the pro
+chat intended so so that it has es to to
+
+320
+00:08:30,710 --> 00:08:30,720
+chat intended so so that it has es to to
+ 
+
+321
+00:08:30,720 --> 00:08:35,750
+chat intended so so that it has es to to
+the right uh or a secret for collecting
+
+322
+00:08:35,750 --> 00:08:35,760
+the right uh or a secret for collecting
+ 
+
+323
+00:08:35,760 --> 00:08:39,909
+the right uh or a secret for collecting
+uh the Bitcoin so like I I think he
+
+324
+00:08:39,909 --> 00:08:39,919
+uh the Bitcoin so like I I think he
+ 
+
+325
+00:08:39,919 --> 00:08:43,070
+uh the Bitcoin so like I I think he
+didn't achieve much with with this
+
+326
+00:08:43,070 --> 00:08:43,080
+didn't achieve much with with this
+ 
+
+327
+00:08:43,080 --> 00:08:47,190
+didn't achieve much with with this
+project uh so then there is company
+
+328
+00:08:47,190 --> 00:08:47,200
+project uh so then there is company
+ 
+
+329
+00:08:47,200 --> 00:08:48,350
+project uh so then there is company
+called
+
+330
+00:08:48,350 --> 00:08:48,360
+called
+ 
+
+331
+00:08:48,360 --> 00:08:53,030
+called
+iohk which is related to to these uh
+
+332
+00:08:53,030 --> 00:08:53,040
+iohk which is related to to these uh
+ 
+
+333
+00:08:53,040 --> 00:09:00,069
+iohk which is related to to these uh
+Rich uh uh CMU uh people uh so um
+
+334
+00:09:00,069 --> 00:09:00,079
+Rich uh uh CMU uh people uh so um
+ 
+
+335
+00:09:00,079 --> 00:09:01,949
+Rich uh uh CMU uh people uh so um
+again this is a lot of history there is
+
+336
+00:09:01,949 --> 00:09:01,959
+again this is a lot of history there is
+ 
+
+337
+00:09:01,959 --> 00:09:04,150
+again this is a lot of history there is
+a very funny book called
+
+338
+00:09:04,150 --> 00:09:04,160
+a very funny book called
+ 
+
+339
+00:09:04,160 --> 00:09:06,550
+a very funny book called
+cryptops which sort of recounts the
+
+340
+00:09:06,550 --> 00:09:06,560
+cryptops which sort of recounts the
+ 
+
+341
+00:09:06,560 --> 00:09:12,350
+cryptops which sort of recounts the
+history of eum and basically iohk is a
+
+342
+00:09:12,350 --> 00:09:12,360
+history of eum and basically iohk is a
+ 
+
+343
+00:09:12,360 --> 00:09:16,509
+history of eum and basically iohk is a
+product of uh Charles hoskinson who was
+
+344
+00:09:16,509 --> 00:09:16,519
+product of uh Charles hoskinson who was
+ 
+
+345
+00:09:16,519 --> 00:09:20,829
+product of uh Charles hoskinson who was
+one of the Ean Founders who at some
+
+346
+00:09:20,829 --> 00:09:20,839
+one of the Ean Founders who at some
+ 
+
+347
+00:09:20,839 --> 00:09:23,230
+one of the Ean Founders who at some
+point sort of parted ways with the
+
+348
+00:09:23,230 --> 00:09:23,240
+point sort of parted ways with the
+ 
+
+349
+00:09:23,240 --> 00:09:26,150
+point sort of parted ways with the
+etherum people and started his own
+
+350
+00:09:26,150 --> 00:09:26,160
+etherum people and started his own
+ 
+
+351
+00:09:26,160 --> 00:09:29,910
+etherum people and started his own
+company input output Hong Kong where
+
+352
+00:09:29,910 --> 00:09:29,920
+company input output Hong Kong where
+ 
+
+353
+00:09:29,920 --> 00:09:31,829
+company input output Hong Kong where
+they were developing another blockchain
+
+354
+00:09:31,829 --> 00:09:31,839
+they were developing another blockchain
+ 
+
+355
+00:09:31,839 --> 00:09:34,389
+they were developing another blockchain
+called cardano which became big so so
+
+356
+00:09:34,389 --> 00:09:34,399
+called cardano which became big so so
+ 
+
+357
+00:09:34,399 --> 00:09:38,230
+called cardano which became big so so
+that all made them rich but in 2016 they
+
+358
+00:09:38,230 --> 00:09:38,240
+that all made them rich but in 2016 they
+ 
+
+359
+00:09:38,240 --> 00:09:41,190
+that all made them rich but in 2016 they
+they were also developing this
+
+360
+00:09:41,190 --> 00:09:41,200
+they were also developing this
+ 
+
+361
+00:09:41,200 --> 00:09:43,590
+they were also developing this
+kitas which was supposed to be a
+
+362
+00:09:43,590 --> 00:09:43,600
+kitas which was supposed to be a
+ 
+
+363
+00:09:43,600 --> 00:09:47,550
+kitas which was supposed to be a
+blockchain for for proof basically
+
+364
+00:09:47,550 --> 00:09:47,560
+blockchain for for proof basically
+ 
+
+365
+00:09:47,560 --> 00:09:52,910
+blockchain for for proof basically
+so I I I don't know much about it uh but
+
+366
+00:09:52,910 --> 00:09:52,920
+so I I I don't know much about it uh but
+ 
+
+367
+00:09:52,920 --> 00:09:56,910
+so I I I don't know much about it uh but
+what uh seems to be the
+
+368
+00:09:56,910 --> 00:09:56,920
+what uh seems to be the
+ 
+
+369
+00:09:56,920 --> 00:10:00,269
+what uh seems to be the
+case and again I I haven't done too much
+
+370
+00:10:00,269 --> 00:10:00,279
+case and again I I haven't done too much
+ 
+
+371
+00:10:00,279 --> 00:10:03,310
+case and again I I haven't done too much
+sort of historical digging to to compare
+
+372
+00:10:03,310 --> 00:10:03,320
+sort of historical digging to to compare
+ 
+
+373
+00:10:03,320 --> 00:10:06,190
+sort of historical digging to to compare
+the code bases is that
+
+374
+00:10:06,190 --> 00:10:06,200
+the code bases is that
+ 
+
+375
+00:10:06,200 --> 00:10:10,310
+the code bases is that
+basically caras was was never launched I
+
+376
+00:10:10,310 --> 00:10:10,320
+basically caras was was never launched I
+ 
+
+377
+00:10:10,320 --> 00:10:12,509
+basically caras was was never launched I
+I I don't know what what happened then
+
+378
+00:10:12,509 --> 00:10:12,519
+I I don't know what what happened then
+ 
+
+379
+00:10:12,519 --> 00:10:14,949
+I I don't know what what happened then
+at that point like why it never launched
+
+380
+00:10:14,949 --> 00:10:14,959
+at that point like why it never launched
+ 
+
+381
+00:10:14,959 --> 00:10:18,710
+at that point like why it never launched
+Etc uh but like the code was put out
+
+382
+00:10:18,710 --> 00:10:18,720
+Etc uh but like the code was put out
+ 
+
+383
+00:10:18,720 --> 00:10:19,590
+Etc uh but like the code was put out
+there
+
+384
+00:10:19,590 --> 00:10:19,600
+there
+ 
+
+385
+00:10:19,600 --> 00:10:22,750
+there
+publicly somebody forked it in 201 17
+
+386
+00:10:22,750 --> 00:10:22,760
+publicly somebody forked it in 201 17
+ 
+
+387
+00:10:22,760 --> 00:10:25,630
+publicly somebody forked it in 201 17
+creating something called D Coin and I
+
+388
+00:10:25,630 --> 00:10:25,640
+creating something called D Coin and I
+ 
+
+389
+00:10:25,640 --> 00:10:29,110
+creating something called D Coin and I
+don't even know whether it ever ever ran
+
+390
+00:10:29,110 --> 00:10:29,120
+don't even know whether it ever ever ran
+ 
+
+391
+00:10:29,120 --> 00:10:30,910
+don't even know whether it ever ever ran
+and and then basically based on this
+
+392
+00:10:30,910 --> 00:10:30,920
+and and then basically based on this
+ 
+
+393
+00:10:30,920 --> 00:10:36,110
+and and then basically based on this
+kitas and uh the pro gold uh code
+
+394
+00:10:36,110 --> 00:10:36,120
+kitas and uh the pro gold uh code
+ 
+
+395
+00:10:36,120 --> 00:10:40,430
+kitas and uh the pro gold uh code
+emerged which really started to run in
+
+396
+00:10:40,430 --> 00:10:40,440
+emerged which really started to run in
+ 
+
+397
+00:10:40,440 --> 00:10:43,110
+emerged which really started to run in
+2020 there in in between there there
+
+398
+00:10:43,110 --> 00:10:43,120
+2020 there in in between there there
+ 
+
+399
+00:10:43,120 --> 00:10:45,990
+2020 there in in between there there
+were different other ideas like for
+
+400
+00:10:45,990 --> 00:10:46,000
+were different other ideas like for
+ 
+
+401
+00:10:46,000 --> 00:10:50,069
+were different other ideas like for
+example this MAF coin in 2018 which is
+
+402
+00:10:50,069 --> 00:10:50,079
+example this MAF coin in 2018 which is
+ 
+
+403
+00:10:50,079 --> 00:10:52,990
+example this MAF coin in 2018 which is
+also like an interested reading about
+
+404
+00:10:52,990 --> 00:10:53,000
+also like an interested reading about
+ 
+
+405
+00:10:53,000 --> 00:10:56,870
+also like an interested reading about
+like the world of blockchains and
+
+406
+00:10:56,870 --> 00:10:56,880
+like the world of blockchains and
+ 
+
+407
+00:10:56,880 --> 00:11:00,350
+like the world of blockchains and
+Mathematics uh then
+
+408
+00:11:00,350 --> 00:11:00,360
+Mathematics uh then
+ 
+
+409
+00:11:00,360 --> 00:11:02,670
+Mathematics uh then
+uh basically Cesar Kishi got involved in
+
+410
+00:11:02,670 --> 00:11:02,680
+uh basically Cesar Kishi got involved in
+ 
+
+411
+00:11:02,680 --> 00:11:05,750
+uh basically Cesar Kishi got involved in
+like 2021 and 22 starting to work on
+
+412
+00:11:05,750 --> 00:11:05,760
+like 2021 and 22 starting to work on
+ 
+
+413
+00:11:05,760 --> 00:11:10,470
+like 2021 and 22 starting to work on
+this laa CL and the SL client appear
+
+414
+00:11:10,470 --> 00:11:10,480
+this laa CL and the SL client appear
+ 
+
+415
+00:11:10,480 --> 00:11:14,670
+this laa CL and the SL client appear
+then say started to work on on the Lego
+
+416
+00:11:14,670 --> 00:11:14,680
+then say started to work on on the Lego
+ 
+
+417
+00:11:14,680 --> 00:11:18,590
+then say started to work on on the Lego
+Explorer uh in my 23 in
+
+418
+00:11:18,590 --> 00:11:18,600
+Explorer uh in my 23 in
+ 
+
+419
+00:11:18,600 --> 00:11:22,350
+Explorer uh in my 23 in
+24 and this year there's mym wikii which
+
+420
+00:11:22,350 --> 00:11:22,360
+24 and this year there's mym wikii which
+ 
+
+421
+00:11:22,360 --> 00:11:25,230
+24 and this year there's mym wikii which
+is linked to the through gold Explorer
+
+422
+00:11:25,230 --> 00:11:25,240
+is linked to the through gold Explorer
+ 
+
+423
+00:11:25,240 --> 00:11:28,310
+is linked to the through gold Explorer
+imer so so somehow these two things are
+
+424
+00:11:28,310 --> 00:11:28,320
+imer so so somehow these two things are
+ 
+
+425
+00:11:28,320 --> 00:11:31,750
+imer so so somehow these two things are
+now somehow connected so you can s put
+
+426
+00:11:31,750 --> 00:11:31,760
+now somehow connected so you can s put
+ 
+
+427
+00:11:31,760 --> 00:11:35,590
+now somehow connected so you can s put
+some formalization done in Megalodon
+
+428
+00:11:35,590 --> 00:11:35,600
+some formalization done in Megalodon
+ 
+
+429
+00:11:35,600 --> 00:11:38,190
+some formalization done in Megalodon
+into the wi key and that sort of for
+
+430
+00:11:38,190 --> 00:11:38,200
+into the wi key and that sort of for
+ 
+
+431
+00:11:38,200 --> 00:11:40,910
+into the wi key and that sort of for
+example creates the proof go documents
+
+432
+00:11:40,910 --> 00:11:40,920
+example creates the proof go documents
+ 
+
+433
+00:11:40,920 --> 00:11:42,350
+example creates the proof go documents
+that go into the
+
+434
+00:11:42,350 --> 00:11:42,360
+that go into the
+ 
+
+435
+00:11:42,360 --> 00:11:45,550
+that go into the
+blockchain and from the Explorer you can
+
+436
+00:11:45,550 --> 00:11:45,560
+blockchain and from the Explorer you can
+ 
+
+437
+00:11:45,560 --> 00:11:48,269
+blockchain and from the Explorer you can
+s of Link back to to
+
+438
+00:11:48,269 --> 00:11:48,279
+s of Link back to to
+ 
+
+439
+00:11:48,279 --> 00:11:51,750
+s of Link back to to
+the I'll show you some
+
+440
+00:11:51,750 --> 00:11:51,760
+the I'll show you some
+ 
+
+441
+00:11:51,760 --> 00:11:56,750
+the I'll show you some
+examples uh so so so a bit
+
+442
+00:11:56,750 --> 00:11:56,760
+examples uh so so so a bit
+ 
+
+443
+00:11:56,760 --> 00:12:01,030
+examples uh so so so a bit
+about uh this uh this this
+
+444
+00:12:01,030 --> 00:12:01,040
+about uh this uh this this
+ 
+
+445
+00:12:01,040 --> 00:12:06,110
+about uh this uh this this
+Wiki uh so um it's it's
+
+446
+00:12:06,110 --> 00:12:06,120
+Wiki uh so um it's it's
+ 
+
+447
+00:12:06,120 --> 00:12:09,350
+Wiki uh so um it's it's
+a I I think calling it ay like today you
+
+448
+00:12:09,350 --> 00:12:09,360
+a I I think calling it ay like today you
+ 
+
+449
+00:12:09,360 --> 00:12:11,269
+a I I think calling it ay like today you
+might call it just some sort of GI up
+
+450
+00:12:11,269 --> 00:12:11,279
+might call it just some sort of GI up
+ 
+
+451
+00:12:11,279 --> 00:12:13,230
+might call it just some sort of GI up
+page with
+
+452
+00:12:13,230 --> 00:12:13,240
+page with
+ 
+
+453
+00:12:13,240 --> 00:12:17,110
+page with
+htmlz uh I may maybe quickly skip
+
+454
+00:12:17,110 --> 00:12:17,120
+htmlz uh I may maybe quickly skip
+ 
+
+455
+00:12:17,120 --> 00:12:21,949
+htmlz uh I may maybe quickly skip
+forward to example so so
+
+456
+00:12:21,949 --> 00:12:21,959
+forward to example so so
+ 
+
+457
+00:12:21,959 --> 00:12:27,509
+forward to example so so
+you this is too small to see but it CHS
+
+458
+00:12:27,509 --> 00:12:27,519
+you this is too small to see but it CHS
+ 
+
+459
+00:12:27,519 --> 00:12:31,550
+you this is too small to see but it CHS
+like one proof like one theem and it's
+
+460
+00:12:31,550 --> 00:12:31,560
+like one proof like one theem and it's
+ 
+
+461
+00:12:31,560 --> 00:12:34,629
+like one proof like one theem and it's
+proved uh written in megal system and
+
+462
+00:12:34,629 --> 00:12:34,639
+proved uh written in megal system and
+ 
+
+463
+00:12:34,639 --> 00:12:38,670
+proved uh written in megal system and
+HTML so uh some of these things will be
+
+464
+00:12:38,670 --> 00:12:38,680
+HTML so uh some of these things will be
+ 
+
+465
+00:12:38,680 --> 00:12:40,670
+HTML so uh some of these things will be
+clickable like for example up there
+
+466
+00:12:40,670 --> 00:12:40,680
+clickable like for example up there
+ 
+
+467
+00:12:40,680 --> 00:12:44,389
+clickable like for example up there
+there are the links to the through go
+
+468
+00:12:44,389 --> 00:12:44,399
+there are the links to the through go
+ 
+
+469
+00:12:44,399 --> 00:12:47,870
+there are the links to the through go
+Explorer and it sort of shows you the
+
+470
+00:12:47,870 --> 00:12:47,880
+Explorer and it sort of shows you the
+ 
+
+471
+00:12:47,880 --> 00:12:52,350
+Explorer and it sort of shows you the
+occasionally some hyperlinks to to the
+
+472
+00:12:52,350 --> 00:12:52,360
+occasionally some hyperlinks to to the
+ 
+
+473
+00:12:52,360 --> 00:12:55,389
+occasionally some hyperlinks to to the
+symbols uh so so that's the point of
+
+474
+00:12:55,389 --> 00:12:55,399
+symbols uh so so that's the point of
+ 
+
+475
+00:12:55,399 --> 00:12:59,230
+symbols uh so so that's the point of
+this like uh formal ma we keys that you
+
+476
+00:12:59,230 --> 00:12:59,240
+this like uh formal ma we keys that you
+ 
+
+477
+00:12:59,240 --> 00:13:02,829
+this like uh formal ma we keys that you
+you uh have uh some sort of automated
+
+478
+00:13:02,829 --> 00:13:02,839
+you uh have uh some sort of automated
+ 
+
+479
+00:13:02,839 --> 00:13:06,189
+you uh have uh some sort of automated
+verification hdmz and in this case also
+
+480
+00:13:06,189 --> 00:13:06,199
+verification hdmz and in this case also
+ 
+
+481
+00:13:06,199 --> 00:13:08,230
+verification hdmz and in this case also
+like connection to for the
+
+482
+00:13:08,230 --> 00:13:08,240
+like connection to for the
+ 
+
+483
+00:13:08,240 --> 00:13:10,629
+like connection to for the
+blockchain uh so so basically it's some
+
+484
+00:13:10,629 --> 00:13:10,639
+blockchain uh so so basically it's some
+ 
+
+485
+00:13:10,639 --> 00:13:11,870
+blockchain uh so so basically it's some
+sort of
+
+486
+00:13:11,870 --> 00:13:11,880
+sort of
+ 
+
+487
+00:13:11,880 --> 00:13:14,829
+sort of
+GitHub uh GitHub prepo these days which
+
+488
+00:13:14,829 --> 00:13:14,839
+GitHub uh GitHub prepo these days which
+ 
+
+489
+00:13:14,839 --> 00:13:19,470
+GitHub uh GitHub prepo these days which
+people can clone Fork edit Etc it it's
+
+490
+00:13:19,470 --> 00:13:19,480
+people can clone Fork edit Etc it it's
+ 
+
+491
+00:13:19,480 --> 00:13:23,069
+people can clone Fork edit Etc it it's
+guarded by by some sort up action fr the
+
+492
+00:13:23,069 --> 00:13:23,079
+guarded by by some sort up action fr the
+ 
+
+493
+00:13:23,079 --> 00:13:26,870
+guarded by by some sort up action fr the
+verification HTM isation and uh if that
+
+494
+00:13:26,870 --> 00:13:26,880
+verification HTM isation and uh if that
+ 
+
+495
+00:13:26,880 --> 00:13:32,230
+verification HTM isation and uh if that
+fails then get will not accept it
+
+496
+00:13:32,230 --> 00:13:32,240
+fails then get will not accept it
+ 
+
+497
+00:13:32,240 --> 00:13:33,829
+fails then get will not accept it
+Etc
+
+498
+00:13:33,829 --> 00:13:33,839
+Etc
+ 
+
+499
+00:13:33,839 --> 00:13:35,470
+Etc
+uh
+
+500
+00:13:35,470 --> 00:13:35,480
+uh
+ 
+
+501
+00:13:35,480 --> 00:13:41,990
+uh
+and I guess uh you can uh maybe you can
+
+502
+00:13:41,990 --> 00:13:42,000
+and I guess uh you can uh maybe you can
+ 
+
+503
+00:13:42,000 --> 00:13:46,710
+and I guess uh you can uh maybe you can
+also try to look at it in a browser if
+
+504
+00:13:46,710 --> 00:13:46,720
+also try to look at it in a browser if
+ 
+
+505
+00:13:46,720 --> 00:13:49,790
+also try to look at it in a browser if
+that uh thing will
+
+506
+00:13:49,790 --> 00:13:49,800
+that uh thing will
+ 
+
+507
+00:13:49,800 --> 00:13:53,389
+that uh thing will
+work uh so let's
+
+508
+00:13:53,389 --> 00:13:53,399
+work uh so let's
+ 
+
+509
+00:13:53,399 --> 00:13:57,629
+work uh so let's
+see uh so which one was I looking
+
+510
+00:13:57,629 --> 00:13:57,639
+see uh so which one was I looking
+ 
+
+511
+00:13:57,639 --> 00:14:00,710
+see uh so which one was I looking
+at um
+
+512
+00:14:00,710 --> 00:14:00,720
+at um
+ 
+
+513
+00:14:00,720 --> 00:14:04,710
+at um
+Part 12 let try to go
+
+514
+00:14:04,710 --> 00:14:04,720
+Part 12 let try to go
+ 
+
+515
+00:14:04,720 --> 00:14:08,749
+Part 12 let try to go
+there and yeah maybe this a small
+
+516
+00:14:08,749 --> 00:14:08,759
+there and yeah maybe this a small
+ 
+
+517
+00:14:08,759 --> 00:14:11,310
+there and yeah maybe this a small
+readable I was showing
+
+518
+00:14:11,310 --> 00:14:11,320
+readable I was showing
+ 
+
+519
+00:14:11,320 --> 00:14:13,470
+readable I was showing
+before uh
+
+520
+00:14:13,470 --> 00:14:13,480
+before uh
+ 
+
+521
+00:14:13,480 --> 00:14:16,430
+before uh
+so I don't know this this seems to be
+
+522
+00:14:16,430 --> 00:14:16,440
+so I don't know this this seems to be
+ 
+
+523
+00:14:16,440 --> 00:14:19,790
+so I don't know this this seems to be
+simply but even I understand it so so
+
+524
+00:14:19,790 --> 00:14:19,800
+simply but even I understand it so so
+ 
+
+525
+00:14:19,800 --> 00:14:24,350
+simply but even I understand it so so
+this this probably defines the the set
+
+526
+00:14:24,350 --> 00:14:24,360
+this this probably defines the the set
+ 
+
+527
+00:14:24,360 --> 00:14:29,829
+this this probably defines the the set
+of real uh numbers
+
+528
+00:14:29,829 --> 00:14:29,839
+of real uh numbers
+ 
+
+529
+00:14:29,839 --> 00:14:31,949
+of real uh numbers
+is it
+
+530
+00:14:31,949 --> 00:14:31,959
+is it
+ 
+
+531
+00:14:31,959 --> 00:14:34,430
+is it
+true these are the
+
+532
+00:14:34,430 --> 00:14:34,440
+true these are the
+ 
+
+533
+00:14:34,440 --> 00:14:38,350
+true these are the
+complex uh elements of the complex
+
+534
+00:14:38,350 --> 00:14:38,360
+complex uh elements of the complex
+ 
+
+535
+00:14:38,360 --> 00:14:42,670
+complex uh elements of the complex
+number set the real part of
+
+536
+00:14:42,670 --> 00:14:42,680
+number set the real part of
+ 
+
+537
+00:14:42,680 --> 00:14:45,189
+number set the real part of
+Z equals
+
+538
+00:14:45,189 --> 00:14:45,199
+Z equals
+ 
+
+539
+00:14:45,199 --> 00:14:48,509
+Z equals
+z so so it's not a definition in secure
+
+540
+00:14:48,509 --> 00:14:48,519
+z so so it's not a definition in secure
+ 
+
+541
+00:14:48,519 --> 00:14:51,470
+z so so it's not a definition in secure
+theor and the theor is
+
+542
+00:14:51,470 --> 00:14:51,480
+theor and the theor is
+ 
+
+543
+00:14:51,480 --> 00:14:55,949
+theor and the theor is
+pro and let's see if we can click on on
+
+544
+00:14:55,949 --> 00:14:55,959
+pro and let's see if we can click on on
+ 
+
+545
+00:14:55,959 --> 00:14:59,790
+pro and let's see if we can click on on
+this uh thing yeah so so now we sort of
+
+546
+00:14:59,790 --> 00:14:59,800
+this uh thing yeah so so now we sort of
+ 
+
+547
+00:14:59,800 --> 00:15:02,990
+this uh thing yeah so so now we sort of
+got ourselves from the
+
+548
+00:15:02,990 --> 00:15:03,000
+got ourselves from the
+ 
+
+549
+00:15:03,000 --> 00:15:04,990
+got ourselves from the
+Meg to
+
+550
+00:15:04,990 --> 00:15:05,000
+Meg to
+ 
+
+551
+00:15:05,000 --> 00:15:09,150
+Meg to
+the blockchain Explorer so you can see
+
+552
+00:15:09,150 --> 00:15:09,160
+the blockchain Explorer so you can see
+ 
+
+553
+00:15:09,160 --> 00:15:11,910
+the blockchain Explorer so you can see
+that like these um these statements also
+
+554
+00:15:11,910 --> 00:15:11,920
+that like these um these statements also
+ 
+
+555
+00:15:11,920 --> 00:15:15,670
+that like these um these statements also
+with in the Explorer you you have all
+
+556
+00:15:15,670 --> 00:15:15,680
+with in the Explorer you you have all
+ 
+
+557
+00:15:15,680 --> 00:15:19,269
+with in the Explorer you you have all
+sorts of uh information about
+
+558
+00:15:19,269 --> 00:15:19,279
+sorts of uh information about
+ 
+
+559
+00:15:19,279 --> 00:15:21,749
+sorts of uh information about
+uh
+
+560
+00:15:21,749 --> 00:15:21,759
+uh
+ 
+
+561
+00:15:21,759 --> 00:15:25,509
+uh
+the this statement like what is its
+
+562
+00:15:25,509 --> 00:15:25,519
+the this statement like what is its
+ 
+
+563
+00:15:25,519 --> 00:15:29,069
+the this statement like what is its
+proof uh in which theory was it proved
+
+564
+00:15:29,069 --> 00:15:29,079
+proof uh in which theory was it proved
+ 
+
+565
+00:15:29,079 --> 00:15:31,509
+proof uh in which theory was it proved
+what is its type
+
+566
+00:15:31,509 --> 00:15:31,519
+what is its type
+ 
+
+567
+00:15:31,519 --> 00:15:36,189
+what is its type
+uh uh is it name then you you have like
+
+568
+00:15:36,189 --> 00:15:36,199
+uh uh is it name then you you have like
+ 
+
+569
+00:15:36,199 --> 00:15:40,790
+uh uh is it name then you you have like
+it's through gold address and some sort
+
+570
+00:15:40,790 --> 00:15:40,800
+it's through gold address and some sort
+ 
+
+571
+00:15:40,800 --> 00:15:43,470
+it's through gold address and some sort
+of met who
+
+572
+00:15:43,470 --> 00:15:43,480
+of met who
+ 
+
+573
+00:15:43,480 --> 00:15:56,030
+of met who
+create I
+
+574
+00:15:56,030 --> 00:15:56,040
+
+ 
+
+575
+00:15:56,040 --> 00:16:01,509
+
+don't yeah um is fine um why is the
+
+576
+00:16:01,509 --> 00:16:01,519
+don't yeah um is fine um why is the
+ 
+
+577
+00:16:01,519 --> 00:16:04,430
+don't yeah um is fine um why is the
+proof language so unbelievably for
+
+578
+00:16:04,430 --> 00:16:04,440
+proof language so unbelievably for
+ 
+
+579
+00:16:04,440 --> 00:16:07,189
+proof language so unbelievably for
+boasts like the first proof is a one
+
+580
+00:16:07,189 --> 00:16:07,199
+boasts like the first proof is a one
+ 
+
+581
+00:16:07,199 --> 00:16:09,509
+boasts like the first proof is a one
+liner and a decent proof
+
+582
+00:16:09,509 --> 00:16:09,519
+liner and a decent proof
+ 
+
+583
+00:16:09,519 --> 00:16:11,590
+liner and a decent proof
+assistant you patter match patter match
+
+584
+00:16:11,590 --> 00:16:11,600
+assistant you patter match patter match
+ 
+
+585
+00:16:11,600 --> 00:16:13,710
+assistant you patter match patter match
+patter masch and
+
+586
+00:16:13,710 --> 00:16:13,720
+patter masch and
+ 
+
+587
+00:16:13,720 --> 00:16:18,350
+patter masch and
+then oh so we can get into flly Wars
+
+588
+00:16:18,350 --> 00:16:18,360
+then oh so we can get into flly Wars
+ 
+
+589
+00:16:18,360 --> 00:16:21,030
+then oh so we can get into flly Wars
+about proof languages here but like this
+
+590
+00:16:21,030 --> 00:16:21,040
+about proof languages here but like this
+ 
+
+591
+00:16:21,040 --> 00:16:24,550
+about proof languages here but like this
+is Chad's thing
+
+592
+00:16:24,550 --> 00:16:24,560
+
+ 
+
+593
+00:16:24,560 --> 00:16:27,509
+
+so like if if you for example look at
+
+594
+00:16:27,509 --> 00:16:27,519
+so like if if you for example look at
+ 
+
+595
+00:16:27,519 --> 00:16:29,870
+so like if if you for example look at
+the metam proof EXP Explorer you will
+
+596
+00:16:29,870 --> 00:16:29,880
+the metam proof EXP Explorer you will
+ 
+
+597
+00:16:29,880 --> 00:16:32,910
+the metam proof EXP Explorer you will
+you will get probably similar verbosity
+
+598
+00:16:32,910 --> 00:16:32,920
+you will get probably similar verbosity
+ 
+
+599
+00:16:32,920 --> 00:16:35,509
+you will get probably similar verbosity
+I'm not sure so so this is not an
+
+600
+00:16:35,509 --> 00:16:35,519
+I'm not sure so so this is not an
+ 
+
+601
+00:16:35,519 --> 00:16:39,389
+I'm not sure so so this is not an
+isolated event but yeah that's
+
+602
+00:16:39,389 --> 00:16:39,399
+isolated event but yeah that's
+ 
+
+603
+00:16:39,399 --> 00:16:41,230
+isolated event but yeah that's
+like
+
+604
+00:16:41,230 --> 00:16:41,240
+like
+ 
+
+605
+00:16:41,240 --> 00:16:45,230
+like
+I I will not engage like you to have
+
+606
+00:16:45,230 --> 00:16:45,240
+I I will not engage like you to have
+ 
+
+607
+00:16:45,240 --> 00:16:48,949
+I I will not engage like you to have
+this flameer Mist in n and like yeah
+
+608
+00:16:48,949 --> 00:16:48,959
+this flameer Mist in n and like yeah
+ 
+
+609
+00:16:48,959 --> 00:16:53,030
+this flameer Mist in n and like yeah
+there is in this formal proof world but
+
+610
+00:16:53,030 --> 00:16:53,040
+there is in this formal proof world but
+ 
+
+611
+00:16:53,040 --> 00:16:56,309
+there is in this formal proof world but
+um yeah if you if you want another Pro
+
+612
+00:16:56,309 --> 00:16:56,319
+um yeah if you if you want another Pro
+ 
+
+613
+00:16:56,319 --> 00:17:01,150
+um yeah if you if you want another Pro
+format complain to cat
+
+614
+00:17:01,150 --> 00:17:01,160
+
+ 
+
+615
+00:17:01,160 --> 00:17:03,429
+
+oh that might have
+
+616
+00:17:03,429 --> 00:17:03,439
+oh that might have
+ 
+
+617
+00:17:03,439 --> 00:17:07,789
+oh that might have
+been sometimes are motivations for for
+
+618
+00:17:07,789 --> 00:17:07,799
+been sometimes are motivations for for
+ 
+
+619
+00:17:07,799 --> 00:17:14,069
+been sometimes are motivations for for
+like Isabel is also wildly uh verose but
+
+620
+00:17:14,069 --> 00:17:14,079
+like Isabel is also wildly uh verose but
+ 
+
+621
+00:17:14,079 --> 00:17:16,710
+like Isabel is also wildly uh verose but
+it's not an accident right it's by
+
+622
+00:17:16,710 --> 00:17:16,720
+it's not an accident right it's by
+ 
+
+623
+00:17:16,720 --> 00:17:19,630
+it's not an accident right it's by
+designed for a whole bunch of purposes
+
+624
+00:17:19,630 --> 00:17:19,640
+designed for a whole bunch of purposes
+ 
+
+625
+00:17:19,640 --> 00:17:21,990
+designed for a whole bunch of purposes
+so sure I mean this is this is doing a
+
+626
+00:17:21,990 --> 00:17:22,000
+so sure I mean this is this is doing a
+ 
+
+627
+00:17:22,000 --> 00:17:24,669
+so sure I mean this is this is doing a
+natural language reproduction of the
+
+628
+00:17:24,669 --> 00:17:24,679
+natural language reproduction of the
+ 
+
+629
+00:17:24,679 --> 00:17:26,669
+natural language reproduction of the
+this is not the actual proof term this
+
+630
+00:17:26,669 --> 00:17:26,679
+this is not the actual proof term this
+ 
+
+631
+00:17:26,679 --> 00:17:28,470
+this is not the actual proof term this
+is trying to explain the proof term to
+
+632
+00:17:28,470 --> 00:17:28,480
+is trying to explain the proof term to
+ 
+
+633
+00:17:28,480 --> 00:17:31,310
+is trying to explain the proof term to
+you right and so it's doing and and it
+
+634
+00:17:31,310 --> 00:17:31,320
+you right and so it's doing and and it
+ 
+
+635
+00:17:31,320 --> 00:17:34,669
+you right and so it's doing and and it
+only has the core proof term but it's
+
+636
+00:17:34,669 --> 00:17:34,679
+only has the core proof term but it's
+ 
+
+637
+00:17:34,679 --> 00:17:36,270
+only has the core proof term but it's
+reconstructing like rewrite the current
+
+638
+00:17:36,270 --> 00:17:36,280
+reconstructing like rewrite the current
+ 
+
+639
+00:17:36,280 --> 00:17:39,190
+reconstructing like rewrite the current
+goal blah blah the proof term is like
+
+640
+00:17:39,190 --> 00:17:39,200
+goal blah blah the proof term is like
+ 
+
+641
+00:17:39,200 --> 00:17:42,350
+goal blah blah the proof term is like
+trivial in the previous one just yeah
+
+642
+00:17:42,350 --> 00:17:42,360
+trivial in the previous one just yeah
+ 
+
+643
+00:17:42,360 --> 00:17:45,190
+trivial in the previous one just yeah
+yeah I mean but I mean well trivial
+
+644
+00:17:45,190 --> 00:17:45,200
+yeah I mean but I mean well trivial
+ 
+
+645
+00:17:45,200 --> 00:17:47,150
+yeah I mean but I mean well trivial
+still means well you have to introduce
+
+646
+00:17:47,150 --> 00:17:47,160
+still means well you have to introduce
+ 
+
+647
+00:17:47,160 --> 00:17:49,150
+still means well you have to introduce
+your variables and then observe that
+
+648
+00:17:49,150 --> 00:17:49,160
+your variables and then observe that
+ 
+
+649
+00:17:49,160 --> 00:17:50,990
+your variables and then observe that
+it's reflexive if you have pattern
+
+650
+00:17:50,990 --> 00:17:51,000
+it's reflexive if you have pattern
+ 
+
+651
+00:17:51,000 --> 00:17:53,510
+it's reflexive if you have pattern
+matching it's like you know the first
+
+652
+00:17:53,510 --> 00:17:53,520
+matching it's like you know the first
+ 
+
+653
+00:17:53,520 --> 00:17:55,070
+matching it's like you know the first
+four yeah this language doesn't have
+
+654
+00:17:55,070 --> 00:17:55,080
+four yeah this language doesn't have
+ 
+
+655
+00:17:55,080 --> 00:17:56,549
+four yeah this language doesn't have
+pattern matching this language is like
+
+656
+00:17:56,549 --> 00:17:56,559
+pattern matching this language is like
+ 
+
+657
+00:17:56,559 --> 00:17:59,789
+pattern matching this language is like
+high order logic right so the higher
+
+658
+00:17:59,789 --> 00:17:59,799
+high order logic right so the higher
+ 
+
+659
+00:17:59,799 --> 00:18:02,909
+high order logic right so the higher
+order you know it's not a
+
+660
+00:18:02,909 --> 00:18:02,919
+order you know it's not a
+ 
+
+661
+00:18:02,919 --> 00:18:05,669
+order you know it's not a
+builtin I'm trying to get the proof in
+
+662
+00:18:05,669 --> 00:18:05,679
+builtin I'm trying to get the proof in
+ 
+
+663
+00:18:05,679 --> 00:18:09,310
+builtin I'm trying to get the proof in
+the proof language which is actually
+
+664
+00:18:09,310 --> 00:18:09,320
+the proof language which is actually
+ 
+
+665
+00:18:09,320 --> 00:18:12,870
+the proof language which is actually
+more moreos to make you even
+
+666
+00:18:12,870 --> 00:18:12,880
+more moreos to make you even
+ 
+
+667
+00:18:12,880 --> 00:18:15,830
+more moreos to make you even
+happier oh another
+
+668
+00:18:15,830 --> 00:18:15,840
+happier oh another
+ 
+
+669
+00:18:15,840 --> 00:18:18,070
+happier oh another
+right
+
+670
+00:18:18,070 --> 00:18:18,080
+right
+ 
+
+671
+00:18:18,080 --> 00:18:20,190
+right
+uh
+
+672
+00:18:20,190 --> 00:18:20,200
+uh
+ 
+
+673
+00:18:20,200 --> 00:18:23,549
+uh
+uh
+
+674
+00:18:23,549 --> 00:18:23,559
+
+ 
+
+675
+00:18:23,559 --> 00:18:26,830
+
+no I mean fancy proof languages have
+
+676
+00:18:26,830 --> 00:18:26,840
+no I mean fancy proof languages have
+ 
+
+677
+00:18:26,840 --> 00:18:28,390
+no I mean fancy proof languages have
+complicated implementations you don't
+
+678
+00:18:28,390 --> 00:18:28,400
+complicated implementations you don't
+ 
+
+679
+00:18:28,400 --> 00:18:29,830
+complicated implementations you don't
+necess want to put complicated
+
+680
+00:18:29,830 --> 00:18:29,840
+necess want to put complicated
+ 
+
+681
+00:18:29,840 --> 00:18:33,310
+necess want to put complicated
+implementations on a blockchain right
+
+682
+00:18:33,310 --> 00:18:33,320
+implementations on a blockchain right
+ 
+
+683
+00:18:33,320 --> 00:18:36,350
+implementations on a blockchain right
+yeah sure that's why I'm asking right
+
+684
+00:18:36,350 --> 00:18:36,360
+yeah sure that's why I'm asking right
+ 
+
+685
+00:18:36,360 --> 00:18:38,390
+yeah sure that's why I'm asking right
+what's the motivation here why yeah well
+
+686
+00:18:38,390 --> 00:18:38,400
+what's the motivation here why yeah well
+ 
+
+687
+00:18:38,400 --> 00:18:40,789
+what's the motivation here why yeah well
+I I don't know if I have the slide but
+
+688
+00:18:40,789 --> 00:18:40,799
+I I don't know if I have the slide but
+ 
+
+689
+00:18:40,799 --> 00:18:43,950
+I I don't know if I have the slide but
+so maybe let's um switch to the uh
+
+690
+00:18:43,950 --> 00:18:43,960
+so maybe let's um switch to the uh
+ 
+
+691
+00:18:43,960 --> 00:18:47,549
+so maybe let's um switch to the uh
+slides here oh yeah these are some
+
+692
+00:18:47,549 --> 00:18:47,559
+slides here oh yeah these are some
+ 
+
+693
+00:18:47,559 --> 00:18:50,950
+slides here oh yeah these are some
+screenshots I now show you left I I just
+
+694
+00:18:50,950 --> 00:18:50,960
+screenshots I now show you left I I just
+ 
+
+695
+00:18:50,960 --> 00:18:54,070
+screenshots I now show you left I I just
+put them but like not to forget your
+
+696
+00:18:54,070 --> 00:18:54,080
+put them but like not to forget your
+ 
+
+697
+00:18:54,080 --> 00:18:57,909
+put them but like not to forget your
+point or Mario's point the the thing I
+
+698
+00:18:57,909 --> 00:18:57,919
+point or Mario's point the the thing I
+ 
+
+699
+00:18:57,919 --> 00:18:59,310
+point or Mario's point the the thing I
+I'm not sure if I have
+
+700
+00:18:59,310 --> 00:18:59,320
+I'm not sure if I have
+ 
+
+701
+00:18:59,320 --> 00:19:03,590
+I'm not sure if I have
+FES is that for for these
+
+702
+00:19:03,590 --> 00:19:03,600
+FES is that for for these
+ 
+
+703
+00:19:03,600 --> 00:19:08,590
+FES is that for for these
+applications you want to avoid um some
+
+704
+00:19:08,590 --> 00:19:08,600
+applications you want to avoid um some
+ 
+
+705
+00:19:08,600 --> 00:19:11,510
+applications you want to avoid um some
+sort of blowups right like somebody may
+
+706
+00:19:11,510 --> 00:19:11,520
+sort of blowups right like somebody may
+ 
+
+707
+00:19:11,520 --> 00:19:14,190
+sort of blowups right like somebody may
+try to attack the blockchain by various
+
+708
+00:19:14,190 --> 00:19:14,200
+try to attack the blockchain by various
+ 
+
+709
+00:19:14,200 --> 00:19:17,510
+try to attack the blockchain by various
+means and uh so you could have like a
+
+710
+00:19:17,510 --> 00:19:17,520
+means and uh so you could have like a
+ 
+
+711
+00:19:17,520 --> 00:19:20,990
+means and uh so you could have like a
+very compact powerful proof language in
+
+712
+00:19:20,990 --> 00:19:21,000
+very compact powerful proof language in
+ 
+
+713
+00:19:21,000 --> 00:19:23,190
+very compact powerful proof language in
+which you write something like an acon
+
+714
+00:19:23,190 --> 00:19:23,200
+which you write something like an acon
+ 
+
+715
+00:19:23,200 --> 00:19:26,310
+which you write something like an acon
+or and then what do you do right like
+
+716
+00:19:26,310 --> 00:19:26,320
+or and then what do you do right like
+ 
+
+717
+00:19:26,320 --> 00:19:29,669
+or and then what do you do right like
+then like in
+
+718
+00:19:29,669 --> 00:19:29,679
+then like in
+ 
+
+719
+00:19:29,679 --> 00:19:32,630
+then like in
+uh here uh there are like two kinds of
+
+720
+00:19:32,630 --> 00:19:32,640
+uh here uh there are like two kinds of
+ 
+
+721
+00:19:32,640 --> 00:19:35,710
+uh here uh there are like two kinds of
+limits there are limits on the size of
+
+722
+00:19:35,710 --> 00:19:35,720
+limits there are limits on the size of
+ 
+
+723
+00:19:35,720 --> 00:19:39,590
+limits there are limits on the size of
+block like the proof in in the partical
+
+724
+00:19:39,590 --> 00:19:39,600
+block like the proof in in the partical
+ 
+
+725
+00:19:39,600 --> 00:19:43,430
+block like the proof in in the partical
+instantiation of of of proof gold cannot
+
+726
+00:19:43,430 --> 00:19:43,440
+instantiation of of of proof gold cannot
+ 
+
+727
+00:19:43,440 --> 00:19:46,190
+instantiation of of of proof gold cannot
+be bigger than half megab like like in
+
+728
+00:19:46,190 --> 00:19:46,200
+be bigger than half megab like like in
+ 
+
+729
+00:19:46,200 --> 00:19:49,430
+be bigger than half megab like like in
+that particular format and on top of
+
+730
+00:19:49,430 --> 00:19:49,440
+that particular format and on top of
+ 
+
+731
+00:19:49,440 --> 00:19:51,630
+that particular format and on top of
+that there are some sort of resource
+
+732
+00:19:51,630 --> 00:19:51,640
+that there are some sort of resource
+ 
+
+733
+00:19:51,640 --> 00:19:53,909
+that there are some sort of resource
+limits inside the proof Checker which is
+
+734
+00:19:53,909 --> 00:19:53,919
+limits inside the proof Checker which is
+ 
+
+735
+00:19:53,919 --> 00:19:56,710
+limits inside the proof Checker which is
+sort of part of the client of the of the
+
+736
+00:19:56,710 --> 00:19:56,720
+sort of part of the client of the of the
+ 
+
+737
+00:19:56,720 --> 00:20:00,029
+sort of part of the client of the of the
+software which will hopefully PR some
+
+738
+00:20:00,029 --> 00:20:00,039
+software which will hopefully PR some
+ 
+
+739
+00:20:00,039 --> 00:20:03,870
+software which will hopefully PR some
+sort of a well if if it simply runs out
+
+740
+00:20:03,870 --> 00:20:03,880
+sort of a well if if it simply runs out
+ 
+
+741
+00:20:03,880 --> 00:20:06,230
+sort of a well if if it simply runs out
+of the resource limits then the the
+
+742
+00:20:06,230 --> 00:20:06,240
+of the resource limits then the the
+ 
+
+743
+00:20:06,240 --> 00:20:11,630
+of the resource limits then the the
+client should refuse uh to sort of put
+
+744
+00:20:11,630 --> 00:20:11,640
+client should refuse uh to sort of put
+ 
+
+745
+00:20:11,640 --> 00:20:15,470
+client should refuse uh to sort of put
+it into into the blockchain or it's not
+
+746
+00:20:15,470 --> 00:20:15,480
+it into into the blockchain or it's not
+ 
+
+747
+00:20:15,480 --> 00:20:18,789
+it into into the blockchain or it's not
+a legal so so yes there there there are
+
+748
+00:20:18,789 --> 00:20:18,799
+a legal so so yes there there there are
+ 
+
+749
+00:20:18,799 --> 00:20:21,430
+a legal so so yes there there there are
+these things and I I guess it's it's
+
+750
+00:20:21,430 --> 00:20:21,440
+these things and I I guess it's it's
+ 
+
+751
+00:20:21,440 --> 00:20:25,870
+these things and I I guess it's it's
+notal to to do them because if if really
+
+752
+00:20:25,870 --> 00:20:25,880
+notal to to do them because if if really
+ 
+
+753
+00:20:25,880 --> 00:20:28,310
+notal to to do them because if if really
+somebody hates you then then they will
+
+754
+00:20:28,310 --> 00:20:28,320
+somebody hates you then then they will
+ 
+
+755
+00:20:28,320 --> 00:20:30,549
+somebody hates you then then they will
+try to exploit some some weakness like
+
+756
+00:20:30,549 --> 00:20:30,559
+try to exploit some some weakness like
+ 
+
+757
+00:20:30,559 --> 00:20:33,190
+try to exploit some some weakness like
+like this in the blockchain and then you
+
+758
+00:20:33,190 --> 00:20:33,200
+like this in the blockchain and then you
+ 
+
+759
+00:20:33,200 --> 00:20:34,870
+like this in the blockchain and then you
+might have to do something like like do
+
+760
+00:20:34,870 --> 00:20:34,880
+might have to do something like like do
+ 
+
+761
+00:20:34,880 --> 00:20:37,190
+might have to do something like like do
+a hard for but I don't know like for
+
+762
+00:20:37,190 --> 00:20:37,200
+a hard for but I don't know like for
+ 
+
+763
+00:20:37,200 --> 00:20:38,950
+a hard for but I don't know like for
+example the Bitcoin people really hate
+
+764
+00:20:38,950 --> 00:20:38,960
+example the Bitcoin people really hate
+ 
+
+765
+00:20:38,960 --> 00:20:41,029
+example the Bitcoin people really hate
+doing hard works right like the EC
+
+766
+00:20:41,029 --> 00:20:41,039
+doing hard works right like the EC
+ 
+
+767
+00:20:41,039 --> 00:20:43,310
+doing hard works right like the EC
+people don't hate doing hard works but
+
+768
+00:20:43,310 --> 00:20:43,320
+people don't hate doing hard works but
+ 
+
+769
+00:20:43,320 --> 00:20:46,310
+people don't hate doing hard works but
+because of some other people hate people
+
+770
+00:20:46,310 --> 00:20:46,320
+because of some other people hate people
+ 
+
+771
+00:20:46,320 --> 00:20:49,669
+because of some other people hate people
+so so this is a very
+
+772
+00:20:49,669 --> 00:20:49,679
+
+ 
+
+773
+00:20:49,679 --> 00:20:52,350
+
+complicated oh yeah so this is a bunch
+
+774
+00:20:52,350 --> 00:20:52,360
+complicated oh yeah so this is a bunch
+ 
+
+775
+00:20:52,360 --> 00:20:54,070
+complicated oh yeah so this is a bunch
+of uh
+
+776
+00:20:54,070 --> 00:20:54,080
+of uh
+ 
+
+777
+00:20:54,080 --> 00:20:56,510
+of uh
+screenshots which is really better to
+
+778
+00:20:56,510 --> 00:20:56,520
+screenshots which is really better to
+ 
+
+779
+00:20:56,520 --> 00:20:58,710
+screenshots which is really better to
+show you I just put them into the slides
+
+780
+00:20:58,710 --> 00:20:58,720
+show you I just put them into the slides
+ 
+
+781
+00:20:58,720 --> 00:21:01,029
+show you I just put them into the slides
+case the demo uh
+
+782
+00:21:01,029 --> 00:21:01,039
+case the demo uh
+ 
+
+783
+00:21:01,039 --> 00:21:04,149
+case the demo uh
+fails uh what is interesting is that
+
+784
+00:21:04,149 --> 00:21:04,159
+fails uh what is interesting is that
+ 
+
+785
+00:21:04,159 --> 00:21:07,270
+fails uh what is interesting is that
+it's being used for all these bounties
+
+786
+00:21:07,270 --> 00:21:07,280
+it's being used for all these bounties
+ 
+
+787
+00:21:07,280 --> 00:21:11,190
+it's being used for all these bounties
+so try to go to this
+
+788
+00:21:11,190 --> 00:21:11,200
+so try to go to this
+ 
+
+789
+00:21:11,200 --> 00:21:13,350
+so try to go to this
+Explorer main
+
+790
+00:21:13,350 --> 00:21:13,360
+Explorer main
+ 
+
+791
+00:21:13,360 --> 00:21:18,350
+Explorer main
+page uh so so this sort of P
+
+792
+00:21:18,350 --> 00:21:18,360
+page uh so so this sort of P
+ 
+
+793
+00:21:18,360 --> 00:21:21,870
+page uh so so this sort of P
+chart tells you that that there is like
+
+794
+00:21:21,870 --> 00:21:21,880
+chart tells you that that there is like
+ 
+
+795
+00:21:21,880 --> 00:21:24,870
+chart tells you that that there is like
+300,000 ver of proof gold and on some
+
+796
+00:21:24,870 --> 00:21:24,880
+300,000 ver of proof gold and on some
+ 
+
+797
+00:21:24,880 --> 00:21:28,310
+300,000 ver of proof gold and on some
+open banties coming from I don't know
+
+798
+00:21:28,310 --> 00:21:28,320
+open banties coming from I don't know
+ 
+
+799
+00:21:28,320 --> 00:21:31,470
+open banties coming from I don't know
+the a billion in a mappings project the
+
+800
+00:21:31,470 --> 00:21:31,480
+the a billion in a mappings project the
+ 
+
+801
+00:21:31,480 --> 00:21:32,470
+the a billion in a mappings project the
+serial
+
+802
+00:21:32,470 --> 00:21:32,480
+serial
+ 
+
+803
+00:21:32,480 --> 00:21:38,830
+serial
+number formalization the obis uh PRS M
+
+804
+00:21:38,830 --> 00:21:38,840
+number formalization the obis uh PRS M
+ 
+
+805
+00:21:38,840 --> 00:21:41,710
+number formalization the obis uh PRS M
+problems like I will show you a slide
+
+806
+00:21:41,710 --> 00:21:41,720
+problems like I will show you a slide
+ 
+
+807
+00:21:41,720 --> 00:21:46,310
+problems like I will show you a slide
+about it later you can uh
+
+808
+00:21:46,310 --> 00:21:46,320
+about it later you can uh
+ 
+
+809
+00:21:46,320 --> 00:21:51,549
+about it later you can uh
+click on this and you can see the the
+
+810
+00:21:51,549 --> 00:21:51,559
+click on this and you can see the the
+ 
+
+811
+00:21:51,559 --> 00:21:56,430
+click on this and you can see the the
+the sort of most uh valuable open and
+
+812
+00:21:56,430 --> 00:21:56,440
+the sort of most uh valuable open and
+ 
+
+813
+00:21:56,440 --> 00:21:59,029
+the sort of most uh valuable open and
+most valuable Collective
+
+814
+00:21:59,029 --> 00:21:59,039
+most valuable Collective
+ 
+
+815
+00:21:59,039 --> 00:22:00,950
+most valuable Collective
+bounties so for
+
+816
+00:22:00,950 --> 00:22:00,960
+bounties so for
+ 
+
+817
+00:22:00,960 --> 00:22:05,149
+bounties so for
+example I know maybe I adverti it here
+
+818
+00:22:05,149 --> 00:22:05,159
+example I know maybe I adverti it here
+ 
+
+819
+00:22:05,159 --> 00:22:09,470
+example I know maybe I adverti it here
+has recently approved Ramsey 45 equals
+
+820
+00:22:09,470 --> 00:22:09,480
+has recently approved Ramsey 45 equals
+ 
+
+821
+00:22:09,480 --> 00:22:13,149
+has recently approved Ramsey 45 equals
+95 which is like a huge one I prove
+
+822
+00:22:13,149 --> 00:22:13,159
+95 which is like a huge one I prove
+ 
+
+823
+00:22:13,159 --> 00:22:16,750
+95 which is like a huge one I prove
+improved it formally but it's currently
+
+824
+00:22:16,750 --> 00:22:16,760
+improved it formally but it's currently
+ 
+
+825
+00:22:16,760 --> 00:22:18,789
+improved it formally but it's currently
+no chance to put it into this blockchain
+
+826
+00:22:18,789 --> 00:22:18,799
+no chance to put it into this blockchain
+ 
+
+827
+00:22:18,799 --> 00:22:22,350
+no chance to put it into this blockchain
+but but the apparently somebody to ball
+
+828
+00:22:22,350 --> 00:22:22,360
+but but the apparently somebody to ball
+ 
+
+829
+00:22:22,360 --> 00:22:25,070
+but but the apparently somebody to ball
+claims it wasn't him
+
+830
+00:22:25,070 --> 00:22:25,080
+claims it wasn't him
+ 
+
+831
+00:22:25,080 --> 00:22:28,750
+claims it wasn't him
+already already collected the the bounty
+
+832
+00:22:28,750 --> 00:22:28,760
+already already collected the the bounty
+ 
+
+833
+00:22:28,760 --> 00:22:33,870
+already already collected the the bounty
+for for for these easier uh style uh Pro
+
+834
+00:22:33,870 --> 00:22:33,880
+for for for these easier uh style uh Pro
+ 
+
+835
+00:22:33,880 --> 00:22:37,590
+for for for these easier uh style uh Pro
+problems and if you prove ft then you
+
+836
+00:22:37,590 --> 00:22:37,600
+problems and if you prove ft then you
+ 
+
+837
+00:22:37,600 --> 00:22:40,789
+problems and if you prove ft then you
+will get 5,000 to do
+
+838
+00:22:40,789 --> 00:22:40,799
+will get 5,000 to do
+ 
+
+839
+00:22:40,799 --> 00:22:47,510
+will get 5,000 to do
+it on on a small U page like
+
+840
+00:22:47,510 --> 00:22:47,520
+
+ 
+
+841
+00:22:47,520 --> 00:22:49,029
+
+f
+
+842
+00:22:49,029 --> 00:22:49,039
+f
+ 
+
+843
+00:22:49,039 --> 00:22:53,750
+f
+so 4525 is still
+
+844
+00:22:53,750 --> 00:22:53,760
+
+ 
+
+845
+00:22:53,760 --> 00:22:56,549
+
+there even if Kevin succeeds I don't
+
+846
+00:22:56,549 --> 00:22:56,559
+there even if Kevin succeeds I don't
+ 
+
+847
+00:22:56,559 --> 00:22:59,350
+there even if Kevin succeeds I don't
+think he's going to collect
+
+848
+00:22:59,350 --> 00:22:59,360
+think he's going to collect
+ 
+
+849
+00:22:59,360 --> 00:23:03,430
+think he's going to collect
+well it depends on the on thees
+
+850
+00:23:03,430 --> 00:23:03,440
+well it depends on the on thees
+ 
+
+851
+00:23:03,440 --> 00:23:07,230
+well it depends on the on thees
+right what what does these numbers
+
+852
+00:23:07,230 --> 00:23:07,240
+right what what does these numbers
+ 
+
+853
+00:23:07,240 --> 00:23:12,190
+right what what does these numbers
+mean like this 750 that's the money yeah
+
+854
+00:23:12,190 --> 00:23:12,200
+mean like this 750 that's the money yeah
+ 
+
+855
+00:23:12,200 --> 00:23:15,190
+mean like this 750 that's the money yeah
+but you have what units right like $5
+
+856
+00:23:15,190 --> 00:23:15,200
+but you have what units right like $5
+ 
+
+857
+00:23:15,200 --> 00:23:15,800
+but you have what units right like $5
+how
+
+858
+00:23:15,800 --> 00:23:15,810
+how
+ 
+
+859
+00:23:15,810 --> 00:23:20,669
+how
+[Music]
+
+860
+00:23:20,669 --> 00:23:20,679
+
+ 
+
+861
+00:23:20,679 --> 00:23:24,350
+
+much running coin I'm just curious
+
+862
+00:23:24,350 --> 00:23:24,360
+much running coin I'm just curious
+ 
+
+863
+00:23:24,360 --> 00:23:27,110
+much running coin I'm just curious
+because I never have imagined that we
+
+864
+00:23:27,110 --> 00:23:27,120
+because I never have imagined that we
+ 
+
+865
+00:23:27,120 --> 00:23:30,029
+because I never have imagined that we
+have as mathematicians have problem of
+
+866
+00:23:30,029 --> 00:23:30,039
+have as mathematicians have problem of
+ 
+
+867
+00:23:30,039 --> 00:23:34,230
+have as mathematicians have problem of
+Distributing money for proofs except for
+
+868
+00:23:34,230 --> 00:23:34,240
+Distributing money for proofs except for
+ 
+
+869
+00:23:34,240 --> 00:23:36,870
+Distributing money for proofs except for
+few questions that have large sums of
+
+870
+00:23:36,870 --> 00:23:36,880
+few questions that have large sums of
+ 
+
+871
+00:23:36,880 --> 00:23:40,149
+few questions that have large sums of
+money attached to them so I I mean it's
+
+872
+00:23:40,149 --> 00:23:40,159
+money attached to them so I I mean it's
+ 
+
+873
+00:23:40,159 --> 00:23:42,669
+money attached to them so I I mean it's
+a cool little project but what problem
+
+874
+00:23:42,669 --> 00:23:42,679
+a cool little project but what problem
+ 
+
+875
+00:23:42,679 --> 00:23:46,630
+a cool little project but what problem
+this is solving I don't
+
+876
+00:23:46,630 --> 00:23:46,640
+
+ 
+
+877
+00:23:46,640 --> 00:23:49,590
+
+see okay it's not a little sorry it's a
+
+878
+00:23:49,590 --> 00:23:49,600
+see okay it's not a little sorry it's a
+ 
+
+879
+00:23:49,600 --> 00:23:51,630
+see okay it's not a little sorry it's a
+cool and big project I just don't see
+
+880
+00:23:51,630 --> 00:23:51,640
+cool and big project I just don't see
+ 
+
+881
+00:23:51,640 --> 00:23:55,190
+cool and big project I just don't see
+what problem is Sol uhhuh yeah we can
+
+882
+00:23:55,190 --> 00:23:55,200
+what problem is Sol uhhuh yeah we can
+ 
+
+883
+00:23:55,200 --> 00:23:56,870
+what problem is Sol uhhuh yeah we can
+probably discuss it during the coffee
+
+884
+00:23:56,870 --> 00:23:56,880
+probably discuss it during the coffee
+ 
+
+885
+00:23:56,880 --> 00:24:00,909
+probably discuss it during the coffee
+break uh so so anyway uh the the the
+
+886
+00:24:00,909 --> 00:24:00,919
+break uh so so anyway uh the the the
+ 
+
+887
+00:24:00,919 --> 00:24:04,909
+break uh so so anyway uh the the the
+current amount of open uh bounties is
+
+888
+00:24:04,909 --> 00:24:04,919
+current amount of open uh bounties is
+ 
+
+889
+00:24:04,919 --> 00:24:08,269
+current amount of open uh bounties is
+like 300,000 the collected bounties
+
+890
+00:24:08,269 --> 00:24:08,279
+like 300,000 the collected bounties
+ 
+
+891
+00:24:08,279 --> 00:24:12,390
+like 300,000 the collected bounties
+like one of those is worth one micro
+
+892
+00:24:12,390 --> 00:24:12,400
+like one of those is worth one micro
+ 
+
+893
+00:24:12,400 --> 00:24:15,710
+like one of those is worth one micro
+Euro so I like like okay we probably
+
+894
+00:24:15,710 --> 00:24:15,720
+Euro so I like like okay we probably
+ 
+
+895
+00:24:15,720 --> 00:24:18,830
+Euro so I like like okay we probably
+want to start some discussions about
+
+896
+00:24:18,830 --> 00:24:18,840
+want to start some discussions about
+ 
+
+897
+00:24:18,840 --> 00:24:21,269
+want to start some discussions about
+blockchains here I didn't want to spend
+
+898
+00:24:21,269 --> 00:24:21,279
+blockchains here I didn't want to spend
+ 
+
+899
+00:24:21,279 --> 00:24:24,110
+blockchains here I didn't want to spend
+too much time on this like like you
+
+900
+00:24:24,110 --> 00:24:24,120
+too much time on this like like you
+ 
+
+901
+00:24:24,120 --> 00:24:26,909
+too much time on this like like you
+probably all know that the the prices of
+
+902
+00:24:26,909 --> 00:24:26,919
+probably all know that the the prices of
+ 
+
+903
+00:24:26,919 --> 00:24:33,350
+probably all know that the the prices of
+blockchains are not serously crazy and
+
+904
+00:24:33,350 --> 00:24:33,360
+blockchains are not serously crazy and
+ 
+
+905
+00:24:33,360 --> 00:24:38,269
+blockchains are not serously crazy and
+uh like when Chad started mgate he put
+
+906
+00:24:38,269 --> 00:24:38,279
+uh like when Chad started mgate he put
+ 
+
+907
+00:24:38,279 --> 00:24:42,430
+uh like when Chad started mgate he put
+14 Bitcoins on on his small educational
+
+908
+00:24:42,430 --> 00:24:42,440
+14 Bitcoins on on his small educational
+ 
+
+909
+00:24:42,440 --> 00:24:45,950
+14 Bitcoins on on his small educational
+exercises which anybody who would care
+
+910
+00:24:45,950 --> 00:24:45,960
+exercises which anybody who would care
+ 
+
+911
+00:24:45,960 --> 00:24:47,470
+exercises which anybody who would care
+could have collected in one day
+
+912
+00:24:47,470 --> 00:24:47,480
+could have collected in one day
+ 
+
+913
+00:24:47,480 --> 00:24:50,029
+could have collected in one day
+basically right so so how much is 14 uh
+
+914
+00:24:50,029 --> 00:24:50,039
+basically right so so how much is 14 uh
+ 
+
+915
+00:24:50,039 --> 00:24:52,549
+basically right so so how much is 14 uh
+Bitcoin today if I had done I would be
+
+916
+00:24:52,549 --> 00:24:52,559
+Bitcoin today if I had done I would be
+ 
+
+917
+00:24:52,559 --> 00:24:55,389
+Bitcoin today if I had done I would be
+quite Rich all right so like like the
+
+918
+00:24:55,389 --> 00:24:55,399
+quite Rich all right so like like the
+ 
+
+919
+00:24:55,399 --> 00:24:58,430
+quite Rich all right so like like the
+these things have some weird Dynamics
+
+920
+00:24:58,430 --> 00:24:58,440
+these things have some weird Dynamics
+ 
+
+921
+00:24:58,440 --> 00:25:00,789
+these things have some weird Dynamics
+I'm not an expert some people like it
+
+922
+00:25:00,789 --> 00:25:00,799
+I'm not an expert some people like it
+ 
+
+923
+00:25:00,799 --> 00:25:01,950
+I'm not an expert some people like it
+some people do
+
+924
+00:25:01,950 --> 00:25:01,960
+some people do
+ 
+
+925
+00:25:01,960 --> 00:25:06,710
+some people do
+it uh for some sort of I don't know
+
+926
+00:25:06,710 --> 00:25:06,720
+it uh for some sort of I don't know
+ 
+
+927
+00:25:06,720 --> 00:25:08,350
+it uh for some sort of I don't know
+crypto
+
+928
+00:25:08,350 --> 00:25:08,360
+crypto
+ 
+
+929
+00:25:08,360 --> 00:25:11,750
+crypto
+anarchistic um ideals like like Chad is
+
+930
+00:25:11,750 --> 00:25:11,760
+anarchistic um ideals like like Chad is
+ 
+
+931
+00:25:11,760 --> 00:25:15,310
+anarchistic um ideals like like Chad is
+probably one of these guys some people
+
+932
+00:25:15,310 --> 00:25:15,320
+probably one of these guys some people
+ 
+
+933
+00:25:15,320 --> 00:25:18,190
+probably one of these guys some people
+do it because they want to get rich some
+
+934
+00:25:18,190 --> 00:25:18,200
+do it because they want to get rich some
+ 
+
+935
+00:25:18,200 --> 00:25:20,590
+do it because they want to get rich some
+people pump it and dump it and some
+
+936
+00:25:20,590 --> 00:25:20,600
+people pump it and dump it and some
+ 
+
+937
+00:25:20,600 --> 00:25:23,310
+people pump it and dump it and some
+Ponzi schemes so that's so like there
+
+938
+00:25:23,310 --> 00:25:23,320
+Ponzi schemes so that's so like there
+ 
+
+939
+00:25:23,320 --> 00:25:25,789
+Ponzi schemes so that's so like there
+are interesting books written in this
+
+940
+00:25:25,789 --> 00:25:25,799
+are interesting books written in this
+ 
+
+941
+00:25:25,799 --> 00:25:26,750
+are interesting books written in this
+about this
+
+942
+00:25:26,750 --> 00:25:26,760
+about this
+ 
+
+943
+00:25:26,760 --> 00:25:29,990
+about this
+whole blockchain
+
+944
+00:25:29,990 --> 00:25:30,000
+whole blockchain
+ 
+
+945
+00:25:30,000 --> 00:25:31,909
+whole blockchain
+is it maybe sorry I don't I know you
+
+946
+00:25:31,909 --> 00:25:31,919
+is it maybe sorry I don't I know you
+ 
+
+947
+00:25:31,919 --> 00:25:34,190
+is it maybe sorry I don't I know you
+don't want to sit on this point so much
+
+948
+00:25:34,190 --> 00:25:34,200
+don't want to sit on this point so much
+ 
+
+949
+00:25:34,200 --> 00:25:36,750
+don't want to sit on this point so much
+but for example there the system in
+
+950
+00:25:36,750 --> 00:25:36,760
+but for example there the system in
+ 
+
+951
+00:25:36,760 --> 00:25:39,269
+but for example there the system in
+Internet forms like overflow which is
+
+952
+00:25:39,269 --> 00:25:39,279
+Internet forms like overflow which is
+ 
+
+953
+00:25:39,279 --> 00:25:42,510
+Internet forms like overflow which is
+some point system is maybe iin to that
+
+954
+00:25:42,510 --> 00:25:42,520
+some point system is maybe iin to that
+ 
+
+955
+00:25:42,520 --> 00:25:45,909
+some point system is maybe iin to that
+mode and you know the people who has the
+
+956
+00:25:45,909 --> 00:25:45,919
+mode and you know the people who has the
+ 
+
+957
+00:25:45,919 --> 00:25:49,990
+mode and you know the people who has the
+more points have more street cred kind
+
+958
+00:25:49,990 --> 00:25:50,000
+more points have more street cred kind
+ 
+
+959
+00:25:50,000 --> 00:25:54,389
+more points have more street cred kind
+of thing yeah you you do have points I I
+
+960
+00:25:54,389 --> 00:25:54,399
+of thing yeah you you do have points I I
+ 
+
+961
+00:25:54,399 --> 00:25:57,830
+of thing yeah you you do have points I I
+don't yeah there are various things to
+
+962
+00:25:57,830 --> 00:25:57,840
+don't yeah there are various things to
+ 
+
+963
+00:25:57,840 --> 00:26:01,350
+don't yeah there are various things to
+the AG next oh
+
+964
+00:26:01,350 --> 00:26:01,360
+the AG next oh
+ 
+
+965
+00:26:01,360 --> 00:26:05,549
+the AG next oh
+yeah oh what would I also wanted to
+
+966
+00:26:05,549 --> 00:26:05,559
+yeah oh what would I also wanted to
+ 
+
+967
+00:26:05,559 --> 00:26:09,669
+yeah oh what would I also wanted to
+maybe show let's let's see if I can do
+
+968
+00:26:09,669 --> 00:26:09,679
+maybe show let's let's see if I can do
+ 
+
+969
+00:26:09,679 --> 00:26:12,230
+maybe show let's let's see if I can do
+it oh yeah
+
+970
+00:26:12,230 --> 00:26:12,240
+it oh yeah
+ 
+
+971
+00:26:12,240 --> 00:26:14,190
+it oh yeah
+um
+
+972
+00:26:14,190 --> 00:26:14,200
+um
+ 
+
+973
+00:26:14,200 --> 00:26:19,750
+um
+so so the overall circulation like so so
+
+974
+00:26:19,750 --> 00:26:19,760
+so so the overall circulation like so so
+ 
+
+975
+00:26:19,760 --> 00:26:23,070
+so so the overall circulation like so so
+all these blockchains work by producing
+
+976
+00:26:23,070 --> 00:26:23,080
+all these blockchains work by producing
+ 
+
+977
+00:26:23,080 --> 00:26:26,590
+all these blockchains work by producing
+blocks and time time interval so I think
+
+978
+00:26:26,590 --> 00:26:26,600
+blocks and time time interval so I think
+ 
+
+979
+00:26:26,600 --> 00:26:29,950
+blocks and time time interval so I think
+uh Pro gold currently produces like
+
+980
+00:26:29,950 --> 00:26:29,960
+uh Pro gold currently produces like
+ 
+
+981
+00:26:29,960 --> 00:26:32,870
+uh Pro gold currently produces like
+roughly uh one block per hour which is
+
+982
+00:26:32,870 --> 00:26:32,880
+roughly uh one block per hour which is
+ 
+
+983
+00:26:32,880 --> 00:26:37,430
+roughly uh one block per hour which is
+not too much and it's been running for
+
+984
+00:26:37,430 --> 00:26:37,440
+not too much and it's been running for
+ 
+
+985
+00:26:37,440 --> 00:26:38,669
+not too much and it's been running for
+uh 40
+
+986
+00:26:38,669 --> 00:26:38,679
+uh 40
+ 
+
+987
+00:26:38,679 --> 00:26:42,110
+uh 40
+years and
+
+988
+00:26:42,110 --> 00:26:42,120
+years and
+ 
+
+989
+00:26:42,120 --> 00:26:45,630
+years and
+uh I think initially there was like 50
+
+990
+00:26:45,630 --> 00:26:45,640
+uh I think initially there was like 50
+ 
+
+991
+00:26:45,640 --> 00:26:48,830
+uh I think initially there was like 50
+Pro gold created during each block like
+
+992
+00:26:48,830 --> 00:26:48,840
+Pro gold created during each block like
+ 
+
+993
+00:26:48,840 --> 00:26:51,950
+Pro gold created during each block like
+that's called walk reward in in the
+
+994
+00:26:51,950 --> 00:26:51,960
+that's called walk reward in in the
+ 
+
+995
+00:26:51,960 --> 00:26:54,909
+that's called walk reward in in the
+blockchains and I think uh today it's
+
+996
+00:26:54,909 --> 00:26:54,919
+blockchains and I think uh today it's
+ 
+
+997
+00:26:54,919 --> 00:26:56,389
+blockchains and I think uh today it's
+only like
+
+998
+00:26:56,389 --> 00:26:56,399
+only like
+ 
+
+999
+00:26:56,399 --> 00:26:59,789
+only like
+25 and Big B because of these things the
+
+1000
+00:26:59,789 --> 00:26:59,799
+25 and Big B because of these things the
+ 
+
+1001
+00:26:59,799 --> 00:27:03,909
+25 and Big B because of these things the
+overall circulation is today like uh 1 1
+
+1002
+00:27:03,909 --> 00:27:03,919
+overall circulation is today like uh 1 1
+ 
+
+1003
+00:27:03,919 --> 00:27:06,990
+overall circulation is today like uh 1 1
+million proof gold and I think the total
+
+1004
+00:27:06,990 --> 00:27:07,000
+million proof gold and I think the total
+ 
+
+1005
+00:27:07,000 --> 00:27:09,110
+million proof gold and I think the total
+limit like typically these things some
+
+1006
+00:27:09,110 --> 00:27:09,120
+limit like typically these things some
+ 
+
+1007
+00:27:09,120 --> 00:27:11,870
+limit like typically these things some
+somehow stabilized in this
+
+1008
+00:27:11,870 --> 00:27:11,880
+somehow stabilized in this
+ 
+
+1009
+00:27:11,880 --> 00:27:15,110
+somehow stabilized in this
+world what I believe is that the the
+
+1010
+00:27:15,110 --> 00:27:15,120
+world what I believe is that the the
+ 
+
+1011
+00:27:15,120 --> 00:27:17,870
+world what I believe is that the the
+maximum thing after it's been running
+
+1012
+00:27:17,870 --> 00:27:17,880
+maximum thing after it's been running
+ 
+
+1013
+00:27:17,880 --> 00:27:21,190
+maximum thing after it's been running
+for 1 million years or whatever uh will
+
+1014
+00:27:21,190 --> 00:27:21,200
+for 1 million years or whatever uh will
+ 
+
+1015
+00:27:21,200 --> 00:27:24,389
+for 1 million years or whatever uh will
+be something like 11 million Pro gold so
+
+1016
+00:27:24,389 --> 00:27:24,399
+be something like 11 million Pro gold so
+ 
+
+1017
+00:27:24,399 --> 00:27:30,149
+be something like 11 million Pro gold so
+today there is like 10% of it uh sort of
+
+1018
+00:27:30,149 --> 00:27:30,159
+today there is like 10% of it uh sort of
+ 
+
+1019
+00:27:30,159 --> 00:27:32,549
+today there is like 10% of it uh sort of
+printed this is the overall number of
+
+1020
+00:27:32,549 --> 00:27:32,559
+printed this is the overall number of
+ 
+
+1021
+00:27:32,559 --> 00:27:35,070
+printed this is the overall number of
+transaction throughout the four years
+
+1022
+00:27:35,070 --> 00:27:35,080
+transaction throughout the four years
+ 
+
+1023
+00:27:35,080 --> 00:27:37,750
+transaction throughout the four years
+and the these are aggressive that at
+
+1024
+00:27:37,750 --> 00:27:37,760
+and the these are aggressive that at
+ 
+
+1025
+00:27:37,760 --> 00:27:43,789
+and the these are aggressive that at
+some point help or still hold some
+
+1026
+00:27:43,789 --> 00:27:43,799
+some point help or still hold some
+ 
+
+1027
+00:27:43,799 --> 00:27:48,549
+some point help or still hold some
+uh uh so that's that's
+
+1028
+00:27:48,549 --> 00:27:48,559
+uh uh so that's that's
+ 
+
+1029
+00:27:48,559 --> 00:27:52,590
+uh uh so that's that's
+this um yeah so so there are these
+
+1030
+00:27:52,590 --> 00:27:52,600
+this um yeah so so there are these
+ 
+
+1031
+00:27:52,600 --> 00:27:56,190
+this um yeah so so there are these
+theories which again I'm I'm not a big
+
+1032
+00:27:56,190 --> 00:27:56,200
+theories which again I'm I'm not a big
+ 
+
+1033
+00:27:56,200 --> 00:28:00,470
+theories which again I'm I'm not a big
+expert on but I can probably click on
+
+1034
+00:28:00,470 --> 00:28:00,480
+expert on but I can probably click on
+ 
+
+1035
+00:28:00,480 --> 00:28:02,669
+expert on but I can probably click on
+them uh
+
+1036
+00:28:02,669 --> 00:28:02,679
+them uh
+ 
+
+1037
+00:28:02,679 --> 00:28:05,269
+them uh
+here uh
+
+1038
+00:28:05,269 --> 00:28:05,279
+here uh
+ 
+
+1039
+00:28:05,279 --> 00:28:08,909
+here uh
+so I think the main
+
+1040
+00:28:08,909 --> 00:28:08,919
+so I think the main
+ 
+
+1041
+00:28:08,919 --> 00:28:12,430
+so I think the main
+one uh like the the beginning in some
+
+1042
+00:28:12,430 --> 00:28:12,440
+one uh like the the beginning in some
+ 
+
+1043
+00:28:12,440 --> 00:28:15,430
+one uh like the the beginning in some
+some sort of intuitionistic uh High
+
+1044
+00:28:15,430 --> 00:28:15,440
+some sort of intuitionistic uh High
+ 
+
+1045
+00:28:15,440 --> 00:28:19,350
+some sort of intuitionistic uh High
+logic uh with these two uh simple types
+
+1046
+00:28:19,350 --> 00:28:19,360
+logic uh with these two uh simple types
+ 
+
+1047
+00:28:19,360 --> 00:28:20,509
+logic uh with these two uh simple types
+o and
+
+1048
+00:28:20,509 --> 00:28:20,519
+o and
+ 
+
+1049
+00:28:20,519 --> 00:28:24,190
+o and
+I and implication and Ne
+
+1050
+00:28:24,190 --> 00:28:24,200
+I and implication and Ne
+ 
+
+1051
+00:28:24,200 --> 00:28:26,990
+I and implication and Ne
+quantifier and you you have these uh
+
+1052
+00:28:26,990 --> 00:28:27,000
+quantifier and you you have these uh
+ 
+
+1053
+00:28:27,000 --> 00:28:29,310
+quantifier and you you have these uh
+proof terms uh
+
+1054
+00:28:29,310 --> 00:28:29,320
+proof terms uh
+ 
+
+1055
+00:28:29,320 --> 00:28:31,350
+proof terms uh
+for K
+
+1056
+00:28:31,350 --> 00:28:31,360
+for K
+ 
+
+1057
+00:28:31,360 --> 00:28:33,830
+for K
+Howard uh
+
+1058
+00:28:33,830 --> 00:28:33,840
+Howard uh
+ 
+
+1059
+00:28:33,840 --> 00:28:37,669
+Howard uh
+then there is this HF theory of which is
+
+1060
+00:28:37,669 --> 00:28:37,679
+then there is this HF theory of which is
+ 
+
+1061
+00:28:37,679 --> 00:28:41,590
+then there is this HF theory of which is
+built in of herit finite sets then
+
+1062
+00:28:41,590 --> 00:28:41,600
+built in of herit finite sets then
+ 
+
+1063
+00:28:41,600 --> 00:28:44,190
+built in of herit finite sets then
+finally there are two axiomatizations
+
+1064
+00:28:44,190 --> 00:28:44,200
+finally there are two axiomatizations
+ 
+
+1065
+00:28:44,200 --> 00:28:46,310
+finally there are two axiomatizations
+ofas
+
+1066
+00:28:46,310 --> 00:28:46,320
+ofas
+ 
+
+1067
+00:28:46,320 --> 00:28:50,909
+ofas
+gr uh there is this
+
+1068
+00:28:50,909 --> 00:28:50,919
+gr uh there is this
+ 
+
+1069
+00:28:50,919 --> 00:28:54,830
+gr uh there is this
+Sy Bing so I think it's
+
+1070
+00:28:54,830 --> 00:28:54,840
+Sy Bing so I think it's
+ 
+
+1071
+00:28:54,840 --> 00:28:59,190
+Sy Bing so I think it's
+all program uh stuff
+
+1072
+00:28:59,190 --> 00:28:59,200
+all program uh stuff
+ 
+
+1073
+00:28:59,200 --> 00:29:01,310
+all program uh stuff
+and maybe there were some more and I I
+
+1074
+00:29:01,310 --> 00:29:01,320
+and maybe there were some more and I I
+ 
+
+1075
+00:29:01,320 --> 00:29:04,549
+and maybe there were some more and I I
+think the point is that you can create a
+
+1076
+00:29:04,549 --> 00:29:04,559
+think the point is that you can create a
+ 
+
+1077
+00:29:04,559 --> 00:29:08,669
+think the point is that you can create a
+new Theory and start your uh development
+
+1078
+00:29:08,669 --> 00:29:08,679
+new Theory and start your uh development
+ 
+
+1079
+00:29:08,679 --> 00:29:11,630
+new Theory and start your uh development
+and uh can I switch to
+
+1080
+00:29:11,630 --> 00:29:11,640
+and uh can I switch to
+ 
+
+1081
+00:29:11,640 --> 00:29:14,750
+and uh can I switch to
+this yeah it seems to be
+
+1082
+00:29:14,750 --> 00:29:14,760
+this yeah it seems to be
+ 
+
+1083
+00:29:14,760 --> 00:29:17,909
+this yeah it seems to be
+it uh yeah so
+
+1084
+00:29:17,909 --> 00:29:17,919
+it uh yeah so
+ 
+
+1085
+00:29:17,919 --> 00:29:23,269
+it uh yeah so
+the the the bount system is again I'm
+
+1086
+00:29:23,269 --> 00:29:23,279
+the the the bount system is again I'm
+ 
+
+1087
+00:29:23,279 --> 00:29:25,750
+the the the bount system is again I'm
+I'm not an expert but the the idea is
+
+1088
+00:29:25,750 --> 00:29:25,760
+I'm not an expert but the the idea is
+ 
+
+1089
+00:29:25,760 --> 00:29:29,909
+I'm not an expert but the the idea is
+that you and basically at any time
+
+1090
+00:29:29,909 --> 00:29:29,919
+that you and basically at any time
+ 
+
+1091
+00:29:29,919 --> 00:29:34,389
+that you and basically at any time
+create um a preposition conjecture and
+
+1092
+00:29:34,389 --> 00:29:34,399
+create um a preposition conjecture and
+ 
+
+1093
+00:29:34,399 --> 00:29:37,710
+create um a preposition conjecture and
+also at any time you can attach a bounty
+
+1094
+00:29:37,710 --> 00:29:37,720
+also at any time you can attach a bounty
+ 
+
+1095
+00:29:37,720 --> 00:29:41,029
+also at any time you can attach a bounty
+or an additional Bounty uh to to that
+
+1096
+00:29:41,029 --> 00:29:41,039
+or an additional Bounty uh to to that
+ 
+
+1097
+00:29:41,039 --> 00:29:43,149
+or an additional Bounty uh to to that
+conjecture
+
+1098
+00:29:43,149 --> 00:29:43,159
+conjecture
+ 
+
+1099
+00:29:43,159 --> 00:29:45,710
+conjecture
+initially there there was this idea
+
+1100
+00:29:45,710 --> 00:29:45,720
+initially there there was this idea
+ 
+
+1101
+00:29:45,720 --> 00:29:48,630
+initially there there was this idea
+because many people I I I guess in the
+
+1102
+00:29:48,630 --> 00:29:48,640
+because many people I I I guess in the
+ 
+
+1103
+00:29:48,640 --> 00:29:51,389
+because many people I I I guess in the
+beginning of Bitcoin were annoyed by
+
+1104
+00:29:51,389 --> 00:29:51,399
+beginning of Bitcoin were annoyed by
+ 
+
+1105
+00:29:51,399 --> 00:29:53,830
+beginning of Bitcoin were annoyed by
+this idea of proof ofer like people are
+
+1106
+00:29:53,830 --> 00:29:53,840
+this idea of proof ofer like people are
+ 
+
+1107
+00:29:53,840 --> 00:30:00,310
+this idea of proof ofer like people are
+soing boring uh Hing um uh contests or
+
+1108
+00:30:00,310 --> 00:30:00,320
+soing boring uh Hing um uh contests or
+ 
+
+1109
+00:30:00,320 --> 00:30:03,149
+soing boring uh Hing um uh contests or
+whatever so so I guess many people at
+
+1110
+00:30:03,149 --> 00:30:03,159
+whatever so so I guess many people at
+ 
+
+1111
+00:30:03,159 --> 00:30:05,509
+whatever so so I guess many people at
+the C ago were thinking like why don't
+
+1112
+00:30:05,509 --> 00:30:05,519
+the C ago were thinking like why don't
+ 
+
+1113
+00:30:05,519 --> 00:30:07,669
+the C ago were thinking like why don't
+we come up with something useful like
+
+1114
+00:30:07,669 --> 00:30:07,679
+we come up with something useful like
+ 
+
+1115
+00:30:07,679 --> 00:30:10,269
+we come up with something useful like
+like theing right I instead of the
+
+1116
+00:30:10,269 --> 00:30:10,279
+like theing right I instead of the
+ 
+
+1117
+00:30:10,279 --> 00:30:13,750
+like theing right I instead of the
+stupid mining using hash functions why
+
+1118
+00:30:13,750 --> 00:30:13,760
+stupid mining using hash functions why
+ 
+
+1119
+00:30:13,760 --> 00:30:14,549
+stupid mining using hash functions why
+don't
+
+1120
+00:30:14,549 --> 00:30:14,559
+don't
+ 
+
+1121
+00:30:14,559 --> 00:30:18,190
+don't
+we you use this huge power which is used
+
+1122
+00:30:18,190 --> 00:30:18,200
+we you use this huge power which is used
+ 
+
+1123
+00:30:18,200 --> 00:30:21,750
+we you use this huge power which is used
+for mining Bitcoin for proving for
+
+1124
+00:30:21,750 --> 00:30:21,760
+for mining Bitcoin for proving for
+ 
+
+1125
+00:30:21,760 --> 00:30:25,750
+for mining Bitcoin for proving for
+example so so to some extent I think
+
+1126
+00:30:25,750 --> 00:30:25,760
+example so so to some extent I think
+ 
+
+1127
+00:30:25,760 --> 00:30:28,830
+example so so to some extent I think
+brug initially tried something like that
+
+1128
+00:30:28,830 --> 00:30:28,840
+brug initially tried something like that
+ 
+
+1129
+00:30:28,840 --> 00:30:34,230
+brug initially tried something like that
+so they in each block they randomly
+
+1130
+00:30:34,230 --> 00:30:34,240
+so they in each block they randomly
+ 
+
+1131
+00:30:34,240 --> 00:30:37,669
+so they in each block they randomly
+chose uh one of I don't know maybe five
+
+1132
+00:30:37,669 --> 00:30:37,679
+chose uh one of I don't know maybe five
+ 
+
+1133
+00:30:37,679 --> 00:30:40,950
+chose uh one of I don't know maybe five
+or six uh classes of of
+
+1134
+00:30:40,950 --> 00:30:40,960
+or six uh classes of of
+ 
+
+1135
+00:30:40,960 --> 00:30:43,750
+or six uh classes of of
+problems and
+
+1136
+00:30:43,750 --> 00:30:43,760
+problems and
+ 
+
+1137
+00:30:43,760 --> 00:30:47,470
+problems and
+uh they they would put a bounty on on
+
+1138
+00:30:47,470 --> 00:30:47,480
+uh they they would put a bounty on on
+ 
+
+1139
+00:30:47,480 --> 00:30:49,350
+uh they they would put a bounty on on
+the problem and that typically means
+
+1140
+00:30:49,350 --> 00:30:49,360
+the problem and that typically means
+ 
+
+1141
+00:30:49,360 --> 00:30:52,190
+the problem and that typically means
+that you get the Bounty if you prove the
+
+1142
+00:30:52,190 --> 00:30:52,200
+that you get the Bounty if you prove the
+ 
+
+1143
+00:30:52,200 --> 00:30:53,990
+that you get the Bounty if you prove the
+problem or if you prove the negation of
+
+1144
+00:30:53,990 --> 00:30:54,000
+problem or if you prove the negation of
+ 
+
+1145
+00:30:54,000 --> 00:30:54,789
+problem or if you prove the negation of
+the
+
+1146
+00:30:54,789 --> 00:30:54,799
+the
+ 
+
+1147
+00:30:54,799 --> 00:30:57,070
+the
+problem uh so so the fact that these
+
+1148
+00:30:57,070 --> 00:30:57,080
+problem uh so so the fact that these
+ 
+
+1149
+00:30:57,080 --> 00:30:58,669
+problem uh so so the fact that these
+things were randomly
+
+1150
+00:30:58,669 --> 00:30:58,679
+things were randomly
+ 
+
+1151
+00:30:58,679 --> 00:31:01,909
+things were randomly
+generated uh Wen so bad in the sense
+
+1152
+00:31:01,909 --> 00:31:01,919
+generated uh Wen so bad in the sense
+ 
+
+1153
+00:31:01,919 --> 00:31:04,350
+generated uh Wen so bad in the sense
+that you would be like throwing away
+
+1154
+00:31:04,350 --> 00:31:04,360
+that you would be like throwing away
+ 
+
+1155
+00:31:04,360 --> 00:31:06,389
+that you would be like throwing away
+like completely burning the money
+
+1156
+00:31:06,389 --> 00:31:06,399
+like completely burning the money
+ 
+
+1157
+00:31:06,399 --> 00:31:08,830
+like completely burning the money
+because if you are generating
+
+1158
+00:31:08,830 --> 00:31:08,840
+because if you are generating
+ 
+
+1159
+00:31:08,840 --> 00:31:12,389
+because if you are generating
+an unprovable conjecture you can prove
+
+1160
+00:31:12,389 --> 00:31:12,399
+an unprovable conjecture you can prove
+ 
+
+1161
+00:31:12,399 --> 00:31:13,830
+an unprovable conjecture you can prove
+the
+
+1162
+00:31:13,830 --> 00:31:13,840
+the
+ 
+
+1163
+00:31:13,840 --> 00:31:16,870
+the
+negation uh still it
+
+1164
+00:31:16,870 --> 00:31:16,880
+negation uh still it
+ 
+
+1165
+00:31:16,880 --> 00:31:19,389
+negation uh still it
+was probably a bit strange in the sense
+
+1166
+00:31:19,389 --> 00:31:19,399
+was probably a bit strange in the sense
+ 
+
+1167
+00:31:19,399 --> 00:31:21,669
+was probably a bit strange in the sense
+that it's hard to sort of find you
+
+1168
+00:31:21,669 --> 00:31:21,679
+that it's hard to sort of find you
+ 
+
+1169
+00:31:21,679 --> 00:31:25,470
+that it's hard to sort of find you
+randomly created pictures for um having
+
+1170
+00:31:25,470 --> 00:31:25,480
+randomly created pictures for um having
+ 
+
+1171
+00:31:25,480 --> 00:31:27,590
+randomly created pictures for um having
+the right kind of difficulty like in the
+
+1172
+00:31:27,590 --> 00:31:27,600
+the right kind of difficulty like in the
+ 
+
+1173
+00:31:27,600 --> 00:31:30,070
+the right kind of difficulty like in the
+standard Bitcoin mining the the fine
+
+1174
+00:31:30,070 --> 00:31:30,080
+standard Bitcoin mining the the fine
+ 
+
+1175
+00:31:30,080 --> 00:31:31,990
+standard Bitcoin mining the the fine
+tuning process like the difficulty
+
+1176
+00:31:31,990 --> 00:31:32,000
+tuning process like the difficulty
+ 
+
+1177
+00:31:32,000 --> 00:31:35,230
+tuning process like the difficulty
+increasing process is sort of reasonable
+
+1178
+00:31:35,230 --> 00:31:35,240
+increasing process is sort of reasonable
+ 
+
+1179
+00:31:35,240 --> 00:31:38,669
+increasing process is sort of reasonable
+modulo some obviously new hardware Etc
+
+1180
+00:31:38,669 --> 00:31:38,679
+modulo some obviously new hardware Etc
+ 
+
+1181
+00:31:38,679 --> 00:31:41,070
+modulo some obviously new hardware Etc
+but still it seems to be quite resistant
+
+1182
+00:31:41,070 --> 00:31:41,080
+but still it seems to be quite resistant
+ 
+
+1183
+00:31:41,080 --> 00:31:43,710
+but still it seems to be quite resistant
+where whereas here I I I I don't think
+
+1184
+00:31:43,710 --> 00:31:43,720
+where whereas here I I I I don't think
+ 
+
+1185
+00:31:43,720 --> 00:31:47,190
+where whereas here I I I I don't think
+there was any fine tuning process to it
+
+1186
+00:31:47,190 --> 00:31:47,200
+there was any fine tuning process to it
+ 
+
+1187
+00:31:47,200 --> 00:31:50,190
+there was any fine tuning process to it
+but to to some extent it was like the
+
+1188
+00:31:50,190 --> 00:31:50,200
+but to to some extent it was like the
+ 
+
+1189
+00:31:50,200 --> 00:31:54,430
+but to to some extent it was like the
+idea of you you will get some quote
+
+1190
+00:31:54,430 --> 00:31:54,440
+idea of you you will get some quote
+ 
+
+1191
+00:31:54,440 --> 00:31:57,990
+idea of you you will get some quote
+unquote mining reward if you solve the
+
+1192
+00:31:57,990 --> 00:31:58,000
+unquote mining reward if you solve the
+ 
+
+1193
+00:31:58,000 --> 00:32:00,389
+unquote mining reward if you solve the
+these theorems right like in in some
+
+1194
+00:32:00,389 --> 00:32:00,399
+these theorems right like in in some
+ 
+
+1195
+00:32:00,399 --> 00:32:04,430
+these theorems right like in in some
+sort of delayed way so in some sense it
+
+1196
+00:32:04,430 --> 00:32:04,440
+sort of delayed way so in some sense it
+ 
+
+1197
+00:32:04,440 --> 00:32:09,230
+sort of delayed way so in some sense it
+was a bit of a attempted solution to to
+
+1198
+00:32:09,230 --> 00:32:09,240
+was a bit of a attempted solution to to
+ 
+
+1199
+00:32:09,240 --> 00:32:11,629
+was a bit of a attempted solution to to
+this Bitcoin mining problem but I would
+
+1200
+00:32:11,629 --> 00:32:11,639
+this Bitcoin mining problem but I would
+ 
+
+1201
+00:32:11,639 --> 00:32:14,950
+this Bitcoin mining problem but I would
+say a failed failed
+
+1202
+00:32:14,950 --> 00:32:14,960
+say a failed failed
+ 
+
+1203
+00:32:14,960 --> 00:32:16,830
+say a failed failed
+solution
+
+1204
+00:32:16,830 --> 00:32:16,840
+solution
+ 
+
+1205
+00:32:16,840 --> 00:32:21,029
+solution
+uh I I guess the main uh the main
+
+1206
+00:32:21,029 --> 00:32:21,039
+uh I I guess the main uh the main
+ 
+
+1207
+00:32:21,039 --> 00:32:23,870
+uh I I guess the main uh the main
+motivation was to sort of get people
+
+1208
+00:32:23,870 --> 00:32:23,880
+motivation was to sort of get people
+ 
+
+1209
+00:32:23,880 --> 00:32:24,909
+motivation was to sort of get people
+into it
+
+1210
+00:32:24,909 --> 00:32:24,919
+into it
+ 
+
+1211
+00:32:24,919 --> 00:32:28,190
+into it
+initially uh distribute the money reason
+
+1212
+00:32:28,190 --> 00:32:28,200
+initially uh distribute the money reason
+ 
+
+1213
+00:32:28,200 --> 00:32:32,629
+initially uh distribute the money reason
+about people who can prove theorems and
+
+1214
+00:32:32,629 --> 00:32:32,639
+about people who can prove theorems and
+ 
+
+1215
+00:32:32,639 --> 00:32:34,990
+about people who can prove theorems and
+then this community would be sort of
+
+1216
+00:32:34,990 --> 00:32:35,000
+then this community would be sort of
+ 
+
+1217
+00:32:35,000 --> 00:32:38,629
+then this community would be sort of
+seated with the pro go and and put the
+
+1218
+00:32:38,629 --> 00:32:38,639
+seated with the pro go and and put the
+ 
+
+1219
+00:32:38,639 --> 00:32:41,350
+seated with the pro go and and put the
+proof gold on interesting uh
+
+1220
+00:32:41,350 --> 00:32:41,360
+proof gold on interesting uh
+ 
+
+1221
+00:32:41,360 --> 00:32:43,509
+proof gold on interesting uh
+formalization
+
+1222
+00:32:43,509 --> 00:32:43,519
+formalization
+ 
+
+1223
+00:32:43,519 --> 00:32:46,590
+formalization
+projects uh so this is an
+
+1224
+00:32:46,590 --> 00:32:46,600
+projects uh so this is an
+ 
+
+1225
+00:32:46,600 --> 00:32:49,310
+projects uh so this is an
+overview that you already saw in the pie
+
+1226
+00:32:49,310 --> 00:32:49,320
+overview that you already saw in the pie
+ 
+
+1227
+00:32:49,320 --> 00:32:52,389
+overview that you already saw in the pie
+chart so there are these
+
+1228
+00:32:52,389 --> 00:32:52,399
+chart so there are these
+ 
+
+1229
+00:32:52,399 --> 00:32:54,750
+chart so there are these
+Ry graphs for example there's quite a
+
+1230
+00:32:54,750 --> 00:32:54,760
+Ry graphs for example there's quite a
+ 
+
+1231
+00:32:54,760 --> 00:32:59,549
+Ry graphs for example there's quite a
+few of them at some point some hard M
+
+1232
+00:32:59,549 --> 00:32:59,559
+few of them at some point some hard M
+ 
+
+1233
+00:32:59,559 --> 00:33:02,110
+few of them at some point some hard M
+problems coming basically from my ERC
+
+1234
+00:33:02,110 --> 00:33:02,120
+problems coming basically from my ERC
+ 
+
+1235
+00:33:02,120 --> 00:33:04,149
+problems coming basically from my ERC
+project where added like like the
+
+1236
+00:33:04,149 --> 00:33:04,159
+project where added like like the
+ 
+
+1237
+00:33:04,159 --> 00:33:06,470
+project where added like like the
+problems that we really tried to prove
+
+1238
+00:33:06,470 --> 00:33:06,480
+problems that we really tried to prove
+ 
+
+1239
+00:33:06,480 --> 00:33:08,430
+problems that we really tried to prove
+and and couldn't prove using automated
+
+1240
+00:33:08,430 --> 00:33:08,440
+and and couldn't prove using automated
+ 
+
+1241
+00:33:08,440 --> 00:33:09,470
+and and couldn't prove using automated
+theorum
+
+1242
+00:33:09,470 --> 00:33:09,480
+theorum
+ 
+
+1243
+00:33:09,480 --> 00:33:12,789
+theorum
+progress uh to some extent appears
+
+1244
+00:33:12,789 --> 00:33:12,799
+progress uh to some extent appears
+ 
+
+1245
+00:33:12,799 --> 00:33:14,710
+progress uh to some extent appears
+appeared in the
+
+1246
+00:33:14,710 --> 00:33:14,720
+appeared in the
+ 
+
+1247
+00:33:14,720 --> 00:33:16,990
+appeared in the
+blockchain uh at some point we we
+
+1248
+00:33:16,990 --> 00:33:17,000
+blockchain uh at some point we we
+ 
+
+1249
+00:33:17,000 --> 00:33:19,750
+blockchain uh at some point we we
+started the this project on
+
+1250
+00:33:19,750 --> 00:33:19,760
+started the this project on
+ 
+
+1251
+00:33:19,760 --> 00:33:22,070
+started the this project on
+automatically generating explanations
+
+1252
+00:33:22,070 --> 00:33:22,080
+automatically generating explanations
+ 
+
+1253
+00:33:22,080 --> 00:33:24,509
+automatically generating explanations
+for ois uh
+
+1254
+00:33:24,509 --> 00:33:24,519
+for ois uh
+ 
+
+1255
+00:33:24,519 --> 00:33:27,830
+for ois uh
+sequences and we generated uh bench
+
+1256
+00:33:27,830 --> 00:33:27,840
+sequences and we generated uh bench
+ 
+
+1257
+00:33:27,840 --> 00:33:30,909
+sequences and we generated uh bench
+marks for the to prove or disprove
+
+1258
+00:33:30,909 --> 00:33:30,919
+marks for the to prove or disprove
+ 
+
+1259
+00:33:30,919 --> 00:33:34,710
+marks for the to prove or disprove
+equivalence between two programs that uh
+
+1260
+00:33:34,710 --> 00:33:34,720
+equivalence between two programs that uh
+ 
+
+1261
+00:33:34,720 --> 00:33:38,149
+equivalence between two programs that uh
+explain a particular sequence and and
+
+1262
+00:33:38,149 --> 00:33:38,159
+explain a particular sequence and and
+ 
+
+1263
+00:33:38,159 --> 00:33:40,990
+explain a particular sequence and and
+these these problems are quite hard
+
+1264
+00:33:40,990 --> 00:33:41,000
+these these problems are quite hard
+ 
+
+1265
+00:33:41,000 --> 00:33:43,070
+these these problems are quite hard
+because like they typically require
+
+1266
+00:33:43,070 --> 00:33:43,080
+because like they typically require
+ 
+
+1267
+00:33:43,080 --> 00:33:46,389
+because like they typically require
+induction or sort of multiple inductions
+
+1268
+00:33:46,389 --> 00:33:46,399
+induction or sort of multiple inductions
+ 
+
+1269
+00:33:46,399 --> 00:33:49,430
+induction or sort of multiple inductions
+and to today's inductive fi proving is
+
+1270
+00:33:49,430 --> 00:33:49,440
+and to today's inductive fi proving is
+ 
+
+1271
+00:33:49,440 --> 00:33:52,950
+and to today's inductive fi proving is
+isn't very strong so again like if you
+
+1272
+00:33:52,950 --> 00:33:52,960
+isn't very strong so again like if you
+ 
+
+1273
+00:33:52,960 --> 00:33:55,269
+isn't very strong so again like if you
+come up with a batter inductive the you
+
+1274
+00:33:55,269 --> 00:33:55,279
+come up with a batter inductive the you
+ 
+
+1275
+00:33:55,279 --> 00:33:59,549
+come up with a batter inductive the you
+can collect some gold uh Chad BR was
+
+1276
+00:33:59,549 --> 00:33:59,559
+can collect some gold uh Chad BR was
+ 
+
+1277
+00:33:59,559 --> 00:34:01,870
+can collect some gold uh Chad BR was
+formalizing serial numbers so there is
+
+1278
+00:34:01,870 --> 00:34:01,880
+formalizing serial numbers so there is
+ 
+
+1279
+00:34:01,880 --> 00:34:07,270
+formalizing serial numbers so there is
+quite a few cones uh based on his
+
+1280
+00:34:07,270 --> 00:34:07,280
+quite a few cones uh based on his
+ 
+
+1281
+00:34:07,280 --> 00:34:09,230
+quite a few cones uh based on his
+formalization there is some category
+
+1282
+00:34:09,230 --> 00:34:09,240
+formalization there is some category
+ 
+
+1283
+00:34:09,240 --> 00:34:14,589
+formalization there is some category
+Theory this poos I inms some randomly I
+
+1284
+00:34:14,589 --> 00:34:14,599
+Theory this poos I inms some randomly I
+ 
+
+1285
+00:34:14,599 --> 00:34:17,349
+Theory this poos I inms some randomly I
+think these These are sort of in the
+
+1286
+00:34:17,349 --> 00:34:17,359
+think these These are sort of in the
+ 
+
+1287
+00:34:17,359 --> 00:34:19,629
+think these These are sort of in the
+realm of the originally
+
+1288
+00:34:19,629 --> 00:34:19,639
+realm of the originally
+ 
+
+1289
+00:34:19,639 --> 00:34:23,030
+realm of the originally
+generated uh randomly uh generated uh
+
+1290
+00:34:23,030 --> 00:34:23,040
+generated uh randomly uh generated uh
+ 
+
+1291
+00:34:23,040 --> 00:34:25,869
+generated uh randomly uh generated uh
+bounties like during the block creation
+
+1292
+00:34:25,869 --> 00:34:25,879
+bounties like during the block creation
+ 
+
+1293
+00:34:25,879 --> 00:34:28,030
+bounties like during the block creation
+so some of them were randomly created
+
+1294
+00:34:28,030 --> 00:34:28,040
+so some of them were randomly created
+ 
+
+1295
+00:34:28,040 --> 00:34:29,710
+so some of them were randomly created
+Quantified bu
+
+1296
+00:34:29,710 --> 00:34:29,720
+Quantified bu
+ 
+
+1297
+00:34:29,720 --> 00:34:32,750
+Quantified bu
+formulas uh some of them are about some
+
+1298
+00:34:32,750 --> 00:34:32,760
+formulas uh some of them are about some
+ 
+
+1299
+00:34:32,760 --> 00:34:36,310
+formulas uh some of them are about some
+sort of set constraints which I don't
+
+1300
+00:34:36,310 --> 00:34:36,320
+sort of set constraints which I don't
+ 
+
+1301
+00:34:36,320 --> 00:34:39,550
+sort of set constraints which I don't
+know exactly what it do high
+
+1302
+00:34:39,550 --> 00:34:39,560
+know exactly what it do high
+ 
+
+1303
+00:34:39,560 --> 00:34:43,669
+know exactly what it do high
+unification etc etc like the last one
+
+1304
+00:34:43,669 --> 00:34:43,679
+unification etc etc like the last one
+ 
+
+1305
+00:34:43,679 --> 00:34:47,069
+unification etc etc like the last one
+was really like some general random
+
+1306
+00:34:47,069 --> 00:34:47,079
+was really like some general random
+ 
+
+1307
+00:34:47,079 --> 00:34:49,829
+was really like some general random
+generation
+
+1308
+00:34:49,829 --> 00:34:49,839
+generation
+ 
+
+1309
+00:34:49,839 --> 00:34:54,669
+generation
+prepositions uh well then the the
+
+1310
+00:34:54,669 --> 00:34:54,679
+prepositions uh well then the the
+ 
+
+1311
+00:34:54,679 --> 00:34:58,310
+prepositions uh well then the the
+initial code base wasn't uh very
+
+1312
+00:34:58,310 --> 00:34:58,320
+initial code base wasn't uh very
+ 
+
+1313
+00:34:58,320 --> 00:34:59,349
+initial code base wasn't uh very
+uh
+
+1314
+00:34:59,349 --> 00:34:59,359
+uh
+ 
+
+1315
+00:34:59,359 --> 00:35:03,390
+uh
+stable for I guess all sorts of uh
+
+1316
+00:35:03,390 --> 00:35:03,400
+stable for I guess all sorts of uh
+ 
+
+1317
+00:35:03,400 --> 00:35:05,630
+stable for I guess all sorts of uh
+reasons so that's why
+
+1318
+00:35:05,630 --> 00:35:05,640
+reasons so that's why
+ 
+
+1319
+00:35:05,640 --> 00:35:09,069
+reasons so that's why
+in21 uh Cesar got into developing this
+
+1320
+00:35:09,069 --> 00:35:09,079
+in21 uh Cesar got into developing this
+ 
+
+1321
+00:35:09,079 --> 00:35:10,310
+in21 uh Cesar got into developing this
+lava
+
+1322
+00:35:10,310 --> 00:35:10,320
+lava
+ 
+
+1323
+00:35:10,320 --> 00:35:14,750
+lava
+client and I I guess what really help to
+
+1324
+00:35:14,750 --> 00:35:14,760
+client and I I guess what really help to
+ 
+
+1325
+00:35:14,760 --> 00:35:17,390
+client and I I guess what really help to
+make it stable is that uh it's started
+
+1326
+00:35:17,390 --> 00:35:17,400
+make it stable is that uh it's started
+ 
+
+1327
+00:35:17,400 --> 00:35:22,710
+make it stable is that uh it's started
+to use like sensible uh database uh like
+
+1328
+00:35:22,710 --> 00:35:22,720
+to use like sensible uh database uh like
+ 
+
+1329
+00:35:22,720 --> 00:35:25,589
+to use like sensible uh database uh like
+uh databases for uh for for the various
+
+1330
+00:35:25,589 --> 00:35:25,599
+uh databases for uh for for the various
+ 
+
+1331
+00:35:25,599 --> 00:35:28,150
+uh databases for uh for for the various
+uh blockchain information
+
+1332
+00:35:28,150 --> 00:35:28,160
+uh blockchain information
+ 
+
+1333
+00:35:28,160 --> 00:35:31,829
+uh blockchain information
+it switched to much uh
+
+1334
+00:35:31,829 --> 00:35:31,839
+it switched to much uh
+ 
+
+1335
+00:35:31,839 --> 00:35:36,829
+it switched to much uh
+better uh crypto cryptographic
+
+1336
+00:35:36,829 --> 00:35:36,839
+better uh crypto cryptographic
+ 
+
+1337
+00:35:36,839 --> 00:35:39,990
+better uh crypto cryptographic
+uh like libraries like at some point I
+
+1338
+00:35:39,990 --> 00:35:40,000
+uh like libraries like at some point I
+ 
+
+1339
+00:35:40,000 --> 00:35:42,750
+uh like libraries like at some point I
+visited johis and he he was paid by
+
+1340
+00:35:42,750 --> 00:35:42,760
+visited johis and he he was paid by
+ 
+
+1341
+00:35:42,760 --> 00:35:47,310
+visited johis and he he was paid by
+Amazon to to work on verifying different
+
+1342
+00:35:47,310 --> 00:35:47,320
+Amazon to to work on verifying different
+ 
+
+1343
+00:35:47,320 --> 00:35:53,710
+Amazon to to work on verifying different
+altic cures so he he we we took uh one
+
+1344
+00:35:53,710 --> 00:35:53,720
+altic cures so he he we we took uh one
+ 
+
+1345
+00:35:53,720 --> 00:35:58,069
+altic cures so he he we we took uh one
+one of his uh verified electric curves
+
+1346
+00:35:58,069 --> 00:35:58,079
+one of his uh verified electric curves
+ 
+
+1347
+00:35:58,079 --> 00:36:02,270
+one of his uh verified electric curves
+um why you can also use the Bitcoin
+
+1348
+00:36:02,270 --> 00:36:02,280
+um why you can also use the Bitcoin
+ 
+
+1349
+00:36:02,280 --> 00:36:04,790
+um why you can also use the Bitcoin
+implementation Etc so so these things
+
+1350
+00:36:04,790 --> 00:36:04,800
+implementation Etc so so these things
+ 
+
+1351
+00:36:04,800 --> 00:36:07,230
+implementation Etc so so these things
+help quite a bit and replace the
+
+1352
+00:36:07,230 --> 00:36:07,240
+help quite a bit and replace the
+ 
+
+1353
+00:36:07,240 --> 00:36:10,470
+help quite a bit and replace the
+original so of native
+
+1354
+00:36:10,470 --> 00:36:10,480
+original so of native
+ 
+
+1355
+00:36:10,480 --> 00:36:12,430
+original so of native
+implementation
+
+1356
+00:36:12,430 --> 00:36:12,440
+implementation
+ 
+
+1357
+00:36:12,440 --> 00:36:15,750
+implementation
+and uh yeah the the the new client is
+
+1358
+00:36:15,750 --> 00:36:15,760
+and uh yeah the the the new client is
+ 
+
+1359
+00:36:15,760 --> 00:36:18,470
+and uh yeah the the the new client is
+now really stable and the old one was
+
+1360
+00:36:18,470 --> 00:36:18,480
+now really stable and the old one was
+ 
+
+1361
+00:36:18,480 --> 00:36:20,150
+now really stable and the old one was
+really horrible to run like it was
+
+1362
+00:36:20,150 --> 00:36:20,160
+really horrible to run like it was
+ 
+
+1363
+00:36:20,160 --> 00:36:22,470
+really horrible to run like it was
+crashing all the time the the new one is
+
+1364
+00:36:22,470 --> 00:36:22,480
+crashing all the time the the new one is
+ 
+
+1365
+00:36:22,480 --> 00:36:25,510
+crashing all the time the the new one is
+now I think it's been running for a year
+
+1366
+00:36:25,510 --> 00:36:25,520
+now I think it's been running for a year
+ 
+
+1367
+00:36:25,520 --> 00:36:28,349
+now I think it's been running for a year
+on some Nots
+
+1368
+00:36:28,349 --> 00:36:28,359
+on some Nots
+ 
+
+1369
+00:36:28,359 --> 00:36:32,030
+on some Nots
+uh and say also part of this of concept
+
+1370
+00:36:32,030 --> 00:36:32,040
+uh and say also part of this of concept
+ 
+
+1371
+00:36:32,040 --> 00:36:34,510
+uh and say also part of this of concept
+project started to devel this blockchain
+
+1372
+00:36:34,510 --> 00:36:34,520
+project started to devel this blockchain
+ 
+
+1373
+00:36:34,520 --> 00:36:36,470
+project started to devel this blockchain
+I
+
+1374
+00:36:36,470 --> 00:36:36,480
+I
+ 
+
+1375
+00:36:36,480 --> 00:36:40,430
+I
+show what language is it now it's
+
+1376
+00:36:40,430 --> 00:36:40,440
+show what language is it now it's
+ 
+
+1377
+00:36:40,440 --> 00:36:44,589
+show what language is it now it's
+still the the this Stu like the gdbm and
+
+1378
+00:36:44,589 --> 00:36:44,599
+still the the this Stu like the gdbm and
+ 
+
+1379
+00:36:44,599 --> 00:36:49,990
+still the the this Stu like the gdbm and
+altic curves Etc like it's written in C
+
+1380
+00:36:49,990 --> 00:36:50,000
+altic curves Etc like it's written in C
+ 
+
+1381
+00:36:50,000 --> 00:36:52,470
+altic curves Etc like it's written in C
+right or I think John is very fying is
+
+1382
+00:36:52,470 --> 00:36:52,480
+right or I think John is very fying is
+ 
+
+1383
+00:36:52,480 --> 00:36:55,790
+right or I think John is very fying is
+even some machine or assembly but the
+
+1384
+00:36:55,790 --> 00:36:55,800
+even some machine or assembly but the
+ 
+
+1385
+00:36:55,800 --> 00:37:00,430
+even some machine or assembly but the
+the most of is still
+
+1386
+00:37:00,430 --> 00:37:00,440
+
+ 
+
+1387
+00:37:00,440 --> 00:37:02,030
+
+um
+
+1388
+00:37:02,030 --> 00:37:02,040
+um
+ 
+
+1389
+00:37:02,040 --> 00:37:05,030
+um
+then I don't know much about this this
+
+1390
+00:37:05,030 --> 00:37:05,040
+then I don't know much about this this
+ 
+
+1391
+00:37:05,040 --> 00:37:10,790
+then I don't know much about this this
+is work work so he the works with whole
+
+1392
+00:37:10,790 --> 00:37:10,800
+is work work so he the works with whole
+ 
+
+1393
+00:37:10,800 --> 00:37:15,349
+is work work so he the works with whole
+four so he uh started to basically
+
+1394
+00:37:15,349 --> 00:37:15,359
+four so he uh started to basically
+ 
+
+1395
+00:37:15,359 --> 00:37:18,109
+four so he uh started to basically
+import the pro gold theories and
+
+1396
+00:37:18,109 --> 00:37:18,119
+import the pro gold theories and
+ 
+
+1397
+00:37:18,119 --> 00:37:19,510
+import the pro gold theories and
+bounties or
+
+1398
+00:37:19,510 --> 00:37:19,520
+bounties or
+ 
+
+1399
+00:37:19,520 --> 00:37:21,870
+bounties or
+conjectures into whole
+
+1400
+00:37:21,870 --> 00:37:21,880
+conjectures into whole
+ 
+
+1401
+00:37:21,880 --> 00:37:25,030
+conjectures into whole
+four uh creating some translations uh
+
+1402
+00:37:25,030 --> 00:37:25,040
+four uh creating some translations uh
+ 
+
+1403
+00:37:25,040 --> 00:37:26,150
+four uh creating some translations uh
+back and
+
+1404
+00:37:26,150 --> 00:37:26,160
+back and
+ 
+
+1405
+00:37:26,160 --> 00:37:30,109
+back and
+forth and I think he sort of mostly
+
+1406
+00:37:30,109 --> 00:37:30,119
+forth and I think he sort of mostly
+ 
+
+1407
+00:37:30,119 --> 00:37:33,109
+forth and I think he sort of mostly
+mostly succeeded in in
+
+1408
+00:37:33,109 --> 00:37:33,119
+mostly succeeded in in
+ 
+
+1409
+00:37:33,119 --> 00:37:37,910
+mostly succeeded in in
+that and he he is sort of using all
+
+1410
+00:37:37,910 --> 00:37:37,920
+that and he he is sort of using all
+ 
+
+1411
+00:37:37,920 --> 00:37:41,589
+that and he he is sort of using all
+sorts of automated uh systems that he
+
+1412
+00:37:41,589 --> 00:37:41,599
+sorts of automated uh systems that he
+ 
+
+1413
+00:37:41,599 --> 00:37:44,589
+sorts of automated uh systems that he
+created for whole for like holy hammer
+
+1414
+00:37:44,589 --> 00:37:44,599
+created for whole for like holy hammer
+ 
+
+1415
+00:37:44,599 --> 00:37:46,190
+created for whole for like holy hammer
+and
+
+1416
+00:37:46,190 --> 00:37:46,200
+and
+ 
+
+1417
+00:37:46,200 --> 00:37:50,430
+and
+um tactic to but also like buil in
+
+1418
+00:37:50,430 --> 00:37:50,440
+um tactic to but also like buil in
+ 
+
+1419
+00:37:50,440 --> 00:37:52,109
+um tactic to but also like buil in
+automation like
+
+1420
+00:37:52,109 --> 00:37:52,119
+automation like
+ 
+
+1421
+00:37:52,119 --> 00:37:56,270
+automation like
+M uh to to sort of prove some some of
+
+1422
+00:37:56,270 --> 00:37:56,280
+M uh to to sort of prove some some of
+ 
+
+1423
+00:37:56,280 --> 00:37:58,150
+M uh to to sort of prove some some of
+these bounties
+
+1424
+00:37:58,150 --> 00:37:58,160
+these bounties
+ 
+
+1425
+00:37:58,160 --> 00:38:01,470
+these bounties
+and then obviously he somehow needs to
+
+1426
+00:38:01,470 --> 00:38:01,480
+and then obviously he somehow needs to
+ 
+
+1427
+00:38:01,480 --> 00:38:04,950
+and then obviously he somehow needs to
+export them and once he export them you
+
+1428
+00:38:04,950 --> 00:38:04,960
+export them and once he export them you
+ 
+
+1429
+00:38:04,960 --> 00:38:07,390
+export them and once he export them you
+quite often because of the way these
+
+1430
+00:38:07,390 --> 00:38:07,400
+quite often because of the way these
+ 
+
+1431
+00:38:07,400 --> 00:38:11,990
+quite often because of the way these
+tactics work in in h for get get a huge
+
+1432
+00:38:11,990 --> 00:38:12,000
+tactics work in in h for get get a huge
+ 
+
+1433
+00:38:12,000 --> 00:38:16,990
+tactics work in in h for get get a huge
+uh lowlevel proof so for for that to to
+
+1434
+00:38:16,990 --> 00:38:17,000
+uh lowlevel proof so for for that to to
+ 
+
+1435
+00:38:17,000 --> 00:38:18,950
+uh lowlevel proof so for for that to to
+sort of minimize these huge proof he
+
+1436
+00:38:18,950 --> 00:38:18,960
+sort of minimize these huge proof he
+ 
+
+1437
+00:38:18,960 --> 00:38:22,790
+sort of minimize these huge proof he
+actually some custom internal resolution
+
+1438
+00:38:22,790 --> 00:38:22,800
+actually some custom internal resolution
+ 
+
+1439
+00:38:22,800 --> 00:38:27,870
+actually some custom internal resolution
+to uh that sort of very carefully try
+
+1440
+00:38:27,870 --> 00:38:27,880
+to uh that sort of very carefully try
+ 
+
+1441
+00:38:27,880 --> 00:38:31,230
+to uh that sort of very carefully try
+tries to squeeze the proof to to this
+
+1442
+00:38:31,230 --> 00:38:31,240
+tries to squeeze the proof to to this
+ 
+
+1443
+00:38:31,240 --> 00:38:36,230
+tries to squeeze the proof to to this
+allow allow size of one uh one megabyte
+
+1444
+00:38:36,230 --> 00:38:36,240
+allow allow size of one uh one megabyte
+ 
+
+1445
+00:38:36,240 --> 00:38:39,390
+allow allow size of one uh one megabyte
+when he's exported exporting good
+
+1446
+00:38:39,390 --> 00:38:39,400
+when he's exported exporting good
+ 
+
+1447
+00:38:39,400 --> 00:38:41,470
+when he's exported exporting good
+gold
+
+1448
+00:38:41,470 --> 00:38:41,480
+gold
+ 
+
+1449
+00:38:41,480 --> 00:38:43,270
+gold
+uh
+
+1450
+00:38:43,270 --> 00:38:43,280
+uh
+ 
+
+1451
+00:38:43,280 --> 00:38:47,790
+uh
+yeah I guess yeah I guess I just said
+
+1452
+00:38:47,790 --> 00:38:47,800
+yeah I guess yeah I guess I just said
+ 
+
+1453
+00:38:47,800 --> 00:38:50,109
+yeah I guess yeah I guess I just said
+this um yeah
+
+1454
+00:38:50,109 --> 00:38:50,119
+this um yeah
+ 
+
+1455
+00:38:50,119 --> 00:38:53,950
+this um yeah
+so as I already said like like the the
+
+1456
+00:38:53,950 --> 00:38:53,960
+so as I already said like like the the
+ 
+
+1457
+00:38:53,960 --> 00:38:56,910
+so as I already said like like the the
+sort of dream is that at some point
+
+1458
+00:38:56,910 --> 00:38:56,920
+sort of dream is that at some point
+ 
+
+1459
+00:38:56,920 --> 00:39:00,309
+sort of dream is that at some point
+somebody creates some really big project
+
+1460
+00:39:00,309 --> 00:39:00,319
+somebody creates some really big project
+ 
+
+1461
+00:39:00,319 --> 00:39:02,510
+somebody creates some really big project
+like like something maybe like Patrick
+
+1462
+00:39:02,510 --> 00:39:02,520
+like like something maybe like Patrick
+ 
+
+1463
+00:39:02,520 --> 00:39:05,190
+like like something maybe like Patrick
+was showing with this blue blueprint
+
+1464
+00:39:05,190 --> 00:39:05,200
+was showing with this blue blueprint
+ 
+
+1465
+00:39:05,200 --> 00:39:10,030
+was showing with this blue blueprint
+thing and I I guess this whole thing was
+
+1466
+00:39:10,030 --> 00:39:10,040
+thing and I I guess this whole thing was
+ 
+
+1467
+00:39:10,040 --> 00:39:12,829
+thing and I I guess this whole thing was
+uh to some extent motivated by Tom
+
+1468
+00:39:12,829 --> 00:39:12,839
+uh to some extent motivated by Tom
+ 
+
+1469
+00:39:12,839 --> 00:39:15,589
+uh to some extent motivated by Tom
+halil's uh doing flyp by assigning
+
+1470
+00:39:15,589 --> 00:39:15,599
+halil's uh doing flyp by assigning
+ 
+
+1471
+00:39:15,599 --> 00:39:16,910
+halil's uh doing flyp by assigning
+bounties
+
+1472
+00:39:16,910 --> 00:39:16,920
+bounties
+ 
+
+1473
+00:39:16,920 --> 00:39:20,670
+bounties
+on I I think he even has the Bounties in
+
+1474
+00:39:20,670 --> 00:39:20,680
+on I I think he even has the Bounties in
+ 
+
+1475
+00:39:20,680 --> 00:39:23,230
+on I I think he even has the Bounties in
+the blueprint book but I'm not totally
+
+1476
+00:39:23,230 --> 00:39:23,240
+the blueprint book but I'm not totally
+ 
+
+1477
+00:39:23,240 --> 00:39:25,950
+the blueprint book but I'm not totally
+sure like basically you you
+
+1478
+00:39:25,950 --> 00:39:25,960
+sure like basically you you
+ 
+
+1479
+00:39:25,960 --> 00:39:28,829
+sure like basically you you
+write you have a big project like formal
+
+1480
+00:39:28,829 --> 00:39:28,839
+write you have a big project like formal
+ 
+
+1481
+00:39:28,839 --> 00:39:31,510
+write you have a big project like formal
+proof of the cap conjecture and somebody
+
+1482
+00:39:31,510 --> 00:39:31,520
+proof of the cap conjecture and somebody
+ 
+
+1483
+00:39:31,520 --> 00:39:34,990
+proof of the cap conjecture and somebody
+starts saying okay this slma is worth 50
+
+1484
+00:39:34,990 --> 00:39:35,000
+starts saying okay this slma is worth 50
+ 
+
+1485
+00:39:35,000 --> 00:39:41,510
+starts saying okay this slma is worth 50
+and this SL worth 100 and now the the
+
+1486
+00:39:41,510 --> 00:39:41,520
+and this SL worth 100 and now the the
+ 
+
+1487
+00:39:41,520 --> 00:39:44,150
+and this SL worth 100 and now the the
+disadvantage of doing that Central is
+
+1488
+00:39:44,150 --> 00:39:44,160
+disadvantage of doing that Central is
+ 
+
+1489
+00:39:44,160 --> 00:39:46,750
+disadvantage of doing that Central is
+that like somebody needs to distribute
+
+1490
+00:39:46,750 --> 00:39:46,760
+that like somebody needs to distribute
+ 
+
+1491
+00:39:46,760 --> 00:39:48,870
+that like somebody needs to distribute
+the bount somebody needs to say whether
+
+1492
+00:39:48,870 --> 00:39:48,880
+the bount somebody needs to say whether
+ 
+
+1493
+00:39:48,880 --> 00:39:50,550
+the bount somebody needs to say whether
+this is a proof or whether it's not a
+
+1494
+00:39:50,550 --> 00:39:50,560
+this is a proof or whether it's not a
+ 
+
+1495
+00:39:50,560 --> 00:39:53,150
+this is a proof or whether it's not a
+proof whether somebody cheat it or not
+
+1496
+00:39:53,150 --> 00:39:53,160
+proof whether somebody cheat it or not
+ 
+
+1497
+00:39:53,160 --> 00:39:56,630
+proof whether somebody cheat it or not
+if you that LE the sort selling point
+
+1498
+00:39:56,630 --> 00:39:56,640
+if you that LE the sort selling point
+ 
+
+1499
+00:39:56,640 --> 00:39:59,589
+if you that LE the sort selling point
+for the the blockchains is is that like
+
+1500
+00:39:59,589 --> 00:39:59,599
+for the the blockchains is is that like
+ 
+
+1501
+00:39:59,599 --> 00:40:01,390
+for the the blockchains is is that like
+these things are decentralized and
+
+1502
+00:40:01,390 --> 00:40:01,400
+these things are decentralized and
+ 
+
+1503
+00:40:01,400 --> 00:40:03,710
+these things are decentralized and
+distributed so if you have a project
+
+1504
+00:40:03,710 --> 00:40:03,720
+distributed so if you have a project
+ 
+
+1505
+00:40:03,720 --> 00:40:07,750
+distributed so if you have a project
+like this you you can be some Anonymous
+
+1506
+00:40:07,750 --> 00:40:07,760
+like this you you can be some Anonymous
+ 
+
+1507
+00:40:07,760 --> 00:40:11,109
+like this you you can be some Anonymous
+person in India and if you created a
+
+1508
+00:40:11,109 --> 00:40:11,119
+person in India and if you created a
+ 
+
+1509
+00:40:11,119 --> 00:40:12,829
+person in India and if you created a
+proof you created a proof you can
+
+1510
+00:40:12,829 --> 00:40:12,839
+proof you created a proof you can
+ 
+
+1511
+00:40:12,839 --> 00:40:15,390
+proof you created a proof you can
+collect the Bounty and you don't need to
+
+1512
+00:40:15,390 --> 00:40:15,400
+collect the Bounty and you don't need to
+ 
+
+1513
+00:40:15,400 --> 00:40:18,470
+collect the Bounty and you don't need to
+go through some hierarchy of of people
+
+1514
+00:40:18,470 --> 00:40:18,480
+go through some hierarchy of of people
+ 
+
+1515
+00:40:18,480 --> 00:40:21,230
+go through some hierarchy of of people
+who who would pay you right so so the
+
+1516
+00:40:21,230 --> 00:40:21,240
+who who would pay you right so so the
+ 
+
+1517
+00:40:21,240 --> 00:40:22,829
+who who would pay you right so so the
+the I I guess
+
+1518
+00:40:22,829 --> 00:40:22,839
+the I I guess
+ 
+
+1519
+00:40:22,839 --> 00:40:25,750
+the I I guess
+the the motivate the main motivating
+
+1520
+00:40:25,750 --> 00:40:25,760
+the the motivate the main motivating
+ 
+
+1521
+00:40:25,760 --> 00:40:29,230
+the the motivate the main motivating
+idea is the block chains like these
+
+1522
+00:40:29,230 --> 00:40:29,240
+idea is the block chains like these
+ 
+
+1523
+00:40:29,240 --> 00:40:32,230
+idea is the block chains like these
+could support distributed
+
+1524
+00:40:32,230 --> 00:40:32,240
+could support distributed
+ 
+
+1525
+00:40:32,240 --> 00:40:34,950
+could support distributed
+decentralized uh
+
+1526
+00:40:34,950 --> 00:40:34,960
+decentralized uh
+ 
+
+1527
+00:40:34,960 --> 00:40:38,109
+decentralized uh
+Anonymous uh formalization like that's
+
+1528
+00:40:38,109 --> 00:40:38,119
+Anonymous uh formalization like that's
+ 
+
+1529
+00:40:38,119 --> 00:40:41,349
+Anonymous uh formalization like that's
+that's sort of sort of the
+
+1530
+00:40:41,349 --> 00:40:41,359
+that's sort of sort of the
+ 
+
+1531
+00:40:41,359 --> 00:40:44,950
+that's sort of sort of the
+dream uh yeah so I I know how much I
+
+1532
+00:40:44,950 --> 00:40:44,960
+dream uh yeah so I I know how much I
+ 
+
+1533
+00:40:44,960 --> 00:40:46,870
+dream uh yeah so I I know how much I
+know about like these things like proof
+
+1534
+00:40:46,870 --> 00:40:46,880
+know about like these things like proof
+ 
+
+1535
+00:40:46,880 --> 00:40:49,630
+know about like these things like proof
+of stake and proof proof of
+
+1536
+00:40:49,630 --> 00:40:49,640
+of stake and proof proof of
+ 
+
+1537
+00:40:49,640 --> 00:40:54,670
+of stake and proof proof of
+burn uh so what what I know is
+
+1538
+00:40:54,670 --> 00:40:54,680
+burn uh so what what I know is
+ 
+
+1539
+00:40:54,680 --> 00:40:58,349
+burn uh so what what I know is
+that uh somehow the lightcoin
+
+1540
+00:40:58,349 --> 00:40:58,359
+that uh somehow the lightcoin
+ 
+
+1541
+00:40:58,359 --> 00:41:02,190
+that uh somehow the lightcoin
+network is being used to secure the pro
+
+1542
+00:41:02,190 --> 00:41:02,200
+network is being used to secure the pro
+ 
+
+1543
+00:41:02,200 --> 00:41:07,309
+network is being used to secure the pro
+gold Network so whenever a a block in
+
+1544
+00:41:07,309 --> 00:41:07,319
+gold Network so whenever a a block in
+ 
+
+1545
+00:41:07,319 --> 00:41:11,430
+gold Network so whenever a a block in
+Pro gold is created information about it
+
+1546
+00:41:11,430 --> 00:41:11,440
+Pro gold is created information about it
+ 
+
+1547
+00:41:11,440 --> 00:41:14,230
+Pro gold is created information about it
+some sort of hash is also written into
+
+1548
+00:41:14,230 --> 00:41:14,240
+some sort of hash is also written into
+ 
+
+1549
+00:41:14,240 --> 00:41:17,270
+some sort of hash is also written into
+the Litecoin netwk which is quite fast
+
+1550
+00:41:17,270 --> 00:41:17,280
+the Litecoin netwk which is quite fast
+ 
+
+1551
+00:41:17,280 --> 00:41:20,309
+the Litecoin netwk which is quite fast
+and quite cheap so so that doesn't cost
+
+1552
+00:41:20,309 --> 00:41:20,319
+and quite cheap so so that doesn't cost
+ 
+
+1553
+00:41:20,319 --> 00:41:22,069
+and quite cheap so so that doesn't cost
+uh
+
+1554
+00:41:22,069 --> 00:41:22,079
+uh
+ 
+
+1555
+00:41:22,079 --> 00:41:26,390
+uh
+money and I I think the idea is that
+
+1556
+00:41:26,390 --> 00:41:26,400
+money and I I think the idea is that
+ 
+
+1557
+00:41:26,400 --> 00:41:28,270
+money and I I think the idea is that
+there are various attacks like
+
+1558
+00:41:28,270 --> 00:41:28,280
+there are various attacks like
+ 
+
+1559
+00:41:28,280 --> 00:41:30,630
+there are various attacks like
+especially if you only have a blockchain
+
+1560
+00:41:30,630 --> 00:41:30,640
+especially if you only have a blockchain
+ 
+
+1561
+00:41:30,640 --> 00:41:33,390
+especially if you only have a blockchain
+like the these I think the number of
+
+1562
+00:41:33,390 --> 00:41:33,400
+like the these I think the number of
+ 
+
+1563
+00:41:33,400 --> 00:41:37,230
+like the these I think the number of
+nodes running the blockchain is sort of
+
+1564
+00:41:37,230 --> 00:41:37,240
+nodes running the blockchain is sort of
+ 
+
+1565
+00:41:37,240 --> 00:41:40,390
+nodes running the blockchain is sort of
+today like 20 to 40 noes which is not
+
+1566
+00:41:40,390 --> 00:41:40,400
+today like 20 to 40 noes which is not
+ 
+
+1567
+00:41:40,400 --> 00:41:44,230
+today like 20 to 40 noes which is not
+too much so if you have somebody crazy
+
+1568
+00:41:44,230 --> 00:41:44,240
+too much so if you have somebody crazy
+ 
+
+1569
+00:41:44,240 --> 00:41:47,109
+too much so if you have somebody crazy
+like they might sort of do some H style
+
+1570
+00:41:47,109 --> 00:41:47,119
+like they might sort of do some H style
+ 
+
+1571
+00:41:47,119 --> 00:41:49,589
+like they might sort of do some H style
+overtake of like right like if you have
+
+1572
+00:41:49,589 --> 00:41:49,599
+overtake of like right like if you have
+ 
+
+1573
+00:41:49,599 --> 00:41:51,710
+overtake of like right like if you have
+more than 50% in Bitcoin you can steal
+
+1574
+00:41:51,710 --> 00:41:51,720
+more than 50% in Bitcoin you can steal
+ 
+
+1575
+00:41:51,720 --> 00:41:54,349
+more than 50% in Bitcoin you can steal
+all the money right like so so you don't
+
+1576
+00:41:54,349 --> 00:41:54,359
+all the money right like so so you don't
+ 
+
+1577
+00:41:54,359 --> 00:41:58,069
+all the money right like so so you don't
+want that so so I guess the the the roof
+
+1578
+00:41:58,069 --> 00:41:58,079
+want that so so I guess the the the roof
+ 
+
+1579
+00:41:58,079 --> 00:42:00,589
+want that so so I guess the the the roof
+of burand like using the Litecoin
+
+1580
+00:42:00,589 --> 00:42:00,599
+of burand like using the Litecoin
+ 
+
+1581
+00:42:00,599 --> 00:42:02,790
+of burand like using the Litecoin
+network is some sort of additional
+
+1582
+00:42:02,790 --> 00:42:02,800
+network is some sort of additional
+ 
+
+1583
+00:42:02,800 --> 00:42:05,950
+network is some sort of additional
+security feature which is saying like
+
+1584
+00:42:05,950 --> 00:42:05,960
+security feature which is saying like
+ 
+
+1585
+00:42:05,960 --> 00:42:09,790
+security feature which is saying like
+from now on you cannot mess with the
+
+1586
+00:42:09,790 --> 00:42:09,800
+from now on you cannot mess with the
+ 
+
+1587
+00:42:09,800 --> 00:42:12,390
+from now on you cannot mess with the
+history you s of cannot rewrite the the
+
+1588
+00:42:12,390 --> 00:42:12,400
+history you s of cannot rewrite the the
+ 
+
+1589
+00:42:12,400 --> 00:42:15,430
+history you s of cannot rewrite the the
+history at least that's my very naive
+
+1590
+00:42:15,430 --> 00:42:15,440
+history at least that's my very naive
+ 
+
+1591
+00:42:15,440 --> 00:42:17,430
+history at least that's my very naive
+understanding but I'm I'm not an expert
+
+1592
+00:42:17,430 --> 00:42:17,440
+understanding but I'm I'm not an expert
+ 
+
+1593
+00:42:17,440 --> 00:42:18,589
+understanding but I'm I'm not an expert
+on
+
+1594
+00:42:18,589 --> 00:42:18,599
+on
+ 
+
+1595
+00:42:18,599 --> 00:42:23,230
+on
+this uh well what what is also a
+
+1596
+00:42:23,230 --> 00:42:23,240
+this uh well what what is also a
+ 
+
+1597
+00:42:23,240 --> 00:42:27,510
+this uh well what what is also a
+funny uh funny feature is that you own
+
+1598
+00:42:27,510 --> 00:42:27,520
+funny uh funny feature is that you own
+ 
+
+1599
+00:42:27,520 --> 00:42:30,030
+funny uh funny feature is that you own
+the prepositions that you
+
+1600
+00:42:30,030 --> 00:42:30,040
+the prepositions that you
+ 
+
+1601
+00:42:30,040 --> 00:42:33,710
+the prepositions that you
+proved and there there is like a
+
+1602
+00:42:33,710 --> 00:42:33,720
+proved and there there is like a
+ 
+
+1603
+00:42:33,720 --> 00:42:38,870
+proved and there there is like a
+system of um um of like using these
+
+1604
+00:42:38,870 --> 00:42:38,880
+system of um um of like using these
+ 
+
+1605
+00:42:38,880 --> 00:42:41,030
+system of um um of like using these
+ownerships so for example you can make
+
+1606
+00:42:41,030 --> 00:42:41,040
+ownerships so for example you can make
+ 
+
+1607
+00:42:41,040 --> 00:42:44,270
+ownerships so for example you can make
+other people pay for using your the sort
+
+1608
+00:42:44,270 --> 00:42:44,280
+other people pay for using your the sort
+ 
+
+1609
+00:42:44,280 --> 00:42:45,870
+other people pay for using your the sort
+of
+
+1610
+00:42:45,870 --> 00:42:45,880
+of
+ 
+
+1611
+00:42:45,880 --> 00:42:49,829
+of
+functions in other people's uh proofs
+
+1612
+00:42:49,829 --> 00:42:49,839
+functions in other people's uh proofs
+ 
+
+1613
+00:42:49,839 --> 00:42:52,270
+functions in other people's uh proofs
+and like there is this joke which I
+
+1614
+00:42:52,270 --> 00:42:52,280
+and like there is this joke which I
+ 
+
+1615
+00:42:52,280 --> 00:42:54,990
+and like there is this joke which I
+probably told you already but maybe not
+
+1616
+00:42:54,990 --> 00:42:55,000
+probably told you already but maybe not
+ 
+
+1617
+00:42:55,000 --> 00:42:58,030
+probably told you already but maybe not
+to all of you so so chat really hates
+
+1618
+00:42:58,030 --> 00:42:58,040
+to all of you so so chat really hates
+ 
+
+1619
+00:42:58,040 --> 00:43:00,309
+to all of you so so chat really hates
+kovski pirs Because he believes that
+
+1620
+00:43:00,309 --> 00:43:00,319
+kovski pirs Because he believes that
+ 
+
+1621
+00:43:00,319 --> 00:43:02,069
+kovski pirs Because he believes that
+there are better ways how to create all
+
+1622
+00:43:02,069 --> 00:43:02,079
+there are better ways how to create all
+ 
+
+1623
+00:43:02,079 --> 00:43:05,870
+there are better ways how to create all
+all the pirs in set theories so so he
+
+1624
+00:43:05,870 --> 00:43:05,880
+all the pirs in set theories so so he
+ 
+
+1625
+00:43:05,880 --> 00:43:08,950
+all the pirs in set theories so so he
+created not just the definition of Kat
+
+1626
+00:43:08,950 --> 00:43:08,960
+created not just the definition of Kat
+ 
+
+1627
+00:43:08,960 --> 00:43:11,549
+created not just the definition of Kat
+but also all sorts of variations on that
+
+1628
+00:43:11,549 --> 00:43:11,559
+but also all sorts of variations on that
+ 
+
+1629
+00:43:11,559 --> 00:43:15,190
+but also all sorts of variations on that
+idea so he owns them all in one of these
+
+1630
+00:43:15,190 --> 00:43:15,200
+idea so he owns them all in one of these
+ 
+
+1631
+00:43:15,200 --> 00:43:19,230
+idea so he owns them all in one of these
+theories and not only that you would
+
+1632
+00:43:19,230 --> 00:43:19,240
+theories and not only that you would
+ 
+
+1633
+00:43:19,240 --> 00:43:22,589
+theories and not only that you would
+have to pay him uh but but he actually
+
+1634
+00:43:22,589 --> 00:43:22,599
+have to pay him uh but but he actually
+ 
+
+1635
+00:43:22,599 --> 00:43:24,589
+have to pay him uh but but he actually
+doesn't allow you to use these
+
+1636
+00:43:24,589 --> 00:43:24,599
+doesn't allow you to use these
+ 
+
+1637
+00:43:24,599 --> 00:43:27,230
+doesn't allow you to use these
+definitions so so you you you can do
+
+1638
+00:43:27,230 --> 00:43:27,240
+definitions so so you you you can do
+ 
+
+1639
+00:43:27,240 --> 00:43:31,549
+definitions so so you you you can do
+such such such weird weird uh stuff in
+
+1640
+00:43:31,549 --> 00:43:31,559
+such such such weird weird uh stuff in
+ 
+
+1641
+00:43:31,559 --> 00:43:34,630
+such such such weird weird uh stuff in
+in in you using like like these
+
+1642
+00:43:34,630 --> 00:43:34,640
+in in you using like like these
+ 
+
+1643
+00:43:34,640 --> 00:43:36,630
+in in you using like like these
+ownership uh
+
+1644
+00:43:36,630 --> 00:43:36,640
+ownership uh
+ 
+
+1645
+00:43:36,640 --> 00:43:39,750
+ownership uh
+features uh and I I think you can sell
+
+1646
+00:43:39,750 --> 00:43:39,760
+features uh and I I think you can sell
+ 
+
+1647
+00:43:39,760 --> 00:43:44,270
+features uh and I I think you can sell
+the ownership Etc also like one
+
+1648
+00:43:44,270 --> 00:43:44,280
+the ownership Etc also like one
+ 
+
+1649
+00:43:44,280 --> 00:43:45,430
+the ownership Etc also like one
+interesting
+
+1650
+00:43:45,430 --> 00:43:45,440
+interesting
+ 
+
+1651
+00:43:45,440 --> 00:43:50,349
+interesting
+issue is that it's it's quite um non
+
+1652
+00:43:50,349 --> 00:43:50,359
+issue is that it's it's quite um non
+ 
+
+1653
+00:43:50,359 --> 00:43:54,390
+issue is that it's it's quite um non
+tral to publish approve because imagine
+
+1654
+00:43:54,390 --> 00:43:54,400
+tral to publish approve because imagine
+ 
+
+1655
+00:43:54,400 --> 00:43:57,589
+tral to publish approve because imagine
+I know Pro FMA I want to claim my 5
+
+1656
+00:43:57,589 --> 00:43:57,599
+I know Pro FMA I want to claim my 5
+ 
+
+1657
+00:43:57,599 --> 00:44:00,910
+I know Pro FMA I want to claim my 5
+Pro gold right so fine I I create the
+
+1658
+00:44:00,910 --> 00:44:00,920
+Pro gold right so fine I I create the
+ 
+
+1659
+00:44:00,920 --> 00:44:03,870
+Pro gold right so fine I I create the
+pro gold document and I throw it into
+
+1660
+00:44:03,870 --> 00:44:03,880
+pro gold document and I throw it into
+ 
+
+1661
+00:44:03,880 --> 00:44:07,630
+pro gold document and I throw it into
+the B chain now okay I send it to a
+
+1662
+00:44:07,630 --> 00:44:07,640
+the B chain now okay I send it to a
+ 
+
+1663
+00:44:07,640 --> 00:44:10,430
+the B chain now okay I send it to a
+bunch of noes and they say no no no this
+
+1664
+00:44:10,430 --> 00:44:10,440
+bunch of noes and they say no no no this
+ 
+
+1665
+00:44:10,440 --> 00:44:13,430
+bunch of noes and they say no no no this
+guy didn't prove FMA I have proved
+
+1666
+00:44:13,430 --> 00:44:13,440
+guy didn't prove FMA I have proved
+ 
+
+1667
+00:44:13,440 --> 00:44:16,549
+guy didn't prove FMA I have proved
+FMA so so you have this problem of
+
+1668
+00:44:16,549 --> 00:44:16,559
+FMA so so you have this problem of
+ 
+
+1669
+00:44:16,559 --> 00:44:20,150
+FMA so so you have this problem of
+stealing stealing the BRS right uh so
+
+1670
+00:44:20,150 --> 00:44:20,160
+stealing stealing the BRS right uh so
+ 
+
+1671
+00:44:20,160 --> 00:44:23,710
+stealing stealing the BRS right uh so
+for for that uh there is this uh
+
+1672
+00:44:23,710 --> 00:44:23,720
+for for that uh there is this uh
+ 
+
+1673
+00:44:23,720 --> 00:44:27,950
+for for that uh there is this uh
+commitment uh system where before like
+
+1674
+00:44:27,950 --> 00:44:27,960
+commitment uh system where before like
+ 
+
+1675
+00:44:27,960 --> 00:44:30,230
+commitment uh system where before like
+like once you have proved something you
+
+1676
+00:44:30,230 --> 00:44:30,240
+like once you have proved something you
+ 
+
+1677
+00:44:30,240 --> 00:44:32,150
+like once you have proved something you
+don't immediately publish it unless you
+
+1678
+00:44:32,150 --> 00:44:32,160
+don't immediately publish it unless you
+ 
+
+1679
+00:44:32,160 --> 00:44:34,589
+don't immediately publish it unless you
+are stupid but but I think the system
+
+1680
+00:44:34,589 --> 00:44:34,599
+are stupid but but I think the system
+ 
+
+1681
+00:44:34,599 --> 00:44:37,829
+are stupid but but I think the system
+doesn't even allow it so you you have to
+
+1682
+00:44:37,829 --> 00:44:37,839
+doesn't even allow it so you you have to
+ 
+
+1683
+00:44:37,839 --> 00:44:39,790
+doesn't even allow it so you you have to
+somehow first create a hash of the
+
+1684
+00:44:39,790 --> 00:44:39,800
+somehow first create a hash of the
+ 
+
+1685
+00:44:39,800 --> 00:44:42,990
+somehow first create a hash of the
+document that you want to publish and
+
+1686
+00:44:42,990 --> 00:44:43,000
+document that you want to publish and
+ 
+
+1687
+00:44:43,000 --> 00:44:46,829
+document that you want to publish and
+you you first sort of pre-commit to to
+
+1688
+00:44:46,829 --> 00:44:46,839
+you you first sort of pre-commit to to
+ 
+
+1689
+00:44:46,839 --> 00:44:49,430
+you you first sort of pre-commit to to
+this hash you are sort of advertising
+
+1690
+00:44:49,430 --> 00:44:49,440
+this hash you are sort of advertising
+ 
+
+1691
+00:44:49,440 --> 00:44:52,990
+this hash you are sort of advertising
+hey I have a hash of a of a of a proof
+
+1692
+00:44:52,990 --> 00:44:53,000
+hey I have a hash of a of a of a proof
+ 
+
+1693
+00:44:53,000 --> 00:44:57,270
+hey I have a hash of a of a of a proof
+and I will publish this proof later and
+
+1694
+00:44:57,270 --> 00:44:57,280
+and I will publish this proof later and
+ 
+
+1695
+00:44:57,280 --> 00:45:00,790
+and I will publish this proof later and
+then I like this message is distributed
+
+1696
+00:45:00,790 --> 00:45:00,800
+then I like this message is distributed
+ 
+
+1697
+00:45:00,800 --> 00:45:03,710
+then I like this message is distributed
+throughout the blockchain nobody knows
+
+1698
+00:45:03,710 --> 00:45:03,720
+throughout the blockchain nobody knows
+ 
+
+1699
+00:45:03,720 --> 00:45:06,150
+throughout the blockchain nobody knows
+uh what what actually happen so so they
+
+1700
+00:45:06,150 --> 00:45:06,160
+uh what what actually happen so so they
+ 
+
+1701
+00:45:06,160 --> 00:45:09,030
+uh what what actually happen so so they
+will put it into the block and once it's
+
+1702
+00:45:09,030 --> 00:45:09,040
+will put it into the block and once it's
+ 
+
+1703
+00:45:09,040 --> 00:45:11,870
+will put it into the block and once it's
+like reasonably secured by by the
+
+1704
+00:45:11,870 --> 00:45:11,880
+like reasonably secured by by the
+ 
+
+1705
+00:45:11,880 --> 00:45:15,430
+like reasonably secured by by the
+blockchain uh you can publish the actual
+
+1706
+00:45:15,430 --> 00:45:15,440
+blockchain uh you can publish the actual
+ 
+
+1707
+00:45:15,440 --> 00:45:17,630
+blockchain uh you can publish the actual
+proof that corresponds to this hash so
+
+1708
+00:45:17,630 --> 00:45:17,640
+proof that corresponds to this hash so
+ 
+
+1709
+00:45:17,640 --> 00:45:21,190
+proof that corresponds to this hash so
+so in in that way it's it's sort of a
+
+1710
+00:45:21,190 --> 00:45:21,200
+so in in that way it's it's sort of a
+ 
+
+1711
+00:45:21,200 --> 00:45:23,549
+so in in that way it's it's sort of a
+delayed key which prevents others from
+
+1712
+00:45:23,549 --> 00:45:23,559
+delayed key which prevents others from
+ 
+
+1713
+00:45:23,559 --> 00:45:28,309
+delayed key which prevents others from
+stealing stealing your money
+
+1714
+00:45:28,309 --> 00:45:28,319
+
+ 
+
+1715
+00:45:28,319 --> 00:45:31,670
+
+oh yeah so so there is this block size
+
+1716
+00:45:31,670 --> 00:45:31,680
+oh yeah so so there is this block size
+ 
+
+1717
+00:45:31,680 --> 00:45:34,230
+oh yeah so so there is this block size
+limit which I don't know what to think
+
+1718
+00:45:34,230 --> 00:45:34,240
+limit which I don't know what to think
+ 
+
+1719
+00:45:34,240 --> 00:45:37,349
+limit which I don't know what to think
+about it uh
+
+1720
+00:45:37,349 --> 00:45:37,359
+about it uh
+ 
+
+1721
+00:45:37,359 --> 00:45:39,990
+about it uh
+you like the the current blockchain
+
+1722
+00:45:39,990 --> 00:45:40,000
+you like the the current blockchain
+ 
+
+1723
+00:45:40,000 --> 00:45:42,349
+you like the the current blockchain
+after these 4 years isn't too big which
+
+1724
+00:45:42,349 --> 00:45:42,359
+after these 4 years isn't too big which
+ 
+
+1725
+00:45:42,359 --> 00:45:44,150
+after these 4 years isn't too big which
+is probably good I think it's like two
+
+1726
+00:45:44,150 --> 00:45:44,160
+is probably good I think it's like two
+ 
+
+1727
+00:45:44,160 --> 00:45:45,910
+is probably good I think it's like two
+to three
+
+1728
+00:45:45,910 --> 00:45:45,920
+to three
+ 
+
+1729
+00:45:45,920 --> 00:45:48,910
+to three
+gabes and of course like you do have
+
+1730
+00:45:48,910 --> 00:45:48,920
+gabes and of course like you do have
+ 
+
+1731
+00:45:48,920 --> 00:45:52,309
+gabes and of course like you do have
+blockchains which are like a terabyte or
+
+1732
+00:45:52,309 --> 00:45:52,319
+blockchains which are like a terabyte or
+ 
+
+1733
+00:45:52,319 --> 00:45:56,990
+blockchains which are like a terabyte or
+whatever but then you need by like crazy
+
+1734
+00:45:56,990 --> 00:45:57,000
+whatever but then you need by like crazy
+ 
+
+1735
+00:45:57,000 --> 00:46:01,230
+whatever but then you need by like crazy
+people this crazy Hardware right so uh
+
+1736
+00:46:01,230 --> 00:46:01,240
+people this crazy Hardware right so uh
+ 
+
+1737
+00:46:01,240 --> 00:46:03,630
+people this crazy Hardware right so uh
+and also like I said like Theon now has
+
+1738
+00:46:03,630 --> 00:46:03,640
+and also like I said like Theon now has
+ 
+
+1739
+00:46:03,640 --> 00:46:06,589
+and also like I said like Theon now has
+proof of R4 five equals 25 which is like
+
+1740
+00:46:06,589 --> 00:46:06,599
+proof of R4 five equals 25 which is like
+ 
+
+1741
+00:46:06,599 --> 00:46:09,230
+proof of R4 five equals 25 which is like
+two petabytes so so do you want two
+
+1742
+00:46:09,230 --> 00:46:09,240
+two petabytes so so do you want two
+ 
+
+1743
+00:46:09,240 --> 00:46:11,270
+two petabytes so so do you want two
+petabytes of proof to to live in a
+
+1744
+00:46:11,270 --> 00:46:11,280
+petabytes of proof to to live in a
+ 
+
+1745
+00:46:11,280 --> 00:46:14,470
+petabytes of proof to to live in a
+blockchain like distributed on 100,000
+
+1746
+00:46:14,470 --> 00:46:14,480
+blockchain like distributed on 100,000
+ 
+
+1747
+00:46:14,480 --> 00:46:17,109
+blockchain like distributed on 100,000
+nodes around the world yeah so so these
+
+1748
+00:46:17,109 --> 00:46:17,119
+nodes around the world yeah so so these
+ 
+
+1749
+00:46:17,119 --> 00:46:19,190
+nodes around the world yeah so so these
+are like interesting questions when you
+
+1750
+00:46:19,190 --> 00:46:19,200
+are like interesting questions when you
+ 
+
+1751
+00:46:19,200 --> 00:46:21,309
+are like interesting questions when you
+are uh doing these things like the
+
+1752
+00:46:21,309 --> 00:46:21,319
+are uh doing these things like the
+ 
+
+1753
+00:46:21,319 --> 00:46:24,150
+are uh doing these things like the
+Practical solution is is this is this
+
+1754
+00:46:24,150 --> 00:46:24,160
+Practical solution is is this is this
+ 
+
+1755
+00:46:24,160 --> 00:46:26,230
+Practical solution is is this is this
+limit which forces you to split bigger
+
+1756
+00:46:26,230 --> 00:46:26,240
+limit which forces you to split bigger
+ 
+
+1757
+00:46:26,240 --> 00:46:28,430
+limit which forces you to split bigger
+groups and into into
+
+1758
+00:46:28,430 --> 00:46:28,440
+groups and into into
+ 
+
+1759
+00:46:28,440 --> 00:46:31,470
+groups and into into
+Lamas and like there is this issue of
+
+1760
+00:46:31,470 --> 00:46:31,480
+Lamas and like there is this issue of
+ 
+
+1761
+00:46:31,480 --> 00:46:34,349
+Lamas and like there is this issue of
+like trying to prevent some sort of
+
+1762
+00:46:34,349 --> 00:46:34,359
+like trying to prevent some sort of
+ 
+
+1763
+00:46:34,359 --> 00:46:38,069
+like trying to prevent some sort of
+poisonous proof some sort of attacks on
+
+1764
+00:46:38,069 --> 00:46:38,079
+poisonous proof some sort of attacks on
+ 
+
+1765
+00:46:38,079 --> 00:46:41,670
+poisonous proof some sort of attacks on
+on the computation that goes on in in
+
+1766
+00:46:41,670 --> 00:46:41,680
+on the computation that goes on in in
+ 
+
+1767
+00:46:41,680 --> 00:46:42,910
+on the computation that goes on in in
+the Norms
+
+1768
+00:46:42,910 --> 00:46:42,920
+the Norms
+ 
+
+1769
+00:46:42,920 --> 00:46:46,030
+the Norms
+body uh by putting some sort of gas
+
+1770
+00:46:46,030 --> 00:46:46,040
+body uh by putting some sort of gas
+ 
+
+1771
+00:46:46,040 --> 00:46:48,150
+body uh by putting some sort of gas
+basically into into the proof
+
+1772
+00:46:48,150 --> 00:46:48,160
+basically into into the proof
+ 
+
+1773
+00:46:48,160 --> 00:46:49,750
+basically into into the proof
+checking
+
+1774
+00:46:49,750 --> 00:46:49,760
+checking
+ 
+
+1775
+00:46:49,760 --> 00:46:52,470
+checking
+and yeah there is this isolation of
+
+1776
+00:46:52,470 --> 00:46:52,480
+and yeah there is this isolation of
+ 
+
+1777
+00:46:52,480 --> 00:46:55,150
+and yeah there is this isolation of
+theories to contain potential
+
+1778
+00:46:55,150 --> 00:46:55,160
+theories to contain potential
+ 
+
+1779
+00:46:55,160 --> 00:46:57,470
+theories to contain potential
+inconsistencies so yeah if you find a
+
+1780
+00:46:57,470 --> 00:46:57,480
+inconsistencies so yeah if you find a
+ 
+
+1781
+00:46:57,480 --> 00:46:59,829
+inconsistencies so yeah if you find a
+contradiction in K gret and you can
+
+1782
+00:46:59,829 --> 00:46:59,839
+contradiction in K gret and you can
+ 
+
+1783
+00:46:59,839 --> 00:47:03,349
+contradiction in K gret and you can
+claim F right I think if you find a
+
+1784
+00:47:03,349 --> 00:47:03,359
+claim F right I think if you find a
+ 
+
+1785
+00:47:03,359 --> 00:47:06,309
+claim F right I think if you find a
+contradiction in TAS gr you should be
+
+1786
+00:47:06,309 --> 00:47:06,319
+contradiction in TAS gr you should be
+ 
+
+1787
+00:47:06,319 --> 00:47:08,349
+contradiction in TAS gr you should be
+famous so so
+
+1788
+00:47:08,349 --> 00:47:08,359
+famous so so
+ 
+
+1789
+00:47:08,359 --> 00:47:10,030
+famous so so
+maybe
+
+1790
+00:47:10,030 --> 00:47:10,040
+maybe
+ 
+
+1791
+00:47:10,040 --> 00:47:11,750
+maybe
+yeah
+
+1792
+00:47:11,750 --> 00:47:11,760
+yeah
+ 
+
+1793
+00:47:11,760 --> 00:47:15,870
+yeah
+uh yeah so this is sort of the the end I
+
+1794
+00:47:15,870 --> 00:47:15,880
+uh yeah so this is sort of the the end I
+ 
+
+1795
+00:47:15,880 --> 00:47:19,270
+uh yeah so this is sort of the the end I
+guess so it's it's a reasonably Active
+
+1796
+00:47:19,270 --> 00:47:19,280
+guess so it's it's a reasonably Active
+ 
+
+1797
+00:47:19,280 --> 00:47:21,069
+guess so it's it's a reasonably Active
+network these days like people are
+
+1798
+00:47:21,069 --> 00:47:21,079
+network these days like people are
+ 
+
+1799
+00:47:21,079 --> 00:47:25,309
+network these days like people are
+putting all sorts of uh bounties proofs
+
+1800
+00:47:25,309 --> 00:47:25,319
+putting all sorts of uh bounties proofs
+ 
+
+1801
+00:47:25,319 --> 00:47:27,670
+putting all sorts of uh bounties proofs
+uh theories into it
+
+1802
+00:47:27,670 --> 00:47:27,680
+uh theories into it
+ 
+
+1803
+00:47:27,680 --> 00:47:32,589
+uh theories into it
+uh people are working better clients and
+
+1804
+00:47:32,589 --> 00:47:32,599
+uh people are working better clients and
+ 
+
+1805
+00:47:32,599 --> 00:47:35,950
+uh people are working better clients and
+explorers and even interfaces to to
+
+1806
+00:47:35,950 --> 00:47:35,960
+explorers and even interfaces to to
+ 
+
+1807
+00:47:35,960 --> 00:47:37,230
+explorers and even interfaces to to
+proof
+
+1808
+00:47:37,230 --> 00:47:37,240
+proof
+ 
+
+1809
+00:47:37,240 --> 00:47:41,390
+proof
+assistance and I I I guess like none of
+
+1810
+00:47:41,390 --> 00:47:41,400
+assistance and I I I guess like none of
+ 
+
+1811
+00:47:41,400 --> 00:47:45,750
+assistance and I I I guess like none of
+this is like crazy at this point like I
+
+1812
+00:47:45,750 --> 00:47:45,760
+this is like crazy at this point like I
+ 
+
+1813
+00:47:45,760 --> 00:47:48,870
+this is like crazy at this point like I
+think if it sayar didn't get into it
+
+1814
+00:47:48,870 --> 00:47:48,880
+think if it sayar didn't get into it
+ 
+
+1815
+00:47:48,880 --> 00:47:51,030
+think if it sayar didn't get into it
+then then it would be like a
+
+1816
+00:47:51,030 --> 00:47:51,040
+then then it would be like a
+ 
+
+1817
+00:47:51,040 --> 00:47:54,630
+then then it would be like a
+really almost nonworking project because
+
+1818
+00:47:54,630 --> 00:47:54,640
+really almost nonworking project because
+ 
+
+1819
+00:47:54,640 --> 00:47:58,670
+really almost nonworking project because
+say is a very competent uh hacker it it
+
+1820
+00:47:58,670 --> 00:47:58,680
+say is a very competent uh hacker it it
+ 
+
+1821
+00:47:58,680 --> 00:48:01,510
+say is a very competent uh hacker it it
+sort of became pretty usable and is is
+
+1822
+00:48:01,510 --> 00:48:01,520
+sort of became pretty usable and is is
+ 
+
+1823
+00:48:01,520 --> 00:48:04,069
+sort of became pretty usable and is is
+becoming uh quite interesting especially
+
+1824
+00:48:04,069 --> 00:48:04,079
+becoming uh quite interesting especially
+ 
+
+1825
+00:48:04,079 --> 00:48:07,349
+becoming uh quite interesting especially
+like this connection between the the
+
+1826
+00:48:07,349 --> 00:48:07,359
+like this connection between the the
+ 
+
+1827
+00:48:07,359 --> 00:48:11,309
+like this connection between the the
+Explorer and and and the wiki Etc like
+
+1828
+00:48:11,309 --> 00:48:11,319
+Explorer and and and the wiki Etc like
+ 
+
+1829
+00:48:11,319 --> 00:48:13,829
+Explorer and and and the wiki Etc like
+obviously like that there is s of
+
+1830
+00:48:13,829 --> 00:48:13,839
+obviously like that there is s of
+ 
+
+1831
+00:48:13,839 --> 00:48:16,630
+obviously like that there is s of
+questions like like would you like like
+
+1832
+00:48:16,630 --> 00:48:16,640
+questions like like would you like like
+ 
+
+1833
+00:48:16,640 --> 00:48:19,109
+questions like like would you like like
+to create connections to other proof
+
+1834
+00:48:19,109 --> 00:48:19,119
+to create connections to other proof
+ 
+
+1835
+00:48:19,119 --> 00:48:20,790
+to create connections to other proof
+assistants would you like to create
+
+1836
+00:48:20,790 --> 00:48:20,800
+assistants would you like to create
+ 
+
+1837
+00:48:20,800 --> 00:48:23,829
+assistants would you like to create
+particular theor like I don't maybe dtic
+
+1838
+00:48:23,829 --> 00:48:23,839
+particular theor like I don't maybe dtic
+ 
+
+1839
+00:48:23,839 --> 00:48:25,510
+particular theor like I don't maybe dtic
+could be a good candidate because sort
+
+1840
+00:48:25,510 --> 00:48:25,520
+could be a good candidate because sort
+ 
+
+1841
+00:48:25,520 --> 00:48:29,309
+could be a good candidate because sort
+of providor Mario mm Z right like you
+
+1842
+00:48:29,309 --> 00:48:29,319
+of providor Mario mm Z right like you
+ 
+
+1843
+00:48:29,319 --> 00:48:32,109
+of providor Mario mm Z right like you
+you could sort of think about some sort
+
+1844
+00:48:32,109 --> 00:48:32,119
+you could sort of think about some sort
+ 
+
+1845
+00:48:32,119 --> 00:48:37,150
+you could sort of think about some sort
+of other bottom bottom uh layers for for
+
+1846
+00:48:37,150 --> 00:48:37,160
+of other bottom bottom uh layers for for
+ 
+
+1847
+00:48:37,160 --> 00:48:39,910
+of other bottom bottom uh layers for for
+doing large scale distributed proofs and
+
+1848
+00:48:39,910 --> 00:48:39,920
+doing large scale distributed proofs and
+ 
+
+1849
+00:48:39,920 --> 00:48:42,430
+doing large scale distributed proofs and
+then can you can you actually do it in
+
+1850
+00:48:42,430 --> 00:48:42,440
+then can you can you actually do it in
+ 
+
+1851
+00:48:42,440 --> 00:48:45,270
+then can you can you actually do it in
+the system or do you need to create like
+
+1852
+00:48:45,270 --> 00:48:45,280
+the system or do you need to create like
+ 
+
+1853
+00:48:45,280 --> 00:48:47,589
+the system or do you need to create like
+a slight variation of the system and how
+
+1854
+00:48:47,589 --> 00:48:47,599
+a slight variation of the system and how
+ 
+
+1855
+00:48:47,599 --> 00:48:50,950
+a slight variation of the system and how
+do you deal with all these things
+
+1856
+00:48:50,950 --> 00:48:50,960
+do you deal with all these things
+ 
+
+1857
+00:48:50,960 --> 00:48:53,710
+do you deal with all these things
+Etc um
+
+1858
+00:48:53,710 --> 00:48:53,720
+Etc um
+ 
+
+1859
+00:48:53,720 --> 00:48:55,309
+Etc um
+yeah
+
+1860
+00:48:55,309 --> 00:48:55,319
+yeah
+ 
+
+1861
+00:48:55,319 --> 00:48:58,870
+yeah
+so yeah I think the the main the main
+
+1862
+00:48:58,870 --> 00:48:58,880
+so yeah I think the the main the main
+ 
+
+1863
+00:48:58,880 --> 00:49:03,309
+so yeah I think the the main the main
+challenge is like how to make it usable
+
+1864
+00:49:03,309 --> 00:49:03,319
+challenge is like how to make it usable
+ 
+
+1865
+00:49:03,319 --> 00:49:06,270
+challenge is like how to make it usable
+like whether it actually can be made
+
+1866
+00:49:06,270 --> 00:49:06,280
+like whether it actually can be made
+ 
+
+1867
+00:49:06,280 --> 00:49:09,910
+like whether it actually can be made
+usable in in the current U current
+
+1868
+00:49:09,910 --> 00:49:09,920
+usable in in the current U current
+ 
+
+1869
+00:49:09,920 --> 00:49:11,870
+usable in in the current U current
+instantiation like there are people who
+
+1870
+00:49:11,870 --> 00:49:11,880
+instantiation like there are people who
+ 
+
+1871
+00:49:11,880 --> 00:49:15,150
+instantiation like there are people who
+use it uh like what Chad always says is
+
+1872
+00:49:15,150 --> 00:49:15,160
+use it uh like what Chad always says is
+ 
+
+1873
+00:49:15,160 --> 00:49:18,030
+use it uh like what Chad always says is
+that he thinks that the intersection
+
+1874
+00:49:18,030 --> 00:49:18,040
+that he thinks that the intersection
+ 
+
+1875
+00:49:18,040 --> 00:49:19,670
+that he thinks that the intersection
+between the blockchain community and the
+
+1876
+00:49:19,670 --> 00:49:19,680
+between the blockchain community and the
+ 
+
+1877
+00:49:19,680 --> 00:49:21,710
+between the blockchain community and the
+formal proof Community isn't isn't very
+
+1878
+00:49:21,710 --> 00:49:21,720
+formal proof Community isn't isn't very
+ 
+
+1879
+00:49:21,720 --> 00:49:25,470
+formal proof Community isn't isn't very
+big so so it's it's like a niche uh
+
+1880
+00:49:25,470 --> 00:49:25,480
+big so so it's it's like a niche uh
+ 
+
+1881
+00:49:25,480 --> 00:49:29,150
+big so so it's it's like a niche uh
+thing but like some people believe in it
+
+1882
+00:49:29,150 --> 00:49:29,160
+thing but like some people believe in it
+ 
+
+1883
+00:49:29,160 --> 00:49:32,990
+thing but like some people believe in it
+right like for example chat uh so it's
+
+1884
+00:49:32,990 --> 00:49:33,000
+right like for example chat uh so it's
+ 
+
+1885
+00:49:33,000 --> 00:49:34,069
+right like for example chat uh so it's
+sort
+
+1886
+00:49:34,069 --> 00:49:34,079
+sort
+ 
+
+1887
+00:49:34,079 --> 00:49:36,670
+sort
+of I I don't know like how how this will
+
+1888
+00:49:36,670 --> 00:49:36,680
+of I I don't know like how how this will
+ 
+
+1889
+00:49:36,680 --> 00:49:38,670
+of I I don't know like how how this will
+develop like it could die it could go
+
+1890
+00:49:38,670 --> 00:49:38,680
+develop like it could die it could go
+ 
+
+1891
+00:49:38,680 --> 00:49:41,150
+develop like it could die it could go
+crazy it could sort of remain where it
+
+1892
+00:49:41,150 --> 00:49:41,160
+crazy it could sort of remain where it
+ 
+
+1893
+00:49:41,160 --> 00:49:44,230
+crazy it could sort of remain where it
+is like I I guess we will see also
+
+1894
+00:49:44,230 --> 00:49:44,240
+is like I I guess we will see also
+ 
+
+1895
+00:49:44,240 --> 00:49:47,829
+is like I I guess we will see also
+depending uh how much people will invest
+
+1896
+00:49:47,829 --> 00:49:47,839
+depending uh how much people will invest
+ 
+
+1897
+00:49:47,839 --> 00:49:50,190
+depending uh how much people will invest
+into it and play play with it and
+
+1898
+00:49:50,190 --> 00:49:50,200
+into it and play play with it and
+ 
+
+1899
+00:49:50,200 --> 00:49:52,069
+into it and play play with it and
+actually use it like
+
+1900
+00:49:52,069 --> 00:49:52,079
+actually use it like
+ 
+
+1901
+00:49:52,079 --> 00:49:53,990
+actually use it like
+so uh
+
+1902
+00:49:53,990 --> 00:49:54,000
+so uh
+ 
+
+1903
+00:49:54,000 --> 00:49:57,390
+so uh
+to yeah this this is the um web page of
+
+1904
+00:49:57,390 --> 00:49:57,400
+to yeah this this is the um web page of
+ 
+
+1905
+00:49:57,400 --> 00:50:00,190
+to yeah this this is the um web page of
+of this uh cesaris uh
+
+1906
+00:50:00,190 --> 00:50:00,200
+of this uh cesaris uh
+ 
+
+1907
+00:50:00,200 --> 00:50:02,910
+of this uh cesaris uh
+commercialization uh project so so there
+
+1908
+00:50:02,910 --> 00:50:02,920
+commercialization uh project so so there
+ 
+
+1909
+00:50:02,920 --> 00:50:05,230
+commercialization uh project so so there
+was the question how how much is it
+
+1910
+00:50:05,230 --> 00:50:05,240
+was the question how how much is it
+ 
+
+1911
+00:50:05,240 --> 00:50:08,510
+was the question how how much is it
+worth like if you I know today have like
+
+1912
+00:50:08,510 --> 00:50:08,520
+worth like if you I know today have like
+ 
+
+1913
+00:50:08,520 --> 00:50:12,670
+worth like if you I know today have like
+1 million good go and the total Supply
+
+1914
+00:50:12,670 --> 00:50:12,680
+1 million good go and the total Supply
+ 
+
+1915
+00:50:12,680 --> 00:50:16,990
+1 million good go and the total Supply
+will be like 11 million how how much is
+
+1916
+00:50:16,990 --> 00:50:17,000
+will be like 11 million how how much is
+ 
+
+1917
+00:50:17,000 --> 00:50:21,710
+will be like 11 million how how much is
+one pro gold worth and I think so so so
+
+1918
+00:50:21,710 --> 00:50:21,720
+one pro gold worth and I think so so so
+ 
+
+1919
+00:50:21,720 --> 00:50:23,510
+one pro gold worth and I think so so so
+the way how to get Pro go like you
+
+1920
+00:50:23,510 --> 00:50:23,520
+the way how to get Pro go like you
+ 
+
+1921
+00:50:23,520 --> 00:50:25,430
+the way how to get Pro go like you
+cannot buy it at some exchange but
+
+1922
+00:50:25,430 --> 00:50:25,440
+cannot buy it at some exchange but
+ 
+
+1923
+00:50:25,440 --> 00:50:27,670
+cannot buy it at some exchange but
+mightbe some future but you can do a
+
+1924
+00:50:27,670 --> 00:50:27,680
+mightbe some future but you can do a
+ 
+
+1925
+00:50:27,680 --> 00:50:29,990
+mightbe some future but you can do a
+thing called Atomic swap typically for
+
+1926
+00:50:29,990 --> 00:50:30,000
+thing called Atomic swap typically for
+ 
+
+1927
+00:50:30,000 --> 00:50:32,630
+thing called Atomic swap typically for
+Litecoin because it has this close
+
+1928
+00:50:32,630 --> 00:50:32,640
+Litecoin because it has this close
+ 
+
+1929
+00:50:32,640 --> 00:50:34,390
+Litecoin because it has this close
+relationship to
+
+1930
+00:50:34,390 --> 00:50:34,400
+relationship to
+ 
+
+1931
+00:50:34,400 --> 00:50:36,630
+relationship to
+Litecoin uh quite
+
+1932
+00:50:36,630 --> 00:50:36,640
+Litecoin uh quite
+ 
+
+1933
+00:50:36,640 --> 00:50:39,230
+Litecoin uh quite
+easily so there are some historical data
+
+1934
+00:50:39,230 --> 00:50:39,240
+easily so there are some historical data
+ 
+
+1935
+00:50:39,240 --> 00:50:41,670
+easily so there are some historical data
+about prices and at some point it was
+
+1936
+00:50:41,670 --> 00:50:41,680
+about prices and at some point it was
+ 
+
+1937
+00:50:41,680 --> 00:50:44,670
+about prices and at some point it was
+like I don't know maybe like $6 for one
+
+1938
+00:50:44,670 --> 00:50:44,680
+like I don't know maybe like $6 for one
+ 
+
+1939
+00:50:44,680 --> 00:50:48,270
+like I don't know maybe like $6 for one
+pro gold so so if you if you proof FMA
+
+1940
+00:50:48,270 --> 00:50:48,280
+pro gold so so if you if you proof FMA
+ 
+
+1941
+00:50:48,280 --> 00:50:49,870
+pro gold so so if you if you proof FMA
+you would get
+
+1942
+00:50:49,870 --> 00:50:49,880
+you would get
+ 
+
+1943
+00:50:49,880 --> 00:50:52,030
+you would get
+$330,000 but I I think the price
+
+1944
+00:50:52,030 --> 00:50:52,040
+$330,000 but I I think the price
+ 
+
+1945
+00:50:52,040 --> 00:50:56,390
+$330,000 but I I think the price
+recently dropped below one uh $1 for one
+
+1946
+00:50:56,390 --> 00:50:56,400
+recently dropped below one uh $1 for one
+ 
+
+1947
+00:50:56,400 --> 00:50:59,910
+recently dropped below one uh $1 for one
+proof go so but I I think it's a bit of
+
+1948
+00:50:59,910 --> 00:50:59,920
+proof go so but I I think it's a bit of
+ 
+
+1949
+00:50:59,920 --> 00:51:03,750
+proof go so but I I think it's a bit of
+a very immature Market in in the sense
+
+1950
+00:51:03,750 --> 00:51:03,760
+a very immature Market in in the sense
+ 
+
+1951
+00:51:03,760 --> 00:51:05,670
+a very immature Market in in the sense
+that that the price can really fluctuate
+
+1952
+00:51:05,670 --> 00:51:05,680
+that that the price can really fluctuate
+ 
+
+1953
+00:51:05,680 --> 00:51:08,109
+that that the price can really fluctuate
+and the market isn't really deep right
+
+1954
+00:51:08,109 --> 00:51:08,119
+and the market isn't really deep right
+ 
+
+1955
+00:51:08,119 --> 00:51:10,950
+and the market isn't really deep right
+so so like I said you see all all these
+
+1956
+00:51:10,950 --> 00:51:10,960
+so so like I said you see all all these
+ 
+
+1957
+00:51:10,960 --> 00:51:13,589
+so so like I said you see all all these
+effects that happen in the
+
+1958
+00:51:13,589 --> 00:51:13,599
+effects that happen in the
+ 
+
+1959
+00:51:13,599 --> 00:51:16,750
+effects that happen in the
+cryptocurrency world like these pumpings
+
+1960
+00:51:16,750 --> 00:51:16,760
+cryptocurrency world like these pumpings
+ 
+
+1961
+00:51:16,760 --> 00:51:18,030
+cryptocurrency world like these pumpings
+and
+
+1962
+00:51:18,030 --> 00:51:18,040
+and
+ 
+
+1963
+00:51:18,040 --> 00:51:21,589
+and
+dumpings right so in in the sense
+
+1964
+00:51:21,589 --> 00:51:21,599
+dumpings right so in in the sense
+ 
+
+1965
+00:51:21,599 --> 00:51:23,990
+dumpings right so in in the sense
+occasionally there is some value to it
+
+1966
+00:51:23,990 --> 00:51:24,000
+occasionally there is some value to it
+ 
+
+1967
+00:51:24,000 --> 00:51:26,670
+occasionally there is some value to it
+like if you if you said okay the to
+
+1968
+00:51:26,670 --> 00:51:26,680
+like if you if you said okay the to
+ 
+
+1969
+00:51:26,680 --> 00:51:29,470
+like if you if you said okay the to
+Supply is 11 million and it can climb up
+
+1970
+00:51:29,470 --> 00:51:29,480
+Supply is 11 million and it can climb up
+ 
+
+1971
+00:51:29,480 --> 00:51:31,670
+Supply is 11 million and it can climb up
+to to 6 million then maybe the value is
+
+1972
+00:51:31,670 --> 00:51:31,680
+to to 6 million then maybe the value is
+ 
+
+1973
+00:51:31,680 --> 00:51:35,349
+to to 6 million then maybe the value is
+somewhere around 50 million but well
+
+1974
+00:51:35,349 --> 00:51:35,359
+somewhere around 50 million but well
+ 
+
+1975
+00:51:35,359 --> 00:51:37,589
+somewhere around 50 million but well
+maybe also not right like maybe the
+
+1976
+00:51:37,589 --> 00:51:37,599
+maybe also not right like maybe the
+ 
+
+1977
+00:51:37,599 --> 00:51:40,630
+maybe also not right like maybe the
+value is sort of zero or is just fun or
+
+1978
+00:51:40,630 --> 00:51:40,640
+value is sort of zero or is just fun or
+ 
+
+1979
+00:51:40,640 --> 00:51:43,910
+value is sort of zero or is just fun or
+for some people like chat okay so that's
+
+1980
+00:51:43,910 --> 00:51:43,920
+for some people like chat okay so that's
+ 
+
+1981
+00:51:43,920 --> 00:51:47,130
+for some people like chat okay so that's
+it thank you
+
+1982
+00:51:47,130 --> 00:51:47,140
+it thank you
+ 
+
+1983
+00:51:47,140 --> 00:51:50,429
+it thank you
+[Applause]
+

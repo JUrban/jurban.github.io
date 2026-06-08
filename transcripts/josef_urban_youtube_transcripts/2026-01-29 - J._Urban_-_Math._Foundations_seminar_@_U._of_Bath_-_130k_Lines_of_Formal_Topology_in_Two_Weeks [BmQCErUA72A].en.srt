@@ -1,0 +1,9555 @@
+1
+00:00:00,160 --> 00:00:04,390
+
+Hi everybody. I'm Ysef Urban and I will
+
+2
+00:00:04,390 --> 00:00:04,400
+Hi everybody. I'm Ysef Urban and I will
+ 
+
+3
+00:00:04,400 --> 00:00:08,230
+Hi everybody. I'm Ysef Urban and I will
+say uh something actually it's this
+
+4
+00:00:08,230 --> 00:00:08,240
+say uh something actually it's this
+ 
+
+5
+00:00:08,240 --> 00:00:11,669
+say uh something actually it's this
+paper that I put on archive
+
+6
+00:00:11,669 --> 00:00:11,679
+paper that I put on archive
+ 
+
+7
+00:00:11,679 --> 00:00:14,629
+paper that I put on archive
+in uh January
+
+8
+00:00:14,629 --> 00:00:14,639
+in uh January
+ 
+
+9
+00:00:14,639 --> 00:00:17,510
+in uh January
+and I should warn you that a lot of this
+
+10
+00:00:17,510 --> 00:00:17,520
+and I should warn you that a lot of this
+ 
+
+11
+00:00:17,520 --> 00:00:19,910
+and I should warn you that a lot of this
+work has been done by chat GPT including
+
+12
+00:00:19,910 --> 00:00:19,920
+work has been done by chat GPT including
+ 
+
+13
+00:00:19,920 --> 00:00:22,630
+work has been done by chat GPT including
+the slides uh but when I I went over the
+
+14
+00:00:22,630 --> 00:00:22,640
+the slides uh but when I I went over the
+ 
+
+15
+00:00:22,640 --> 00:00:24,230
+the slides uh but when I I went over the
+slides so there there should shouldn't
+
+16
+00:00:24,230 --> 00:00:24,240
+slides so there there should shouldn't
+ 
+
+17
+00:00:24,240 --> 00:00:29,109
+slides so there there should shouldn't
+be some uh major um misinformation
+
+18
+00:00:29,109 --> 00:00:29,119
+be some uh major um misinformation
+ 
+
+19
+00:00:29,119 --> 00:00:33,270
+be some uh major um misinformation
+there. And uh another thing that the AI
+
+20
+00:00:33,270 --> 00:00:33,280
+there. And uh another thing that the AI
+ 
+
+21
+00:00:33,280 --> 00:00:36,310
+there. And uh another thing that the AI
+has produced is a podcast like a
+
+22
+00:00:36,310 --> 00:00:36,320
+has produced is a podcast like a
+ 
+
+23
+00:00:36,320 --> 00:00:38,470
+has produced is a podcast like a
+15-minute podcast which I put on
+
+24
+00:00:38,470 --> 00:00:38,480
+15-minute podcast which I put on
+ 
+
+25
+00:00:38,480 --> 00:00:40,709
+15-minute podcast which I put on
+YouTube. So there is some misinformation
+
+26
+00:00:40,709 --> 00:00:40,719
+YouTube. So there is some misinformation
+ 
+
+27
+00:00:40,719 --> 00:00:44,310
+YouTube. So there is some misinformation
+there but it's much better in propaganda
+
+28
+00:00:44,310 --> 00:00:44,320
+there but it's much better in propaganda
+ 
+
+29
+00:00:44,320 --> 00:00:46,630
+there but it's much better in propaganda
+than I am. So so if you if you want to
+
+30
+00:00:46,630 --> 00:00:46,640
+than I am. So so if you if you want to
+ 
+
+31
+00:00:46,640 --> 00:00:49,510
+than I am. So so if you if you want to
+hype it up then listen to the podcast.
+
+32
+00:00:49,510 --> 00:00:49,520
+hype it up then listen to the podcast.
+ 
+
+33
+00:00:49,520 --> 00:00:53,110
+hype it up then listen to the podcast.
+So so this is the executive summary. So
+
+34
+00:00:53,110 --> 00:00:53,120
+So so this is the executive summary. So
+ 
+
+35
+00:00:53,120 --> 00:00:57,189
+So so this is the executive summary. So
+I took a relatively well-known book on
+
+36
+00:00:57,189 --> 00:00:57,199
+I took a relatively well-known book on
+ 
+
+37
+00:00:57,199 --> 00:01:00,950
+I took a relatively well-known book on
+topology which has a major part on
+
+38
+00:01:00,950 --> 00:01:00,960
+topology which has a major part on
+ 
+
+39
+00:01:00,960 --> 00:01:03,189
+topology which has a major part on
+general topology
+
+40
+00:01:03,189 --> 00:01:03,199
+general topology
+ 
+
+41
+00:01:03,199 --> 00:01:08,789
+general topology
+and try to auto formalize it and I took
+
+42
+00:01:08,789 --> 00:01:08,799
+and try to auto formalize it and I took
+ 
+
+43
+00:01:08,799 --> 00:01:15,830
+and try to auto formalize it and I took
+uh like uh CH GPT 5.2 2 mostly uh and
+
+44
+00:01:15,830 --> 00:01:15,840
+uh like uh CH GPT 5.2 2 mostly uh and
+ 
+
+45
+00:01:15,840 --> 00:01:19,990
+uh like uh CH GPT 5.2 2 mostly uh and
+um the kind of coding agent uh that
+
+46
+00:01:19,990 --> 00:01:20,000
+um the kind of coding agent uh that
+ 
+
+47
+00:01:20,000 --> 00:01:22,390
+um the kind of coding agent uh that
+these companies and also some open
+
+48
+00:01:22,390 --> 00:01:22,400
+these companies and also some open
+ 
+
+49
+00:01:22,400 --> 00:01:25,030
+these companies and also some open
+source people are these days developing
+
+50
+00:01:25,030 --> 00:01:25,040
+source people are these days developing
+ 
+
+51
+00:01:25,040 --> 00:01:29,190
+source people are these days developing
+which are mostly uh developed to to do
+
+52
+00:01:29,190 --> 00:01:29,200
+which are mostly uh developed to to do
+ 
+
+53
+00:01:29,200 --> 00:01:32,230
+which are mostly uh developed to to do
+autonomously uh coding for for you like
+
+54
+00:01:32,230 --> 00:01:32,240
+autonomously uh coding for for you like
+ 
+
+55
+00:01:32,240 --> 00:01:35,429
+autonomously uh coding for for you like
+like some software development and I
+
+56
+00:01:35,429 --> 00:01:35,439
+like some software development and I
+ 
+
+57
+00:01:35,439 --> 00:01:38,310
+like some software development and I
+kind kind of very simply hooked it up to
+
+58
+00:01:38,310 --> 00:01:38,320
+kind kind of very simply hooked it up to
+ 
+
+59
+00:01:38,320 --> 00:01:41,350
+kind kind of very simply hooked it up to
+to a proof checker
+
+60
+00:01:41,350 --> 00:01:41,360
+to a proof checker
+ 
+
+61
+00:01:41,360 --> 00:01:45,270
+to a proof checker
+and told it just like here is here is
+
+62
+00:01:45,270 --> 00:01:45,280
+and told it just like here is here is
+ 
+
+63
+00:01:45,280 --> 00:01:47,910
+and told it just like here is here is
+the textbook here is the latte uh which
+
+64
+00:01:47,910 --> 00:01:47,920
+the textbook here is the latte uh which
+ 
+
+65
+00:01:47,920 --> 00:01:50,950
+the textbook here is the latte uh which
+is like I think like 250
+
+66
+00:01:50,950 --> 00:01:50,960
+is like I think like 250
+ 
+
+67
+00:01:50,960 --> 00:01:54,469
+is like I think like 250
+pages of general topology please try to
+
+68
+00:01:54,469 --> 00:01:54,479
+pages of general topology please try to
+ 
+
+69
+00:01:54,479 --> 00:01:56,789
+pages of general topology please try to
+auto formalize it so so that it proof
+
+70
+00:01:56,789 --> 00:01:56,799
+auto formalize it so so that it proof
+ 
+
+71
+00:01:56,799 --> 00:02:02,389
+auto formalize it so so that it proof
+proof checks um and the the the result
+
+72
+00:02:02,389 --> 00:02:02,399
+proof checks um and the the the result
+ 
+
+73
+00:02:02,399 --> 00:02:05,030
+proof checks um and the the the result
+was quite interesting so the first
+
+74
+00:02:05,030 --> 00:02:05,040
+was quite interesting so the first
+ 
+
+75
+00:02:05,040 --> 00:02:07,190
+was quite interesting so the first
+weekend when it started to happen I
+
+76
+00:02:07,190 --> 00:02:07,200
+weekend when it started to happen I
+ 
+
+77
+00:02:07,200 --> 00:02:09,350
+weekend when it started to happen I
+almost didn't sleep because I I was
+
+78
+00:02:09,350 --> 00:02:09,360
+almost didn't sleep because I I was
+ 
+
+79
+00:02:09,360 --> 00:02:13,190
+almost didn't sleep because I I was
+really a bit hypnotized by how how it
+
+80
+00:02:13,190 --> 00:02:13,200
+really a bit hypnotized by how how it
+ 
+
+81
+00:02:13,200 --> 00:02:15,430
+really a bit hypnotized by how how it
+was working and I also needed to
+
+82
+00:02:15,430 --> 00:02:15,440
+was working and I also needed to
+ 
+
+83
+00:02:15,440 --> 00:02:18,949
+was working and I also needed to
+interact with it. But ultimately like by
+
+84
+00:02:18,949 --> 00:02:18,959
+interact with it. But ultimately like by
+ 
+
+85
+00:02:18,959 --> 00:02:21,110
+interact with it. But ultimately like by
+the time I put the paper on the archive,
+
+86
+00:02:21,110 --> 00:02:21,120
+the time I put the paper on the archive,
+ 
+
+87
+00:02:21,120 --> 00:02:23,190
+the time I put the paper on the archive,
+it produced
+
+88
+00:02:23,190 --> 00:02:23,200
+it produced
+ 
+
+89
+00:02:23,200 --> 00:02:27,990
+it produced
+150,000 lines of uh relatively like like
+
+90
+00:02:27,990 --> 00:02:28,000
+150,000 lines of uh relatively like like
+ 
+
+91
+00:02:28,000 --> 00:02:31,190
+150,000 lines of uh relatively like like
+proof checked formalized topology with
+
+92
+00:02:31,190 --> 00:02:31,200
+proof checked formalized topology with
+ 
+
+93
+00:02:31,200 --> 00:02:33,350
+proof checked formalized topology with
+some major
+
+94
+00:02:33,350 --> 00:02:33,360
+some major
+ 
+
+95
+00:02:33,360 --> 00:02:36,949
+some major
+uh theorems in it of which
+
+96
+00:02:36,949 --> 00:02:36,959
+uh theorems in it of which
+ 
+
+97
+00:02:36,959 --> 00:02:39,830
+uh theorems in it of which
+130,000s were produced basically in 2
+
+98
+00:02:39,830 --> 00:02:39,840
+130,000s were produced basically in 2
+ 
+
+99
+00:02:39,840 --> 00:02:44,470
+130,000s were produced basically in 2
+weeks when I decided to pay the kind of
+
+100
+00:02:44,470 --> 00:02:44,480
+weeks when I decided to pay the kind of
+ 
+
+101
+00:02:44,480 --> 00:02:47,270
+weeks when I decided to pay the kind of
+heaviest usage subscription.
+
+102
+00:02:47,270 --> 00:02:47,280
+heaviest usage subscription.
+ 
+
+103
+00:02:47,280 --> 00:02:52,470
+heaviest usage subscription.
+uh to open AAI uh the I I have just
+
+104
+00:02:52,470 --> 00:02:52,480
+uh to open AAI uh the I I have just
+ 
+
+105
+00:02:52,480 --> 00:02:57,110
+uh to open AAI uh the I I have just
+today looked at how it progressed. So
+
+106
+00:02:57,110 --> 00:02:57,120
+today looked at how it progressed. So
+ 
+
+107
+00:02:57,120 --> 00:03:00,390
+today looked at how it progressed. So
+that's this BCK 516
+
+108
+00:03:00,390 --> 00:03:00,400
+that's this BCK 516
+ 
+
+109
+00:03:00,400 --> 00:03:06,149
+that's this BCK 516
+uh backup and I I I guess the
+
+110
+00:03:06,149 --> 00:03:06,159
+uh backup and I I I guess the
+ 
+
+111
+00:03:06,159 --> 00:03:09,910
+uh backup and I I I guess the
+outcome of of that uh which I will
+
+112
+00:03:09,910 --> 00:03:09,920
+outcome of of that uh which I will
+ 
+
+113
+00:03:09,920 --> 00:03:13,430
+outcome of of that uh which I will
+mention later is that what the the the
+
+114
+00:03:13,430 --> 00:03:13,440
+mention later is that what the the the
+ 
+
+115
+00:03:13,440 --> 00:03:15,430
+mention later is that what the the the
+process kind of didn't stop. it it kind
+
+116
+00:03:15,430 --> 00:03:15,440
+process kind of didn't stop. it it kind
+ 
+
+117
+00:03:15,440 --> 00:03:18,949
+process kind of didn't stop. it it kind
+of continues growing quite uh quite
+
+118
+00:03:18,949 --> 00:03:18,959
+of continues growing quite uh quite
+ 
+
+119
+00:03:18,959 --> 00:03:23,110
+of continues growing quite uh quite
+quickly and I I should say like one of
+
+120
+00:03:23,110 --> 00:03:23,120
+quickly and I I should say like one of
+ 
+
+121
+00:03:23,120 --> 00:03:25,910
+quickly and I I should say like one of
+the surprising thing like in the podcast
+
+122
+00:03:25,910 --> 00:03:25,920
+the surprising thing like in the podcast
+ 
+
+123
+00:03:25,920 --> 00:03:28,390
+the surprising thing like in the podcast
+AI generated they they call me a garage
+
+124
+00:03:28,390 --> 00:03:28,400
+AI generated they they call me a garage
+ 
+
+125
+00:03:28,400 --> 00:03:32,550
+AI generated they they call me a garage
+hacker uh so uh the the the kind of
+
+126
+00:03:32,550 --> 00:03:32,560
+hacker uh so uh the the the kind of
+ 
+
+127
+00:03:32,560 --> 00:03:34,789
+hacker uh so uh the the the kind of
+funny aspect of it is basically
+
+128
+00:03:34,789 --> 00:03:34,799
+funny aspect of it is basically
+ 
+
+129
+00:03:34,799 --> 00:03:36,869
+funny aspect of it is basically
+everybody can do it today like there's
+
+130
+00:03:36,869 --> 00:03:36,879
+everybody can do it today like there's
+ 
+
+131
+00:03:36,879 --> 00:03:39,830
+everybody can do it today like there's
+really nothing extraordinary that I I
+
+132
+00:03:39,830 --> 00:03:39,840
+really nothing extraordinary that I I
+ 
+
+133
+00:03:39,840 --> 00:03:43,670
+really nothing extraordinary that I I
+have done uh so so that's kind of an
+
+134
+00:03:43,670 --> 00:03:43,680
+have done uh so so that's kind of an
+ 
+
+135
+00:03:43,680 --> 00:03:48,229
+have done uh so so that's kind of an
+interesting message that uh maybe we
+
+136
+00:03:48,229 --> 00:03:48,239
+interesting message that uh maybe we
+ 
+
+137
+00:03:48,239 --> 00:03:51,670
+interesting message that uh maybe we
+will really get out of formalization
+
+138
+00:03:51,670 --> 00:03:51,680
+will really get out of formalization
+ 
+
+139
+00:03:51,680 --> 00:03:53,350
+will really get out of formalization
+done
+
+140
+00:03:53,350 --> 00:03:53,360
+done
+ 
+
+141
+00:03:53,360 --> 00:03:55,910
+done
+uh in 2026
+
+142
+00:03:55,910 --> 00:03:55,920
+uh in 2026
+ 
+
+143
+00:03:55,920 --> 00:04:00,229
+uh in 2026
+uh without some serious effort or
+
+144
+00:04:00,229 --> 00:04:00,239
+uh without some serious effort or
+ 
+
+145
+00:04:00,239 --> 00:04:02,309
+uh without some serious effort or
+science.
+
+146
+00:04:02,309 --> 00:04:02,319
+science.
+ 
+
+147
+00:04:02,319 --> 00:04:05,429
+science.
+Uh so so this slide is a bit about like
+
+148
+00:04:05,429 --> 00:04:05,439
+Uh so so this slide is a bit about like
+ 
+
+149
+00:04:05,439 --> 00:04:08,070
+Uh so so this slide is a bit about like
+this topology that I decided to
+
+150
+00:04:08,070 --> 00:04:08,080
+this topology that I decided to
+ 
+
+151
+00:04:08,080 --> 00:04:09,750
+this topology that I decided to
+formalize
+
+152
+00:04:09,750 --> 00:04:09,760
+formalize
+ 
+
+153
+00:04:09,760 --> 00:04:14,550
+formalize
+and uh I don't know what exactly was the
+
+154
+00:04:14,550 --> 00:04:14,560
+and uh I don't know what exactly was the
+ 
+
+155
+00:04:14,560 --> 00:04:19,110
+and uh I don't know what exactly was the
+reason like we were also with Chad Brown
+
+156
+00:04:19,110 --> 00:04:19,120
+reason like we were also with Chad Brown
+ 
+
+157
+00:04:19,120 --> 00:04:21,270
+reason like we were also with Chad Brown
+uh we were setting the experiment up and
+
+158
+00:04:21,270 --> 00:04:21,280
+uh we were setting the experiment up and
+ 
+
+159
+00:04:21,280 --> 00:04:23,350
+uh we were setting the experiment up and
+I was telling him that we could do angle
+
+160
+00:04:23,350 --> 00:04:23,360
+I was telling him that we could do angle
+ 
+
+161
+00:04:23,360 --> 00:04:26,950
+I was telling him that we could do angle
+king and he said no I studied monkress
+
+162
+00:04:26,950 --> 00:04:26,960
+king and he said no I studied monkress
+ 
+
+163
+00:04:26,960 --> 00:04:30,469
+king and he said no I studied monkress
+so we took monkress maybe one reason why
+
+164
+00:04:30,469 --> 00:04:30,479
+so we took monkress maybe one reason why
+ 
+
+165
+00:04:30,479 --> 00:04:31,990
+so we took monkress maybe one reason why
+we took topology
+
+166
+00:04:31,990 --> 00:04:32,000
+we took topology
+ 
+
+167
+00:04:32,000 --> 00:04:35,990
+we took topology
+was that Chad has his uh pet proof
+
+168
+00:04:35,990 --> 00:04:36,000
+was that Chad has his uh pet proof
+ 
+
+169
+00:04:36,000 --> 00:04:38,950
+was that Chad has his uh pet proof
+assistant called Megalodon which is the
+
+170
+00:04:38,950 --> 00:04:38,960
+assistant called Megalodon which is the
+ 
+
+171
+00:04:38,960 --> 00:04:42,070
+assistant called Megalodon which is the
+successor of his egal proof assistant
+
+172
+00:04:42,070 --> 00:04:42,080
+successor of his egal proof assistant
+ 
+
+173
+00:04:42,080 --> 00:04:45,909
+successor of his egal proof assistant
+which is his like a high order set
+
+174
+00:04:45,909 --> 00:04:45,919
+which is his like a high order set
+ 
+
+175
+00:04:45,919 --> 00:04:50,550
+which is his like a high order set
+theory with khawart proof terms I guess
+
+176
+00:04:50,550 --> 00:04:50,560
+theory with khawart proof terms I guess
+ 
+
+177
+00:04:50,560 --> 00:04:53,670
+theory with khawart proof terms I guess
+it to some extent resembles but
+
+178
+00:04:53,670 --> 00:04:53,680
+it to some extent resembles but
+ 
+
+179
+00:04:53,680 --> 00:04:56,469
+it to some extent resembles but
+it's I would say much more bare bones
+
+180
+00:04:56,469 --> 00:04:56,479
+it's I would say much more bare bones
+ 
+
+181
+00:04:56,479 --> 00:04:59,909
+it's I would say much more bare bones
+much more lowlevel much more declarative
+
+182
+00:04:59,909 --> 00:04:59,919
+much more lowlevel much more declarative
+ 
+
+183
+00:04:59,919 --> 00:05:01,430
+much more lowlevel much more declarative
+and
+
+184
+00:05:01,430 --> 00:05:01,440
+and
+ 
+
+185
+00:05:01,440 --> 00:05:06,790
+and
+uh also yeah like like uh more limited I
+
+186
+00:05:06,790 --> 00:05:06,800
+uh also yeah like like uh more limited I
+ 
+
+187
+00:05:06,800 --> 00:05:10,390
+uh also yeah like like uh more limited I
+would say in in various ways. So Chad
+
+188
+00:05:10,390 --> 00:05:10,400
+would say in in various ways. So Chad
+ 
+
+189
+00:05:10,400 --> 00:05:13,029
+would say in in various ways. So Chad
+has used his brief assistant to
+
+190
+00:05:13,029 --> 00:05:13,039
+has used his brief assistant to
+ 
+
+191
+00:05:13,039 --> 00:05:17,110
+has used his brief assistant to
+formalize um a lot of set theory in
+
+192
+00:05:17,110 --> 00:05:17,120
+formalize um a lot of set theory in
+ 
+
+193
+00:05:17,120 --> 00:05:20,230
+formalize um a lot of set theory in
+particular he developed uh the serial
+
+194
+00:05:20,230 --> 00:05:20,240
+particular he developed uh the serial
+ 
+
+195
+00:05:20,240 --> 00:05:24,150
+particular he developed uh the serial
+numbers that convey convey numbers. So
+
+196
+00:05:24,150 --> 00:05:24,160
+numbers that convey convey numbers. So
+ 
+
+197
+00:05:24,160 --> 00:05:26,310
+numbers that convey convey numbers. So
+topology was like a reasonable thing to
+
+198
+00:05:26,310 --> 00:05:26,320
+topology was like a reasonable thing to
+ 
+
+199
+00:05:26,320 --> 00:05:28,550
+topology was like a reasonable thing to
+try when when you already have like
+
+200
+00:05:28,550 --> 00:05:28,560
+try when when you already have like
+ 
+
+201
+00:05:28,560 --> 00:05:35,670
+try when when you already have like
+enough uh enough uh set theory. Uh
+
+202
+00:05:35,670 --> 00:05:35,680
+
+ 
+
+203
+00:05:35,680 --> 00:05:40,469
+
+uh yeah and yeah we should say that the
+
+204
+00:05:40,469 --> 00:05:40,479
+uh yeah and yeah we should say that the
+ 
+
+205
+00:05:40,479 --> 00:05:44,870
+uh yeah and yeah we should say that the
+target of this is not some theorem
+
+206
+00:05:44,870 --> 00:05:44,880
+target of this is not some theorem
+ 
+
+207
+00:05:44,880 --> 00:05:47,749
+target of this is not some theorem
+proving or automated theorem proving.
+
+208
+00:05:47,749 --> 00:05:47,759
+proving or automated theorem proving.
+ 
+
+209
+00:05:47,759 --> 00:05:51,909
+proving or automated theorem proving.
+The target is is more like u here is
+
+210
+00:05:51,909 --> 00:05:51,919
+The target is is more like u here is
+ 
+
+211
+00:05:51,919 --> 00:05:54,469
+The target is is more like u here is
+here is the book read the latte proof
+
+212
+00:05:54,469 --> 00:05:54,479
+here is the book read the latte proof
+ 
+
+213
+00:05:54,479 --> 00:05:57,830
+here is the book read the latte proof
+and try to express what's written in
+
+214
+00:05:57,830 --> 00:05:57,840
+and try to express what's written in
+ 
+
+215
+00:05:57,840 --> 00:06:00,950
+and try to express what's written in
+natural language in the formal language
+
+216
+00:06:00,950 --> 00:06:00,960
+natural language in the formal language
+ 
+
+217
+00:06:00,960 --> 00:06:04,469
+natural language in the formal language
+of of this uh proof checker. So in in
+
+218
+00:06:04,469 --> 00:06:04,479
+of of this uh proof checker. So in in
+ 
+
+219
+00:06:04,479 --> 00:06:07,510
+of of this uh proof checker. So in in
+principle we shouldn't be doing too much
+
+220
+00:06:07,510 --> 00:06:07,520
+principle we shouldn't be doing too much
+ 
+
+221
+00:06:07,520 --> 00:06:10,629
+principle we shouldn't be doing too much
+uh fancy automated theorem proving but
+
+222
+00:06:10,629 --> 00:06:10,639
+uh fancy automated theorem proving but
+ 
+
+223
+00:06:10,639 --> 00:06:14,070
+uh fancy automated theorem proving but
+obviously these things sometimes
+
+224
+00:06:14,070 --> 00:06:14,080
+obviously these things sometimes
+ 
+
+225
+00:06:14,080 --> 00:06:18,070
+obviously these things sometimes
+interfere in various ways. Okay. So, so
+
+226
+00:06:18,070 --> 00:06:18,080
+interfere in various ways. Okay. So, so
+ 
+
+227
+00:06:18,080 --> 00:06:23,189
+interfere in various ways. Okay. So, so
+this is the high level loop as I already
+
+228
+00:06:23,189 --> 00:06:23,199
+this is the high level loop as I already
+ 
+
+229
+00:06:23,199 --> 00:06:27,189
+this is the high level loop as I already
+said like like we have the LLM and the
+
+230
+00:06:27,189 --> 00:06:27,199
+said like like we have the LLM and the
+ 
+
+231
+00:06:27,199 --> 00:06:29,990
+said like like we have the LLM and the
+kind of coding agent which is like a
+
+232
+00:06:29,990 --> 00:06:30,000
+kind of coding agent which is like a
+ 
+
+233
+00:06:30,000 --> 00:06:33,110
+kind of coding agent which is like a
+reper around the LLM and we let the
+
+234
+00:06:33,110 --> 00:06:33,120
+reper around the LLM and we let the
+ 
+
+235
+00:06:33,120 --> 00:06:37,670
+reper around the LLM and we let the
+coding agent talk to to this kind of
+
+236
+00:06:37,670 --> 00:06:37,680
+coding agent talk to to this kind of
+ 
+
+237
+00:06:37,680 --> 00:06:41,430
+coding agent talk to to this kind of
+compiler or proof checker which behaves
+
+238
+00:06:41,430 --> 00:06:41,440
+compiler or proof checker which behaves
+ 
+
+239
+00:06:41,440 --> 00:06:44,790
+compiler or proof checker which behaves
+as a compiler in this case Megalodone.
+
+240
+00:06:44,790 --> 00:06:44,800
+as a compiler in this case Megalodone.
+ 
+
+241
+00:06:44,800 --> 00:06:47,830
+as a compiler in this case Megalodone.
+And the the good thing about Megalodon,
+
+242
+00:06:47,830 --> 00:06:47,840
+And the the good thing about Megalodon,
+ 
+
+243
+00:06:47,840 --> 00:06:51,350
+And the the good thing about Megalodon,
+even though it's kind of so bare bones,
+
+244
+00:06:51,350 --> 00:06:51,360
+even though it's kind of so bare bones,
+ 
+
+245
+00:06:51,360 --> 00:06:54,230
+even though it's kind of so bare bones,
+it has a reasonable error messaging. So
+
+246
+00:06:54,230 --> 00:06:54,240
+it has a reasonable error messaging. So
+ 
+
+247
+00:06:54,240 --> 00:06:56,870
+it has a reasonable error messaging. So
+So it you can run it relatively quickly.
+
+248
+00:06:56,870 --> 00:06:56,880
+So it you can run it relatively quickly.
+ 
+
+249
+00:06:56,880 --> 00:07:00,309
+So it you can run it relatively quickly.
+It runs quite fast and it reports quite
+
+250
+00:07:00,309 --> 00:07:00,319
+It runs quite fast and it reports quite
+ 
+
+251
+00:07:00,319 --> 00:07:03,029
+It runs quite fast and it reports quite
+reasonably like there is an error on
+
+252
+00:07:03,029 --> 00:07:03,039
+reasonably like there is an error on
+ 
+
+253
+00:07:03,039 --> 00:07:08,309
+reasonably like there is an error on
+line 156 and the error seems to be that
+
+254
+00:07:08,309 --> 00:07:08,319
+line 156 and the error seems to be that
+ 
+
+255
+00:07:08,319 --> 00:07:13,350
+line 156 and the error seems to be that
+and it seems to be good enough for these
+
+256
+00:07:13,350 --> 00:07:13,360
+and it seems to be good enough for these
+ 
+
+257
+00:07:13,360 --> 00:07:19,270
+and it seems to be good enough for these
+today's like general LLMs to
+
+258
+00:07:19,270 --> 00:07:19,280
+today's like general LLMs to
+ 
+
+259
+00:07:19,280 --> 00:07:24,469
+today's like general LLMs to
+to iterate to so so so the LLM gets it
+
+260
+00:07:24,469 --> 00:07:24,479
+to iterate to so so so the LLM gets it
+ 
+
+261
+00:07:24,479 --> 00:07:29,670
+to iterate to so so so the LLM gets it
+wrong uh very often like very much but
+
+262
+00:07:29,670 --> 00:07:29,680
+wrong uh very often like very much but
+ 
+
+263
+00:07:29,680 --> 00:07:32,469
+wrong uh very often like very much but
+it seems to have the capability to to
+
+264
+00:07:32,469 --> 00:07:32,479
+it seems to have the capability to to
+ 
+
+265
+00:07:32,479 --> 00:07:34,469
+it seems to have the capability to to
+kind of look at the error message look
+
+266
+00:07:34,469 --> 00:07:34,479
+kind of look at the error message look
+ 
+
+267
+00:07:34,479 --> 00:07:37,430
+kind of look at the error message look
+at the line when it did something wrong
+
+268
+00:07:37,430 --> 00:07:37,440
+at the line when it did something wrong
+ 
+
+269
+00:07:37,440 --> 00:07:41,350
+at the line when it did something wrong
+and try try to fix uh the error like
+
+270
+00:07:41,350 --> 00:07:41,360
+and try try to fix uh the error like
+ 
+
+271
+00:07:41,360 --> 00:07:44,309
+and try try to fix uh the error like
+sometimes this really takes a while uh
+
+272
+00:07:44,309 --> 00:07:44,319
+sometimes this really takes a while uh
+ 
+
+273
+00:07:44,319 --> 00:07:49,110
+sometimes this really takes a while uh
+like I should say the megalodon is like
+
+274
+00:07:49,110 --> 00:07:49,120
+like I should say the megalodon is like
+ 
+
+275
+00:07:49,120 --> 00:07:51,430
+like I should say the megalodon is like
+a virtually unknown proof assistant
+
+276
+00:07:51,430 --> 00:07:51,440
+a virtually unknown proof assistant
+ 
+
+277
+00:07:51,440 --> 00:07:54,869
+a virtually unknown proof assistant
+which doesn't have a high presence on
+
+278
+00:07:54,869 --> 00:07:54,879
+which doesn't have a high presence on
+ 
+
+279
+00:07:54,879 --> 00:07:59,430
+which doesn't have a high presence on
+GitHub or internet. So it's quite clear
+
+280
+00:07:59,430 --> 00:07:59,440
+GitHub or internet. So it's quite clear
+ 
+
+281
+00:07:59,440 --> 00:08:04,629
+GitHub or internet. So it's quite clear
+that the LLMs aren't much trained on the
+
+282
+00:08:04,629 --> 00:08:04,639
+that the LLMs aren't much trained on the
+ 
+
+283
+00:08:04,639 --> 00:08:06,869
+that the LLMs aren't much trained on the
+Megalodon code,
+
+284
+00:08:06,869 --> 00:08:06,879
+Megalodon code,
+ 
+
+285
+00:08:06,879 --> 00:08:10,390
+Megalodon code,
+but still like like surprisingly
+
+286
+00:08:10,390 --> 00:08:10,400
+but still like like surprisingly
+ 
+
+287
+00:08:10,400 --> 00:08:14,469
+but still like like surprisingly
+like the the language that Megalodon is
+
+288
+00:08:14,469 --> 00:08:14,479
+like the the language that Megalodon is
+ 
+
+289
+00:08:14,479 --> 00:08:17,830
+like the the language that Megalodon is
+using isn't something super fancy,
+
+290
+00:08:17,830 --> 00:08:17,840
+using isn't something super fancy,
+ 
+
+291
+00:08:17,840 --> 00:08:21,270
+using isn't something super fancy,
+something super unfamiliar. So, so the
+
+292
+00:08:21,270 --> 00:08:21,280
+something super unfamiliar. So, so the
+ 
+
+293
+00:08:21,280 --> 00:08:24,869
+something super unfamiliar. So, so the
+LLM learns the syntax relatively
+
+294
+00:08:24,869 --> 00:08:24,879
+LLM learns the syntax relatively
+ 
+
+295
+00:08:24,879 --> 00:08:26,469
+LLM learns the syntax relatively
+reasonably
+
+296
+00:08:26,469 --> 00:08:26,479
+reasonably
+ 
+
+297
+00:08:26,479 --> 00:08:30,070
+reasonably
+and it also kind of learns how to do the
+
+298
+00:08:30,070 --> 00:08:30,080
+and it also kind of learns how to do the
+ 
+
+299
+00:08:30,080 --> 00:08:32,389
+and it also kind of learns how to do the
+proofs even though it's kind of doing
+
+300
+00:08:32,389 --> 00:08:32,399
+proofs even though it's kind of doing
+ 
+
+301
+00:08:32,399 --> 00:08:34,709
+proofs even though it's kind of doing
+doing mistakes all the time. But like
+
+302
+00:08:34,709 --> 00:08:34,719
+doing mistakes all the time. But like
+ 
+
+303
+00:08:34,719 --> 00:08:37,829
+doing mistakes all the time. But like
+this quick error messaging is is a very
+
+304
+00:08:37,829 --> 00:08:37,839
+this quick error messaging is is a very
+ 
+
+305
+00:08:37,839 --> 00:08:41,350
+this quick error messaging is is a very
+good way how to always remind it don't
+
+306
+00:08:41,350 --> 00:08:41,360
+good way how to always remind it don't
+ 
+
+307
+00:08:41,360 --> 00:08:44,710
+good way how to always remind it don't
+do this, do do that. and it seems to be
+
+308
+00:08:44,710 --> 00:08:44,720
+do this, do do that. and it seems to be
+ 
+
+309
+00:08:44,720 --> 00:08:46,630
+do this, do do that. and it seems to be
+working like it could probably work
+
+310
+00:08:46,630 --> 00:08:46,640
+working like it could probably work
+ 
+
+311
+00:08:46,640 --> 00:08:49,670
+working like it could probably work
+better if you trained more on this
+
+312
+00:08:49,670 --> 00:08:49,680
+better if you trained more on this
+ 
+
+313
+00:08:49,680 --> 00:08:53,269
+better if you trained more on this
+particular uh proof style but it already
+
+314
+00:08:53,269 --> 00:08:53,279
+particular uh proof style but it already
+ 
+
+315
+00:08:53,279 --> 00:08:59,350
+particular uh proof style but it already
+works uh well well enough uh so when I
+
+316
+00:08:59,350 --> 00:08:59,360
+works uh well well enough uh so when I
+ 
+
+317
+00:08:59,360 --> 00:09:01,990
+works uh well well enough uh so when I
+saw and chat kind of confirmed that that
+
+318
+00:09:01,990 --> 00:09:02,000
+saw and chat kind of confirmed that that
+ 
+
+319
+00:09:02,000 --> 00:09:04,630
+saw and chat kind of confirmed that that
+it's uh doing reasonable stuff like the
+
+320
+00:09:04,630 --> 00:09:04,640
+it's uh doing reasonable stuff like the
+ 
+
+321
+00:09:04,640 --> 00:09:06,949
+it's uh doing reasonable stuff like the
+the I don't know definition of topology
+
+322
+00:09:06,949 --> 00:09:06,959
+the I don't know definition of topology
+ 
+
+323
+00:09:06,959 --> 00:09:09,269
+the I don't know definition of topology
+that created and the first theorems that
+
+324
+00:09:09,269 --> 00:09:09,279
+that created and the first theorems that
+ 
+
+325
+00:09:09,279 --> 00:09:13,509
+that created and the first theorems that
+created looked okay to me and uh to to
+
+326
+00:09:13,509 --> 00:09:13,519
+created looked okay to me and uh to to
+ 
+
+327
+00:09:13,519 --> 00:09:17,750
+created looked okay to me and uh to to
+chat. Then I I basically let it run. So
+
+328
+00:09:17,750 --> 00:09:17,760
+chat. Then I I basically let it run. So
+ 
+
+329
+00:09:17,760 --> 00:09:21,030
+chat. Then I I basically let it run. So
+So at that point it has this relatively
+
+330
+00:09:21,030 --> 00:09:21,040
+So at that point it has this relatively
+ 
+
+331
+00:09:21,040 --> 00:09:24,870
+So at that point it has this relatively
+big uh file with uh the topology
+
+332
+00:09:24,870 --> 00:09:24,880
+big uh file with uh the topology
+ 
+
+333
+00:09:24,880 --> 00:09:27,829
+big uh file with uh the topology
+development and obviously I I told it
+
+334
+00:09:27,829 --> 00:09:27,839
+development and obviously I I told it
+ 
+
+335
+00:09:27,839 --> 00:09:29,750
+development and obviously I I told it
+something like okay you you you need to
+
+336
+00:09:29,750 --> 00:09:29,760
+something like okay you you you need to
+ 
+
+337
+00:09:29,760 --> 00:09:32,870
+something like okay you you you need to
+formalize this all. So you should try to
+
+338
+00:09:32,870 --> 00:09:32,880
+formalize this all. So you should try to
+ 
+
+339
+00:09:32,880 --> 00:09:36,310
+formalize this all. So you should try to
+formalize the statements the definitions
+
+340
+00:09:36,310 --> 00:09:36,320
+formalize the statements the definitions
+ 
+
+341
+00:09:36,320 --> 00:09:38,870
+formalize the statements the definitions
+um and then gradually do the proofs. You
+
+342
+00:09:38,870 --> 00:09:38,880
+um and then gradually do the proofs. You
+ 
+
+343
+00:09:38,880 --> 00:09:40,630
+um and then gradually do the proofs. You
+don't have to finish the proofs
+
+344
+00:09:40,630 --> 00:09:40,640
+don't have to finish the proofs
+ 
+
+345
+00:09:40,640 --> 00:09:43,750
+don't have to finish the proofs
+immediately. uh you should kind of do
+
+346
+00:09:43,750 --> 00:09:43,760
+immediately. uh you should kind of do
+ 
+
+347
+00:09:43,760 --> 00:09:46,150
+immediately. uh you should kind of do
+things gradually in various ways but
+
+348
+00:09:46,150 --> 00:09:46,160
+things gradually in various ways but
+ 
+
+349
+00:09:46,160 --> 00:09:48,790
+things gradually in various ways but
+occasionally try to finish uh some
+
+350
+00:09:48,790 --> 00:09:48,800
+occasionally try to finish uh some
+ 
+
+351
+00:09:48,800 --> 00:09:53,509
+occasionally try to finish uh some
+stuff. So so it kind of uh did its own
+
+352
+00:09:53,509 --> 00:09:53,519
+stuff. So so it kind of uh did its own
+ 
+
+353
+00:09:53,519 --> 00:09:57,269
+stuff. So so it kind of uh did its own
+thinking how how to basically schedule
+
+354
+00:09:57,269 --> 00:09:57,279
+thinking how how to basically schedule
+ 
+
+355
+00:09:57,279 --> 00:10:00,790
+thinking how how to basically schedule
+this this uh ver which is also quite uh
+
+356
+00:10:00,790 --> 00:10:00,800
+this this uh ver which is also quite uh
+ 
+
+357
+00:10:00,800 --> 00:10:04,870
+this this uh ver which is also quite uh
+interesting. Uh yeah I guess I have
+
+358
+00:10:04,870 --> 00:10:04,880
+interesting. Uh yeah I guess I have
+ 
+
+359
+00:10:04,880 --> 00:10:08,230
+interesting. Uh yeah I guess I have
+already uh explained all of this. So,
+
+360
+00:10:08,230 --> 00:10:08,240
+already uh explained all of this. So,
+ 
+
+361
+00:10:08,240 --> 00:10:11,829
+already uh explained all of this. So,
+so, so an important part in like this uh
+
+362
+00:10:11,829 --> 00:10:11,839
+so, so an important part in like this uh
+ 
+
+363
+00:10:11,839 --> 00:10:16,069
+so, so an important part in like this uh
+megalodon prover is that it's like also
+
+364
+00:10:16,069 --> 00:10:16,079
+megalodon prover is that it's like also
+ 
+
+365
+00:10:16,079 --> 00:10:18,069
+megalodon prover is that it's like also
+like relatively declarative like like
+
+366
+00:10:18,069 --> 00:10:18,079
+like relatively declarative like like
+ 
+
+367
+00:10:18,079 --> 00:10:22,389
+like relatively declarative like like
+the proofs. So you can
+
+368
+00:10:22,389 --> 00:10:22,399
+the proofs. So you can
+ 
+
+369
+00:10:22,399 --> 00:10:25,990
+the proofs. So you can
+um most of the time see very clearly
+
+370
+00:10:25,990 --> 00:10:26,000
+um most of the time see very clearly
+ 
+
+371
+00:10:26,000 --> 00:10:28,069
+um most of the time see very clearly
+what you are proving like like the proof
+
+372
+00:10:28,069 --> 00:10:28,079
+what you are proving like like the proof
+ 
+
+373
+00:10:28,079 --> 00:10:33,590
+what you are proving like like the proof
+style allows the LLM to to see yeah now
+
+374
+00:10:33,590 --> 00:10:33,600
+style allows the LLM to to see yeah now
+ 
+
+375
+00:10:33,600 --> 00:10:36,069
+style allows the LLM to to see yeah now
+now now I'm in this part of the proof I
+
+376
+00:10:36,069 --> 00:10:36,079
+now now I'm in this part of the proof I
+ 
+
+377
+00:10:36,079 --> 00:10:38,069
+now now I'm in this part of the proof I
+can use these assumptions or previously
+
+378
+00:10:38,069 --> 00:10:38,079
+can use these assumptions or previously
+ 
+
+379
+00:10:38,079 --> 00:10:40,710
+can use these assumptions or previously
+proof lemas and now I need to prove this
+
+380
+00:10:40,710 --> 00:10:40,720
+proof lemas and now I need to prove this
+ 
+
+381
+00:10:40,720 --> 00:10:45,269
+proof lemas and now I need to prove this
+next small lema and everything is kind
+
+382
+00:10:45,269 --> 00:10:45,279
+next small lema and everything is kind
+ 
+
+383
+00:10:45,279 --> 00:10:47,910
+next small lema and everything is kind
+of very clear. So I I think that's
+
+384
+00:10:47,910 --> 00:10:47,920
+of very clear. So I I think that's
+ 
+
+385
+00:10:47,920 --> 00:10:51,030
+of very clear. So I I think that's
+that's very useful for the LOM
+
+386
+00:10:51,030 --> 00:10:51,040
+that's very useful for the LOM
+ 
+
+387
+00:10:51,040 --> 00:10:55,030
+that's very useful for the LOM
+and you can as I said you can do things
+
+388
+00:10:55,030 --> 00:10:55,040
+and you can as I said you can do things
+ 
+
+389
+00:10:55,040 --> 00:10:57,829
+and you can as I said you can do things
+gradually using this admit keyword which
+
+390
+00:10:57,829 --> 00:10:57,839
+gradually using this admit keyword which
+ 
+
+391
+00:10:57,839 --> 00:11:02,150
+gradually using this admit keyword which
+I think comes from uh coke. So, so I
+
+392
+00:11:02,150 --> 00:11:02,160
+I think comes from uh coke. So, so I
+ 
+
+393
+00:11:02,160 --> 00:11:04,470
+I think comes from uh coke. So, so I
+think I kind of explicitly instructed it
+
+394
+00:11:04,470 --> 00:11:04,480
+think I kind of explicitly instructed it
+ 
+
+395
+00:11:04,480 --> 00:11:08,870
+think I kind of explicitly instructed it
+to to proceed in this way to to kind of
+
+396
+00:11:08,870 --> 00:11:08,880
+to to proceed in this way to to kind of
+ 
+
+397
+00:11:08,880 --> 00:11:12,470
+to to proceed in this way to to kind of
+start with these like misar style proof
+
+398
+00:11:12,470 --> 00:11:12,480
+start with these like misar style proof
+ 
+
+399
+00:11:12,480 --> 00:11:16,710
+start with these like misar style proof
+sketches um and then gradually
+
+400
+00:11:16,710 --> 00:11:16,720
+sketches um and then gradually
+ 
+
+401
+00:11:16,720 --> 00:11:20,150
+sketches um and then gradually
+make them more and more
+
+402
+00:11:20,150 --> 00:11:20,160
+make them more and more
+ 
+
+403
+00:11:20,160 --> 00:11:24,949
+make them more and more
+uh deep and uh developed until basically
+
+404
+00:11:24,949 --> 00:11:24,959
+uh deep and uh developed until basically
+ 
+
+405
+00:11:24,959 --> 00:11:28,310
+uh deep and uh developed until basically
+that there is no admit uh anywhere in in
+
+406
+00:11:28,310 --> 00:11:28,320
+that there is no admit uh anywhere in in
+ 
+
+407
+00:11:28,320 --> 00:11:29,990
+that there is no admit uh anywhere in in
+the tooth.
+
+408
+00:11:29,990 --> 00:11:30,000
+the tooth.
+ 
+
+409
+00:11:30,000 --> 00:11:33,829
+the tooth.
+Uh yeah and this slide also says that I
+
+410
+00:11:33,829 --> 00:11:33,839
+Uh yeah and this slide also says that I
+ 
+
+411
+00:11:33,839 --> 00:11:36,630
+Uh yeah and this slide also says that I
+kind of did a bit of sandboxing.
+
+412
+00:11:36,630 --> 00:11:36,640
+kind of did a bit of sandboxing.
+ 
+
+413
+00:11:36,640 --> 00:11:41,829
+kind of did a bit of sandboxing.
+So so these coding agents are in um
+
+414
+00:11:41,829 --> 00:11:41,839
+So so these coding agents are in um
+ 
+
+415
+00:11:41,839 --> 00:11:45,430
+So so these coding agents are in um
+theory pretty dangerous objects like if
+
+416
+00:11:45,430 --> 00:11:45,440
+theory pretty dangerous objects like if
+ 
+
+417
+00:11:45,440 --> 00:11:47,750
+theory pretty dangerous objects like if
+you gave them like a full power over
+
+418
+00:11:47,750 --> 00:11:47,760
+you gave them like a full power over
+ 
+
+419
+00:11:47,760 --> 00:11:52,310
+you gave them like a full power over
+your computer they could probably do
+
+420
+00:11:52,310 --> 00:11:52,320
+your computer they could probably do
+ 
+
+421
+00:11:52,320 --> 00:11:55,110
+your computer they could probably do
+things that you do not want them to do.
+
+422
+00:11:55,110 --> 00:11:55,120
+things that you do not want them to do.
+ 
+
+423
+00:11:55,120 --> 00:11:57,750
+things that you do not want them to do.
+So I just use this bubbler app which
+
+424
+00:11:57,750 --> 00:11:57,760
+So I just use this bubbler app which
+ 
+
+425
+00:11:57,760 --> 00:11:59,590
+So I just use this bubbler app which
+seems to be like a reasonable tool. how
+
+426
+00:11:59,590 --> 00:11:59,600
+seems to be like a reasonable tool. how
+ 
+
+427
+00:11:59,600 --> 00:12:02,310
+seems to be like a reasonable tool. how
+to isolate some working environment
+
+428
+00:12:02,310 --> 00:12:02,320
+to isolate some working environment
+ 
+
+429
+00:12:02,320 --> 00:12:05,829
+to isolate some working environment
+inside uh my my Linux notebook or my
+
+430
+00:12:05,829 --> 00:12:05,839
+inside uh my my Linux notebook or my
+ 
+
+431
+00:12:05,839 --> 00:12:10,389
+inside uh my my Linux notebook or my
+Linux uh server and like gradually I've
+
+432
+00:12:10,389 --> 00:12:10,399
+Linux uh server and like gradually I've
+ 
+
+433
+00:12:10,399 --> 00:12:13,190
+Linux uh server and like gradually I've
+moved the work to a server where I'm
+
+434
+00:12:13,190 --> 00:12:13,200
+moved the work to a server where I'm
+ 
+
+435
+00:12:13,200 --> 00:12:15,190
+moved the work to a server where I'm
+running the the auto formalization
+
+436
+00:12:15,190 --> 00:12:15,200
+running the the auto formalization
+ 
+
+437
+00:12:15,200 --> 00:12:17,910
+running the the auto formalization
+session in something like a GNU screen
+
+438
+00:12:17,910 --> 00:12:17,920
+session in something like a GNU screen
+ 
+
+439
+00:12:17,920 --> 00:12:21,030
+session in something like a GNU screen
+and this T-Max the terminal multiplexer
+
+440
+00:12:21,030 --> 00:12:21,040
+and this T-Max the terminal multiplexer
+ 
+
+441
+00:12:21,040 --> 00:12:23,030
+and this T-Max the terminal multiplexer
+and I'm kind of backing it up and
+
+442
+00:12:23,030 --> 00:12:23,040
+and I'm kind of backing it up and
+ 
+
+443
+00:12:23,040 --> 00:12:25,750
+and I'm kind of backing it up and
+pushing it to to GitHub.
+
+444
+00:12:25,750 --> 00:12:25,760
+pushing it to to GitHub.
+ 
+
+445
+00:12:25,760 --> 00:12:29,670
+pushing it to to GitHub.
+Uh why megalodon? So I should say by now
+
+446
+00:12:29,670 --> 00:12:29,680
+Uh why megalodon? So I should say by now
+ 
+
+447
+00:12:29,680 --> 00:12:33,110
+Uh why megalodon? So I should say by now
+we have tried it with at least three
+
+448
+00:12:33,110 --> 00:12:33,120
+we have tried it with at least three
+ 
+
+449
+00:12:33,120 --> 00:12:36,069
+we have tried it with at least three
+other systems with whole light uh with
+
+450
+00:12:36,069 --> 00:12:36,079
+other systems with whole light uh with
+ 
+
+451
+00:12:36,079 --> 00:12:37,829
+other systems with whole light uh with
+Agda
+
+452
+00:12:37,829 --> 00:12:37,839
+Agda
+ 
+
+453
+00:12:37,839 --> 00:12:42,230
+Agda
+uh with Napro and uh Zaril has been
+
+454
+00:12:42,230 --> 00:12:42,240
+uh with Napro and uh Zaril has been
+ 
+
+455
+00:12:42,240 --> 00:12:45,990
+uh with Napro and uh Zaril has been
+doing a lot of experiments with Lena. So
+
+456
+00:12:45,990 --> 00:12:46,000
+doing a lot of experiments with Lena. So
+ 
+
+457
+00:12:46,000 --> 00:12:48,949
+doing a lot of experiments with Lena. So
+I I don't know how much Megalodon
+
+458
+00:12:48,949 --> 00:12:48,959
+I I don't know how much Megalodon
+ 
+
+459
+00:12:48,959 --> 00:12:53,190
+I I don't know how much Megalodon
+actually matters. the the the the thing
+
+460
+00:12:53,190 --> 00:12:53,200
+actually matters. the the the the thing
+ 
+
+461
+00:12:53,200 --> 00:12:55,910
+actually matters. the the the the thing
+here is that like I'm I'm using like
+
+462
+00:12:55,910 --> 00:12:55,920
+here is that like I'm I'm using like
+ 
+
+463
+00:12:55,920 --> 00:12:59,829
+here is that like I'm I'm using like
+this compilation fast checking uh mode
+
+464
+00:12:59,829 --> 00:12:59,839
+this compilation fast checking uh mode
+ 
+
+465
+00:12:59,839 --> 00:13:04,389
+this compilation fast checking uh mode
+which is just kind of good for my
+
+466
+00:13:04,389 --> 00:13:04,399
+which is just kind of good for my
+ 
+
+467
+00:13:04,399 --> 00:13:05,910
+which is just kind of good for my
+laziness.
+
+468
+00:13:05,910 --> 00:13:05,920
+laziness.
+ 
+
+469
+00:13:05,920 --> 00:13:08,710
+laziness.
+So I can imagine and I think John
+
+470
+00:13:08,710 --> 00:13:08,720
+So I can imagine and I think John
+ 
+
+471
+00:13:08,720 --> 00:13:11,670
+So I can imagine and I think John
+Harrison and Jun Lean are now working on
+
+472
+00:13:11,670 --> 00:13:11,680
+Harrison and Jun Lean are now working on
+ 
+
+473
+00:13:11,680 --> 00:13:15,030
+Harrison and Jun Lean are now working on
+that you can set up something which
+
+474
+00:13:15,030 --> 00:13:15,040
+that you can set up something which
+ 
+
+475
+00:13:15,040 --> 00:13:17,350
+that you can set up something which
+works in the kind of interactive mode
+
+476
+00:13:17,350 --> 00:13:17,360
+works in the kind of interactive mode
+ 
+
+477
+00:13:17,360 --> 00:13:18,949
+works in the kind of interactive mode
+like when you are for example in the
+
+478
+00:13:18,949 --> 00:13:18,959
+like when you are for example in the
+ 
+
+479
+00:13:18,959 --> 00:13:23,509
+like when you are for example in the
+okamel readal print loop and you are
+
+480
+00:13:23,509 --> 00:13:23,519
+okamel readal print loop and you are
+ 
+
+481
+00:13:23,519 --> 00:13:26,790
+okamel readal print loop and you are
+continuously issuing the commands and
+
+482
+00:13:26,790 --> 00:13:26,800
+continuously issuing the commands and
+ 
+
+483
+00:13:26,800 --> 00:13:31,110
+continuously issuing the commands and
+okamel is responding to you. But I I was
+
+484
+00:13:31,110 --> 00:13:31,120
+okamel is responding to you. But I I was
+ 
+
+485
+00:13:31,120 --> 00:13:34,870
+okamel is responding to you. But I I was
+kind of too cautious and too lazy. I was
+
+486
+00:13:34,870 --> 00:13:34,880
+kind of too cautious and too lazy. I was
+ 
+
+487
+00:13:34,880 --> 00:13:38,150
+kind of too cautious and too lazy. I was
+thinking what if the coding agent
+
+488
+00:13:38,150 --> 00:13:38,160
+thinking what if the coding agent
+ 
+
+489
+00:13:38,160 --> 00:13:42,310
+thinking what if the coding agent
+uh invokes some exception and the the
+
+490
+00:13:42,310 --> 00:13:42,320
+uh invokes some exception and the the
+ 
+
+491
+00:13:42,320 --> 00:13:45,509
+uh invokes some exception and the the
+whole thing will have to be watched much
+
+492
+00:13:45,509 --> 00:13:45,519
+whole thing will have to be watched much
+ 
+
+493
+00:13:45,519 --> 00:13:50,550
+whole thing will have to be watched much
+more than I'm watching it. So, so I I
+
+494
+00:13:50,550 --> 00:13:50,560
+more than I'm watching it. So, so I I
+ 
+
+495
+00:13:50,560 --> 00:13:52,550
+more than I'm watching it. So, so I I
+preferred like this kind of misar style
+
+496
+00:13:52,550 --> 00:13:52,560
+preferred like this kind of misar style
+ 
+
+497
+00:13:52,560 --> 00:13:55,190
+preferred like this kind of misar style
+compilation style, but I think it's not
+
+498
+00:13:55,190 --> 00:13:55,200
+compilation style, but I think it's not
+ 
+
+499
+00:13:55,200 --> 00:13:57,430
+compilation style, but I think it's not
+really a big deal to to set things up
+
+500
+00:13:57,430 --> 00:13:57,440
+really a big deal to to set things up
+ 
+
+501
+00:13:57,440 --> 00:14:00,790
+really a big deal to to set things up
+also in in this kind of interactive uh
+
+502
+00:14:00,790 --> 00:14:00,800
+also in in this kind of interactive uh
+ 
+
+503
+00:14:00,800 --> 00:14:03,269
+also in in this kind of interactive uh
+mode which for example whole light is is
+
+504
+00:14:03,269 --> 00:14:03,279
+mode which for example whole light is is
+ 
+
+505
+00:14:03,279 --> 00:14:08,150
+mode which for example whole light is is
+using. Uh, one thing I'm doing which I
+
+506
+00:14:08,150 --> 00:14:08,160
+using. Uh, one thing I'm doing which I
+ 
+
+507
+00:14:08,160 --> 00:14:11,350
+using. Uh, one thing I'm doing which I
+may be able to show you is that I am
+
+508
+00:14:11,350 --> 00:14:11,360
+may be able to show you is that I am
+ 
+
+509
+00:14:11,360 --> 00:14:13,910
+may be able to show you is that I am
+basically HTML
+
+510
+00:14:13,910 --> 00:14:13,920
+basically HTML
+ 
+
+511
+00:14:13,920 --> 00:14:15,430
+basically HTML
+development
+
+512
+00:14:15,430 --> 00:14:15,440
+development
+ 
+
+513
+00:14:15,440 --> 00:14:19,590
+development
+kind of as soon as I push it on GitHub
+
+514
+00:14:19,590 --> 00:14:19,600
+kind of as soon as I push it on GitHub
+ 
+
+515
+00:14:19,600 --> 00:14:21,990
+kind of as soon as I push it on GitHub
+which allows me to click through these
+
+516
+00:14:21,990 --> 00:14:22,000
+which allows me to click through these
+ 
+
+517
+00:14:22,000 --> 00:14:25,910
+which allows me to click through these
+proofs and see what went wrong or how
+
+518
+00:14:25,910 --> 00:14:25,920
+proofs and see what went wrong or how
+ 
+
+519
+00:14:25,920 --> 00:14:29,750
+proofs and see what went wrong or how
+the proofs were uh done.
+
+520
+00:14:29,750 --> 00:14:29,760
+the proofs were uh done.
+ 
+
+521
+00:14:29,760 --> 00:14:34,389
+the proofs were uh done.
+Uh, oh yeah. So, so I don't know the the
+
+522
+00:14:34,389 --> 00:14:34,399
+Uh, oh yeah. So, so I don't know the the
+ 
+
+523
+00:14:34,399 --> 00:14:36,949
+Uh, oh yeah. So, so I don't know the the
+uh CH GBD called this the one prompt
+
+524
+00:14:36,949 --> 00:14:36,959
+uh CH GBD called this the one prompt
+ 
+
+525
+00:14:36,959 --> 00:14:40,470
+uh CH GBD called this the one prompt
+trick. So, so at some point I paid for
+
+526
+00:14:40,470 --> 00:14:40,480
+trick. So, so at some point I paid for
+ 
+
+527
+00:14:40,480 --> 00:14:46,230
+trick. So, so at some point I paid for
+for this big uh CH GPD Pro subscription
+
+528
+00:14:46,230 --> 00:14:46,240
+for this big uh CH GPD Pro subscription
+ 
+
+529
+00:14:46,240 --> 00:14:50,389
+for this big uh CH GPD Pro subscription
+uh and uh I needed to automate things
+
+530
+00:14:50,389 --> 00:14:50,399
+uh and uh I needed to automate things
+ 
+
+531
+00:14:50,399 --> 00:14:54,550
+uh and uh I needed to automate things
+because suddenly I had a lot of credits
+
+532
+00:14:54,550 --> 00:14:54,560
+because suddenly I had a lot of credits
+ 
+
+533
+00:14:54,560 --> 00:14:58,550
+because suddenly I had a lot of credits
+for using the LLM and it wasn't before
+
+534
+00:14:58,550 --> 00:14:58,560
+for using the LLM and it wasn't before
+ 
+
+535
+00:14:58,560 --> 00:15:01,030
+for using the LLM and it wasn't before
+that it was waiting all the time for the
+
+536
+00:15:01,030 --> 00:15:01,040
+that it was waiting all the time for the
+ 
+
+537
+00:15:01,040 --> 00:15:03,030
+that it was waiting all the time for the
+kind of credits
+
+538
+00:15:03,030 --> 00:15:03,040
+kind of credits
+ 
+
+539
+00:15:03,040 --> 00:15:06,710
+kind of credits
+uh to reset but like when I paid the
+
+540
+00:15:06,710 --> 00:15:06,720
+uh to reset but like when I paid the
+ 
+
+541
+00:15:06,720 --> 00:15:07,750
+uh to reset but like when I paid the
+$200
+
+542
+00:15:07,750 --> 00:15:07,760
+$200
+ 
+
+543
+00:15:07,760 --> 00:15:11,269
+$200
+per month's subscription. It's it was
+
+544
+00:15:11,269 --> 00:15:11,279
+per month's subscription. It's it was
+ 
+
+545
+00:15:11,279 --> 00:15:14,230
+per month's subscription. It's it was
+running kind of continuously. So I did
+
+546
+00:15:14,230 --> 00:15:14,240
+running kind of continuously. So I did
+ 
+
+547
+00:15:14,240 --> 00:15:17,509
+running kind of continuously. So I did
+this hack which is I'm running it in
+
+548
+00:15:17,509 --> 00:15:17,519
+this hack which is I'm running it in
+ 
+
+549
+00:15:17,519 --> 00:15:20,629
+this hack which is I'm running it in
+this terminal multiplexer in this T-max
+
+550
+00:15:20,629 --> 00:15:20,639
+this terminal multiplexer in this T-max
+ 
+
+551
+00:15:20,639 --> 00:15:24,310
+this terminal multiplexer in this T-max
+and whenever the coding agent kind of
+
+552
+00:15:24,310 --> 00:15:24,320
+and whenever the coding agent kind of
+ 
+
+553
+00:15:24,320 --> 00:15:27,110
+and whenever the coding agent kind of
+comes back to me and says I have
+
+554
+00:15:27,110 --> 00:15:27,120
+comes back to me and says I have
+ 
+
+555
+00:15:27,120 --> 00:15:29,350
+comes back to me and says I have
+finished the work uh give me some more
+
+556
+00:15:29,350 --> 00:15:29,360
+finished the work uh give me some more
+ 
+
+557
+00:15:29,360 --> 00:15:33,750
+finished the work uh give me some more
+work I detect it from the outside and I
+
+558
+00:15:33,750 --> 00:15:33,760
+work I detect it from the outside and I
+ 
+
+559
+00:15:33,760 --> 00:15:36,550
+work I detect it from the outside and I
+automatically inject this prompt which
+
+560
+00:15:36,550 --> 00:15:36,560
+automatically inject this prompt which
+ 
+
+561
+00:15:36,560 --> 00:15:39,829
+automatically inject this prompt which
+says read the file called MD treat it as
+
+562
+00:15:39,829 --> 00:15:39,839
+says read the file called MD treat it as
+ 
+
+563
+00:15:39,839 --> 00:15:42,150
+says read the file called MD treat it as
+authoritative work instruction and work
+
+564
+00:15:42,150 --> 00:15:42,160
+authoritative work instruction and work
+ 
+
+565
+00:15:42,160 --> 00:15:43,829
+authoritative work instruction and work
+as long as possible.
+
+566
+00:15:43,829 --> 00:15:43,839
+as long as possible.
+ 
+
+567
+00:15:43,839 --> 00:15:46,629
+as long as possible.
+And so so this is I don't know like two
+
+568
+00:15:46,629 --> 00:15:46,639
+And so so this is I don't know like two
+ 
+
+569
+00:15:46,639 --> 00:15:50,470
+And so so this is I don't know like two
+three sentences and most of the prompt
+
+570
+00:15:50,470 --> 00:15:50,480
+three sentences and most of the prompt
+ 
+
+571
+00:15:50,480 --> 00:15:53,910
+three sentences and most of the prompt
+or rules is in this relatively big file
+
+572
+00:15:53,910 --> 00:15:53,920
+or rules is in this relatively big file
+ 
+
+573
+00:15:53,920 --> 00:15:58,310
+or rules is in this relatively big file
+called cloth MD which is fully printed
+
+574
+00:15:58,310 --> 00:15:58,320
+called cloth MD which is fully printed
+ 
+
+575
+00:15:58,320 --> 00:16:02,150
+called cloth MD which is fully printed
+in the archive paper which tells tells
+
+576
+00:16:02,150 --> 00:16:02,160
+in the archive paper which tells tells
+ 
+
+577
+00:16:02,160 --> 00:16:04,550
+in the archive paper which tells tells
+it what to do and what not to do. So, so
+
+578
+00:16:04,550 --> 00:16:04,560
+it what to do and what not to do. So, so
+ 
+
+579
+00:16:04,560 --> 00:16:07,030
+it what to do and what not to do. So, so
+it for example tells it only to edit in
+
+580
+00:16:07,030 --> 00:16:07,040
+it for example tells it only to edit in
+ 
+
+581
+00:16:07,040 --> 00:16:09,910
+it for example tells it only to edit in
+the topology section, never edit in the
+
+582
+00:16:09,910 --> 00:16:09,920
+the topology section, never edit in the
+ 
+
+583
+00:16:09,920 --> 00:16:12,069
+the topology section, never edit in the
+set theory section that child has
+
+584
+00:16:12,069 --> 00:16:12,079
+set theory section that child has
+ 
+
+585
+00:16:12,079 --> 00:16:14,710
+set theory section that child has
+already uh formalized.
+
+586
+00:16:14,710 --> 00:16:14,720
+already uh formalized.
+ 
+
+587
+00:16:14,720 --> 00:16:19,189
+already uh formalized.
+Don't throw away a work that you have
+
+588
+00:16:19,189 --> 00:16:19,199
+Don't throw away a work that you have
+ 
+
+589
+00:16:19,199 --> 00:16:22,790
+Don't throw away a work that you have
+already done. Try to always add more
+
+590
+00:16:22,790 --> 00:16:22,800
+already done. Try to always add more
+ 
+
+591
+00:16:22,800 --> 00:16:27,350
+already done. Try to always add more
+work. uh some some kind of very simple
+
+592
+00:16:27,350 --> 00:16:27,360
+work. uh some some kind of very simple
+ 
+
+593
+00:16:27,360 --> 00:16:29,430
+work. uh some some kind of very simple
+warnings about the language because
+
+594
+00:16:29,430 --> 00:16:29,440
+warnings about the language because
+ 
+
+595
+00:16:29,440 --> 00:16:32,550
+warnings about the language because
+sometimes it can get stuck by I don't
+
+596
+00:16:32,550 --> 00:16:32,560
+sometimes it can get stuck by I don't
+ 
+
+597
+00:16:32,560 --> 00:16:35,110
+sometimes it can get stuck by I don't
+know assuming that you can do some
+
+598
+00:16:35,110 --> 00:16:35,120
+know assuming that you can do some
+ 
+
+599
+00:16:35,120 --> 00:16:38,069
+know assuming that you can do some
+comments and it actually cannot do those
+
+600
+00:16:38,069 --> 00:16:38,079
+comments and it actually cannot do those
+ 
+
+601
+00:16:38,079 --> 00:16:41,670
+comments and it actually cannot do those
+comments and then it could take a while
+
+602
+00:16:41,670 --> 00:16:41,680
+comments and then it could take a while
+ 
+
+603
+00:16:41,680 --> 00:16:43,829
+comments and then it could take a while
+to to recover
+
+604
+00:16:43,829 --> 00:16:43,839
+to to recover
+ 
+
+605
+00:16:43,839 --> 00:16:47,749
+to to recover
+and I also eventually added some kind of
+
+606
+00:16:47,749 --> 00:16:47,759
+and I also eventually added some kind of
+ 
+
+607
+00:16:47,759 --> 00:16:49,590
+and I also eventually added some kind of
+dependency tracking and progress
+
+608
+00:16:49,590 --> 00:16:49,600
+dependency tracking and progress
+ 
+
+609
+00:16:49,600 --> 00:16:51,829
+dependency tracking and progress
+monitoring because the development
+
+610
+00:16:51,829 --> 00:16:51,839
+monitoring because the development
+ 
+
+611
+00:16:51,839 --> 00:16:57,509
+monitoring because the development
+became big and Um I felt like the the uh
+
+612
+00:16:57,509 --> 00:16:57,519
+became big and Um I felt like the the uh
+ 
+
+613
+00:16:57,519 --> 00:17:01,749
+became big and Um I felt like the the uh
+LLM needs kind of some tools to to
+
+614
+00:17:01,749 --> 00:17:01,759
+LLM needs kind of some tools to to
+ 
+
+615
+00:17:01,759 --> 00:17:04,549
+LLM needs kind of some tools to to
+better orient itself like what depends
+
+616
+00:17:04,549 --> 00:17:04,559
+better orient itself like what depends
+ 
+
+617
+00:17:04,559 --> 00:17:08,069
+better orient itself like what depends
+on what and which sections of the book
+
+618
+00:17:08,069 --> 00:17:08,079
+on what and which sections of the book
+ 
+
+619
+00:17:08,079 --> 00:17:10,309
+on what and which sections of the book
+are covered and which still need to be
+
+620
+00:17:10,309 --> 00:17:10,319
+are covered and which still need to be
+ 
+
+621
+00:17:10,319 --> 00:17:13,110
+are covered and which still need to be
+covered etc.
+
+622
+00:17:13,110 --> 00:17:13,120
+covered etc.
+ 
+
+623
+00:17:13,120 --> 00:17:14,789
+covered etc.
+Uh
+
+624
+00:17:14,789 --> 00:17:14,799
+Uh
+ 
+
+625
+00:17:14,799 --> 00:17:16,630
+Uh
+so
+
+626
+00:17:16,630 --> 00:17:16,640
+so
+ 
+
+627
+00:17:16,640 --> 00:17:18,710
+so
+yeah as I said I I have this kind of
+
+628
+00:17:18,710 --> 00:17:18,720
+yeah as I said I I have this kind of
+ 
+
+629
+00:17:18,720 --> 00:17:21,750
+yeah as I said I I have this kind of
+prompt uh injection
+
+630
+00:17:21,750 --> 00:17:21,760
+prompt uh injection
+ 
+
+631
+00:17:21,760 --> 00:17:25,429
+prompt uh injection
+which is like like this kind of poor
+
+632
+00:17:25,429 --> 00:17:25,439
+which is like like this kind of poor
+ 
+
+633
+00:17:25,439 --> 00:17:30,390
+which is like like this kind of poor
+man's interactive agent uh basically and
+
+634
+00:17:30,390 --> 00:17:30,400
+man's interactive agent uh basically and
+ 
+
+635
+00:17:30,400 --> 00:17:34,310
+man's interactive agent uh basically and
+it works so so just just by doing like
+
+636
+00:17:34,310 --> 00:17:34,320
+it works so so just just by doing like
+ 
+
+637
+00:17:34,320 --> 00:17:37,990
+it works so so just just by doing like
+this very primitive automation I
+
+638
+00:17:37,990 --> 00:17:38,000
+this very primitive automation I
+ 
+
+639
+00:17:38,000 --> 00:17:39,590
+this very primitive automation I
+basically
+
+640
+00:17:39,590 --> 00:17:39,600
+basically
+ 
+
+641
+00:17:39,600 --> 00:17:42,470
+basically
+made it work autonomously for for a
+
+642
+00:17:42,470 --> 00:17:42,480
+made it work autonomously for for a
+ 
+
+643
+00:17:42,480 --> 00:17:46,870
+made it work autonomously for for a
+month like without me doing any any
+
+644
+00:17:46,870 --> 00:17:46,880
+month like without me doing any any
+ 
+
+645
+00:17:46,880 --> 00:17:49,990
+month like without me doing any any
+babysitting like the only reason why it
+
+646
+00:17:49,990 --> 00:17:50,000
+babysitting like the only reason why it
+ 
+
+647
+00:17:50,000 --> 00:17:53,750
+babysitting like the only reason why it
+stops at some point is that I run out of
+
+648
+00:17:53,750 --> 00:17:53,760
+stops at some point is that I run out of
+ 
+
+649
+00:17:53,760 --> 00:17:57,830
+stops at some point is that I run out of
+the usage quotas by CH GPT. So that is
+
+650
+00:17:57,830 --> 00:17:57,840
+the usage quotas by CH GPT. So that is
+ 
+
+651
+00:17:57,840 --> 00:18:01,990
+the usage quotas by CH GPT. So that is
+now happening uh like after 3 or 4 days
+
+652
+00:18:01,990 --> 00:18:02,000
+now happening uh like after 3 or 4 days
+ 
+
+653
+00:18:02,000 --> 00:18:05,510
+now happening uh like after 3 or 4 days
+of continuous running uh open AAI tells
+
+654
+00:18:05,510 --> 00:18:05,520
+of continuous running uh open AAI tells
+ 
+
+655
+00:18:05,520 --> 00:18:08,230
+of continuous running uh open AAI tells
+me that either I need to wait or I
+
+656
+00:18:08,230 --> 00:18:08,240
+me that either I need to wait or I
+ 
+
+657
+00:18:08,240 --> 00:18:10,070
+me that either I need to wait or I
+should pay them more money. So I
+
+658
+00:18:10,070 --> 00:18:10,080
+should pay them more money. So I
+ 
+
+659
+00:18:10,080 --> 00:18:13,190
+should pay them more money. So I
+typically wait and sometimes the the
+
+660
+00:18:13,190 --> 00:18:13,200
+typically wait and sometimes the the
+ 
+
+661
+00:18:13,200 --> 00:18:15,350
+typically wait and sometimes the the
+model the coding agent has some
+
+662
+00:18:15,350 --> 00:18:15,360
+model the coding agent has some
+ 
+
+663
+00:18:15,360 --> 00:18:16,870
+model the coding agent has some
+limitations.
+
+664
+00:18:16,870 --> 00:18:16,880
+limitations.
+ 
+
+665
+00:18:16,880 --> 00:18:20,470
+limitations.
+So it kind of runs out. So so it has
+
+666
+00:18:20,470 --> 00:18:20,480
+So it kind of runs out. So so it has
+ 
+
+667
+00:18:20,480 --> 00:18:22,470
+So it kind of runs out. So so it has
+this magical
+
+668
+00:18:22,470 --> 00:18:22,480
+this magical
+ 
+
+669
+00:18:22,480 --> 00:18:24,230
+this magical
+thing called context compat
+
+670
+00:18:24,230 --> 00:18:24,240
+thing called context compat
+ 
+
+671
+00:18:24,240 --> 00:18:26,310
+thing called context compat
+compactification. So, so it's kind of
+
+672
+00:18:26,310 --> 00:18:26,320
+compactification. So, so it's kind of
+ 
+
+673
+00:18:26,320 --> 00:18:30,230
+compactification. So, so it's kind of
+keeping the history of of the
+
+674
+00:18:30,230 --> 00:18:30,240
+keeping the history of of the
+ 
+
+675
+00:18:30,240 --> 00:18:32,789
+keeping the history of of the
+interaction and
+
+676
+00:18:32,789 --> 00:18:32,799
+interaction and
+ 
+
+677
+00:18:32,799 --> 00:18:35,270
+interaction and
+uh because its context window is huge
+
+678
+00:18:35,270 --> 00:18:35,280
+uh because its context window is huge
+ 
+
+679
+00:18:35,280 --> 00:18:37,350
+uh because its context window is huge
+but still limited at at some point it
+
+680
+00:18:37,350 --> 00:18:37,360
+but still limited at at some point it
+ 
+
+681
+00:18:37,360 --> 00:18:40,390
+but still limited at at some point it
+needs to decide what to throw out of the
+
+682
+00:18:40,390 --> 00:18:40,400
+needs to decide what to throw out of the
+ 
+
+683
+00:18:40,400 --> 00:18:43,190
+needs to decide what to throw out of the
+context window. So that process seems to
+
+684
+00:18:43,190 --> 00:18:43,200
+context window. So that process seems to
+ 
+
+685
+00:18:43,200 --> 00:18:47,990
+context window. So that process seems to
+be some proprietary fancy technology uh
+
+686
+00:18:47,990 --> 00:18:48,000
+be some proprietary fancy technology uh
+ 
+
+687
+00:18:48,000 --> 00:18:50,470
+be some proprietary fancy technology uh
+which decides which part of the
+
+688
+00:18:50,470 --> 00:18:50,480
+which decides which part of the
+ 
+
+689
+00:18:50,480 --> 00:18:52,549
+which decides which part of the
+conversation very important and which
+
+690
+00:18:52,549 --> 00:18:52,559
+conversation very important and which
+ 
+
+691
+00:18:52,559 --> 00:18:57,029
+conversation very important and which
+can be forgotten and uh usually it kind
+
+692
+00:18:57,029 --> 00:18:57,039
+can be forgotten and uh usually it kind
+ 
+
+693
+00:18:57,039 --> 00:19:02,630
+can be forgotten and uh usually it kind
+of works but uh especially this chpt
+
+694
+00:19:02,630 --> 00:19:02,640
+of works but uh especially this chpt
+ 
+
+695
+00:19:02,640 --> 00:19:07,430
+of works but uh especially this chpt
+it uh sometimes declares itself to be
+
+696
+00:19:07,430 --> 00:19:07,440
+it uh sometimes declares itself to be
+ 
+
+697
+00:19:07,440 --> 00:19:09,590
+it uh sometimes declares itself to be
+like totally
+
+698
+00:19:09,590 --> 00:19:09,600
+like totally
+ 
+
+699
+00:19:09,600 --> 00:19:13,590
+like totally
+um nonfixable. model and I have to do
+
+700
+00:19:13,590 --> 00:19:13,600
+um nonfixable. model and I have to do
+ 
+
+701
+00:19:13,600 --> 00:19:16,870
+um nonfixable. model and I have to do
+what the podcast called lobotomy on the
+
+702
+00:19:16,870 --> 00:19:16,880
+what the podcast called lobotomy on the
+ 
+
+703
+00:19:16,880 --> 00:19:19,430
+what the podcast called lobotomy on the
+on the language model. So, so, so my
+
+704
+00:19:19,430 --> 00:19:19,440
+on the language model. So, so, so my
+ 
+
+705
+00:19:19,440 --> 00:19:23,590
+on the language model. So, so, so my
+solution is that I I basically revert to
+
+706
+00:19:23,590 --> 00:19:23,600
+solution is that I I basically revert to
+ 
+
+707
+00:19:23,600 --> 00:19:25,669
+solution is that I I basically revert to
+a early
+
+708
+00:19:25,669 --> 00:19:25,679
+a early
+ 
+
+709
+00:19:25,679 --> 00:19:28,390
+a early
+uh much earlier version of the
+
+710
+00:19:28,390 --> 00:19:28,400
+uh much earlier version of the
+ 
+
+711
+00:19:28,400 --> 00:19:29,909
+uh much earlier version of the
+conversation
+
+712
+00:19:29,909 --> 00:19:29,919
+conversation
+ 
+
+713
+00:19:29,919 --> 00:19:32,549
+conversation
+which is much smaller and I know that
+
+714
+00:19:32,549 --> 00:19:32,559
+which is much smaller and I know that
+ 
+
+715
+00:19:32,559 --> 00:19:36,710
+which is much smaller and I know that
+that conversation was continued for I
+
+716
+00:19:36,710 --> 00:19:36,720
+that conversation was continued for I
+ 
+
+717
+00:19:36,720 --> 00:19:39,750
+that conversation was continued for I
+don't know maybe five more days and I
+
+718
+00:19:39,750 --> 00:19:39,760
+don't know maybe five more days and I
+ 
+
+719
+00:19:39,760 --> 00:19:44,310
+don't know maybe five more days and I
+just tell tell that younger version uh
+
+720
+00:19:44,310 --> 00:19:44,320
+just tell tell that younger version uh
+ 
+
+721
+00:19:44,320 --> 00:19:46,710
+just tell tell that younger version uh
+here is the very
+
+722
+00:19:46,710 --> 00:19:46,720
+here is the very
+ 
+
+723
+00:19:46,720 --> 00:19:49,510
+here is the very
+older version that uh try to catch up
+
+724
+00:19:49,510 --> 00:19:49,520
+older version that uh try to catch up
+ 
+
+725
+00:19:49,520 --> 00:19:51,909
+older version that uh try to catch up
+with your older version and continue
+
+726
+00:19:51,909 --> 00:19:51,919
+with your older version and continue
+ 
+
+727
+00:19:51,919 --> 00:19:55,029
+with your older version and continue
+from where your older version uh
+
+728
+00:19:55,029 --> 00:19:55,039
+from where your older version uh
+ 
+
+729
+00:19:55,039 --> 00:19:56,789
+from where your older version uh
+stopped.
+
+730
+00:19:56,789 --> 00:19:56,799
+stopped.
+ 
+
+731
+00:19:56,799 --> 00:20:01,990
+stopped.
+Uh so yeah so so in the paper I'm
+
+732
+00:20:01,990 --> 00:20:02,000
+Uh so yeah so so in the paper I'm
+ 
+
+733
+00:20:02,000 --> 00:20:04,630
+Uh so yeah so so in the paper I'm
+reporting the these numbers. So 160
+
+734
+00:20:04,630 --> 00:20:04,640
+reporting the these numbers. So 160
+ 
+
+735
+00:20:04,640 --> 00:20:08,710
+reporting the these numbers. So 160
+lines in total and 130 uh,000 lines uh
+
+736
+00:20:08,710 --> 00:20:08,720
+lines in total and 130 uh,000 lines uh
+ 
+
+737
+00:20:08,720 --> 00:20:12,470
+lines in total and 130 uh,000 lines uh
+in in these two weeks and about 1.5,000
+
+738
+00:20:12,470 --> 00:20:12,480
+in in these two weeks and about 1.5,000
+ 
+
+739
+00:20:12,480 --> 00:20:15,029
+in in these two weeks and about 1.5,000
+lemasan theorems.
+
+740
+00:20:15,029 --> 00:20:15,039
+lemasan theorems.
+ 
+
+741
+00:20:15,039 --> 00:20:18,310
+lemasan theorems.
+uh what I saw today in this latest
+
+742
+00:20:18,310 --> 00:20:18,320
+uh what I saw today in this latest
+ 
+
+743
+00:20:18,320 --> 00:20:22,070
+uh what I saw today in this latest
+backup is about 250,000 lines uh about
+
+744
+00:20:22,070 --> 00:20:22,080
+backup is about 250,000 lines uh about
+ 
+
+745
+00:20:22,080 --> 00:20:23,909
+backup is about 250,000 lines uh about
+11 megabytes
+
+746
+00:20:23,909 --> 00:20:23,919
+11 megabytes
+ 
+
+747
+00:20:23,919 --> 00:20:26,789
+11 megabytes
+and 2,217
+
+748
+00:20:26,789 --> 00:20:26,799
+and 2,217
+ 
+
+749
+00:20:26,799 --> 00:20:30,630
+and 2,217
+stated uh theorems and lamas of which
+
+750
+00:20:30,630 --> 00:20:30,640
+stated uh theorems and lamas of which
+ 
+
+751
+00:20:30,640 --> 00:20:32,549
+stated uh theorems and lamas of which
+2,124
+
+752
+00:20:32,549 --> 00:20:32,559
+2,124
+ 
+
+753
+00:20:32,559 --> 00:20:35,350
+2,124
+are proved without recursive admits. So,
+
+754
+00:20:35,350 --> 00:20:35,360
+are proved without recursive admits. So,
+ 
+
+755
+00:20:35,360 --> 00:20:37,750
+are proved without recursive admits. So,
+so this the dependency tracking script
+
+756
+00:20:37,750 --> 00:20:37,760
+so this the dependency tracking script
+ 
+
+757
+00:20:37,760 --> 00:20:42,789
+so this the dependency tracking script
+which I have is kind of uh recording the
+
+758
+00:20:42,789 --> 00:20:42,799
+which I have is kind of uh recording the
+ 
+
+759
+00:20:42,799 --> 00:20:46,470
+which I have is kind of uh recording the
+extracting the information like what uh
+
+760
+00:20:46,470 --> 00:20:46,480
+extracting the information like what uh
+ 
+
+761
+00:20:46,480 --> 00:20:49,830
+extracting the information like what uh
+what was proved with an admit and what
+
+762
+00:20:49,830 --> 00:20:49,840
+what was proved with an admit and what
+ 
+
+763
+00:20:49,840 --> 00:20:53,350
+what was proved with an admit and what
+was proved with without an admit but
+
+764
+00:20:53,350 --> 00:20:53,360
+was proved with without an admit but
+ 
+
+765
+00:20:53,360 --> 00:20:56,149
+was proved with without an admit but
+with a dependency which is admitted. So,
+
+766
+00:20:56,149 --> 00:20:56,159
+with a dependency which is admitted. So,
+ 
+
+767
+00:20:56,159 --> 00:21:00,630
+with a dependency which is admitted. So,
+so that's the current numbers.
+
+768
+00:21:00,630 --> 00:21:00,640
+so that's the current numbers.
+ 
+
+769
+00:21:00,640 --> 00:21:02,390
+so that's the current numbers.
+Uh,
+
+770
+00:21:02,390 --> 00:21:02,400
+Uh,
+ 
+
+771
+00:21:02,400 --> 00:21:06,230
+Uh,
+and uh, yeah.
+
+772
+00:21:06,230 --> 00:21:06,240
+and uh, yeah.
+ 
+
+773
+00:21:06,240 --> 00:21:10,070
+and uh, yeah.
+Yeah. This is I guess what I just uh
+
+774
+00:21:10,070 --> 00:21:10,080
+Yeah. This is I guess what I just uh
+ 
+
+775
+00:21:10,080 --> 00:21:11,590
+Yeah. This is I guess what I just uh
+said.
+
+776
+00:21:11,590 --> 00:21:11,600
+said.
+ 
+
+777
+00:21:11,600 --> 00:21:14,310
+said.
+So, so you you want to obviously in the
+
+778
+00:21:14,310 --> 00:21:14,320
+So, so you you want to obviously in the
+ 
+
+779
+00:21:14,320 --> 00:21:16,789
+So, so you you want to obviously in the
+beginning where then it just sketched
+
+780
+00:21:16,789 --> 00:21:16,799
+beginning where then it just sketched
+ 
+
+781
+00:21:16,799 --> 00:21:18,710
+beginning where then it just sketched
+only the statements everything is
+
+782
+00:21:18,710 --> 00:21:18,720
+only the statements everything is
+ 
+
+783
+00:21:18,720 --> 00:21:21,029
+only the statements everything is
+admitted and and the process of
+
+784
+00:21:21,029 --> 00:21:21,039
+admitted and and the process of
+ 
+
+785
+00:21:21,039 --> 00:21:24,230
+admitted and and the process of
+formalization is kind of moving
+
+786
+00:21:24,230 --> 00:21:24,240
+formalization is kind of moving
+ 
+
+787
+00:21:24,240 --> 00:21:28,390
+formalization is kind of moving
+uh the admitted theorems into the fully
+
+788
+00:21:28,390 --> 00:21:28,400
+uh the admitted theorems into the fully
+ 
+
+789
+00:21:28,400 --> 00:21:31,350
+uh the admitted theorems into the fully
+fully proved uh theorems.
+
+790
+00:21:31,350 --> 00:21:31,360
+fully proved uh theorems.
+ 
+
+791
+00:21:31,360 --> 00:21:35,830
+fully proved uh theorems.
+Uh so people like I'm Nant here who are
+
+792
+00:21:35,830 --> 00:21:35,840
+Uh so people like I'm Nant here who are
+ 
+
+793
+00:21:35,840 --> 00:21:39,990
+Uh so people like I'm Nant here who are
+linguists and have been in this business
+
+794
+00:21:39,990 --> 00:21:40,000
+linguists and have been in this business
+ 
+
+795
+00:21:40,000 --> 00:21:44,149
+linguists and have been in this business
+for a while have asked me how how
+
+796
+00:21:44,149 --> 00:21:44,159
+for a while have asked me how how
+ 
+
+797
+00:21:44,159 --> 00:21:48,070
+for a while have asked me how how
+does it recover from mistakes. So so I
+
+798
+00:21:48,070 --> 00:21:48,080
+does it recover from mistakes. So so I
+ 
+
+799
+00:21:48,080 --> 00:21:50,630
+does it recover from mistakes. So so I
+you you can look at the 5,000 com
+
+800
+00:21:50,630 --> 00:21:50,640
+you you can look at the 5,000 com
+ 
+
+801
+00:21:50,640 --> 00:21:52,870
+you you can look at the 5,000 com
+commits if you want but but here is one
+
+802
+00:21:52,870 --> 00:21:52,880
+commits if you want but but here is one
+ 
+
+803
+00:21:52,880 --> 00:21:55,430
+commits if you want but but here is one
+email that I sent to Ara like some time
+
+804
+00:21:55,430 --> 00:21:55,440
+email that I sent to Ara like some time
+ 
+
+805
+00:21:55,440 --> 00:22:00,789
+email that I sent to Ara like some time
+ago. So uh for example here
+
+806
+00:22:00,789 --> 00:22:00,799
+ago. So uh for example here
+ 
+
+807
+00:22:00,799 --> 00:22:03,990
+ago. So uh for example here
+uh that there was a missing assumption
+
+808
+00:22:03,990 --> 00:22:04,000
+uh that there was a missing assumption
+ 
+
+809
+00:22:04,000 --> 00:22:07,669
+uh that there was a missing assumption
+that a family that that Capital C is a
+
+810
+00:22:07,669 --> 00:22:07,679
+that a family that that Capital C is a
+ 
+
+811
+00:22:07,679 --> 00:22:10,390
+that a family that that Capital C is a
+family of subsets of of the topological
+
+812
+00:22:10,390 --> 00:22:10,400
+family of subsets of of the topological
+ 
+
+813
+00:22:10,400 --> 00:22:11,830
+family of subsets of of the topological
+space of of the carrier of the
+
+814
+00:22:11,830 --> 00:22:11,840
+space of of the carrier of the
+ 
+
+815
+00:22:11,840 --> 00:22:17,029
+space of of the carrier of the
+topological space and uh the this was
+
+816
+00:22:17,029 --> 00:22:17,039
+topological space and uh the this was
+ 
+
+817
+00:22:17,039 --> 00:22:19,750
+topological space and uh the this was
+how the initial auto out ofization did
+
+818
+00:22:19,750 --> 00:22:19,760
+how the initial auto out ofization did
+ 
+
+819
+00:22:19,760 --> 00:22:22,630
+how the initial auto out ofization did
+it. So, so the initial out ofization did
+
+820
+00:22:22,630 --> 00:22:22,640
+it. So, so the initial out ofization did
+ 
+
+821
+00:22:22,640 --> 00:22:24,710
+it. So, so the initial out ofization did
+quite a lot of simplifications,
+
+822
+00:22:24,710 --> 00:22:24,720
+quite a lot of simplifications,
+ 
+
+823
+00:22:24,720 --> 00:22:27,669
+quite a lot of simplifications,
+mistakes, stops,
+
+824
+00:22:27,669 --> 00:22:27,679
+mistakes, stops,
+ 
+
+825
+00:22:27,679 --> 00:22:30,950
+mistakes, stops,
+etc. But then it kind of it is
+
+826
+00:22:30,950 --> 00:22:30,960
+etc. But then it kind of it is
+ 
+
+827
+00:22:30,960 --> 00:22:33,270
+etc. But then it kind of it is
+instructed to to prove prove the
+
+828
+00:22:33,270 --> 00:22:33,280
+instructed to to prove prove the
+ 
+
+829
+00:22:33,280 --> 00:22:37,029
+instructed to to prove prove the
+theorems and uh during the proof
+
+830
+00:22:37,029 --> 00:22:37,039
+theorems and uh during the proof
+ 
+
+831
+00:22:37,039 --> 00:22:39,190
+theorems and uh during the proof
+checking it it suddenly sees that
+
+832
+00:22:39,190 --> 00:22:39,200
+checking it it suddenly sees that
+ 
+
+833
+00:22:39,200 --> 00:22:42,950
+checking it it suddenly sees that
+something isn't right. So, so then it
+
+834
+00:22:42,950 --> 00:22:42,960
+something isn't right. So, so then it
+ 
+
+835
+00:22:42,960 --> 00:22:45,510
+something isn't right. So, so then it
+quite often kind of goes back to the
+
+836
+00:22:45,510 --> 00:22:45,520
+quite often kind of goes back to the
+ 
+
+837
+00:22:45,520 --> 00:22:50,470
+quite often kind of goes back to the
+latte uh file and it looks at how it was
+
+838
+00:22:50,470 --> 00:22:50,480
+latte uh file and it looks at how it was
+ 
+
+839
+00:22:50,480 --> 00:22:52,950
+latte uh file and it looks at how it was
+initially auto formalized and it sees oh
+
+840
+00:22:52,950 --> 00:22:52,960
+initially auto formalized and it sees oh
+ 
+
+841
+00:22:52,960 --> 00:22:55,830
+initially auto formalized and it sees oh
+here is a missing condition. I I should
+
+842
+00:22:55,830 --> 00:22:55,840
+here is a missing condition. I I should
+ 
+
+843
+00:22:55,840 --> 00:22:59,270
+here is a missing condition. I I should
+add an uh assumption to to the statement
+
+844
+00:22:59,270 --> 00:22:59,280
+add an uh assumption to to the statement
+ 
+
+845
+00:22:59,280 --> 00:23:03,510
+add an uh assumption to to the statement
+of the theorem. So, so what it's quite
+
+846
+00:23:03,510 --> 00:23:03,520
+of the theorem. So, so what it's quite
+ 
+
+847
+00:23:03,520 --> 00:23:06,390
+of the theorem. So, so what it's quite
+interesting in in the sense that if you
+
+848
+00:23:06,390 --> 00:23:06,400
+interesting in in the sense that if you
+ 
+
+849
+00:23:06,400 --> 00:23:08,310
+interesting in in the sense that if you
+were doing some kind of oneshot auto
+
+850
+00:23:08,310 --> 00:23:08,320
+were doing some kind of oneshot auto
+ 
+
+851
+00:23:08,320 --> 00:23:10,789
+were doing some kind of oneshot auto
+formalization of a single statement, it
+
+852
+00:23:10,789 --> 00:23:10,799
+formalization of a single statement, it
+ 
+
+853
+00:23:10,799 --> 00:23:13,590
+formalization of a single statement, it
+it kind of is quite likely to do these
+
+854
+00:23:13,590 --> 00:23:13,600
+it kind of is quite likely to do these
+ 
+
+855
+00:23:13,600 --> 00:23:16,789
+it kind of is quite likely to do these
+mistakes. But if you are autofirmalizing
+
+856
+00:23:16,789 --> 00:23:16,799
+mistakes. But if you are autofirmalizing
+ 
+
+857
+00:23:16,799 --> 00:23:20,070
+mistakes. But if you are autofirmalizing
+a whole book, the the whole book
+
+858
+00:23:20,070 --> 00:23:20,080
+a whole book, the the whole book
+ 
+
+859
+00:23:20,080 --> 00:23:24,230
+a whole book, the the whole book
+probably works as some kind of internal
+
+860
+00:23:24,230 --> 00:23:24,240
+probably works as some kind of internal
+ 
+
+861
+00:23:24,240 --> 00:23:28,390
+probably works as some kind of internal
+consistency checker like you uh like I
+
+862
+00:23:28,390 --> 00:23:28,400
+consistency checker like you uh like I
+ 
+
+863
+00:23:28,400 --> 00:23:30,710
+consistency checker like you uh like I
+think the language model doesn't want to
+
+864
+00:23:30,710 --> 00:23:30,720
+think the language model doesn't want to
+ 
+
+865
+00:23:30,720 --> 00:23:32,390
+think the language model doesn't want to
+cheat
+
+866
+00:23:32,390 --> 00:23:32,400
+cheat
+ 
+
+867
+00:23:32,400 --> 00:23:34,710
+cheat
+uh consciously but but it's making
+
+868
+00:23:34,710 --> 00:23:34,720
+uh consciously but but it's making
+ 
+
+869
+00:23:34,720 --> 00:23:37,270
+uh consciously but but it's making
+mistakes and basically when it's
+
+870
+00:23:37,270 --> 00:23:37,280
+mistakes and basically when it's
+ 
+
+871
+00:23:37,280 --> 00:23:40,870
+mistakes and basically when it's
+instructed to to finish the proofs it
+
+872
+00:23:40,870 --> 00:23:40,880
+instructed to to finish the proofs it
+ 
+
+873
+00:23:40,880 --> 00:23:44,149
+instructed to to finish the proofs it
+will it will try to fix things if if if
+
+874
+00:23:44,149 --> 00:23:44,159
+will it will try to fix things if if if
+ 
+
+875
+00:23:44,159 --> 00:23:47,029
+will it will try to fix things if if if
+it uh can
+
+876
+00:23:47,029 --> 00:23:47,039
+it uh can
+ 
+
+877
+00:23:47,039 --> 00:23:49,029
+it uh can
+uh yeah so so for example here's the
+
+878
+00:23:49,029 --> 00:23:49,039
+uh yeah so so for example here's the
+ 
+
+879
+00:23:49,039 --> 00:23:51,270
+uh yeah so so for example here's the
+continuation of the email that I sent to
+
+880
+00:23:51,270 --> 00:23:51,280
+continuation of the email that I sent to
+ 
+
+881
+00:23:51,280 --> 00:23:55,510
+continuation of the email that I sent to
+Ara so there is still or at least when I
+
+882
+00:23:55,510 --> 00:23:55,520
+Ara so there is still or at least when I
+ 
+
+883
+00:23:55,520 --> 00:23:58,470
+Ara so there is still or at least when I
+was checking this like 10 days ago the
+
+884
+00:23:58,470 --> 00:23:58,480
+was checking this like 10 days ago the
+ 
+
+885
+00:23:58,480 --> 00:24:03,029
+was checking this like 10 days ago the
+definition of local uh finitness
+
+886
+00:24:03,029 --> 00:24:03,039
+definition of local uh finitness
+ 
+
+887
+00:24:03,039 --> 00:24:06,710
+definition of local uh finitness
+uh in latte says that f is a family of
+
+888
+00:24:06,710 --> 00:24:06,720
+uh in latte says that f is a family of
+ 
+
+889
+00:24:06,720 --> 00:24:11,350
+uh in latte says that f is a family of
+subsets of x but the formal definition
+
+890
+00:24:11,350 --> 00:24:11,360
+subsets of x but the formal definition
+ 
+
+891
+00:24:11,360 --> 00:24:16,310
+subsets of x but the formal definition
+doesn't require that So the the the
+
+892
+00:24:16,310 --> 00:24:16,320
+doesn't require that So the the the
+ 
+
+893
+00:24:16,320 --> 00:24:20,549
+doesn't require that So the the the
+current thing is kind of always adding
+
+894
+00:24:20,549 --> 00:24:20,559
+current thing is kind of always adding
+ 
+
+895
+00:24:20,559 --> 00:24:24,149
+current thing is kind of always adding
+this assumption to the various u
+
+896
+00:24:24,149 --> 00:24:24,159
+this assumption to the various u
+ 
+
+897
+00:24:24,159 --> 00:24:27,669
+this assumption to the various u
+theorems where where this is being used
+
+898
+00:24:27,669 --> 00:24:27,679
+theorems where where this is being used
+ 
+
+899
+00:24:27,679 --> 00:24:30,789
+theorems where where this is being used
+but uh like what I told Arnet that like
+
+900
+00:24:30,789 --> 00:24:30,799
+but uh like what I told Arnet that like
+ 
+
+901
+00:24:30,799 --> 00:24:34,230
+but uh like what I told Arnet that like
+if the LLM sees like enough of this
+
+902
+00:24:34,230 --> 00:24:34,240
+if the LLM sees like enough of this
+ 
+
+903
+00:24:34,240 --> 00:24:38,390
+if the LLM sees like enough of this
+friction then it's quite likely that the
+
+904
+00:24:38,390 --> 00:24:38,400
+friction then it's quite likely that the
+ 
+
+905
+00:24:38,400 --> 00:24:40,789
+friction then it's quite likely that the
+the definition will eventually get fixed
+
+906
+00:24:40,789 --> 00:24:40,799
+the definition will eventually get fixed
+ 
+
+907
+00:24:40,799 --> 00:24:43,190
+the definition will eventually get fixed
+that the that the LLM will decide Okay,
+
+908
+00:24:43,190 --> 00:24:43,200
+that the that the LLM will decide Okay,
+ 
+
+909
+00:24:43,200 --> 00:24:45,350
+that the that the LLM will decide Okay,
+I I have been I have been doing this
+
+910
+00:24:45,350 --> 00:24:45,360
+I I have been I have been doing this
+ 
+
+911
+00:24:45,360 --> 00:24:49,110
+I I have been I have been doing this
+wrong and I should probably um modify
+
+912
+00:24:49,110 --> 00:24:49,120
+wrong and I should probably um modify
+ 
+
+913
+00:24:49,120 --> 00:24:51,350
+wrong and I should probably um modify
+this definition.
+
+914
+00:24:51,350 --> 00:24:51,360
+this definition.
+ 
+
+915
+00:24:51,360 --> 00:24:55,269
+this definition.
+Uh this is some statistics that I tried
+
+916
+00:24:55,269 --> 00:24:55,279
+Uh this is some statistics that I tried
+ 
+
+917
+00:24:55,279 --> 00:24:57,909
+Uh this is some statistics that I tried
+to do yesterday. It may be imprecise. So
+
+918
+00:24:57,909 --> 00:24:57,919
+to do yesterday. It may be imprecise. So
+ 
+
+919
+00:24:57,919 --> 00:25:05,190
+to do yesterday. It may be imprecise. So
+the original latte is about 176 proofed
+
+920
+00:25:05,190 --> 00:25:05,200
+the original latte is about 176 proofed
+ 
+
+921
+00:25:05,200 --> 00:25:07,830
+the original latte is about 176 proofed
+uh major statements like the samas and
+
+922
+00:25:07,830 --> 00:25:07,840
+uh major statements like the samas and
+ 
+
+923
+00:25:07,840 --> 00:25:09,350
+uh major statements like the samas and
+corollaries
+
+924
+00:25:09,350 --> 00:25:09,360
+corollaries
+ 
+
+925
+00:25:09,360 --> 00:25:14,390
+corollaries
+and then there is 115 examples and uh
+
+926
+00:25:14,390 --> 00:25:14,400
+and then there is 115 examples and uh
+ 
+
+927
+00:25:14,400 --> 00:25:18,390
+and then there is 115 examples and uh
+207 exercises and the exercises have no
+
+928
+00:25:18,390 --> 00:25:18,400
+207 exercises and the exercises have no
+ 
+
+929
+00:25:18,400 --> 00:25:20,789
+207 exercises and the exercises have no
+proof. So so that's quite interesting.
+
+930
+00:25:20,789 --> 00:25:20,799
+proof. So so that's quite interesting.
+ 
+
+931
+00:25:20,799 --> 00:25:23,669
+proof. So so that's quite interesting.
+So in total you have like 500 things
+
+932
+00:25:23,669 --> 00:25:23,679
+So in total you have like 500 things
+ 
+
+933
+00:25:23,679 --> 00:25:27,990
+So in total you have like 500 things
+that you can prove in in this book.
+
+934
+00:25:27,990 --> 00:25:28,000
+that you can prove in in this book.
+ 
+
+935
+00:25:28,000 --> 00:25:31,909
+that you can prove in in this book.
+uh but um unfortunately
+
+936
+00:25:31,909 --> 00:25:31,919
+uh but um unfortunately
+ 
+
+937
+00:25:31,919 --> 00:25:35,350
+uh but um unfortunately
+uh uh 40% of the stuff that doesn't have
+
+938
+00:25:35,350 --> 00:25:35,360
+uh uh 40% of the stuff that doesn't have
+ 
+
+939
+00:25:35,360 --> 00:25:38,549
+uh uh 40% of the stuff that doesn't have
+a proof like the desire exercises. So,
+
+940
+00:25:38,549 --> 00:25:38,559
+a proof like the desire exercises. So,
+ 
+
+941
+00:25:38,559 --> 00:25:41,590
+a proof like the desire exercises. So,
+so initially when I saw what the LLM was
+
+942
+00:25:41,590 --> 00:25:41,600
+so initially when I saw what the LLM was
+ 
+
+943
+00:25:41,600 --> 00:25:44,549
+so initially when I saw what the LLM was
+doing, I I saw that it's getting into
+
+944
+00:25:44,549 --> 00:25:44,559
+doing, I I saw that it's getting into
+ 
+
+945
+00:25:44,559 --> 00:25:47,269
+doing, I I saw that it's getting into
+proving the exercises quite quite a bit.
+
+946
+00:25:47,269 --> 00:25:47,279
+proving the exercises quite quite a bit.
+ 
+
+947
+00:25:47,279 --> 00:25:51,669
+proving the exercises quite quite a bit.
+But um I kind of didn't want it well for
+
+948
+00:25:51,669 --> 00:25:51,679
+But um I kind of didn't want it well for
+ 
+
+949
+00:25:51,679 --> 00:25:54,390
+But um I kind of didn't want it well for
+couple of reasons like one reason is
+
+950
+00:25:54,390 --> 00:25:54,400
+couple of reasons like one reason is
+ 
+
+951
+00:25:54,400 --> 00:25:57,029
+couple of reasons like one reason is
+that this like it should formalize the
+
+952
+00:25:57,029 --> 00:25:57,039
+that this like it should formalize the
+ 
+
+953
+00:25:57,039 --> 00:25:59,350
+that this like it should formalize the
+major topological theorems. It shouldn't
+
+954
+00:25:59,350 --> 00:25:59,360
+major topological theorems. It shouldn't
+ 
+
+955
+00:25:59,360 --> 00:26:02,149
+major topological theorems. It shouldn't
+be formalizing some exercises nobody
+
+956
+00:26:02,149 --> 00:26:02,159
+be formalizing some exercises nobody
+ 
+
+957
+00:26:02,159 --> 00:26:05,590
+be formalizing some exercises nobody
+knows about. But but also like doing the
+
+958
+00:26:05,590 --> 00:26:05,600
+knows about. But but also like doing the
+ 
+
+959
+00:26:05,600 --> 00:26:08,789
+knows about. But but also like doing the
+exercises is kind of a creative process
+
+960
+00:26:08,789 --> 00:26:08,799
+exercises is kind of a creative process
+ 
+
+961
+00:26:08,799 --> 00:26:11,750
+exercises is kind of a creative process
+or I don't know the LLM has seen all of
+
+962
+00:26:11,750 --> 00:26:11,760
+or I don't know the LLM has seen all of
+ 
+
+963
+00:26:11,760 --> 00:26:14,310
+or I don't know the LLM has seen all of
+the internet so and it has stolen all
+
+964
+00:26:14,310 --> 00:26:14,320
+the internet so and it has stolen all
+ 
+
+965
+00:26:14,320 --> 00:26:17,190
+the internet so and it has stolen all
+all of the books out there. So so the
+
+966
+00:26:17,190 --> 00:26:17,200
+all of the books out there. So so the
+ 
+
+967
+00:26:17,200 --> 00:26:20,070
+all of the books out there. So so the
+LLM probably has seen the solutions of a
+
+968
+00:26:20,070 --> 00:26:20,080
+LLM probably has seen the solutions of a
+ 
+
+969
+00:26:20,080 --> 00:26:22,549
+LLM probably has seen the solutions of a
+lot of these exercises somewhere on the
+
+970
+00:26:22,549 --> 00:26:22,559
+lot of these exercises somewhere on the
+ 
+
+971
+00:26:22,559 --> 00:26:25,669
+lot of these exercises somewhere on the
+internet but still like it's it's not
+
+972
+00:26:25,669 --> 00:26:25,679
+internet but still like it's it's not
+ 
+
+973
+00:26:25,679 --> 00:26:27,990
+internet but still like it's it's not
+out of formalization to to to give a
+
+974
+00:26:27,990 --> 00:26:28,000
+out of formalization to to to give a
+ 
+
+975
+00:26:28,000 --> 00:26:30,390
+out of formalization to to to give a
+proof for for an exercise which isn't
+
+976
+00:26:30,390 --> 00:26:30,400
+proof for for an exercise which isn't
+ 
+
+977
+00:26:30,400 --> 00:26:34,230
+proof for for an exercise which isn't
+written in in the book. So I kind of
+
+978
+00:26:34,230 --> 00:26:34,240
+written in in the book. So I kind of
+ 
+
+979
+00:26:34,240 --> 00:26:37,029
+written in in the book. So I kind of
+modified the rules to tell it that it
+
+980
+00:26:37,029 --> 00:26:37,039
+modified the rules to tell it that it
+ 
+
+981
+00:26:37,039 --> 00:26:39,750
+modified the rules to tell it that it
+should prioritize like the theorems, the
+
+982
+00:26:39,750 --> 00:26:39,760
+should prioritize like the theorems, the
+ 
+
+983
+00:26:39,760 --> 00:26:43,029
+should prioritize like the theorems, the
+major theorems and uh don't focus too
+
+984
+00:26:43,029 --> 00:26:43,039
+major theorems and uh don't focus too
+ 
+
+985
+00:26:43,039 --> 00:26:45,269
+major theorems and uh don't focus too
+too much on the exercises and the and
+
+986
+00:26:45,269 --> 00:26:45,279
+too much on the exercises and the and
+ 
+
+987
+00:26:45,279 --> 00:26:48,950
+too much on the exercises and the and
+the examples. I also looked yesterday at
+
+988
+00:26:48,950 --> 00:26:48,960
+the examples. I also looked yesterday at
+ 
+
+989
+00:26:48,960 --> 00:26:53,909
+the examples. I also looked yesterday at
+like how many of of these 176
+
+990
+00:26:53,909 --> 00:26:53,919
+like how many of of these 176
+ 
+
+991
+00:26:53,919 --> 00:26:57,750
+like how many of of these 176
+major things can be kind of found uh
+
+992
+00:26:57,750 --> 00:26:57,760
+major things can be kind of found uh
+ 
+
+993
+00:26:57,760 --> 00:27:01,110
+major things can be kind of found uh
+semi-automatically in the formalization
+
+994
+00:27:01,110 --> 00:27:01,120
+semi-automatically in the formalization
+ 
+
+995
+00:27:01,120 --> 00:27:04,870
+semi-automatically in the formalization
+and with some initial hacking I found
+
+996
+00:27:04,870 --> 00:27:04,880
+and with some initial hacking I found
+ 
+
+997
+00:27:04,880 --> 00:27:09,430
+and with some initial hacking I found
+110 to 120 of those but like I I I can
+
+998
+00:27:09,430 --> 00:27:09,440
+110 to 120 of those but like I I I can
+ 
+
+999
+00:27:09,440 --> 00:27:11,590
+110 to 120 of those but like I I I can
+imagine that with more detective work I
+
+1000
+00:27:11,590 --> 00:27:11,600
+imagine that with more detective work I
+ 
+
+1001
+00:27:11,600 --> 00:27:13,750
+imagine that with more detective work I
+could do more
+
+1002
+00:27:13,750 --> 00:27:13,760
+could do more
+ 
+
+1003
+00:27:13,760 --> 00:27:16,630
+could do more
+uh boot I'm
+
+1004
+00:27:16,630 --> 00:27:16,640
+uh boot I'm
+ 
+
+1005
+00:27:16,640 --> 00:27:20,789
+uh boot I'm
+um yeah so as I said like later I have
+
+1006
+00:27:20,789 --> 00:27:20,799
+um yeah so as I said like later I have
+ 
+
+1007
+00:27:20,799 --> 00:27:23,110
+um yeah so as I said like later I have
+added like this dependency tracking
+
+1008
+00:27:23,110 --> 00:27:23,120
+added like this dependency tracking
+ 
+
+1009
+00:27:23,120 --> 00:27:27,990
+added like this dependency tracking
+because this like 2,00 lemas it looked
+
+1010
+00:27:27,990 --> 00:27:28,000
+because this like 2,00 lemas it looked
+ 
+
+1011
+00:27:28,000 --> 00:27:31,430
+because this like 2,00 lemas it looked
+like it's it's getting uh trouble
+
+1012
+00:27:31,430 --> 00:27:31,440
+like it's it's getting uh trouble
+ 
+
+1013
+00:27:31,440 --> 00:27:32,950
+like it's it's getting uh trouble
+detecting
+
+1014
+00:27:32,950 --> 00:27:32,960
+detecting
+ 
+
+1015
+00:27:32,960 --> 00:27:35,590
+detecting
+what remains to be proved to to finish
+
+1016
+00:27:35,590 --> 00:27:35,600
+what remains to be proved to to finish
+ 
+
+1017
+00:27:35,600 --> 00:27:39,029
+what remains to be proved to to finish
+some major uh theorem. So, so I I think
+
+1018
+00:27:39,029 --> 00:27:39,039
+some major uh theorem. So, so I I think
+ 
+
+1019
+00:27:39,039 --> 00:27:40,710
+some major uh theorem. So, so I I think
+like this very simple dependency
+
+1020
+00:27:40,710 --> 00:27:40,720
+like this very simple dependency
+ 
+
+1021
+00:27:40,720 --> 00:27:43,990
+like this very simple dependency
+tracking tool which I added uh helped it
+
+1022
+00:27:43,990 --> 00:27:44,000
+tracking tool which I added uh helped it
+ 
+
+1023
+00:27:44,000 --> 00:27:46,870
+tracking tool which I added uh helped it
+with with that kind of stuff
+
+1024
+00:27:46,870 --> 00:27:46,880
+with with that kind of stuff
+ 
+
+1025
+00:27:46,880 --> 00:27:51,430
+with with that kind of stuff
+and um then like towards the end of the
+
+1026
+00:27:51,430 --> 00:27:51,440
+and um then like towards the end of the
+ 
+
+1027
+00:27:51,440 --> 00:27:54,149
+and um then like towards the end of the
+year I I saw that it really got uh
+
+1028
+00:27:54,149 --> 00:27:54,159
+year I I saw that it really got uh
+ 
+
+1029
+00:27:54,159 --> 00:27:56,149
+year I I saw that it really got uh
+seriously into proving some of these
+
+1030
+00:27:56,149 --> 00:27:56,159
+seriously into proving some of these
+ 
+
+1031
+00:27:56,159 --> 00:27:59,029
+seriously into proving some of these
+major theorems like horizont.
+
+1032
+00:27:59,029 --> 00:27:59,039
+major theorems like horizont.
+ 
+
+1033
+00:27:59,039 --> 00:28:02,870
+major theorems like horizont.
+So I I did some kind of targeted
+
+1034
+00:28:02,870 --> 00:28:02,880
+So I I did some kind of targeted
+ 
+
+1035
+00:28:02,880 --> 00:28:05,269
+So I I did some kind of targeted
+prompting but not like a major
+
+1036
+00:28:05,269 --> 00:28:05,279
+prompting but not like a major
+ 
+
+1037
+00:28:05,279 --> 00:28:08,389
+prompting but not like a major
+targeting. I basically just told it try
+
+1038
+00:28:08,389 --> 00:28:08,399
+targeting. I basically just told it try
+ 
+
+1039
+00:28:08,399 --> 00:28:11,430
+targeting. I basically just told it try
+to finish the proof of horizont
+
+1040
+00:28:11,430 --> 00:28:11,440
+to finish the proof of horizont
+ 
+
+1041
+00:28:11,440 --> 00:28:16,549
+to finish the proof of horizont
+and it kind of helped. So it uh it kind
+
+1042
+00:28:16,549 --> 00:28:16,559
+and it kind of helped. So it uh it kind
+ 
+
+1043
+00:28:16,559 --> 00:28:19,350
+and it kind of helped. So it uh it kind
+of focused on the horizontal. What what
+
+1044
+00:28:19,350 --> 00:28:19,360
+of focused on the horizontal. What what
+ 
+
+1045
+00:28:19,360 --> 00:28:23,669
+of focused on the horizontal. What what
+what I tell it in the rules file is to
+
+1046
+00:28:23,669 --> 00:28:23,679
+what I tell it in the rules file is to
+ 
+
+1047
+00:28:23,679 --> 00:28:26,630
+what I tell it in the rules file is to
+be not to be super focused on just one
+
+1048
+00:28:26,630 --> 00:28:26,640
+be not to be super focused on just one
+ 
+
+1049
+00:28:26,640 --> 00:28:28,470
+be not to be super focused on just one
+thing but try to cover the whole thing
+
+1050
+00:28:28,470 --> 00:28:28,480
+thing but try to cover the whole thing
+ 
+
+1051
+00:28:28,480 --> 00:28:32,230
+thing but try to cover the whole thing
+because if you only focus on one part
+
+1052
+00:28:32,230 --> 00:28:32,240
+because if you only focus on one part
+ 
+
+1053
+00:28:32,240 --> 00:28:34,630
+because if you only focus on one part
+you might miss some dependencies between
+
+1054
+00:28:34,630 --> 00:28:34,640
+you might miss some dependencies between
+ 
+
+1055
+00:28:34,640 --> 00:28:36,310
+you might miss some dependencies between
+the sections and then later you might
+
+1056
+00:28:36,310 --> 00:28:36,320
+the sections and then later you might
+ 
+
+1057
+00:28:36,320 --> 00:28:39,110
+the sections and then later you might
+have to refactor the stuff too much. So,
+
+1058
+00:28:39,110 --> 00:28:39,120
+have to refactor the stuff too much. So,
+ 
+
+1059
+00:28:39,120 --> 00:28:41,990
+have to refactor the stuff too much. So,
+so I wanted it to kind of have some
+
+1060
+00:28:41,990 --> 00:28:42,000
+so I wanted it to kind of have some
+ 
+
+1061
+00:28:42,000 --> 00:28:45,350
+so I wanted it to kind of have some
+initial coverage of everything but then
+
+1062
+00:28:45,350 --> 00:28:45,360
+initial coverage of everything but then
+ 
+
+1063
+00:28:45,360 --> 00:28:47,669
+initial coverage of everything but then
+you also wanted to to really prove uh
+
+1064
+00:28:47,669 --> 00:28:47,679
+you also wanted to to really prove uh
+ 
+
+1065
+00:28:47,679 --> 00:28:49,590
+you also wanted to to really prove uh
+some non-trivial stuff. So, so there
+
+1066
+00:28:49,590 --> 00:28:49,600
+some non-trivial stuff. So, so there
+ 
+
+1067
+00:28:49,600 --> 00:28:52,630
+some non-trivial stuff. So, so there
+there is this tension and in in this
+
+1068
+00:28:52,630 --> 00:28:52,640
+there is this tension and in in this
+ 
+
+1069
+00:28:52,640 --> 00:28:55,190
+there is this tension and in in this
+case like just telling it well try to
+
+1070
+00:28:55,190 --> 00:28:55,200
+case like just telling it well try to
+ 
+
+1071
+00:28:55,200 --> 00:28:57,510
+case like just telling it well try to
+observe the rules but then also try to
+
+1072
+00:28:57,510 --> 00:28:57,520
+observe the rules but then also try to
+ 
+
+1073
+00:28:57,520 --> 00:28:59,190
+observe the rules but then also try to
+prove some serious theorems like for
+
+1074
+00:28:59,190 --> 00:28:59,200
+prove some serious theorems like for
+ 
+
+1075
+00:28:59,200 --> 00:29:04,549
+prove some serious theorems like for
+example lema seem to have uh worked for
+
+1076
+00:29:04,549 --> 00:29:04,559
+example lema seem to have uh worked for
+ 
+
+1077
+00:29:04,559 --> 00:29:07,909
+example lema seem to have uh worked for
+I don't know if I have the ta
+
+1078
+00:29:07,909 --> 00:29:07,919
+I don't know if I have the ta
+ 
+
+1079
+00:29:07,919 --> 00:29:11,750
+I don't know if I have the ta
+yeah uh let me say something about ta so
+
+1080
+00:29:11,750 --> 00:29:11,760
+yeah uh let me say something about ta so
+ 
+
+1081
+00:29:11,760 --> 00:29:15,029
+yeah uh let me say something about ta so
+so ta was was this humongous 10,000
+
+1082
+00:29:15,029 --> 00:29:15,039
+so ta was was this humongous 10,000
+ 
+
+1083
+00:29:15,039 --> 00:29:18,070
+so ta was was this humongous 10,000
+lines proof which it finished on January
+
+1084
+00:29:18,070 --> 00:29:18,080
+lines proof which it finished on January
+ 
+
+1085
+00:29:18,080 --> 00:29:20,870
+lines proof which it finished on January
+Or and the interesting thing is that
+
+1086
+00:29:20,870 --> 00:29:20,880
+Or and the interesting thing is that
+ 
+
+1087
+00:29:20,880 --> 00:29:26,389
+Or and the interesting thing is that
+there is a forward um dependence in in
+
+1088
+00:29:26,389 --> 00:29:26,399
+there is a forward um dependence in in
+ 
+
+1089
+00:29:26,399 --> 00:29:29,830
+there is a forward um dependence in in
+the proof like the proof needs u
+
+1090
+00:29:29,830 --> 00:29:29,840
+the proof like the proof needs u
+ 
+
+1091
+00:29:29,840 --> 00:29:32,789
+the proof like the proof needs u
+complete uh uniform convergence on
+
+1092
+00:29:32,789 --> 00:29:32,799
+complete uh uniform convergence on
+ 
+
+1093
+00:29:32,799 --> 00:29:35,190
+complete uh uniform convergence on
+complete matrix spaces which is uh in
+
+1094
+00:29:35,190 --> 00:29:35,200
+complete matrix spaces which is uh in
+ 
+
+1095
+00:29:35,200 --> 00:29:40,789
+complete matrix spaces which is uh in
+section 43 but the proof of theta is I
+
+1096
+00:29:40,789 --> 00:29:40,799
+section 43 but the proof of theta is I
+ 
+
+1097
+00:29:40,799 --> 00:29:43,909
+section 43 but the proof of theta is I
+think section 35 or something like that
+
+1098
+00:29:43,909 --> 00:29:43,919
+think section 35 or something like that
+ 
+
+1099
+00:29:43,919 --> 00:29:49,350
+think section 35 or something like that
+and it really uh made the LLM quite
+
+1100
+00:29:49,350 --> 00:29:49,360
+and it really uh made the LLM quite
+ 
+
+1101
+00:29:49,360 --> 00:29:53,029
+and it really uh made the LLM quite
+uncertain. So, so it it it was in this
+
+1102
+00:29:53,029 --> 00:29:53,039
+uncertain. So, so it it it was in this
+ 
+
+1103
+00:29:53,039 --> 00:29:57,269
+uncertain. So, so it it it was in this
+kind of schizophrenic mode trying to use
+
+1104
+00:29:57,269 --> 00:29:57,279
+kind of schizophrenic mode trying to use
+ 
+
+1105
+00:29:57,279 --> 00:29:59,990
+kind of schizophrenic mode trying to use
+the stuff that it that I told it like
+
+1106
+00:29:59,990 --> 00:30:00,000
+the stuff that it that I told it like
+ 
+
+1107
+00:30:00,000 --> 00:30:02,149
+the stuff that it that I told it like
+like you you cannot use forward
+
+1108
+00:30:02,149 --> 00:30:02,159
+like you you cannot use forward
+ 
+
+1109
+00:30:02,159 --> 00:30:04,950
+like you you cannot use forward
+references. So, so it produced like
+
+1110
+00:30:04,950 --> 00:30:04,960
+references. So, so it produced like
+ 
+
+1111
+00:30:04,960 --> 00:30:09,430
+references. So, so it produced like
+6,000 lines of just expanding the
+
+1112
+00:30:09,430 --> 00:30:09,440
+6,000 lines of just expanding the
+ 
+
+1113
+00:30:09,440 --> 00:30:11,590
+6,000 lines of just expanding the
+inductive proof into more and more terms
+
+1114
+00:30:11,590 --> 00:30:11,600
+inductive proof into more and more terms
+ 
+
+1115
+00:30:11,600 --> 00:30:14,470
+inductive proof into more and more terms
+but not not doing the induction. But
+
+1116
+00:30:14,470 --> 00:30:14,480
+but not not doing the induction. But
+ 
+
+1117
+00:30:14,480 --> 00:30:16,389
+but not not doing the induction. But
+then the interesting thing was that it
+
+1118
+00:30:16,389 --> 00:30:16,399
+then the interesting thing was that it
+ 
+
+1119
+00:30:16,399 --> 00:30:18,789
+then the interesting thing was that it
+kind of eventually saw that this is
+
+1120
+00:30:18,789 --> 00:30:18,799
+kind of eventually saw that this is
+ 
+
+1121
+00:30:18,799 --> 00:30:22,230
+kind of eventually saw that this is
+going nowhere and it kind of refactored
+
+1122
+00:30:22,230 --> 00:30:22,240
+going nowhere and it kind of refactored
+ 
+
+1123
+00:30:22,240 --> 00:30:25,430
+going nowhere and it kind of refactored
+the the book in a in a way. It kind of
+
+1124
+00:30:25,430 --> 00:30:25,440
+the the book in a in a way. It kind of
+ 
+
+1125
+00:30:25,440 --> 00:30:29,830
+the the book in a in a way. It kind of
+moved some parts from the section uh 43
+
+1126
+00:30:29,830 --> 00:30:29,840
+moved some parts from the section uh 43
+ 
+
+1127
+00:30:29,840 --> 00:30:33,510
+moved some parts from the section uh 43
+before the section 35 which allowed it
+
+1128
+00:30:33,510 --> 00:30:33,520
+before the section 35 which allowed it
+ 
+
+1129
+00:30:33,520 --> 00:30:36,870
+before the section 35 which allowed it
+to to finish the proof of TA. So the the
+
+1130
+00:30:36,870 --> 00:30:36,880
+to to finish the proof of TA. So the the
+ 
+
+1131
+00:30:36,880 --> 00:30:38,870
+to to finish the proof of TA. So the the
+proof of data type is probably highly
+
+1132
+00:30:38,870 --> 00:30:38,880
+proof of data type is probably highly
+ 
+
+1133
+00:30:38,880 --> 00:30:43,190
+proof of data type is probably highly
+redundant but anyway it compiles them.
+
+1134
+00:30:43,190 --> 00:30:43,200
+redundant but anyway it compiles them.
+ 
+
+1135
+00:30:43,200 --> 00:30:46,870
+redundant but anyway it compiles them.
+Uh yeah so here I wanted to mention that
+
+1136
+00:30:46,870 --> 00:30:46,880
+Uh yeah so here I wanted to mention that
+ 
+
+1137
+00:30:46,880 --> 00:30:49,110
+Uh yeah so here I wanted to mention that
+some of these things we did recently
+
+1138
+00:30:49,110 --> 00:30:49,120
+some of these things we did recently
+ 
+
+1139
+00:30:49,120 --> 00:30:51,750
+some of these things we did recently
+also in whole light with John Harrison
+
+1140
+00:30:51,750 --> 00:30:51,760
+also in whole light with John Harrison
+ 
+
+1141
+00:30:51,760 --> 00:30:55,830
+also in whole light with John Harrison
+and Juni his his colleague at Amazon. So
+
+1142
+00:30:55,830 --> 00:30:55,840
+and Juni his his colleague at Amazon. So
+ 
+
+1143
+00:30:55,840 --> 00:30:57,590
+and Juni his his colleague at Amazon. So
+so John has been formalizing a lot of
+
+1144
+00:30:57,590 --> 00:30:57,600
+so John has been formalizing a lot of
+ 
+
+1145
+00:30:57,600 --> 00:31:00,149
+so John has been formalizing a lot of
+topology. So we had already the
+
+1146
+00:31:00,149 --> 00:31:00,159
+topology. So we had already the
+ 
+
+1147
+00:31:00,159 --> 00:31:03,430
+topology. So we had already the
+horizontal but not the materization
+
+1148
+00:31:03,430 --> 00:31:03,440
+horizontal but not the materization
+ 
+
+1149
+00:31:03,440 --> 00:31:06,630
+horizontal but not the materization
+and we set it up very similarly just
+
+1150
+00:31:06,630 --> 00:31:06,640
+and we set it up very similarly just
+ 
+
+1151
+00:31:06,640 --> 00:31:09,669
+and we set it up very similarly just
+this whole light and cloth uh code
+
+1152
+00:31:09,669 --> 00:31:09,679
+this whole light and cloth uh code
+ 
+
+1153
+00:31:09,679 --> 00:31:13,510
+this whole light and cloth uh code
+instead of the CH GPD pro codecs and it
+
+1154
+00:31:13,510 --> 00:31:13,520
+instead of the CH GPD pro codecs and it
+ 
+
+1155
+00:31:13,520 --> 00:31:16,389
+instead of the CH GPD pro codecs and it
+took a bit more than one day I had some
+
+1156
+00:31:16,389 --> 00:31:16,399
+took a bit more than one day I had some
+ 
+
+1157
+00:31:16,399 --> 00:31:19,350
+took a bit more than one day I had some
+debugging to to do there but John
+
+1158
+00:31:19,350 --> 00:31:19,360
+debugging to to do there but John
+ 
+
+1159
+00:31:19,360 --> 00:31:22,230
+debugging to to do there but John
+basically confirmed that it's it's good
+
+1160
+00:31:22,230 --> 00:31:22,240
+basically confirmed that it's it's good
+ 
+
+1161
+00:31:22,240 --> 00:31:27,190
+basically confirmed that it's it's good
+so we had the first success and then
+
+1162
+00:31:27,190 --> 00:31:27,200
+so we had the first success and then
+ 
+
+1163
+00:31:27,200 --> 00:31:31,750
+so we had the first success and then
+it Uh it also did the stones uh figure
+
+1164
+00:31:31,750 --> 00:31:31,760
+it Uh it also did the stones uh figure
+ 
+
+1165
+00:31:31,760 --> 00:31:33,510
+it Uh it also did the stones uh figure
+like this week basically which was
+
+1166
+00:31:33,510 --> 00:31:33,520
+like this week basically which was
+ 
+
+1167
+00:31:33,520 --> 00:31:37,110
+like this week basically which was
+another uh challenge uh from John. Uh it
+
+1168
+00:31:37,110 --> 00:31:37,120
+another uh challenge uh from John. Uh it
+ 
+
+1169
+00:31:37,120 --> 00:31:38,950
+another uh challenge uh from John. Uh it
+kind of allowed me to compare like this
+
+1170
+00:31:38,950 --> 00:31:38,960
+kind of allowed me to compare like this
+ 
+
+1171
+00:31:38,960 --> 00:31:41,990
+kind of allowed me to compare like this
+tactical proof style used in whole light
+
+1172
+00:31:41,990 --> 00:31:42,000
+tactical proof style used in whole light
+ 
+
+1173
+00:31:42,000 --> 00:31:44,070
+tactical proof style used in whole light
+with the declarative proof style used in
+
+1174
+00:31:44,070 --> 00:31:44,080
+with the declarative proof style used in
+ 
+
+1175
+00:31:44,080 --> 00:31:47,990
+with the declarative proof style used in
+Megalodon. And initially I wasn't even
+
+1176
+00:31:47,990 --> 00:31:48,000
+Megalodon. And initially I wasn't even
+ 
+
+1177
+00:31:48,000 --> 00:31:51,430
+Megalodon. And initially I wasn't even
+sure that it would prove the thing in
+
+1178
+00:31:51,430 --> 00:31:51,440
+sure that it would prove the thing in
+ 
+
+1179
+00:31:51,440 --> 00:31:54,070
+sure that it would prove the thing in
+whole light because I was kind of
+
+1180
+00:31:54,070 --> 00:31:54,080
+whole light because I was kind of
+ 
+
+1181
+00:31:54,080 --> 00:31:56,710
+whole light because I was kind of
+running it in this compilation mode. But
+
+1182
+00:31:56,710 --> 00:31:56,720
+running it in this compilation mode. But
+ 
+
+1183
+00:31:56,720 --> 00:31:58,630
+running it in this compilation mode. But
+it's it's kind of very hard to read the
+
+1184
+00:31:58,630 --> 00:31:58,640
+it's it's kind of very hard to read the
+ 
+
+1185
+00:31:58,640 --> 00:32:00,389
+it's it's kind of very hard to read the
+proof scripts that you produce in whole
+
+1186
+00:32:00,389 --> 00:32:00,399
+proof scripts that you produce in whole
+ 
+
+1187
+00:32:00,399 --> 00:32:02,310
+proof scripts that you produce in whole
+light. It's it's just a chain chaining
+
+1188
+00:32:02,310 --> 00:32:02,320
+light. It's it's just a chain chaining
+ 
+
+1189
+00:32:02,320 --> 00:32:05,269
+light. It's it's just a chain chaining
+of tactics and you don't see the current
+
+1190
+00:32:05,269 --> 00:32:05,279
+of tactics and you don't see the current
+ 
+
+1191
+00:32:05,279 --> 00:32:07,909
+of tactics and you don't see the current
+goals uh when you are writing the whole
+
+1192
+00:32:07,909 --> 00:32:07,919
+goals uh when you are writing the whole
+ 
+
+1193
+00:32:07,919 --> 00:32:09,909
+goals uh when you are writing the whole
+script. So I had to give it some
+
+1194
+00:32:09,909 --> 00:32:09,919
+script. So I had to give it some
+ 
+
+1195
+00:32:09,919 --> 00:32:13,509
+script. So I had to give it some
+debugging uh code to so that it can see
+
+1196
+00:32:13,509 --> 00:32:13,519
+debugging uh code to so that it can see
+ 
+
+1197
+00:32:13,519 --> 00:32:16,950
+debugging uh code to so that it can see
+the current goal when it when it fails.
+
+1198
+00:32:16,950 --> 00:32:16,960
+the current goal when it when it fails.
+ 
+
+1199
+00:32:16,960 --> 00:32:20,789
+the current goal when it when it fails.
+But but so so initially I I was already
+
+1200
+00:32:20,789 --> 00:32:20,799
+But but so so initially I I was already
+ 
+
+1201
+00:32:20,799 --> 00:32:23,190
+But but so so initially I I was already
+quite pessimistic that the whole light
+
+1202
+00:32:23,190 --> 00:32:23,200
+quite pessimistic that the whole light
+ 
+
+1203
+00:32:23,200 --> 00:32:25,590
+quite pessimistic that the whole light
+might not be a good system for doing
+
+1204
+00:32:25,590 --> 00:32:25,600
+might not be a good system for doing
+ 
+
+1205
+00:32:25,600 --> 00:32:27,669
+might not be a good system for doing
+this as at least not the way I I was
+
+1206
+00:32:27,669 --> 00:32:27,679
+this as at least not the way I I was
+ 
+
+1207
+00:32:27,679 --> 00:32:30,470
+this as at least not the way I I was
+doing it but then it started to get
+
+1208
+00:32:30,470 --> 00:32:30,480
+doing it but then it started to get
+ 
+
+1209
+00:32:30,480 --> 00:32:33,269
+doing it but then it started to get
+better and better and now it seems like
+
+1210
+00:32:33,269 --> 00:32:33,279
+better and better and now it seems like
+ 
+
+1211
+00:32:33,279 --> 00:32:35,190
+better and better and now it seems like
+it it can do things also quite
+
+1212
+00:32:35,190 --> 00:32:35,200
+it it can do things also quite
+ 
+
+1213
+00:32:35,200 --> 00:32:38,549
+it it can do things also quite
+reasonably in in whole light.
+
+1214
+00:32:38,549 --> 00:32:38,559
+reasonably in in whole light.
+ 
+
+1215
+00:32:38,559 --> 00:32:40,070
+reasonably in in whole light.
+Uh
+
+1216
+00:32:40,070 --> 00:32:40,080
+Uh
+ 
+
+1217
+00:32:40,080 --> 00:32:42,710
+Uh
+yeah, I'll probably skip skip this. I
+
+1218
+00:32:42,710 --> 00:32:42,720
+yeah, I'll probably skip skip this. I
+ 
+
+1219
+00:32:42,720 --> 00:32:45,909
+yeah, I'll probably skip skip this. I
+already mentioned it. Yeah, I also
+
+1220
+00:32:45,909 --> 00:32:45,919
+already mentioned it. Yeah, I also
+ 
+
+1221
+00:32:45,919 --> 00:32:48,710
+already mentioned it. Yeah, I also
+mentioned Ter.
+
+1222
+00:32:48,710 --> 00:32:48,720
+mentioned Ter.
+ 
+
+1223
+00:32:48,720 --> 00:32:53,350
+mentioned Ter.
+Uh yeah, like I mentioned the sandboxing
+
+1224
+00:32:53,350 --> 00:32:53,360
+Uh yeah, like I mentioned the sandboxing
+ 
+
+1225
+00:32:53,360 --> 00:32:55,350
+Uh yeah, like I mentioned the sandboxing
+already
+
+1226
+00:32:55,350 --> 00:32:55,360
+already
+ 
+
+1227
+00:32:55,360 --> 00:32:58,389
+already
+compactification. Yeah. Yeah. So I also
+
+1228
+00:32:58,389 --> 00:32:58,399
+compactification. Yeah. Yeah. So I also
+ 
+
+1229
+00:32:58,399 --> 00:33:02,149
+compactification. Yeah. Yeah. So I also
+spoke about it. Yeah. So So yeah, I have
+
+1230
+00:33:02,149 --> 00:33:02,159
+spoke about it. Yeah. So So yeah, I have
+ 
+
+1231
+00:33:02,159 --> 00:33:05,350
+spoke about it. Yeah. So So yeah, I have
+this headline that you can do it for 100
+
+1232
+00:33:05,350 --> 00:33:05,360
+this headline that you can do it for 100
+ 
+
+1233
+00:33:05,360 --> 00:33:11,190
+this headline that you can do it for 100
+bucks. So I should say that there is
+
+1234
+00:33:11,190 --> 00:33:11,200
+bucks. So I should say that there is
+ 
+
+1235
+00:33:11,200 --> 00:33:14,789
+bucks. So I should say that there is
+uh this is kind of true but but I I've
+
+1236
+00:33:14,789 --> 00:33:14,799
+uh this is kind of true but but I I've
+ 
+
+1237
+00:33:14,799 --> 00:33:17,830
+uh this is kind of true but but I I've
+seen a bit of the credit degradation.
+
+1238
+00:33:17,830 --> 00:33:17,840
+seen a bit of the credit degradation.
+ 
+
+1239
+00:33:17,840 --> 00:33:21,029
+seen a bit of the credit degradation.
+So it did quite a lot initially for this
+
+1240
+00:33:21,029 --> 00:33:21,039
+So it did quite a lot initially for this
+ 
+
+1241
+00:33:21,039 --> 00:33:24,549
+So it did quite a lot initially for this
+100 bucks for the two weeks. Uh but in
+
+1242
+00:33:24,549 --> 00:33:24,559
+100 bucks for the two weeks. Uh but in
+ 
+
+1243
+00:33:24,559 --> 00:33:28,549
+100 bucks for the two weeks. Uh but in
+in the month it uh became a bit less but
+
+1244
+00:33:28,549 --> 00:33:28,559
+in the month it uh became a bit less but
+ 
+
+1245
+00:33:28,559 --> 00:33:32,950
+in the month it uh became a bit less but
+but it's still pretty pretty impressive.
+
+1246
+00:33:32,950 --> 00:33:32,960
+but it's still pretty pretty impressive.
+ 
+
+1247
+00:33:32,960 --> 00:33:35,909
+but it's still pretty pretty impressive.
+Uh oh yeah this is the podcast if you
+
+1248
+00:33:35,909 --> 00:33:35,919
+Uh oh yeah this is the podcast if you
+ 
+
+1249
+00:33:35,919 --> 00:33:37,830
+Uh oh yeah this is the podcast if you
+listen to it. So so they are calling
+
+1250
+00:33:37,830 --> 00:33:37,840
+listen to it. So so they are calling
+ 
+
+1251
+00:33:37,840 --> 00:33:40,950
+listen to it. So so they are calling
+meon the bouncer who is watching the llm
+
+1252
+00:33:40,950 --> 00:33:40,960
+meon the bouncer who is watching the llm
+ 
+
+1253
+00:33:40,960 --> 00:33:43,110
+meon the bouncer who is watching the llm
+not to hallucinate.
+
+1254
+00:33:43,110 --> 00:33:43,120
+not to hallucinate.
+ 
+
+1255
+00:33:43,120 --> 00:33:46,389
+not to hallucinate.
+Yeah. So research questions.
+
+1256
+00:33:46,389 --> 00:33:46,399
+Yeah. So research questions.
+ 
+
+1257
+00:33:46,399 --> 00:33:48,710
+Yeah. So research questions.
+Yeah. How much is it checker dependent
+
+1258
+00:33:48,710 --> 00:33:48,720
+Yeah. How much is it checker dependent
+ 
+
+1259
+00:33:48,720 --> 00:33:51,830
+Yeah. How much is it checker dependent
+versus the the kind of loomed loop that
+
+1260
+00:33:51,830 --> 00:33:51,840
+versus the the kind of loomed loop that
+ 
+
+1261
+00:33:51,840 --> 00:33:54,870
+versus the the kind of loomed loop that
+we have. I don't know. I'm I'm kind of
+
+1262
+00:33:54,870 --> 00:33:54,880
+we have. I don't know. I'm I'm kind of
+ 
+
+1263
+00:33:54,880 --> 00:33:57,990
+we have. I don't know. I'm I'm kind of
+now thinking that it might not be super
+
+1264
+00:33:57,990 --> 00:33:58,000
+now thinking that it might not be super
+ 
+
+1265
+00:33:58,000 --> 00:34:00,070
+now thinking that it might not be super
+checker dependent. What seems to be
+
+1266
+00:34:00,070 --> 00:34:00,080
+checker dependent. What seems to be
+ 
+
+1267
+00:34:00,080 --> 00:34:01,669
+checker dependent. What seems to be
+relatively important is the error
+
+1268
+00:34:01,669 --> 00:34:01,679
+relatively important is the error
+ 
+
+1269
+00:34:01,679 --> 00:34:04,070
+relatively important is the error
+messaging and and being able to see the
+
+1270
+00:34:04,070 --> 00:34:04,080
+messaging and and being able to see the
+ 
+
+1271
+00:34:04,080 --> 00:34:07,509
+messaging and and being able to see the
+goal and and the basically proof state
+
+1272
+00:34:07,509 --> 00:34:07,519
+goal and and the basically proof state
+ 
+
+1273
+00:34:07,519 --> 00:34:11,109
+goal and and the basically proof state
+uh shrinking and refactoring. So it is
+
+1274
+00:34:11,109 --> 00:34:11,119
+uh shrinking and refactoring. So it is
+ 
+
+1275
+00:34:11,119 --> 00:34:13,190
+uh shrinking and refactoring. So it is
+doing quite some refactoring in the in
+
+1276
+00:34:13,190 --> 00:34:13,200
+doing quite some refactoring in the in
+ 
+
+1277
+00:34:13,200 --> 00:34:16,310
+doing quite some refactoring in the in
+the melodon experiment. I think it could
+
+1278
+00:34:16,310 --> 00:34:16,320
+the melodon experiment. I think it could
+ 
+
+1279
+00:34:16,320 --> 00:34:19,430
+the melodon experiment. I think it could
+be prompted to do even more refactoring
+
+1280
+00:34:19,430 --> 00:34:19,440
+be prompted to do even more refactoring
+ 
+
+1281
+00:34:19,440 --> 00:34:21,270
+be prompted to do even more refactoring
+and maybe I could give it some more
+
+1282
+00:34:21,270 --> 00:34:21,280
+and maybe I could give it some more
+ 
+
+1283
+00:34:21,280 --> 00:34:22,950
+and maybe I could give it some more
+tools which will I don't know do some
+
+1284
+00:34:22,950 --> 00:34:22,960
+tools which will I don't know do some
+ 
+
+1285
+00:34:22,960 --> 00:34:25,109
+tools which will I don't know do some
+anti-ionification for example and try to
+
+1286
+00:34:25,109 --> 00:34:25,119
+anti-ionification for example and try to
+ 
+
+1287
+00:34:25,119 --> 00:34:29,349
+anti-ionification for example and try to
+pull out the general leas uh but I
+
+1288
+00:34:29,349 --> 00:34:29,359
+pull out the general leas uh but I
+ 
+
+1289
+00:34:29,359 --> 00:34:31,430
+pull out the general leas uh but I
+haven't done that yet.
+
+1290
+00:34:31,430 --> 00:34:31,440
+haven't done that yet.
+ 
+
+1291
+00:34:31,440 --> 00:34:33,430
+haven't done that yet.
+Then there are hammers. So so in whole
+
+1292
+00:34:33,430 --> 00:34:33,440
+Then there are hammers. So so in whole
+ 
+
+1293
+00:34:33,440 --> 00:34:35,669
+Then there are hammers. So so in whole
+light you do have the mazon tactic and
+
+1294
+00:34:35,669 --> 00:34:35,679
+light you do have the mazon tactic and
+ 
+
+1295
+00:34:35,679 --> 00:34:37,990
+light you do have the mazon tactic and
+things like that. So you can say that it
+
+1296
+00:34:37,990 --> 00:34:38,000
+things like that. So you can say that it
+ 
+
+1297
+00:34:38,000 --> 00:34:40,470
+things like that. So you can say that it
+already has the hammer in whole light.
+
+1298
+00:34:40,470 --> 00:34:40,480
+already has the hammer in whole light.
+ 
+
+1299
+00:34:40,480 --> 00:34:42,950
+already has the hammer in whole light.
+In Megalodon, I tried to use a hammer,
+
+1300
+00:34:42,950 --> 00:34:42,960
+In Megalodon, I tried to use a hammer,
+ 
+
+1301
+00:34:42,960 --> 00:34:44,710
+In Megalodon, I tried to use a hammer,
+but it doesn't have the reconstruction,
+
+1302
+00:34:44,710 --> 00:34:44,720
+but it doesn't have the reconstruction,
+ 
+
+1303
+00:34:44,720 --> 00:34:47,430
+but it doesn't have the reconstruction,
+the proof reconstruction. So, so it kind
+
+1304
+00:34:47,430 --> 00:34:47,440
+the proof reconstruction. So, so it kind
+ 
+
+1305
+00:34:47,440 --> 00:34:50,470
+the proof reconstruction. So, so it kind
+of didn't work uh too much.
+
+1306
+00:34:50,470 --> 00:34:50,480
+of didn't work uh too much.
+ 
+
+1307
+00:34:50,480 --> 00:34:53,109
+of didn't work uh too much.
+Uh yeah, can the agent learn it to
+
+1308
+00:34:53,109 --> 00:34:53,119
+Uh yeah, can the agent learn it to
+ 
+
+1309
+00:34:53,119 --> 00:34:55,990
+Uh yeah, can the agent learn it to
+reorder the textbook? Uh it kind of
+
+1310
+00:34:55,990 --> 00:34:56,000
+reorder the textbook? Uh it kind of
+ 
+
+1311
+00:34:56,000 --> 00:34:58,069
+reorder the textbook? Uh it kind of
+struggles, but but it seems to be
+
+1312
+00:34:58,069 --> 00:34:58,079
+struggles, but but it seems to be
+ 
+
+1313
+00:34:58,079 --> 00:35:00,150
+struggles, but but it seems to be
+capable of doing it occasionally at
+
+1314
+00:35:00,150 --> 00:35:00,160
+capable of doing it occasionally at
+ 
+
+1315
+00:35:00,160 --> 00:35:04,310
+capable of doing it occasionally at
+least. Uh yeah, quality insurance. Yeah,
+
+1316
+00:35:04,310 --> 00:35:04,320
+least. Uh yeah, quality insurance. Yeah,
+ 
+
+1317
+00:35:04,320 --> 00:35:06,550
+least. Uh yeah, quality insurance. Yeah,
+you ask John Harrison or Chad Brown
+
+1318
+00:35:06,550 --> 00:35:06,560
+you ask John Harrison or Chad Brown
+ 
+
+1319
+00:35:06,560 --> 00:35:08,230
+you ask John Harrison or Chad Brown
+whether it's doing what what it's
+
+1320
+00:35:08,230 --> 00:35:08,240
+whether it's doing what what it's
+ 
+
+1321
+00:35:08,240 --> 00:35:10,630
+whether it's doing what what it's
+supposed to be doing. Yeah, I wanted to
+
+1322
+00:35:10,630 --> 00:35:10,640
+supposed to be doing. Yeah, I wanted to
+ 
+
+1323
+00:35:10,640 --> 00:35:12,390
+supposed to be doing. Yeah, I wanted to
+mention Zar Gertzel who kind of
+
+1324
+00:35:12,390 --> 00:35:12,400
+mention Zar Gertzel who kind of
+ 
+
+1325
+00:35:12,400 --> 00:35:16,150
+mention Zar Gertzel who kind of
+motivated me to do this. So Zar has now
+
+1326
+00:35:16,150 --> 00:35:16,160
+motivated me to do this. So Zar has now
+ 
+
+1327
+00:35:16,160 --> 00:35:20,790
+motivated me to do this. So Zar has now
+uh auto formalized this big paper about
+
+1328
+00:35:20,790 --> 00:35:20,800
+uh auto formalized this big paper about
+ 
+
+1329
+00:35:20,800 --> 00:35:24,790
+uh auto formalized this big paper about
+Kevin and Skillink about foundations of
+
+1330
+00:35:24,790 --> 00:35:24,800
+Kevin and Skillink about foundations of
+ 
+
+1331
+00:35:24,800 --> 00:35:26,630
+Kevin and Skillink about foundations of
+inference.
+
+1332
+00:35:26,630 --> 00:35:26,640
+inference.
+ 
+
+1333
+00:35:26,640 --> 00:35:31,190
+inference.
+So he did it in lean and you can ask him
+
+1334
+00:35:31,190 --> 00:35:31,200
+So he did it in lean and you can ask him
+ 
+
+1335
+00:35:31,200 --> 00:35:34,630
+So he did it in lean and you can ask him
+about it. I I I think it's it's kind of
+
+1336
+00:35:34,630 --> 00:35:34,640
+about it. I I I think it's it's kind of
+ 
+
+1337
+00:35:34,640 --> 00:35:37,589
+about it. I I I think it's it's kind of
+a similar approach like the coding agent
+
+1338
+00:35:37,589 --> 00:35:37,599
+a similar approach like the coding agent
+ 
+
+1339
+00:35:37,599 --> 00:35:40,870
+a similar approach like the coding agent
+which uh which I'm using and it's it's
+
+1340
+00:35:40,870 --> 00:35:40,880
+which uh which I'm using and it's it's
+ 
+
+1341
+00:35:40,880 --> 00:35:42,630
+which uh which I'm using and it's it's
+quite an interesting work. So we will he
+
+1342
+00:35:42,630 --> 00:35:42,640
+quite an interesting work. So we will he
+ 
+
+1343
+00:35:42,640 --> 00:35:45,190
+quite an interesting work. So we will he
+has a write up about it. It for example
+
+1344
+00:35:45,190 --> 00:35:45,200
+has a write up about it. It for example
+ 
+
+1345
+00:35:45,200 --> 00:35:49,510
+has a write up about it. It for example
+found some work from 1950s which is
+
+1346
+00:35:49,510 --> 00:35:49,520
+found some work from 1950s which is
+ 
+
+1347
+00:35:49,520 --> 00:35:53,430
+found some work from 1950s which is
+usable to fill in some gaps in in in the
+
+1348
+00:35:53,430 --> 00:35:53,440
+usable to fill in some gaps in in in the
+ 
+
+1349
+00:35:53,440 --> 00:35:55,589
+usable to fill in some gaps in in in the
+proofs there.
+
+1350
+00:35:55,589 --> 00:35:55,599
+proofs there.
+ 
+
+1351
+00:35:55,599 --> 00:35:59,030
+proofs there.
+Uh yeah, so these are the co-workers and
+
+1352
+00:35:59,030 --> 00:35:59,040
+Uh yeah, so these are the co-workers and
+ 
+
+1353
+00:35:59,040 --> 00:36:01,430
+Uh yeah, so these are the co-workers and
+acknowledgements
+
+1354
+00:36:01,430 --> 00:36:01,440
+acknowledgements
+ 
+
+1355
+00:36:01,440 --> 00:36:06,470
+acknowledgements
+and uh yeah, what else should I say
+
+1356
+00:36:06,470 --> 00:36:06,480
+and uh yeah, what else should I say
+ 
+
+1357
+00:36:06,480 --> 00:36:09,589
+and uh yeah, what else should I say
+here? Uh
+
+1358
+00:36:09,589 --> 00:36:09,599
+here? Uh
+ 
+
+1359
+00:36:09,599 --> 00:36:11,510
+here? Uh
+um
+
+1360
+00:36:11,510 --> 00:36:11,520
+um
+ 
+
+1361
+00:36:11,520 --> 00:36:13,750
+um
+yeah. Well, for for me this is quite
+
+1362
+00:36:13,750 --> 00:36:13,760
+yeah. Well, for for me this is quite
+ 
+
+1363
+00:36:13,760 --> 00:36:17,430
+yeah. Well, for for me this is quite
+surprising like like I I kind of started
+
+1364
+00:36:17,430 --> 00:36:17,440
+surprising like like I I kind of started
+ 
+
+1365
+00:36:17,440 --> 00:36:23,270
+surprising like like I I kind of started
+to propose auto formalization in 2013 14
+
+1366
+00:36:23,270 --> 00:36:23,280
+to propose auto formalization in 2013 14
+ 
+
+1367
+00:36:23,280 --> 00:36:25,349
+to propose auto formalization in 2013 14
+because like these tools like Google
+
+1368
+00:36:25,349 --> 00:36:25,359
+because like these tools like Google
+ 
+
+1369
+00:36:25,359 --> 00:36:29,430
+because like these tools like Google
+translate were getting quite good. But
+
+1370
+00:36:29,430 --> 00:36:29,440
+translate were getting quite good. But
+ 
+
+1371
+00:36:29,440 --> 00:36:31,910
+translate were getting quite good. But
+like what you can today do with these
+
+1372
+00:36:31,910 --> 00:36:31,920
+like what you can today do with these
+ 
+
+1373
+00:36:31,920 --> 00:36:34,790
+like what you can today do with these
+agents which have like this body of
+
+1374
+00:36:34,790 --> 00:36:34,800
+agents which have like this body of
+ 
+
+1375
+00:36:34,800 --> 00:36:37,109
+agents which have like this body of
+general knowledge like they can reason
+
+1376
+00:36:37,109 --> 00:36:37,119
+general knowledge like they can reason
+ 
+
+1377
+00:36:37,119 --> 00:36:40,710
+general knowledge like they can reason
+not just about the proofs but also how
+
+1378
+00:36:40,710 --> 00:36:40,720
+not just about the proofs but also how
+ 
+
+1379
+00:36:40,720 --> 00:36:44,550
+not just about the proofs but also how
+to refactor the book for example is is
+
+1380
+00:36:44,550 --> 00:36:44,560
+to refactor the book for example is is
+ 
+
+1381
+00:36:44,560 --> 00:36:48,150
+to refactor the book for example is is
+quite uh surprising to me. So, so it
+
+1382
+00:36:48,150 --> 00:36:48,160
+quite uh surprising to me. So, so it
+ 
+
+1383
+00:36:48,160 --> 00:36:50,470
+quite uh surprising to me. So, so it
+could really, as I said in the
+
+1384
+00:36:50,470 --> 00:36:50,480
+could really, as I said in the
+ 
+
+1385
+00:36:50,480 --> 00:36:53,190
+could really, as I said in the
+beginning, it could really be that in
+
+1386
+00:36:53,190 --> 00:36:53,200
+beginning, it could really be that in
+ 
+
+1387
+00:36:53,200 --> 00:36:54,790
+beginning, it could really be that in
+2026
+
+1388
+00:36:54,790 --> 00:36:54,800
+2026
+ 
+
+1389
+00:36:54,800 --> 00:36:59,430
+2026
+we will basically start formalizing by
+
+1390
+00:36:59,430 --> 00:36:59,440
+we will basically start formalizing by
+ 
+
+1391
+00:36:59,440 --> 00:37:02,470
+we will basically start formalizing by
+LLMs and forget that it was hard work
+
+1392
+00:37:02,470 --> 00:37:02,480
+LLMs and forget that it was hard work
+ 
+
+1393
+00:37:02,480 --> 00:37:05,990
+LLMs and forget that it was hard work
+for humans. Okay, that that's it. And I
+
+1394
+00:37:05,990 --> 00:37:06,000
+for humans. Okay, that that's it. And I
+ 
+
+1395
+00:37:06,000 --> 00:37:43,670
+for humans. Okay, that that's it. And I
+can show you some demos if you want.
+
+1396
+00:37:43,670 --> 00:37:43,680
+
+ 
+
+1397
+00:37:43,680 --> 00:37:49,829
+
+So I I had so I should first maybe I
+
+1398
+00:37:49,829 --> 00:37:49,839
+So I I had so I should first maybe I
+ 
+
+1399
+00:37:49,839 --> 00:37:51,750
+So I I had so I should first maybe I
+made it clear I'm I'm neither a
+
+1400
+00:37:51,750 --> 00:37:51,760
+made it clear I'm I'm neither a
+ 
+
+1401
+00:37:51,760 --> 00:37:54,150
+made it clear I'm I'm neither a
+megalodon person nor a whole light
+
+1402
+00:37:54,150 --> 00:37:54,160
+megalodon person nor a whole light
+ 
+
+1403
+00:37:54,160 --> 00:37:56,550
+megalodon person nor a whole light
+person. I kind of superficially know
+
+1404
+00:37:56,550 --> 00:37:56,560
+person. I kind of superficially know
+ 
+
+1405
+00:37:56,560 --> 00:38:00,630
+person. I kind of superficially know
+these systems. Uh but I what got me
+
+1406
+00:38:00,630 --> 00:38:00,640
+these systems. Uh but I what got me
+ 
+
+1407
+00:38:00,640 --> 00:38:03,349
+these systems. Uh but I what got me
+going in the beginning when I told it
+
+1408
+00:38:03,349 --> 00:38:03,359
+going in the beginning when I told it
+ 
+
+1409
+00:38:03,359 --> 00:38:05,829
+going in the beginning when I told it
+could you auto formalize
+
+1410
+00:38:05,829 --> 00:38:05,839
+could you auto formalize
+ 
+
+1411
+00:38:05,839 --> 00:38:08,790
+could you auto formalize
+the the initial definitions was that
+
+1412
+00:38:08,790 --> 00:38:08,800
+the the initial definitions was that
+ 
+
+1413
+00:38:08,800 --> 00:38:11,829
+the the initial definitions was that
+Chad Brown was standing next to me and
+
+1414
+00:38:11,829 --> 00:38:11,839
+Chad Brown was standing next to me and
+ 
+
+1415
+00:38:11,839 --> 00:38:14,390
+Chad Brown was standing next to me and
+it wrote the definition of topological
+
+1416
+00:38:14,390 --> 00:38:14,400
+it wrote the definition of topological
+ 
+
+1417
+00:38:14,400 --> 00:38:17,510
+it wrote the definition of topological
+space and Chad was like holy crap like
+
+1418
+00:38:17,510 --> 00:38:17,520
+space and Chad was like holy crap like
+ 
+
+1419
+00:38:17,520 --> 00:38:19,510
+space and Chad was like holy crap like
+what is this? This is how I would have
+
+1420
+00:38:19,510 --> 00:38:19,520
+what is this? This is how I would have
+ 
+
+1421
+00:38:19,520 --> 00:38:22,630
+what is this? This is how I would have
+written the definition myself. So, so
+
+1422
+00:38:22,630 --> 00:38:22,640
+written the definition myself. So, so
+ 
+
+1423
+00:38:22,640 --> 00:38:26,230
+written the definition myself. So, so
+Chad Chad was really like he he's like a
+
+1424
+00:38:26,230 --> 00:38:26,240
+Chad Chad was really like he he's like a
+ 
+
+1425
+00:38:26,240 --> 00:38:30,390
+Chad Chad was really like he he's like a
+non non AI person and he he was quite
+
+1426
+00:38:30,390 --> 00:38:30,400
+non non AI person and he he was quite
+ 
+
+1427
+00:38:30,400 --> 00:38:33,589
+non non AI person and he he was quite
+surprised how how it was written in the
+
+1428
+00:38:33,589 --> 00:38:33,599
+surprised how how it was written in the
+ 
+
+1429
+00:38:33,599 --> 00:38:36,150
+surprised how how it was written in the
+way that he he would have written it. So
+
+1430
+00:38:36,150 --> 00:38:36,160
+way that he he would have written it. So
+ 
+
+1431
+00:38:36,160 --> 00:38:39,349
+way that he he would have written it. So
+So and and then kind of Chad kind of
+
+1432
+00:38:39,349 --> 00:38:39,359
+So and and then kind of Chad kind of
+ 
+
+1433
+00:38:39,359 --> 00:38:43,030
+So and and then kind of Chad kind of
+kept confirming uh occasionally that
+
+1434
+00:38:43,030 --> 00:38:43,040
+kept confirming uh occasionally that
+ 
+
+1435
+00:38:43,040 --> 00:38:46,150
+kept confirming uh occasionally that
+it's it's doing things reasonably. The
+
+1436
+00:38:46,150 --> 00:38:46,160
+it's it's doing things reasonably. The
+ 
+
+1437
+00:38:46,160 --> 00:38:48,310
+it's it's doing things reasonably. The
+the other feedback I got from John
+
+1438
+00:38:48,310 --> 00:38:48,320
+the other feedback I got from John
+ 
+
+1439
+00:38:48,320 --> 00:38:52,150
+the other feedback I got from John
+Harrison when it in the last and this
+
+1440
+00:38:52,150 --> 00:38:52,160
+Harrison when it in the last and this
+ 
+
+1441
+00:38:52,160 --> 00:38:55,109
+Harrison when it in the last and this
+week auto formalized like this
+
+1442
+00:38:55,109 --> 00:38:55,119
+week auto formalized like this
+ 
+
+1443
+00:38:55,119 --> 00:38:59,030
+week auto formalized like this
+materization and stone stuff like John
+
+1444
+00:38:59,030 --> 00:38:59,040
+materization and stone stuff like John
+ 
+
+1445
+00:38:59,040 --> 00:39:01,910
+materization and stone stuff like John
+John said that that it looks good. So
+
+1446
+00:39:01,910 --> 00:39:01,920
+John said that that it looks good. So
+ 
+
+1447
+00:39:01,920 --> 00:39:04,550
+John said that that it looks good. So
+like John is the master of verbalization
+
+1448
+00:39:04,550 --> 00:39:04,560
+like John is the master of verbalization
+ 
+
+1449
+00:39:04,560 --> 00:39:07,910
+like John is the master of verbalization
+so I trust him. Uh
+
+1450
+00:39:07,910 --> 00:39:07,920
+so I trust him. Uh
+ 
+
+1451
+00:39:07,920 --> 00:39:12,390
+so I trust him. Uh
+yeah. Uh so on the other hand like I you
+
+1452
+00:39:12,390 --> 00:39:12,400
+yeah. Uh so on the other hand like I you
+ 
+
+1453
+00:39:12,400 --> 00:39:14,390
+yeah. Uh so on the other hand like I you
+you have seen for example this email
+
+1454
+00:39:14,390 --> 00:39:14,400
+you have seen for example this email
+ 
+
+1455
+00:39:14,400 --> 00:39:18,310
+you have seen for example this email
+that I have sent to Amaranta where I'm
+
+1456
+00:39:18,310 --> 00:39:18,320
+that I have sent to Amaranta where I'm
+ 
+
+1457
+00:39:18,320 --> 00:39:21,589
+that I have sent to Amaranta where I'm
+commenting on on the wrong way how it
+
+1458
+00:39:21,589 --> 00:39:21,599
+commenting on on the wrong way how it
+ 
+
+1459
+00:39:21,599 --> 00:39:24,630
+commenting on on the wrong way how it
+initially how to formalize something and
+
+1460
+00:39:24,630 --> 00:39:24,640
+initially how to formalize something and
+ 
+
+1461
+00:39:24,640 --> 00:39:27,670
+initially how to formalize something and
+then it's kind of trying to recover uh
+
+1462
+00:39:27,670 --> 00:39:27,680
+then it's kind of trying to recover uh
+ 
+
+1463
+00:39:27,680 --> 00:39:31,430
+then it's kind of trying to recover uh
+from that. So I I will say that this is
+
+1464
+00:39:31,430 --> 00:39:31,440
+from that. So I I will say that this is
+ 
+
+1465
+00:39:31,440 --> 00:39:33,990
+from that. So I I will say that this is
+some kind of interesting process which
+
+1466
+00:39:33,990 --> 00:39:34,000
+some kind of interesting process which
+ 
+
+1467
+00:39:34,000 --> 00:39:37,430
+some kind of interesting process which
+can probably be improved in various ways
+
+1468
+00:39:37,430 --> 00:39:37,440
+can probably be improved in various ways
+ 
+
+1469
+00:39:37,440 --> 00:39:41,030
+can probably be improved in various ways
+both by better prompting and by giving
+
+1470
+00:39:41,030 --> 00:39:41,040
+both by better prompting and by giving
+ 
+
+1471
+00:39:41,040 --> 00:39:44,230
+both by better prompting and by giving
+in some better tools like various style
+
+1472
+00:39:44,230 --> 00:39:44,240
+in some better tools like various style
+ 
+
+1473
+00:39:44,240 --> 00:39:48,790
+in some better tools like various style
+checking tools etc. Uh and yeah that's
+
+1474
+00:39:48,790 --> 00:39:48,800
+checking tools etc. Uh and yeah that's
+ 
+
+1475
+00:39:48,800 --> 00:40:07,750
+checking tools etc. Uh and yeah that's
+that's all I know at this point. that
+
+1476
+00:40:07,750 --> 00:40:07,760
+
+ 
+
+1477
+00:40:07,760 --> 00:40:09,670
+
+there.
+
+1478
+00:40:09,670 --> 00:40:09,680
+there.
+ 
+
+1479
+00:40:09,680 --> 00:40:25,910
+there.
+Yeah.
+
+1480
+00:40:25,910 --> 00:40:25,920
+
+ 
+
+1481
+00:40:25,920 --> 00:40:29,750
+
+Yeah.
+
+1482
+00:40:29,750 --> 00:40:29,760
+
+ 
+
+1483
+00:40:29,760 --> 00:40:38,550
+
+Yeah.
+
+1484
+00:40:38,550 --> 00:40:38,560
+
+ 
+
+1485
+00:40:38,560 --> 00:40:41,670
+
+Yeah. Yeah.
+
+1486
+00:40:41,670 --> 00:40:41,680
+Yeah. Yeah.
+ 
+
+1487
+00:40:41,680 --> 00:40:46,710
+Yeah. Yeah.
+Yeah. And actually June Lee has already
+
+1488
+00:40:46,710 --> 00:40:46,720
+Yeah. And actually June Lee has already
+ 
+
+1489
+00:40:46,720 --> 00:40:49,109
+Yeah. And actually June Lee has already
+done it for a whole life. That's like a
+
+1490
+00:40:49,109 --> 00:40:49,119
+done it for a whole life. That's like a
+ 
+
+1491
+00:40:49,119 --> 00:40:53,030
+done it for a whole life. That's like a
+very recent development. June and John
+
+1492
+00:40:53,030 --> 00:40:53,040
+very recent development. June and John
+ 
+
+1493
+00:40:53,040 --> 00:40:56,550
+very recent development. June and John
+have kind of seen the the struggle that
+
+1494
+00:40:56,550 --> 00:40:56,560
+have kind of seen the the struggle that
+ 
+
+1495
+00:40:56,560 --> 00:40:59,349
+have kind of seen the the struggle that
+I I was getting with with doing it in
+
+1496
+00:40:59,349 --> 00:40:59,359
+I I was getting with with doing it in
+ 
+
+1497
+00:40:59,359 --> 00:41:03,190
+I I was getting with with doing it in
+this kind of brute force stupid way and
+
+1498
+00:41:03,190 --> 00:41:03,200
+this kind of brute force stupid way and
+ 
+
+1499
+00:41:03,200 --> 00:41:07,589
+this kind of brute force stupid way and
+and they uh kind of did just what you
+
+1500
+00:41:07,589 --> 00:41:07,599
+and they uh kind of did just what you
+ 
+
+1501
+00:41:07,599 --> 00:41:09,670
+and they uh kind of did just what you
+are saying. I I just haven't tried it
+
+1502
+00:41:09,670 --> 00:41:09,680
+are saying. I I just haven't tried it
+ 
+
+1503
+00:41:09,680 --> 00:41:42,390
+are saying. I I just haven't tried it
+yet.
+
+1504
+00:41:42,390 --> 00:41:42,400
+
+ 
+
+1505
+00:41:42,400 --> 00:41:48,470
+
+Yeah.
+
+1506
+00:41:48,470 --> 00:41:48,480
+
+ 
+
+1507
+00:41:48,480 --> 00:42:01,030
+
+Mhm. Mhm.
+
+1508
+00:42:01,030 --> 00:42:01,040
+
+ 
+
+1509
+00:42:01,040 --> 00:42:04,309
+
+Yeah. So, so actually I I had a postoc
+
+1510
+00:42:04,309 --> 00:42:04,319
+Yeah. So, so actually I I had a postoc
+ 
+
+1511
+00:42:04,319 --> 00:42:08,630
+Yeah. So, so actually I I had a postoc
+for two years uh Jonathan Werta in Muna
+
+1512
+00:42:08,630 --> 00:42:08,640
+for two years uh Jonathan Werta in Muna
+ 
+
+1513
+00:42:08,640 --> 00:42:11,589
+for two years uh Jonathan Werta in Muna
+who who was working on connecting
+
+1514
+00:42:11,589 --> 00:42:11,599
+who who was working on connecting
+ 
+
+1515
+00:42:11,599 --> 00:42:13,670
+who who was working on connecting
+language models to to Isabel and doing
+
+1516
+00:42:13,670 --> 00:42:13,680
+language models to to Isabel and doing
+ 
+
+1517
+00:42:13,680 --> 00:42:17,030
+language models to to Isabel and doing
+reinforcement. So so he is coming to
+
+1518
+00:42:17,030 --> 00:42:17,040
+reinforcement. So so he is coming to
+ 
+
+1519
+00:42:17,040 --> 00:42:20,150
+reinforcement. So so he is coming to
+visit us um I don't know a month from
+
+1520
+00:42:20,150 --> 00:42:20,160
+visit us um I don't know a month from
+ 
+
+1521
+00:42:20,160 --> 00:42:24,309
+visit us um I don't know a month from
+now and he he was talking with Macarios
+
+1522
+00:42:24,309 --> 00:42:24,319
+now and he he was talking with Macarios
+ 
+
+1523
+00:42:24,319 --> 00:42:27,270
+now and he he was talking with Macarios
+about this kind of stuff. So I I hope I
+
+1524
+00:42:27,270 --> 00:42:27,280
+about this kind of stuff. So I I hope I
+ 
+
+1525
+00:42:27,280 --> 00:42:29,829
+about this kind of stuff. So I I hope I
+hope he will provide the expertise to to
+
+1526
+00:42:29,829 --> 00:42:29,839
+hope he will provide the expertise to to
+ 
+
+1527
+00:42:29,839 --> 00:42:56,630
+hope he will provide the expertise to to
+to do these things.
+
+1528
+00:42:56,630 --> 00:42:56,640
+
+ 
+
+1529
+00:42:56,640 --> 00:43:01,190
+
+So it's it's really very interesting how
+
+1530
+00:43:01,190 --> 00:43:01,200
+So it's it's really very interesting how
+ 
+
+1531
+00:43:01,200 --> 00:43:05,750
+So it's it's really very interesting how
+how the LLMs or the coding agents are
+
+1532
+00:43:05,750 --> 00:43:05,760
+how the LLMs or the coding agents are
+ 
+
+1533
+00:43:05,760 --> 00:43:09,109
+how the LLMs or the coding agents are
+coping or not coping with with the gaps
+
+1534
+00:43:09,109 --> 00:43:09,119
+coping or not coping with with the gaps
+ 
+
+1535
+00:43:09,119 --> 00:43:11,990
+coping or not coping with with the gaps
+like with these forward references in in
+
+1536
+00:43:11,990 --> 00:43:12,000
+like with these forward references in in
+ 
+
+1537
+00:43:12,000 --> 00:43:15,589
+like with these forward references in in
+the proof of TA. It's uh it's it's kind
+
+1538
+00:43:15,589 --> 00:43:15,599
+the proof of TA. It's uh it's it's kind
+ 
+
+1539
+00:43:15,599 --> 00:43:18,710
+the proof of TA. It's uh it's it's kind
+of a you I like when I was thinking
+
+1540
+00:43:18,710 --> 00:43:18,720
+of a you I like when I was thinking
+ 
+
+1541
+00:43:18,720 --> 00:43:21,750
+of a you I like when I was thinking
+about autobalization 10 years ago, I was
+
+1542
+00:43:21,750 --> 00:43:21,760
+about autobalization 10 years ago, I was
+ 
+
+1543
+00:43:21,760 --> 00:43:24,069
+about autobalization 10 years ago, I was
+thinking about it as a translation task
+
+1544
+00:43:24,069 --> 00:43:24,079
+thinking about it as a translation task
+ 
+
+1545
+00:43:24,079 --> 00:43:26,550
+thinking about it as a translation task
+like like English to French. But but
+
+1546
+00:43:26,550 --> 00:43:26,560
+like like English to French. But but
+ 
+
+1547
+00:43:26,560 --> 00:43:29,670
+like like English to French. But but
+it's when you encounter a gap like this,
+
+1548
+00:43:29,670 --> 00:43:29,680
+it's when you encounter a gap like this,
+ 
+
+1549
+00:43:29,680 --> 00:43:33,030
+it's when you encounter a gap like this,
+you you realize that this is much more
+
+1550
+00:43:33,030 --> 00:43:33,040
+you you realize that this is much more
+ 
+
+1551
+00:43:33,040 --> 00:43:35,829
+you you realize that this is much more
+than that, right? Like like
+
+1552
+00:43:35,829 --> 00:43:35,839
+than that, right? Like like
+ 
+
+1553
+00:43:35,839 --> 00:43:38,710
+than that, right? Like like
+and it's really interesting what the
+
+1554
+00:43:38,710 --> 00:43:38,720
+and it's really interesting what the
+ 
+
+1555
+00:43:38,720 --> 00:43:42,309
+and it's really interesting what the
+LLMs can do and what they cannot cannot
+
+1556
+00:43:42,309 --> 00:43:42,319
+LLMs can do and what they cannot cannot
+ 
+
+1557
+00:43:42,319 --> 00:43:46,550
+LLMs can do and what they cannot cannot
+do. Yeah.
+
+1558
+00:43:46,550 --> 00:43:46,560
+
+ 
+
+1559
+00:43:46,560 --> 00:43:54,710
+
+Defense
+
+1560
+00:43:54,710 --> 00:43:54,720
+
+ 
+
+1561
+00:43:54,720 --> 00:44:32,950
+
+he can hear you. Yeah.
+
+1562
+00:44:32,950 --> 00:44:32,960
+
+ 
+
+1563
+00:44:32,960 --> 00:44:42,230
+
+Okay. Yeah. Yeah.
+
+1564
+00:44:42,230 --> 00:44:42,240
+
+ 
+
+1565
+00:44:42,240 --> 00:44:45,910
+
+Yeah.
+
+1566
+00:44:45,910 --> 00:44:45,920
+
+ 
+
+1567
+00:44:45,920 --> 00:44:47,910
+
+Yeah.
+
+1568
+00:44:47,910 --> 00:44:47,920
+Yeah.
+ 
+
+1569
+00:44:47,920 --> 00:44:57,990
+Yeah.
+Yeah. Yeah.
+
+1570
+00:44:57,990 --> 00:44:58,000
+
+ 
+
+1571
+00:44:58,000 --> 00:45:01,270
+
+So again like there is too too much
+
+1572
+00:45:01,270 --> 00:45:01,280
+So again like there is too too much
+ 
+
+1573
+00:45:01,280 --> 00:45:03,910
+So again like there is too too much
+stuff to to go through but I can tell
+
+1574
+00:45:03,910 --> 00:45:03,920
+stuff to to go through but I can tell
+ 
+
+1575
+00:45:03,920 --> 00:45:07,829
+stuff to to go through but I can tell
+you some first impressions. So yes, like
+
+1576
+00:45:07,829 --> 00:45:07,839
+you some first impressions. So yes, like
+ 
+
+1577
+00:45:07,839 --> 00:45:10,550
+you some first impressions. So yes, like
+at at some point, so for example, where
+
+1578
+00:45:10,550 --> 00:45:10,560
+at at some point, so for example, where
+ 
+
+1579
+00:45:10,560 --> 00:45:13,190
+at at some point, so for example, where
+it it it has occasionally really done
+
+1580
+00:45:13,190 --> 00:45:13,200
+it it it has occasionally really done
+ 
+
+1581
+00:45:13,200 --> 00:45:16,309
+it it it has occasionally really done
+strange things. So last week when we
+
+1582
+00:45:16,309 --> 00:45:16,319
+strange things. So last week when we
+ 
+
+1583
+00:45:16,319 --> 00:45:19,190
+strange things. So last week when we
+were doing John's thing it like the
+
+1584
+00:45:19,190 --> 00:45:19,200
+were doing John's thing it like the
+ 
+
+1585
+00:45:19,200 --> 00:45:22,309
+were doing John's thing it like the
+first 4 hours of formalizing this whole
+
+1586
+00:45:22,309 --> 00:45:22,319
+first 4 hours of formalizing this whole
+ 
+
+1587
+00:45:22,319 --> 00:45:27,190
+first 4 hours of formalizing this whole
+light uh thing was clo code adding the
+
+1588
+00:45:27,190 --> 00:45:27,200
+light uh thing was clo code adding the
+ 
+
+1589
+00:45:27,200 --> 00:45:30,550
+light uh thing was clo code adding the
+library to to the current file with with
+
+1590
+00:45:30,550 --> 00:45:30,560
+library to to the current file with with
+ 
+
+1591
+00:45:30,560 --> 00:45:32,950
+library to to the current file with with
+the proofs basically copy pasting them
+
+1592
+00:45:32,950 --> 00:45:32,960
+the proofs basically copy pasting them
+ 
+
+1593
+00:45:32,960 --> 00:45:35,109
+the proofs basically copy pasting them
+and congratulating
+
+1594
+00:45:35,109 --> 00:45:35,119
+and congratulating
+ 
+
+1595
+00:45:35,119 --> 00:45:38,790
+and congratulating
+congratulating itself for doing
+
+1596
+00:45:38,790 --> 00:45:38,800
+congratulating itself for doing
+ 
+
+1597
+00:45:38,800 --> 00:45:41,270
+congratulating itself for doing
+substantial substantial work. So, so I
+
+1598
+00:45:41,270 --> 00:45:41,280
+substantial substantial work. So, so I
+ 
+
+1599
+00:45:41,280 --> 00:45:43,750
+substantial substantial work. So, so I
+needed to change the prompt the rules
+
+1600
+00:45:43,750 --> 00:45:43,760
+needed to change the prompt the rules
+ 
+
+1601
+00:45:43,760 --> 00:45:45,990
+needed to change the prompt the rules
+file and tell it you really really
+
+1602
+00:45:45,990 --> 00:45:46,000
+file and tell it you really really
+ 
+
+1603
+00:45:46,000 --> 00:45:48,390
+file and tell it you really really
+shouldn't duplicate what already exists.
+
+1604
+00:45:48,390 --> 00:45:48,400
+shouldn't duplicate what already exists.
+ 
+
+1605
+00:45:48,400 --> 00:45:51,829
+shouldn't duplicate what already exists.
+So, so that's one way how how it can go
+
+1606
+00:45:51,829 --> 00:45:51,839
+So, so that's one way how how it can go
+ 
+
+1607
+00:45:51,839 --> 00:45:54,390
+So, so that's one way how how it can go
+off the rails like do doing some kind of
+
+1608
+00:45:54,390 --> 00:45:54,400
+off the rails like do doing some kind of
+ 
+
+1609
+00:45:54,400 --> 00:45:56,790
+off the rails like do doing some kind of
+easy copy pasting instead of focusing on
+
+1610
+00:45:56,790 --> 00:45:56,800
+easy copy pasting instead of focusing on
+ 
+
+1611
+00:45:56,800 --> 00:45:59,030
+easy copy pasting instead of focusing on
+on the problem. But like in this
+
+1612
+00:45:59,030 --> 00:45:59,040
+on the problem. But like in this
+ 
+
+1613
+00:45:59,040 --> 00:46:01,510
+on the problem. But like in this
+megalodon thing, what happened to me
+
+1614
+00:46:01,510 --> 00:46:01,520
+megalodon thing, what happened to me
+ 
+
+1615
+00:46:01,520 --> 00:46:04,630
+megalodon thing, what happened to me
+quite early was that I don't know where
+
+1616
+00:46:04,630 --> 00:46:04,640
+quite early was that I don't know where
+ 
+
+1617
+00:46:04,640 --> 00:46:07,109
+quite early was that I don't know where
+where it saw maybe somewhere on the
+
+1618
+00:46:07,109 --> 00:46:07,119
+where it saw maybe somewhere on the
+ 
+
+1619
+00:46:07,119 --> 00:46:10,309
+where it saw maybe somewhere on the
+internet. it it had let's say like these
+
+1620
+00:46:10,309 --> 00:46:10,319
+internet. it it had let's say like these
+ 
+
+1621
+00:46:10,319 --> 00:46:12,309
+internet. it it had let's say like these
+hard theorems that it was supposed to be
+
+1622
+00:46:12,309 --> 00:46:12,319
+hard theorems that it was supposed to be
+ 
+
+1623
+00:46:12,319 --> 00:46:15,190
+hard theorems that it was supposed to be
+proving and it started to introduce an
+
+1624
+00:46:15,190 --> 00:46:15,200
+proving and it started to introduce an
+ 
+
+1625
+00:46:15,200 --> 00:46:18,309
+proving and it started to introduce an
+aum for each of them which looked
+
+1626
+00:46:18,309 --> 00:46:18,319
+aum for each of them which looked
+ 
+
+1627
+00:46:18,319 --> 00:46:21,030
+aum for each of them which looked
+basically the same and it was getting
+
+1628
+00:46:21,030 --> 00:46:21,040
+basically the same and it was getting
+ 
+
+1629
+00:46:21,040 --> 00:46:23,670
+basically the same and it was getting
+the theorem proved by by by having the
+
+1630
+00:46:23,670 --> 00:46:23,680
+the theorem proved by by by having the
+ 
+
+1631
+00:46:23,680 --> 00:46:27,750
+the theorem proved by by by having the
+ex so so again I I needed to modify the
+
+1632
+00:46:27,750 --> 00:46:27,760
+ex so so again I I needed to modify the
+ 
+
+1633
+00:46:27,760 --> 00:46:31,349
+ex so so again I I needed to modify the
+rules book telling it well don't add
+
+1634
+00:46:31,349 --> 00:46:31,359
+rules book telling it well don't add
+ 
+
+1635
+00:46:31,359 --> 00:46:35,430
+rules book telling it well don't add
+exoms uh so it's it's it's doing quite
+
+1636
+00:46:35,430 --> 00:46:35,440
+exoms uh so it's it's it's doing quite
+ 
+
+1637
+00:46:35,440 --> 00:46:39,670
+exoms uh so it's it's it's doing quite
+this weird stuff every now and Um yeah.
+
+1638
+00:46:39,670 --> 00:46:39,680
+this weird stuff every now and Um yeah.
+ 
+
+1639
+00:46:39,680 --> 00:47:16,069
+this weird stuff every now and Um yeah.
+Yeah.
+
+1640
+00:47:16,069 --> 00:47:16,079
+
+ 
+
+1641
+00:47:16,079 --> 00:47:20,870
+
+So I'm afraid this is something that you
+
+1642
+00:47:20,870 --> 00:47:20,880
+So I'm afraid this is something that you
+ 
+
+1643
+00:47:20,880 --> 00:47:23,510
+So I'm afraid this is something that you
+would have to do yourself or ask
+
+1644
+00:47:23,510 --> 00:47:23,520
+would have to do yourself or ask
+ 
+
+1645
+00:47:23,520 --> 00:47:27,430
+would have to do yourself or ask
+somebody who has tried. I I basically
+
+1646
+00:47:27,430 --> 00:47:27,440
+somebody who has tried. I I basically
+ 
+
+1647
+00:47:27,440 --> 00:47:30,630
+somebody who has tried. I I basically
+lost the capability to train these big
+
+1648
+00:47:30,630 --> 00:47:30,640
+lost the capability to train these big
+ 
+
+1649
+00:47:30,640 --> 00:47:33,270
+lost the capability to train these big
+models I don't know like some five six
+
+1650
+00:47:33,270 --> 00:47:33,280
+models I don't know like some five six
+ 
+
+1651
+00:47:33,280 --> 00:47:36,230
+models I don't know like some five six
+years ago. Uh so I'm I'm only training
+
+1652
+00:47:36,230 --> 00:47:36,240
+years ago. Uh so I'm I'm only training
+ 
+
+1653
+00:47:36,240 --> 00:47:39,990
+years ago. Uh so I'm I'm only training
+small small models. I like in in this
+
+1654
+00:47:39,990 --> 00:47:40,000
+small small models. I like in in this
+ 
+
+1655
+00:47:40,000 --> 00:47:41,910
+small small models. I like in in this
+like let's say you you can say that
+
+1656
+00:47:41,910 --> 00:47:41,920
+like let's say you you can say that
+ 
+
+1657
+00:47:41,920 --> 00:47:44,950
+like let's say you you can say that
+there is a lot of whole light whole for
+
+1658
+00:47:44,950 --> 00:47:44,960
+there is a lot of whole light whole for
+ 
+
+1659
+00:47:44,960 --> 00:47:48,069
+there is a lot of whole light whole for
+code out there on the internet but for
+
+1660
+00:47:48,069 --> 00:47:48,079
+code out there on the internet but for
+ 
+
+1661
+00:47:48,079 --> 00:47:50,550
+code out there on the internet but for
+megalodon it's kind of hard to argue
+
+1662
+00:47:50,550 --> 00:47:50,560
+megalodon it's kind of hard to argue
+ 
+
+1663
+00:47:50,560 --> 00:47:52,790
+megalodon it's kind of hard to argue
+that there there is a lot of megal
+
+1664
+00:47:52,790 --> 00:47:52,800
+that there there is a lot of megal
+ 
+
+1665
+00:47:52,800 --> 00:47:55,349
+that there there is a lot of megal
+megalodon formalization on the internet
+
+1666
+00:47:55,349 --> 00:47:55,359
+megalodon formalization on the internet
+ 
+
+1667
+00:47:55,359 --> 00:47:58,230
+megalodon formalization on the internet
+yet it kind of with enough area
+
+1668
+00:47:58,230 --> 00:47:58,240
+yet it kind of with enough area
+ 
+
+1669
+00:47:58,240 --> 00:48:02,630
+yet it kind of with enough area
+messaging it it kind of finds it uh way
+
+1670
+00:48:02,630 --> 00:48:02,640
+messaging it it kind of finds it uh way
+ 
+
+1671
+00:48:02,640 --> 00:48:05,430
+messaging it it kind of finds it uh way
+through so I would say there definitely
+
+1672
+00:48:05,430 --> 00:48:05,440
+through so I would say there definitely
+ 
+
+1673
+00:48:05,440 --> 00:48:09,430
+through so I would say there definitely
+is some amount of in context uh learning
+
+1674
+00:48:09,430 --> 00:48:09,440
+is some amount of in context uh learning
+ 
+
+1675
+00:48:09,440 --> 00:48:12,230
+is some amount of in context uh learning
+go going on in in these very big
+
+1676
+00:48:12,230 --> 00:48:12,240
+go going on in in these very big
+ 
+
+1677
+00:48:12,240 --> 00:48:15,190
+go going on in in these very big
+language models which allow it to to
+
+1678
+00:48:15,190 --> 00:48:15,200
+language models which allow it to to
+ 
+
+1679
+00:48:15,200 --> 00:48:18,710
+language models which allow it to to
+kind of understand a new language which
+
+1680
+00:48:18,710 --> 00:48:18,720
+kind of understand a new language which
+ 
+
+1681
+00:48:18,720 --> 00:48:21,750
+kind of understand a new language which
+is not too dissimilar from from the
+
+1682
+00:48:21,750 --> 00:48:21,760
+is not too dissimilar from from the
+ 
+
+1683
+00:48:21,760 --> 00:48:25,510
+is not too dissimilar from from the
+existing uh languages I could imagine
+
+1684
+00:48:25,510 --> 00:48:25,520
+existing uh languages I could imagine
+ 
+
+1685
+00:48:25,520 --> 00:48:27,910
+existing uh languages I could imagine
+and it's occasionally frustrating that
+
+1686
+00:48:27,910 --> 00:48:27,920
+and it's occasionally frustrating that
+ 
+
+1687
+00:48:27,920 --> 00:48:31,589
+and it's occasionally frustrating that
+if I kind of had the capacity to to
+
+1688
+00:48:31,589 --> 00:48:31,599
+if I kind of had the capacity to to
+ 
+
+1689
+00:48:31,599 --> 00:48:35,349
+if I kind of had the capacity to to
+train it myself and I would train it on
+
+1690
+00:48:35,349 --> 00:48:35,359
+train it myself and I would train it on
+ 
+
+1691
+00:48:35,359 --> 00:48:39,109
+train it myself and I would train it on
+megalodon proofs it stop doing the the
+
+1692
+00:48:39,109 --> 00:48:39,119
+megalodon proofs it stop doing the the
+ 
+
+1693
+00:48:39,119 --> 00:48:42,309
+megalodon proofs it stop doing the the
+most common mistakes that that that it's
+
+1694
+00:48:42,309 --> 00:48:42,319
+most common mistakes that that that it's
+ 
+
+1695
+00:48:42,319 --> 00:48:44,390
+most common mistakes that that that it's
+uh currently
+
+1696
+00:48:44,390 --> 00:48:44,400
+uh currently
+ 
+
+1697
+00:48:44,400 --> 00:48:47,750
+uh currently
+uh doing. Uh what what is slightly
+
+1698
+00:48:47,750 --> 00:48:47,760
+uh doing. Uh what what is slightly
+ 
+
+1699
+00:48:47,760 --> 00:48:49,750
+uh doing. Uh what what is slightly
+interesting but that's probably all just
+
+1700
+00:48:49,750 --> 00:48:49,760
+interesting but that's probably all just
+ 
+
+1701
+00:48:49,760 --> 00:48:54,069
+interesting but that's probably all just
+proprietary technology is that it seems
+
+1702
+00:48:54,069 --> 00:48:54,079
+proprietary technology is that it seems
+ 
+
+1703
+00:48:54,079 --> 00:48:57,109
+proprietary technology is that it seems
+like both especially I will say in the
+
+1704
+00:48:57,109 --> 00:48:57,119
+like both especially I will say in the
+ 
+
+1705
+00:48:57,119 --> 00:48:59,270
+like both especially I will say in the
+whole light case it seems to have
+
+1706
+00:48:59,270 --> 00:48:59,280
+whole light case it seems to have
+ 
+
+1707
+00:48:59,280 --> 00:49:01,349
+whole light case it seems to have
+struggled initially quite a lot and then
+
+1708
+00:49:01,349 --> 00:49:01,359
+struggled initially quite a lot and then
+ 
+
+1709
+00:49:01,359 --> 00:49:03,270
+struggled initially quite a lot and then
+it became better and better. So, so I
+
+1710
+00:49:03,270 --> 00:49:03,280
+it became better and better. So, so I
+ 
+
+1711
+00:49:03,280 --> 00:49:05,349
+it became better and better. So, so I
+would assume
+
+1712
+00:49:05,349 --> 00:49:05,359
+would assume
+ 
+
+1713
+00:49:05,359 --> 00:49:08,549
+would assume
+that it's kind of getting this very long
+
+1714
+00:49:08,549 --> 00:49:08,559
+that it's kind of getting this very long
+ 
+
+1715
+00:49:08,559 --> 00:49:11,109
+that it's kind of getting this very long
+session and it's doing a lot of in
+
+1716
+00:49:11,109 --> 00:49:11,119
+session and it's doing a lot of in
+ 
+
+1717
+00:49:11,119 --> 00:49:15,430
+session and it's doing a lot of in
+context uh learning on on the very very
+
+1718
+00:49:15,430 --> 00:49:15,440
+context uh learning on on the very very
+ 
+
+1719
+00:49:15,440 --> 00:49:19,510
+context uh learning on on the very very
+big session. But yeah, like there are
+
+1720
+00:49:19,510 --> 00:49:19,520
+big session. But yeah, like there are
+ 
+
+1721
+00:49:19,520 --> 00:49:22,710
+big session. But yeah, like there are
+these compactification phases which are
+
+1722
+00:49:22,710 --> 00:49:22,720
+these compactification phases which are
+ 
+
+1723
+00:49:22,720 --> 00:49:25,190
+these compactification phases which are
+probably totally proprietary and nobody
+
+1724
+00:49:25,190 --> 00:49:25,200
+probably totally proprietary and nobody
+ 
+
+1725
+00:49:25,200 --> 00:49:28,230
+probably totally proprietary and nobody
+knows what's going on there. So, so my
+
+1726
+00:49:28,230 --> 00:49:28,240
+knows what's going on there. So, so my
+ 
+
+1727
+00:49:28,240 --> 00:49:30,790
+knows what's going on there. So, so my
+advice is yeah, do the research like
+
+1728
+00:49:30,790 --> 00:49:30,800
+advice is yeah, do the research like
+ 
+
+1729
+00:49:30,800 --> 00:49:32,470
+advice is yeah, do the research like
+there is a lot of interesting research
+
+1730
+00:49:32,470 --> 00:49:32,480
+there is a lot of interesting research
+ 
+
+1731
+00:49:32,480 --> 00:50:42,230
+there is a lot of interesting research
+to to be done there.
+
+1732
+00:50:42,230 --> 00:50:42,240
+
+ 
+
+1733
+00:50:42,240 --> 00:50:46,950
+
+So to to be honest, I I know very little
+
+1734
+00:50:46,950 --> 00:50:46,960
+So to to be honest, I I know very little
+ 
+
+1735
+00:50:46,960 --> 00:50:49,510
+So to to be honest, I I know very little
+so far how how these coding agents are
+
+1736
+00:50:49,510 --> 00:50:49,520
+so far how how these coding agents are
+ 
+
+1737
+00:50:49,520 --> 00:50:53,190
+so far how how these coding agents are
+implemented. I I just tried it and it
+
+1738
+00:50:53,190 --> 00:50:53,200
+implemented. I I just tried it and it
+ 
+
+1739
+00:50:53,200 --> 00:50:58,150
+implemented. I I just tried it and it
+seems to be doing something. And um I I
+
+1740
+00:50:58,150 --> 00:50:58,160
+seems to be doing something. And um I I
+ 
+
+1741
+00:50:58,160 --> 00:51:02,950
+seems to be doing something. And um I I
+I think uh people are working on open
+
+1742
+00:51:02,950 --> 00:51:02,960
+I think uh people are working on open
+ 
+
+1743
+00:51:02,960 --> 00:51:05,829
+I think uh people are working on open
+source coding agents. So we were already
+
+1744
+00:51:05,829 --> 00:51:05,839
+source coding agents. So we were already
+ 
+
+1745
+00:51:05,839 --> 00:51:09,349
+source coding agents. So we were already
+discussing it I think with the Napro
+
+1746
+00:51:09,349 --> 00:51:09,359
+discussing it I think with the Napro
+ 
+
+1747
+00:51:09,359 --> 00:51:13,510
+discussing it I think with the Napro
+guys like Atla Adrian and also with Zar
+
+1748
+00:51:13,510 --> 00:51:13,520
+guys like Atla Adrian and also with Zar
+ 
+
+1749
+00:51:13,520 --> 00:51:15,510
+guys like Atla Adrian and also with Zar
+and Yaenbrook
+
+1750
+00:51:15,510 --> 00:51:15,520
+and Yaenbrook
+ 
+
+1751
+00:51:15,520 --> 00:51:19,190
+and Yaenbrook
+that we could really look at uh some I
+
+1752
+00:51:19,190 --> 00:51:19,200
+that we could really look at uh some I
+ 
+
+1753
+00:51:19,200 --> 00:51:21,670
+that we could really look at uh some I
+think there is like Quen code which is
+
+1754
+00:51:21,670 --> 00:51:21,680
+think there is like Quen code which is
+ 
+
+1755
+00:51:21,680 --> 00:51:25,030
+think there is like Quen code which is
+an open source coding agent uh running
+
+1756
+00:51:25,030 --> 00:51:25,040
+an open source coding agent uh running
+ 
+
+1757
+00:51:25,040 --> 00:51:28,549
+an open source coding agent uh running
+on top of Quen or Deepseek or whatever
+
+1758
+00:51:28,549 --> 00:51:28,559
+on top of Quen or Deepseek or whatever
+ 
+
+1759
+00:51:28,559 --> 00:51:31,829
+on top of Quen or Deepseek or whatever
+and I guess there you could you could
+
+1760
+00:51:31,829 --> 00:51:31,839
+and I guess there you could you could
+ 
+
+1761
+00:51:31,839 --> 00:51:36,069
+and I guess there you could you could
+start doing the modification that you
+
+1762
+00:51:36,069 --> 00:51:36,079
+start doing the modification that you
+ 
+
+1763
+00:51:36,079 --> 00:51:41,589
+start doing the modification that you
+are uh proposing like uh I have no idea
+
+1764
+00:51:41,589 --> 00:51:41,599
+are uh proposing like uh I have no idea
+ 
+
+1765
+00:51:41,599 --> 00:51:46,870
+are uh proposing like uh I have no idea
+at this point how how these things are
+
+1766
+00:51:46,870 --> 00:51:46,880
+at this point how how these things are
+ 
+
+1767
+00:51:46,880 --> 00:51:51,910
+at this point how how these things are
+developed. Uh what I would now now that
+
+1768
+00:51:51,910 --> 00:51:51,920
+developed. Uh what I would now now that
+ 
+
+1769
+00:51:51,920 --> 00:51:54,230
+developed. Uh what I would now now that
+I'm me mentioning these open source
+
+1770
+00:51:54,230 --> 00:51:54,240
+I'm me mentioning these open source
+ 
+
+1771
+00:51:54,240 --> 00:51:57,430
+I'm me mentioning these open source
+coding agents what what seems to be
+
+1772
+00:51:57,430 --> 00:51:57,440
+coding agents what what seems to be
+ 
+
+1773
+00:51:57,440 --> 00:52:01,270
+coding agents what what seems to be
+interesting and like Zel and also John
+
+1774
+00:52:01,270 --> 00:52:01,280
+interesting and like Zel and also John
+ 
+
+1775
+00:52:01,280 --> 00:52:06,230
+interesting and like Zel and also John
+Harrison confirmed it is that what it it
+
+1776
+00:52:06,230 --> 00:52:06,240
+Harrison confirmed it is that what it it
+ 
+
+1777
+00:52:06,240 --> 00:52:08,309
+Harrison confirmed it is that what it it
+seems like a good idea to use for
+
+1778
+00:52:08,309 --> 00:52:08,319
+seems like a good idea to use for
+ 
+
+1779
+00:52:08,319 --> 00:52:10,790
+seems like a good idea to use for
+example DeepS which is open source and
+
+1780
+00:52:10,790 --> 00:52:10,800
+example DeepS which is open source and
+ 
+
+1781
+00:52:10,800 --> 00:52:15,270
+example DeepS which is open source and
+do some finetuning etc etc but um there
+
+1782
+00:52:15,270 --> 00:52:15,280
+do some finetuning etc etc but um there
+ 
+
+1783
+00:52:15,280 --> 00:52:19,430
+do some finetuning etc etc but um there
+is really a performance jump between CH
+
+1784
+00:52:19,430 --> 00:52:19,440
+is really a performance jump between CH
+ 
+
+1785
+00:52:19,440 --> 00:52:25,349
+is really a performance jump between CH
+GPT 5.1 and CH GPT 5.2 and also between
+
+1786
+00:52:25,349 --> 00:52:25,359
+GPT 5.1 and CH GPT 5.2 and also between
+ 
+
+1787
+00:52:25,359 --> 00:52:31,589
+GPT 5.1 and CH GPT 5.2 and also between
+CL set and cloth OPUS. So, uh it's it it
+
+1788
+00:52:31,589 --> 00:52:31,599
+CL set and cloth OPUS. So, uh it's it it
+ 
+
+1789
+00:52:31,599 --> 00:52:35,109
+CL set and cloth OPUS. So, uh it's it it
+seems like a good idea to to get into
+
+1790
+00:52:35,109 --> 00:52:35,119
+seems like a good idea to to get into
+ 
+
+1791
+00:52:35,119 --> 00:52:37,750
+seems like a good idea to to get into
+fine-tuning deepseek and and doing open
+
+1792
+00:52:37,750 --> 00:52:37,760
+fine-tuning deepseek and and doing open
+ 
+
+1793
+00:52:37,760 --> 00:52:41,270
+fine-tuning deepseek and and doing open
+source uh coding agents focused on
+
+1794
+00:52:41,270 --> 00:52:41,280
+source uh coding agents focused on
+ 
+
+1795
+00:52:41,280 --> 00:52:42,950
+source uh coding agents focused on
+autominalization.
+
+1796
+00:52:42,950 --> 00:52:42,960
+autominalization.
+ 
+
+1797
+00:52:42,960 --> 00:52:45,829
+autominalization.
+But like this recent experience of
+
+1798
+00:52:45,829 --> 00:52:45,839
+But like this recent experience of
+ 
+
+1799
+00:52:45,839 --> 00:52:51,030
+But like this recent experience of
+several people is that the newer heavier
+
+1800
+00:52:51,030 --> 00:52:51,040
+several people is that the newer heavier
+ 
+
+1801
+00:52:51,040 --> 00:52:53,750
+several people is that the newer heavier
+models are really
+
+1802
+00:52:53,750 --> 00:52:53,760
+models are really
+ 
+
+1803
+00:52:53,760 --> 00:52:58,150
+models are really
+uh quite a bit more powerful than the
+
+1804
+00:52:58,150 --> 00:52:58,160
+uh quite a bit more powerful than the
+ 
+
+1805
+00:52:58,160 --> 00:53:01,190
+uh quite a bit more powerful than the
+smaller older models and all all of this
+
+1806
+00:53:01,190 --> 00:53:01,200
+smaller older models and all all of this
+ 
+
+1807
+00:53:01,200 --> 00:53:05,270
+smaller older models and all all of this
+is proprietary. Uh so it could still be
+
+1808
+00:53:05,270 --> 00:53:05,280
+is proprietary. Uh so it could still be
+ 
+
+1809
+00:53:05,280 --> 00:53:08,470
+is proprietary. Uh so it could still be
+the case that that there is some kind of
+
+1810
+00:53:08,470 --> 00:53:08,480
+the case that that there is some kind of
+ 
+
+1811
+00:53:08,480 --> 00:53:10,870
+the case that that there is some kind of
+phase ph face transition.
+
+1812
+00:53:10,870 --> 00:53:10,880
+phase ph face transition.
+ 
+
+1813
+00:53:10,880 --> 00:53:14,630
+phase ph face transition.
+Uh that kind of just happened recently
+
+1814
+00:53:14,630 --> 00:53:14,640
+Uh that kind of just happened recently
+ 
+
+1815
+00:53:14,640 --> 00:53:18,309
+Uh that kind of just happened recently
+where the kind of amount of general
+
+1816
+00:53:18,309 --> 00:53:18,319
+where the kind of amount of general
+ 
+
+1817
+00:53:18,319 --> 00:53:21,510
+where the kind of amount of general
+reasoning the new models are capable of
+
+1818
+00:53:21,510 --> 00:53:21,520
+reasoning the new models are capable of
+ 
+
+1819
+00:53:21,520 --> 00:53:25,750
+reasoning the new models are capable of
+doing is good enough to to do some of
+
+1820
+00:53:25,750 --> 00:53:25,760
+doing is good enough to to do some of
+ 
+
+1821
+00:53:25,760 --> 00:53:27,829
+doing is good enough to to do some of
+these things. While for the older
+
+1822
+00:53:27,829 --> 00:53:27,839
+these things. While for the older
+ 
+
+1823
+00:53:27,839 --> 00:53:31,109
+these things. While for the older
+smaller models it it wasn't uh so good.
+
+1824
+00:53:31,109 --> 00:53:31,119
+smaller models it it wasn't uh so good.
+ 
+
+1825
+00:53:31,119 --> 00:53:34,069
+smaller models it it wasn't uh so good.
+So yeah, that that's kind of a caveat if
+
+1826
+00:53:34,069 --> 00:53:34,079
+So yeah, that that's kind of a caveat if
+ 
+
+1827
+00:53:34,079 --> 00:53:36,549
+So yeah, that that's kind of a caveat if
+you if you want to go into like this
+
+1828
+00:53:36,549 --> 00:53:36,559
+you if you want to go into like this
+ 
+
+1829
+00:53:36,559 --> 00:53:39,910
+you if you want to go into like this
+kind of open source uh hacking of the
+
+1830
+00:53:39,910 --> 00:53:39,920
+kind of open source uh hacking of the
+ 
+
+1831
+00:53:39,920 --> 00:53:42,150
+kind of open source uh hacking of the
+open source open source models. It it
+
+1832
+00:53:42,150 --> 00:53:42,160
+open source open source models. It it
+ 
+
+1833
+00:53:42,160 --> 00:53:45,670
+open source open source models. It it
+might be frustrating. Uh but yeah, I I
+
+1834
+00:53:45,670 --> 00:53:45,680
+might be frustrating. Uh but yeah, I I
+ 
+
+1835
+00:53:45,680 --> 00:53:48,790
+might be frustrating. Uh but yeah, I I
+have no doubt that in couple of months
+
+1836
+00:53:48,790 --> 00:53:48,800
+have no doubt that in couple of months
+ 
+
+1837
+00:53:48,800 --> 00:53:51,589
+have no doubt that in couple of months
+or at most a year we will have open-
+
+1838
+00:53:51,589 --> 00:53:51,599
+or at most a year we will have open-
+ 
+
+1839
+00:53:51,599 --> 00:53:54,630
+or at most a year we will have open-
+source fine-tuned models for doing this
+
+1840
+00:53:54,630 --> 00:53:54,640
+source fine-tuned models for doing this
+ 
+
+1841
+00:53:54,640 --> 00:53:57,910
+source fine-tuned models for doing this
+and it will cost us $1 instead of $100
+
+1842
+00:53:57,910 --> 00:53:57,920
+and it will cost us $1 instead of $100
+ 
+
+1843
+00:53:57,920 --> 00:54:20,309
+and it will cost us $1 instead of $100
+to to to do it.
+
+1844
+00:54:20,309 --> 00:54:20,319
+
+ 
+
+1845
+00:54:20,319 --> 00:54:24,630
+
+Well, so my impression is that the the
+
+1846
+00:54:24,630 --> 00:54:24,640
+Well, so my impression is that the the
+ 
+
+1847
+00:54:24,640 --> 00:54:27,349
+Well, so my impression is that the the
+model doesn't have too much trouble with
+
+1848
+00:54:27,349 --> 00:54:27,359
+model doesn't have too much trouble with
+ 
+
+1849
+00:54:27,359 --> 00:54:32,069
+model doesn't have too much trouble with
+it. Uh so so then it's kind of really
+
+1850
+00:54:32,069 --> 00:54:32,079
+it. Uh so so then it's kind of really
+ 
+
+1851
+00:54:32,079 --> 00:54:35,109
+it. Uh so so then it's kind of really
+posing the question how much is this
+
+1852
+00:54:35,109 --> 00:54:35,119
+posing the question how much is this
+ 
+
+1853
+00:54:35,119 --> 00:54:37,190
+posing the question how much is this
+doing auto formalization and how much it
+
+1854
+00:54:37,190 --> 00:54:37,200
+doing auto formalization and how much it
+ 
+
+1855
+00:54:37,200 --> 00:54:40,230
+doing auto formalization and how much it
+is doing some some theorem proving but
+
+1856
+00:54:40,230 --> 00:54:40,240
+is doing some some theorem proving but
+ 
+
+1857
+00:54:40,240 --> 00:54:42,950
+is doing some some theorem proving but
+like the big caveat which I already
+
+1858
+00:54:42,950 --> 00:54:42,960
+like the big caveat which I already
+ 
+
+1859
+00:54:42,960 --> 00:54:46,390
+like the big caveat which I already
+mentioned is that this is a book which
+
+1860
+00:54:46,390 --> 00:54:46,400
+mentioned is that this is a book which
+ 
+
+1861
+00:54:46,400 --> 00:54:50,630
+mentioned is that this is a book which
+has existed for decades and
+
+1862
+00:54:50,630 --> 00:54:50,640
+has existed for decades and
+ 
+
+1863
+00:54:50,640 --> 00:54:52,309
+has existed for decades and
+a lot of students have been taught
+
+1864
+00:54:52,309 --> 00:54:52,319
+a lot of students have been taught
+ 
+
+1865
+00:54:52,319 --> 00:54:54,790
+a lot of students have been taught
+topology from from that and I would
+
+1866
+00:54:54,790 --> 00:54:54,800
+topology from from that and I would
+ 
+
+1867
+00:54:54,800 --> 00:54:57,190
+topology from from that and I would
+expect that basically all the exercises
+
+1868
+00:54:57,190 --> 00:54:57,200
+expect that basically all the exercises
+ 
+
+1869
+00:54:57,200 --> 00:55:00,710
+expect that basically all the exercises
+is have a solution somewhere out on the
+
+1870
+00:55:00,710 --> 00:55:00,720
+is have a solution somewhere out on the
+ 
+
+1871
+00:55:00,720 --> 00:55:06,549
+is have a solution somewhere out on the
+internet. So it's it's like um you you
+
+1872
+00:55:06,549 --> 00:55:06,559
+internet. So it's it's like um you you
+ 
+
+1873
+00:55:06,559 --> 00:55:10,069
+internet. So it's it's like um you you
+would again need to do these experiments
+
+1874
+00:55:10,069 --> 00:55:10,079
+would again need to do these experiments
+ 
+
+1875
+00:55:10,079 --> 00:55:13,349
+would again need to do these experiments
+with some controlled
+
+1876
+00:55:13,349 --> 00:55:13,359
+with some controlled
+ 
+
+1877
+00:55:13,359 --> 00:55:15,990
+with some controlled
+open-source model or a model that you
+
+1878
+00:55:15,990 --> 00:55:16,000
+open-source model or a model that you
+ 
+
+1879
+00:55:16,000 --> 00:55:18,710
+open-source model or a model that you
+trained fully by yourself and you know
+
+1880
+00:55:18,710 --> 00:55:18,720
+trained fully by yourself and you know
+ 
+
+1881
+00:55:18,720 --> 00:55:20,630
+trained fully by yourself and you know
+what is in the training data and what is
+
+1882
+00:55:20,630 --> 00:55:20,640
+what is in the training data and what is
+ 
+
+1883
+00:55:20,640 --> 00:55:22,950
+what is in the training data and what is
+not in the training data. so that you
+
+1884
+00:55:22,950 --> 00:55:22,960
+not in the training data. so that you
+ 
+
+1885
+00:55:22,960 --> 00:55:27,270
+not in the training data. so that you
+could have some claims about uh how good
+
+1886
+00:55:27,270 --> 00:55:27,280
+could have some claims about uh how good
+ 
+
+1887
+00:55:27,280 --> 00:55:30,150
+could have some claims about uh how good
+it is in uh basically solving new
+
+1888
+00:55:30,150 --> 00:55:30,160
+it is in uh basically solving new
+ 
+
+1889
+00:55:30,160 --> 00:55:32,790
+it is in uh basically solving new
+problems in these exercises from from
+
+1890
+00:55:32,790 --> 00:55:32,800
+problems in these exercises from from
+ 
+
+1891
+00:55:32,800 --> 00:55:36,790
+problems in these exercises from from
+scratch. Uh currently at least I I
+
+1892
+00:55:36,790 --> 00:55:36,800
+scratch. Uh currently at least I I
+ 
+
+1893
+00:55:36,800 --> 00:55:40,630
+scratch. Uh currently at least I I
+didn't really focus on watching it too
+
+1894
+00:55:40,630 --> 00:55:40,640
+didn't really focus on watching it too
+ 
+
+1895
+00:55:40,640 --> 00:55:42,710
+didn't really focus on watching it too
+much. I I kind of more focused on
+
+1896
+00:55:42,710 --> 00:55:42,720
+much. I I kind of more focused on
+ 
+
+1897
+00:55:42,720 --> 00:55:44,790
+much. I I kind of more focused on
+preventing it from trying to solve the
+
+1898
+00:55:44,790 --> 00:55:44,800
+preventing it from trying to solve the
+ 
+
+1899
+00:55:44,800 --> 00:55:47,589
+preventing it from trying to solve the
+exercises. But my my impression was that
+
+1900
+00:55:47,589 --> 00:55:47,599
+exercises. But my my impression was that
+ 
+
+1901
+00:55:47,599 --> 00:55:50,390
+exercises. But my my impression was that
+it it didn't have much trouble. So
+
+1902
+00:55:50,390 --> 00:55:50,400
+it it didn't have much trouble. So
+ 
+
+1903
+00:55:50,400 --> 00:56:01,589
+it it didn't have much trouble. So
+solving the exercises.
+
+1904
+00:56:01,589 --> 00:56:01,599
+
+ 
+
+1905
+00:56:01,599 --> 00:56:05,750
+
+Yeah. Thanks for having me.
+
+1906
+00:56:05,750 --> 00:56:05,760
+
+ 
+
+1907
+00:56:05,760 --> 00:56:09,589
+
+Uh okay guys. So good luck with auto
+
+1908
+00:56:09,589 --> 00:56:09,599
+Uh okay guys. So good luck with auto
+ 
+
+1909
+00:56:09,599 --> 00:56:13,190
+Uh okay guys. So good luck with auto
+formalization. See you sometimes.
+
+1910
+00:56:13,190 --> 00:56:13,200
+formalization. See you sometimes.
+ 
+
+1911
+00:56:13,200 --> 00:56:16,200
+formalization. See you sometimes.
+Bye-bye.
+

@@ -1,0 +1,8300 @@
+1
+00:00:05,329 --> 00:00:08,510
+So this is my,
+
+2
+00:00:08,520 --> 00:00:09,090
+actually,
+
+3
+00:00:09,100 --> 00:00:10,960
+even though I'm native to Prague,
+
+4
+00:00:10,970 --> 00:00:13,989
+and I've lived here on and off for some,
+
+5
+00:00:14,319 --> 00:00:15,869
+well half of my life,
+
+6
+00:00:15,880 --> 00:00:18,450
+I've never given a talk at a conference in Prague.
+
+7
+00:00:18,690 --> 00:00:20,909
+So this is my first time in Prague.
+
+8
+00:00:21,979 --> 00:00:26,950
+And uh I usually do talks 
+
+9
+00:00:26,959 --> 00:00:29,680
+at automated reasoning conferences.
+
+10
+00:00:30,020 --> 00:00:30,340
+So,
+
+11
+00:00:30,350 --> 00:00:31,129
+so I'm,
+
+12
+00:00:31,149 --> 00:00:35,080
+I'm curious like what this will turn into 
+
+13
+00:00:35,610 --> 00:00:40,180
+and what you A G I people are about 
+
+14
+00:00:40,189 --> 00:00:41,259
+and like,
+
+15
+00:00:41,270 --> 00:00:43,509
+definitely ask questions if you,
+
+16
+00:00:43,520 --> 00:00:45,680
+if you don't understand something,
+
+17
+00:00:45,810 --> 00:00:46,259
+etcetera.
+
+18
+00:00:47,290 --> 00:00:52,000
+I um so be be before I first 
+
+19
+00:00:52,009 --> 00:00:53,240
+get into it.
+
+20
+00:00:53,950 --> 00:00:57,119
+I because of the location,
+
+21
+00:00:57,900 --> 00:01:02,520
+I was giving two months ago a talk in 
+
+22
+00:01:02,529 --> 00:01:06,489
+Pittsburgh at the conference in honor 
+
+23
+00:01:06,830 --> 00:01:11,019
+of Tom Hall who is the guy who proved the Khol conjecture.
+
+24
+00:01:11,809 --> 00:01:13,449
+So K conjecture,
+
+25
+00:01:13,459 --> 00:01:15,459
+I will be talking about it as a conjecture,
+
+26
+00:01:15,470 --> 00:01:20,089
+mathematical conjecture in geometry about stacking the optimal packing of 
+
+27
+00:01:20,099 --> 00:01:21,430
+balls in space.
+
+28
+00:01:21,910 --> 00:01:23,830
+And that's been for 400 years,
+
+29
+00:01:23,839 --> 00:01:28,690
+an open conjecture which Tom proved and he also proved it 
+
+30
+00:01:28,699 --> 00:01:29,790
+formally on,
+
+31
+00:01:29,800 --> 00:01:30,930
+on a computer basically.
+
+32
+00:01:30,940 --> 00:01:31,830
+So,
+
+33
+00:01:31,839 --> 00:01:33,050
+um so there,
+
+34
+00:01:33,059 --> 00:01:37,639
+there was a huge conference for his sixth birthday and on that 
+
+35
+00:01:37,650 --> 00:01:38,519
+occasion,
+
+36
+00:01:39,010 --> 00:01:43,750
+I sort of digged up uh what was happening 
+
+37
+00:01:43,760 --> 00:01:48,599
+in Prague some 400 years ago when Kepler 
+
+38
+00:01:48,629 --> 00:01:51,919
+and Brahe and all these guys,
+
+39
+00:01:52,839 --> 00:01:53,620
+they are doing,
+
+40
+00:01:53,629 --> 00:01:55,059
+doing that research here.
+
+41
+00:01:55,819 --> 00:01:59,889
+And basically what happened then,
+
+42
+00:01:59,900 --> 00:02:04,819
+like with the Kepler loss and Kepler conjecture and all 
+
+43
+00:02:04,830 --> 00:02:07,260
+these exact measurements which had,
+
+44
+00:02:07,269 --> 00:02:11,869
+and which led Kepler and Galileo and later guys 
+
+45
+00:02:12,410 --> 00:02:16,929
+to what they did is to some extent,
+
+46
+00:02:16,940 --> 00:02:19,809
+the beginning of what is called the scientific revolution.
+
+47
+00:02:20,539 --> 00:02:22,190
+Uh So,
+
+48
+00:02:22,639 --> 00:02:25,440
+so if you still have time here,
+
+49
+00:02:25,619 --> 00:02:28,750
+I I strongly sort of encourage you to,
+
+50
+00:02:28,759 --> 00:02:33,600
+to take a look at all these places like at the Prague Castle,
+
+51
+00:02:33,610 --> 00:02:37,000
+et cetera where these people really worked.
+
+52
+00:02:37,580 --> 00:02:39,759
+And uh to,
+
+53
+00:02:39,770 --> 00:02:40,759
+to some extent,
+
+54
+00:02:40,770 --> 00:02:40,960
+it's,
+
+55
+00:02:40,970 --> 00:02:44,750
+it's really the beginning of uh sort 
+
+56
+00:02:46,100 --> 00:02:50,839
+of matheos like which like Newton to 
+
+57
+00:02:50,850 --> 00:02:53,929
+his princi pr and,
+
+58
+00:02:53,940 --> 00:02:58,649
+and talk to the real development of mathematical physics 
+
+59
+00:02:58,660 --> 00:03:03,270
+and like in the end to all these tools which uh 
+
+60
+00:03:03,809 --> 00:03:08,649
+which sort of basically and with the development of computer 
+
+61
+00:03:08,660 --> 00:03:11,320
+and the origin of artificial intelligence.
+
+62
+00:03:11,779 --> 00:03:13,779
+So to some extent,
+
+63
+00:03:13,789 --> 00:03:16,660
+I'm not saying this is the only place where it began.
+
+64
+00:03:16,889 --> 00:03:18,130
+But to some extent,
+
+65
+00:03:18,139 --> 00:03:22,970
+you are in a place where a lot of that process 
+
+66
+00:03:22,979 --> 00:03:25,039
+began 400 years ago.
+
+67
+00:03:26,399 --> 00:03:28,580
+So now I'll get into micro propaganda.
+
+68
+00:03:29,919 --> 00:03:34,880
+Um So no one shall drive us from the semantic A I paradise of computer understandable 
+
+69
+00:03:34,889 --> 00:03:35,919
+math and science.
+
+70
+00:03:36,229 --> 00:03:39,169
+Um So I will explain in a,
+
+71
+00:03:39,179 --> 00:03:40,449
+in a bit for,
+
+72
+00:03:40,460 --> 00:03:44,539
+for those who don't know the pun uh 
+
+73
+00:03:45,160 --> 00:03:49,619
+this is the outline of the talk.
+
+74
+00:03:49,630 --> 00:03:54,419
+So I'll say something about this sort of 
+
+75
+00:03:54,429 --> 00:03:58,860
+high level motivation for basically doing artificial 
+
+76
+00:03:58,869 --> 00:04:03,289
+intelligence over uh semantic,
+
+77
+00:04:03,300 --> 00:04:08,100
+a large semantic corporal of which uh 
+
+78
+00:04:08,110 --> 00:04:10,460
+formal mathematics is today.
+
+79
+00:04:10,470 --> 00:04:12,789
+Really the primal representative.
+
+80
+00:04:13,699 --> 00:04:18,269
+Then I'll tell you what is basically computer understandable mathematics.
+
+81
+00:04:18,279 --> 00:04:19,779
+What is formal mathematics?
+
+82
+00:04:20,420 --> 00:04:20,850
+I'll,
+
+83
+00:04:20,858 --> 00:04:23,320
+I'll show you some demo of how,
+
+84
+00:04:23,329 --> 00:04:24,880
+how the system works.
+
+85
+00:04:25,700 --> 00:04:29,480
+Uh Like how well they are used by uh people today.
+
+86
+00:04:30,390 --> 00:04:35,000
+And then I'll go into some details of particular 
+
+87
+00:04:35,010 --> 00:04:35,649
+systems,
+
+88
+00:04:35,660 --> 00:04:40,250
+how we are basically combining machine learning and 
+
+89
+00:04:40,260 --> 00:04:45,250
+like deduction and reasoning tools into some sort of bigger 
+
+90
+00:04:45,260 --> 00:04:48,890
+A I tools which combine reasoning and learning.
+
+91
+00:04:49,700 --> 00:04:51,459
+And so,
+
+92
+00:04:51,470 --> 00:04:56,390
+so if the last bit is is this out of formalization at the at the 
+
+93
+00:04:56,399 --> 00:04:57,220
+bottom,
+
+94
+00:04:57,589 --> 00:05:02,540
+which is uh sort of um branch of this 
+
+95
+00:05:02,549 --> 00:05:06,700
+research where we take informal knowledge at the moment,
+
+96
+00:05:06,709 --> 00:05:08,019
+informal mathematical knowledge,
+
+97
+00:05:08,029 --> 00:05:12,700
+but it should be applicable to hard sciences in general 
+
+98
+00:05:13,140 --> 00:05:17,119
+and try to automatically translate it into this 
+
+99
+00:05:17,230 --> 00:05:21,720
+beautiful world of semantic computer understandable 
+
+100
+00:05:21,730 --> 00:05:26,660
+mathematics on which we can do all these sort of cool 
+
+101
+00:05:26,670 --> 00:05:27,630
+experiments.
+
+102
+00:05:29,359 --> 00:05:33,500
+So this is the very high level 
+
+103
+00:05:33,510 --> 00:05:34,549
+motivation.
+
+104
+00:05:35,529 --> 00:05:38,609
+And that's basically the,
+
+105
+00:05:38,619 --> 00:05:39,029
+the,
+
+106
+00:05:39,750 --> 00:05:41,049
+the question,
+
+107
+00:05:41,059 --> 00:05:46,010
+the big question here is how do we automate mathematical and uh 
+
+108
+00:05:46,019 --> 00:05:47,829
+scientific thinking?
+
+109
+00:05:48,480 --> 00:05:52,799
+Um And um on,
+
+110
+00:05:52,809 --> 00:05:54,200
+on one hand,
+
+111
+00:05:54,209 --> 00:05:59,119
+uh when you uh when you do mathematics and when you 
+
+112
+00:05:59,130 --> 00:06:00,579
+do like hard science,
+
+113
+00:06:01,359 --> 00:06:01,679
+you,
+
+114
+00:06:01,690 --> 00:06:06,600
+you know that you are doing a lot of pattern matching 
+
+115
+00:06:06,609 --> 00:06:10,619
+and analogizing and induction from examples that you have so 
+
+116
+00:06:11,929 --> 00:06:13,399
+that you have seen and learned.
+
+117
+00:06:14,390 --> 00:06:16,200
+But on the other hand,
+
+118
+00:06:16,209 --> 00:06:20,529
+you also know that without especially in mathematics,
+
+119
+00:06:21,329 --> 00:06:25,470
+without bringing your ideas to complete 
+
+120
+00:06:25,480 --> 00:06:26,679
+proof,
+
+121
+00:06:26,929 --> 00:06:31,720
+you basically have nothing and you could be very badly mistaken.
+
+122
+00:06:32,540 --> 00:06:36,510
+And obviously there are all these complicated feedback loops 
+
+123
+00:06:37,809 --> 00:06:42,329
+between our intuition and 
+
+124
+00:06:42,339 --> 00:06:47,190
+the reasoning processes and the sort of final 
+
+125
+00:06:47,200 --> 00:06:52,019
+deduction processes and sometimes the intuition can be clearly 
+
+126
+00:06:52,029 --> 00:06:52,380
+wrong.
+
+127
+00:06:52,390 --> 00:06:57,290
+Like when you look at examples 
+
+128
+00:06:57,299 --> 00:06:58,410
+from physics,
+
+129
+00:06:58,420 --> 00:07:02,760
+like something like relativity or quantum mechanics is 
+
+130
+00:07:02,769 --> 00:07:04,839
+extremely unintuitive,
+
+131
+00:07:05,309 --> 00:07:10,200
+but you sort of force yourself to go there by using deduction basically.
+
+132
+00:07:11,010 --> 00:07:15,929
+And then based on that your intuition changes and 
+
+133
+00:07:15,940 --> 00:07:20,450
+you are able to come up with more and more complicated models of 
+
+134
+00:07:20,459 --> 00:07:21,290
+reality.
+
+135
+00:07:23,000 --> 00:07:26,019
+So so to get there,
+
+136
+00:07:26,350 --> 00:07:29,950
+we clearly are using a lot of previous knowledge,
+
+137
+00:07:29,959 --> 00:07:34,140
+both for this sort of learning of our intuition,
+
+138
+00:07:34,260 --> 00:07:39,140
+but also for drawing facts from the huge knowledge basis which 
+
+139
+00:07:39,149 --> 00:07:40,380
+we have observed.
+
+140
+00:07:41,410 --> 00:07:46,230
+And we would like to develop such methods,
+
+141
+00:07:46,239 --> 00:07:47,790
+such technology on computers,
+
+142
+00:07:47,799 --> 00:07:48,260
+obviously,
+
+143
+00:07:48,269 --> 00:07:53,200
+we would like to have very strong assistance for doing math and for 
+
+144
+00:07:53,209 --> 00:07:54,029
+doing science.
+
+145
+00:07:54,040 --> 00:07:56,880
+And that should be one of your goals,
+
+146
+00:07:56,890 --> 00:07:57,089
+right?
+
+147
+00:07:57,100 --> 00:07:57,630
+Like you,
+
+148
+00:07:57,640 --> 00:07:58,980
+you should,
+
+149
+00:07:59,100 --> 00:08:03,470
+if you want to reach singularity or general A I,
+
+150
+00:08:03,480 --> 00:08:08,290
+you you should strive to uh develop tools that do science on,
+
+151
+00:08:08,299 --> 00:08:11,769
+on the sort of human or superhuman level.
+
+152
+00:08:12,570 --> 00:08:13,130
+So,
+
+153
+00:08:15,250 --> 00:08:19,910
+so when I started to do that I basically looked what would be good.
+
+154
+00:08:19,940 --> 00:08:24,880
+Um Corp which would be usable 
+
+155
+00:08:24,890 --> 00:08:29,829
+both for a very precise deduction when sort of 
+
+156
+00:08:29,839 --> 00:08:33,630
+the knowledge isn't imprecise at the bottom.
+
+157
+00:08:33,640 --> 00:08:38,580
+And you can't really do a lot of reasoning chains and long reasoning 
+
+158
+00:08:38,590 --> 00:08:39,070
+chase,
+
+159
+00:08:39,549 --> 00:08:44,400
+but also a corpora which would be big so that 
+
+160
+00:08:44,409 --> 00:08:46,950
+you could do the stuff that we do,
+
+161
+00:08:46,960 --> 00:08:48,830
+you could do all sorts of learning from,
+
+162
+00:08:48,840 --> 00:08:49,609
+from the corpora,
+
+163
+00:08:49,619 --> 00:08:53,190
+like learning from a textbook of math or a textbook of physics.
+
+164
+00:08:53,989 --> 00:08:58,690
+And actually like 20 years ago when I started to 
+
+165
+00:08:58,700 --> 00:09:00,169
+look at this,
+
+166
+00:09:01,119 --> 00:09:05,750
+there already were these large libraries of formal 
+
+167
+00:09:05,760 --> 00:09:08,700
+proof and formal theories.
+
+168
+00:09:09,419 --> 00:09:13,619
+And that's sort of this field of formalization of mathematics,
+
+169
+00:09:13,630 --> 00:09:17,880
+of doing mathematics fully in a computer,
+
+170
+00:09:17,890 --> 00:09:20,400
+understandable and computer verified way.
+
+171
+00:09:21,109 --> 00:09:21,489
+And that,
+
+172
+00:09:21,500 --> 00:09:22,979
+that's basically the,
+
+173
+00:09:22,989 --> 00:09:27,340
+the sort of field uh where I'm working on like 
+
+174
+00:09:27,349 --> 00:09:31,979
+developing the sort of strong A I uh tools on on top 
+
+175
+00:09:31,989 --> 00:09:32,979
+of this cor.
+
+176
+00:09:34,669 --> 00:09:36,570
+Um So,
+
+177
+00:09:36,580 --> 00:09:41,280
+so this is um the P um the P 
+
+178
+00:09:41,450 --> 00:09:45,280
+uh is on the right hand side.
+
+179
+00:09:45,289 --> 00:09:50,229
+So there are these two uh two guys like one is called 
+
+180
+00:09:50,239 --> 00:09:52,809
+Po Carre and one is called Hilbert.
+
+181
+00:09:53,880 --> 00:09:55,770
+And this,
+
+182
+00:09:56,080 --> 00:10:00,250
+this picture by the way comes from a very nice book called Logic Comics,
+
+183
+00:10:00,260 --> 00:10:01,630
+An Epic Search For Truth,
+
+184
+00:10:01,640 --> 00:10:04,289
+which is about the life of Bertrand Russell,
+
+185
+00:10:04,880 --> 00:10:08,690
+which I really recommend to anybody who wants some sort of introduction 
+
+186
+00:10:09,469 --> 00:10:14,469
+to basically how mathematics and logic and also 
+
+187
+00:10:14,479 --> 00:10:19,280
+computers and formal reasoning are developed in the last century.
+
+188
+00:10:19,289 --> 00:10:23,960
+So it's an extremely good intro to 
+
+189
+00:10:23,969 --> 00:10:24,349
+that.
+
+190
+00:10:25,289 --> 00:10:27,549
+And so so at the,
+
+191
+00:10:27,559 --> 00:10:29,659
+at the start of last century,
+
+192
+00:10:29,669 --> 00:10:32,219
+there were these 22 great mathematicians,
+
+193
+00:10:32,229 --> 00:10:34,820
+Henri Pore and David Hilbert,
+
+194
+00:10:35,940 --> 00:10:40,929
+who had a very different view of 
+
+195
+00:10:40,940 --> 00:10:41,979
+how,
+
+196
+00:10:42,130 --> 00:10:46,890
+what mathematics is and how mathematics should proceed and which should be the 
+
+197
+00:10:46,900 --> 00:10:50,309
+things uh mathematicians should be doing.
+
+198
+00:10:50,799 --> 00:10:51,090
+So,
+
+199
+00:10:51,099 --> 00:10:53,719
+so Hilbert was a part of,
+
+200
+00:10:54,409 --> 00:10:55,989
+of a process,
+
+201
+00:10:56,000 --> 00:11:00,150
+um which sort of goes back sort of to,
+
+202
+00:11:00,159 --> 00:11:01,960
+to Leibniz at least to Leibnitz.
+
+203
+00:11:03,099 --> 00:11:07,700
+Um the mathematics was really put uh 
+
+204
+00:11:07,710 --> 00:11:12,419
+on a very solid uh logical 
+
+205
+00:11:12,429 --> 00:11:13,109
+basis.
+
+206
+00:11:13,119 --> 00:11:13,739
+So so,
+
+207
+00:11:13,750 --> 00:11:14,500
+but basically,
+
+208
+00:11:14,510 --> 00:11:18,500
+all of mathematics have been in the previous century 
+
+209
+00:11:18,809 --> 00:11:22,929
+put on mm on foundations 
+
+210
+00:11:23,369 --> 00:11:28,299
+where everything can be derived basically 
+
+211
+00:11:28,309 --> 00:11:32,539
+in a way where a computer can check all the 
+
+212
+00:11:32,549 --> 00:11:35,400
+inferences in very advanced mathematical truths.
+
+213
+00:11:35,409 --> 00:11:38,719
+I'll show you some examples at the start of the centuries.
+
+214
+00:11:38,729 --> 00:11:39,440
+Obviously,
+
+215
+00:11:39,450 --> 00:11:44,140
+there was no computers like computers sort of developed 
+
+216
+00:11:44,440 --> 00:11:45,250
+as a,
+
+217
+00:11:45,989 --> 00:11:46,440
+as a,
+
+218
+00:11:46,450 --> 00:11:50,799
+as a sort of in some sense accident of,
+
+219
+00:11:50,809 --> 00:11:50,830
+of,
+
+220
+00:11:50,840 --> 00:11:51,109
+of,
+
+221
+00:11:51,119 --> 00:11:53,690
+of this process of symbolic logic.
+
+222
+00:11:53,700 --> 00:11:56,979
+Like during when he proposed the universe T machine,
+
+223
+00:11:56,989 --> 00:12:01,090
+he actually was proving something 
+
+224
+00:12:01,099 --> 00:12:03,289
+about real numbers,
+
+225
+00:12:03,299 --> 00:12:03,650
+right?
+
+226
+00:12:04,080 --> 00:12:04,729
+And,
+
+227
+00:12:04,739 --> 00:12:09,520
+and Panka was this great sort of last 
+
+228
+00:12:09,979 --> 00:12:14,719
+renaissance renaissance guy who understood everything who understood 
+
+229
+00:12:14,770 --> 00:12:17,549
+all of math and a lot of physics,
+
+230
+00:12:17,559 --> 00:12:18,039
+et cetera.
+
+231
+00:12:18,659 --> 00:12:22,799
+And he argued that this formalism that this 
+
+232
+00:12:24,770 --> 00:12:28,599
+attempt to bring mathematics on solid solid 
+
+233
+00:12:28,609 --> 00:12:33,400
+mechanized footing will kill kill the 
+
+234
+00:12:33,409 --> 00:12:34,419
+mathematical spirit,
+
+235
+00:12:34,429 --> 00:12:36,250
+kill the mathematical intrusion,
+
+236
+00:12:36,260 --> 00:12:41,250
+which he was uh she was uh very,
+
+237
+00:12:41,260 --> 00:12:42,140
+very good at.
+
+238
+00:12:43,000 --> 00:12:43,630
+Uh So,
+
+239
+00:12:43,719 --> 00:12:44,469
+so,
+
+240
+00:12:44,640 --> 00:12:46,179
+so here of this book,
+
+241
+00:12:46,190 --> 00:12:47,619
+Science and Method,
+
+242
+00:12:48,419 --> 00:12:53,289
+um he actually analyzes his own thinking processes.
+
+243
+00:12:53,299 --> 00:12:56,159
+So it's sort of interesting even from,
+
+244
+00:12:56,169 --> 00:12:58,659
+for all sorts of A I people today still.
+
+245
+00:12:59,650 --> 00:13:03,229
+And he has all these sentences there,
+
+246
+00:13:03,239 --> 00:13:05,179
+like and in demonstration itself,
+
+247
+00:13:05,190 --> 00:13:09,450
+logic is not all the true mathematical reasoning is real induction.
+
+248
+00:13:09,679 --> 00:13:14,059
+So it's like people still quarrel what he means by induction there.
+
+249
+00:13:14,070 --> 00:13:18,349
+But you could understood it as an opposite to deduction.
+
+250
+00:13:19,210 --> 00:13:20,450
+And in some sense,
+
+251
+00:13:20,460 --> 00:13:22,419
+I very much agree with him,
+
+252
+00:13:22,429 --> 00:13:23,440
+like in,
+
+253
+00:13:23,880 --> 00:13:26,630
+in theory improving and improving hard theorems,
+
+254
+00:13:26,909 --> 00:13:31,909
+we we really need to make the theory 
+
+255
+00:13:31,919 --> 00:13:36,820
+improving algorithms and machines uh do these 
+
+256
+00:13:36,830 --> 00:13:37,580
+things to,
+
+257
+00:13:37,590 --> 00:13:41,179
+to sort of learn from examples and analogize et cetera,
+
+258
+00:13:41,190 --> 00:13:41,700
+et cetera.
+
+259
+00:13:42,830 --> 00:13:47,580
+Oh Then uh I,
+
+260
+00:13:48,200 --> 00:13:53,190
+so I I will also mention this guy who 
+
+261
+00:13:53,200 --> 00:13:57,099
+in some sense is very much on the Hilbert side of the wall,
+
+262
+00:13:57,109 --> 00:13:58,229
+at least in the beginning,
+
+263
+00:13:58,239 --> 00:14:01,000
+like he is the guy who basically brings,
+
+264
+00:14:01,109 --> 00:14:04,140
+brings out the universal computing machines.
+
+265
+00:14:04,859 --> 00:14:08,000
+And uh he,
+
+266
+00:14:08,010 --> 00:14:12,859
+he's so uh does the does the great result about 
+
+267
+00:14:12,869 --> 00:14:15,479
+undecidable and halting problem,
+
+268
+00:14:15,489 --> 00:14:16,070
+et cetera?
+
+269
+00:14:16,849 --> 00:14:19,109
+But like he,
+
+270
+00:14:19,119 --> 00:14:23,750
+he basically like in his later work also really 
+
+271
+00:14:23,760 --> 00:14:25,489
+establishes the field of A I,
+
+272
+00:14:25,500 --> 00:14:25,659
+right?
+
+273
+00:14:25,669 --> 00:14:29,909
+Like he writes this paper in 1950 about computing machinery and intelligence.
+
+274
+00:14:31,000 --> 00:14:35,880
+And despite all these negative results which have been used 
+
+275
+00:14:35,890 --> 00:14:37,299
+forever in the last century.
+
+276
+00:14:37,309 --> 00:14:40,780
+And they still are used to tell people,
+
+277
+00:14:40,859 --> 00:14:45,530
+machines cannot do mathematics because of turing undecidable 
+
+278
+00:14:45,710 --> 00:14:47,809
+because of Gal theorem and blah blah blah.
+
+279
+00:14:48,429 --> 00:14:49,179
+Well,
+
+280
+00:14:49,190 --> 00:14:52,789
+already in 1950 he writes in this paper,
+
+281
+00:14:52,799 --> 00:14:57,580
+we may hope that machines will eventually compete with man in all purely intellectual fields.
+
+282
+00:14:57,590 --> 00:15:02,289
+So then he sort of basically contradicts all the people like 
+
+283
+00:15:02,299 --> 00:15:07,210
+Penrose Slater who would claim that these sort of hard 
+
+284
+00:15:07,469 --> 00:15:11,859
+19 thirties results are something which prevents machines from doing 
+
+285
+00:15:11,869 --> 00:15:12,710
+mathematics.
+
+286
+00:15:13,099 --> 00:15:16,390
+And actually in this paper,
+
+287
+00:15:16,400 --> 00:15:18,690
+he already has a chapter on learning machines.
+
+288
+00:15:18,700 --> 00:15:19,119
+So,
+
+289
+00:15:19,479 --> 00:15:23,059
+so so machine learning is in some latest offshoot,
+
+290
+00:15:23,940 --> 00:15:28,140
+but it really started in the first paper on A I 
+
+291
+00:15:28,150 --> 00:15:32,460
+in 19 fifties where he,
+
+292
+00:15:32,700 --> 00:15:33,700
+for example,
+
+293
+00:15:34,020 --> 00:15:38,650
+proposes taking chess and like teaching 
+
+294
+00:15:39,200 --> 00:15:43,909
+uh teaching algorithms and training algorithms to 
+
+295
+00:15:43,919 --> 00:15:46,419
+play chess better and better.
+
+296
+00:15:46,429 --> 00:15:46,969
+So you can,
+
+297
+00:15:46,979 --> 00:15:51,669
+you can really see that this is something which materialized heavily with the recent 
+
+298
+00:15:51,989 --> 00:15:54,500
+alpha go or alpha alpha zero stuff.
+
+299
+00:15:55,280 --> 00:15:56,030
+Oh So,
+
+300
+00:15:56,039 --> 00:15:56,539
+so,
+
+301
+00:15:57,570 --> 00:16:01,119
+so basically he himself already like,
+
+302
+00:16:01,130 --> 00:16:05,869
+like the two things he's saying there can be combined to like,
+
+303
+00:16:05,880 --> 00:16:10,580
+why wouldn't we do this with mathematics which is sort of infinitely more 
+
+304
+00:16:10,590 --> 00:16:13,590
+expressive than just playing chess or of playing go.
+
+305
+00:16:14,150 --> 00:16:16,419
+And if we can do it,
+
+306
+00:16:16,869 --> 00:16:20,530
+and he obviously didn't know that at the time if he can do it with chess and go,
+
+307
+00:16:20,570 --> 00:16:25,210
+I wouldn't be able to train thinking machines 
+
+308
+00:16:25,219 --> 00:16:30,090
+which work in this very expressive formalism which mathematics 
+
+309
+00:16:30,099 --> 00:16:34,809
+is using and which basically we believe that all of hard 
+
+310
+00:16:34,820 --> 00:16:36,359
+science can be reduced to.
+
+311
+00:16:36,729 --> 00:16:39,520
+So that's the sort of general aspect,
+
+312
+00:16:39,530 --> 00:16:42,169
+like in some sense,
+
+313
+00:16:42,380 --> 00:16:47,289
+you could say that solving goal or solving chess is still sort of very narrow 
+
+314
+00:16:47,299 --> 00:16:51,179
+A I because it's just some sort of NP complete game or whatever.
+
+315
+00:16:52,320 --> 00:16:56,570
+But if you can do a similar thing with,
+
+316
+00:16:56,580 --> 00:17:01,489
+let's say first all of theory or any sufficiently rich foundation,
+
+317
+00:17:01,500 --> 00:17:03,450
+which can capture all of mathematics.
+
+318
+00:17:04,310 --> 00:17:07,800
+And then first of all,
+
+319
+00:17:07,810 --> 00:17:08,219
+you,
+
+320
+00:17:08,229 --> 00:17:11,000
+you will be able to do mm 
+
+321
+00:17:12,170 --> 00:17:16,689
+superhuman or assistance for 
+
+322
+00:17:16,699 --> 00:17:21,030
+doing not just math but all these sciences like physics and 
+
+323
+00:17:21,670 --> 00:17:24,140
+computer science which reduce,
+
+324
+00:17:24,500 --> 00:17:25,770
+reduce mathematics.
+
+325
+00:17:25,780 --> 00:17:29,290
+So that's the motivation and 
+
+326
+00:17:29,939 --> 00:17:33,119
+just one more quote from Turin,
+
+327
+00:17:34,180 --> 00:17:38,930
+he basically in this quote for at each stage when one is using a 
+
+328
+00:17:38,939 --> 00:17:39,729
+logical system,
+
+329
+00:17:39,739 --> 00:17:44,640
+there is a very large number of alternative steps and which is permitted to apply so far as obedience 
+
+330
+00:17:44,650 --> 00:17:46,829
+to the rules of the logical system is concerned,
+
+331
+00:17:47,290 --> 00:17:52,209
+these choices make the difference between a brilliant and a food reason and not the difference between a sound 
+
+332
+00:17:52,219 --> 00:17:53,290
+and a fallacious one.
+
+333
+00:17:53,680 --> 00:17:58,290
+So here you can see that he already distinguishes 
+
+334
+00:17:58,300 --> 00:18:03,229
+between what is logically sound and what is allowed by the 
+
+335
+00:18:03,920 --> 00:18:06,189
+hardcore mathematical formalism.
+
+336
+00:18:06,530 --> 00:18:08,569
+And the sort of A I part there,
+
+337
+00:18:08,579 --> 00:18:12,959
+the sort of intelligence part there where the logical calculus 
+
+338
+00:18:12,969 --> 00:18:17,930
+allows you to do many possible steps but only some of them are the good ones and 
+
+339
+00:18:17,939 --> 00:18:22,819
+obviously you would like to be doing the hood 
+
+340
+00:18:22,829 --> 00:18:23,400
+ones.
+
+341
+00:18:24,420 --> 00:18:24,839
+So,
+
+342
+00:18:24,849 --> 00:18:29,819
+so these are the sort of classical 
+
+343
+00:18:29,829 --> 00:18:32,439
+people and classical motivations.
+
+344
+00:18:33,280 --> 00:18:37,619
+Why would you combine learning and reasoning today?
+
+345
+00:18:37,790 --> 00:18:38,369
+Well,
+
+346
+00:18:38,380 --> 00:18:41,689
+the point number one is that it's really practically useful.
+
+347
+00:18:42,449 --> 00:18:44,589
+So uh there,
+
+348
+00:18:44,599 --> 00:18:48,079
+there are all these verification projects uh today.
+
+349
+00:18:48,089 --> 00:18:48,949
+Uh like it,
+
+350
+00:18:48,959 --> 00:18:53,489
+it's sort of um very much um 
+
+351
+00:18:53,790 --> 00:18:55,020
+exploded in the,
+
+352
+00:18:55,030 --> 00:18:55,380
+let's say,
+
+353
+00:18:55,390 --> 00:19:00,359
+last decade um where people really 
+
+354
+00:19:00,369 --> 00:19:03,150
+cannot verify very large mathematical proofs,
+
+355
+00:19:03,160 --> 00:19:07,969
+like the proof of the Kepler conjecture in any other way than 
+
+356
+00:19:07,979 --> 00:19:08,770
+using computers.
+
+357
+00:19:08,780 --> 00:19:13,130
+Because humans simply do not scale to verification of such humongous 
+
+358
+00:19:13,140 --> 00:19:14,479
+mathematical truths.
+
+359
+00:19:15,290 --> 00:19:20,219
+And there are a couple of such things like the formal proof of the other or 
+
+360
+00:19:20,239 --> 00:19:21,300
+five Thomson theorem.
+
+361
+00:19:21,930 --> 00:19:22,270
+So,
+
+362
+00:19:22,280 --> 00:19:26,609
+so it's really a technology where today's 
+
+363
+00:19:26,619 --> 00:19:31,579
+mathematics is gradually being made fully 
+
+364
+00:19:31,589 --> 00:19:36,510
+computer understandable and fully computer verified to the level of 
+
+365
+00:19:36,540 --> 00:19:40,290
+sometimes very nontrivial theorems and truths.
+
+366
+00:19:41,140 --> 00:19:45,489
+And the the sort of commercial or industrial part of this 
+
+367
+00:19:45,829 --> 00:19:48,400
+is uh software and hardware verification.
+
+368
+00:19:48,410 --> 00:19:48,760
+So,
+
+369
+00:19:48,770 --> 00:19:50,880
+so basically for,
+
+370
+00:19:50,890 --> 00:19:54,540
+for both mathematics and for software and hardware verification,
+
+371
+00:19:55,050 --> 00:19:59,660
+the the tools currently which go 
+
+372
+00:19:59,670 --> 00:20:00,500
+really deep,
+
+373
+00:20:00,510 --> 00:20:05,219
+which really gives you the formal certainty that something will work and 
+
+374
+00:20:05,229 --> 00:20:07,599
+something is correct are basically the same,
+
+375
+00:20:07,609 --> 00:20:11,180
+they are called the formal proof assistants or interactive theory pros.
+
+376
+00:20:12,000 --> 00:20:13,640
+So again,
+
+377
+00:20:13,650 --> 00:20:15,020
+like the,
+
+378
+00:20:15,030 --> 00:20:19,930
+this is like uh this year at flock like uh 
+
+379
+00:20:19,939 --> 00:20:21,650
+one month ago in Oxford,
+
+380
+00:20:21,979 --> 00:20:26,890
+they the Amazon people have hired a group of like 
+
+381
+00:20:26,900 --> 00:20:31,630
+20 to 30 strong people to do to 
+
+382
+00:20:31,640 --> 00:20:36,410
+do formal verification of their call services because 
+
+383
+00:20:36,420 --> 00:20:40,609
+like American Banks and CIA and whoever 
+
+384
+00:20:41,010 --> 00:20:44,390
+don't want to be hacked by unfriendly parties.
+
+385
+00:20:44,400 --> 00:20:49,030
+And the only way how to ensure that is to give a formal proof that your design and 
+
+386
+00:20:49,040 --> 00:20:50,520
+your software is correct.
+
+387
+00:20:50,660 --> 00:20:55,170
+And these are huge proofs also and the same is happening with other companies like 
+
+388
+00:20:55,180 --> 00:21:00,140
+Facebook has this inferred tool and Google 
+
+389
+00:21:00,150 --> 00:21:00,829
+has something,
+
+390
+00:21:00,839 --> 00:21:01,189
+etcetera.
+
+391
+00:21:02,199 --> 00:21:03,099
+So,
+
+392
+00:21:03,109 --> 00:21:03,729
+so,
+
+393
+00:21:03,739 --> 00:21:05,530
+so the more you can automate reasoning,
+
+394
+00:21:05,540 --> 00:21:10,319
+the more you can help people who do these sort of formal verification projects,
+
+395
+00:21:10,630 --> 00:21:11,569
+the better,
+
+396
+00:21:11,579 --> 00:21:13,359
+the more efficient that they are.
+
+397
+00:21:14,319 --> 00:21:17,810
+And typically you need to handle big theories.
+
+398
+00:21:17,819 --> 00:21:18,689
+When you deal with this,
+
+399
+00:21:18,699 --> 00:21:19,329
+typically,
+
+400
+00:21:19,339 --> 00:21:23,930
+these are projects which have like thousands of definitions and 
+
+401
+00:21:23,939 --> 00:21:26,969
+tens of thousands of lemmas in them,
+
+402
+00:21:26,979 --> 00:21:28,849
+which you need to use efficiently.
+
+403
+00:21:29,589 --> 00:21:30,530
+And obviously,
+
+404
+00:21:30,540 --> 00:21:31,510
+the other part is,
+
+405
+00:21:31,520 --> 00:21:36,189
+is all this blue sky uh motivation that we might uh sort 
+
+406
+00:21:36,199 --> 00:21:38,290
+of get uh to,
+
+407
+00:21:38,300 --> 00:21:42,089
+to some version of strong A I if we,
+
+408
+00:21:42,219 --> 00:21:43,849
+if you learn how to,
+
+409
+00:21:43,859 --> 00:21:47,650
+how to combine learning and reasoning um efficiently.
+
+410
+00:21:48,900 --> 00:21:50,319
+Uh so,
+
+411
+00:21:50,329 --> 00:21:51,449
+so the,
+
+412
+00:21:51,459 --> 00:21:51,479
+the,
+
+413
+00:21:51,489 --> 00:21:56,439
+the sort of thing which we have been doing has been following this plan where 
+
+414
+00:21:56,449 --> 00:22:01,380
+we sort of first made a lot of these formal 
+
+415
+00:22:01,390 --> 00:22:06,239
+thought corpora accessible to various reasoning 
+
+416
+00:22:06,250 --> 00:22:08,920
+and learning A I tools.
+
+417
+00:22:09,130 --> 00:22:13,719
+And that sort of started to happen like 15 years 
+
+418
+00:22:13,729 --> 00:22:14,310
+ago,
+
+419
+00:22:14,660 --> 00:22:19,489
+but it's still happening for various large formal 
+
+420
+00:22:19,500 --> 00:22:20,010
+corpora.
+
+421
+00:22:20,869 --> 00:22:21,489
+And then,
+
+422
+00:22:21,500 --> 00:22:22,709
+then the next thing we,
+
+423
+00:22:22,719 --> 00:22:23,329
+we,
+
+424
+00:22:23,339 --> 00:22:26,180
+we have been doing is to like,
+
+425
+00:22:26,189 --> 00:22:29,890
+try all sorts of like standard.
+
+426
+00:22:30,510 --> 00:22:35,290
+Uh So a TP stands for automated theorem proving uh tools and,
+
+427
+00:22:35,300 --> 00:22:37,780
+and standard machine learning tools and,
+
+428
+00:22:37,790 --> 00:22:38,089
+and,
+
+429
+00:22:38,099 --> 00:22:40,469
+and their combinations to,
+
+430
+00:22:40,479 --> 00:22:40,750
+to,
+
+431
+00:22:40,760 --> 00:22:43,640
+to make them prove harder and harder theorems from,
+
+432
+00:22:43,650 --> 00:22:43,979
+from,
+
+433
+00:22:43,989 --> 00:22:45,170
+from these libraries.
+
+434
+00:22:45,630 --> 00:22:48,229
+And we are not very good yet.
+
+435
+00:22:48,239 --> 00:22:50,500
+But like if by some accident,
+
+436
+00:22:50,510 --> 00:22:51,270
+we improve,
+
+437
+00:22:51,280 --> 00:22:54,969
+then we can always create harder and harder problems.
+
+438
+00:22:56,750 --> 00:22:57,290
+OK.
+
+439
+00:22:57,300 --> 00:22:58,770
+So this,
+
+440
+00:22:58,880 --> 00:23:00,369
+this was the intro,
+
+441
+00:23:00,420 --> 00:23:05,410
+the motivation thing and I'll try to give you a sample 
+
+442
+00:23:05,420 --> 00:23:10,089
+of what I'm talking about when I'm saying formal or computer understandable mathematics.
+
+443
+00:23:10,819 --> 00:23:11,239
+So,
+
+444
+00:23:11,250 --> 00:23:11,439
+so,
+
+445
+00:23:11,449 --> 00:23:12,280
+so as I said,
+
+446
+00:23:12,650 --> 00:23:17,140
+it's a result of this program of ology 
+
+447
+00:23:17,569 --> 00:23:21,260
+of bringing logic to mathematics basically,
+
+448
+00:23:21,270 --> 00:23:23,949
+which goes back at least to Leibniz,
+
+449
+00:23:23,959 --> 00:23:26,459
+all these people like Russell and Frager and Hilbert.
+
+450
+00:23:27,359 --> 00:23:31,369
+Uh And uh in,
+
+451
+00:23:31,380 --> 00:23:32,250
+in some sense,
+
+452
+00:23:32,260 --> 00:23:37,079
+it means that in instead of some sort of vague 
+
+453
+00:23:37,130 --> 00:23:40,770
+abstract mathematical manipulations which I don't know,
+
+454
+00:23:40,780 --> 00:23:45,770
+maybe some of you uh delegate to some Black magic mathematicians who 
+
+455
+00:23:45,780 --> 00:23:47,920
+do some crazy operations in their head.
+
+456
+00:23:48,680 --> 00:23:53,339
+Everything is uh sort of brought down to very simple 
+
+457
+00:23:53,349 --> 00:23:54,670
+symbolic manipulation.
+
+458
+00:23:54,680 --> 00:23:54,939
+So,
+
+459
+00:23:54,949 --> 00:23:55,420
+so that's,
+
+460
+00:23:55,430 --> 00:24:00,280
+that's the sort of log as uh program which has really 
+
+461
+00:24:00,290 --> 00:24:03,859
+been carried out in the last century.
+
+462
+00:24:04,969 --> 00:24:06,229
+And as I said,
+
+463
+00:24:06,239 --> 00:24:06,750
+by the way,
+
+464
+00:24:06,760 --> 00:24:11,579
+this led also to the rise of the computers and,
+
+465
+00:24:11,589 --> 00:24:15,089
+and formal mathematics is an 
+
+466
+00:24:15,099 --> 00:24:18,140
+attempt to,
+
+467
+00:24:18,150 --> 00:24:20,890
+to basically combine these two things to use.
+
+468
+00:24:20,900 --> 00:24:24,900
+The fact that mathematics has been reduced fully to symbolic 
+
+469
+00:24:24,910 --> 00:24:29,589
+manipulation and to really employ 
+
+470
+00:24:29,599 --> 00:24:34,579
+computers to do it for you to either verify it or to even help you find 
+
+471
+00:24:34,589 --> 00:24:35,349
+new proofs.
+
+472
+00:24:36,130 --> 00:24:40,579
+And like in some at an A G I slash singularity 
+
+473
+00:24:40,589 --> 00:24:41,619
+conference,
+
+474
+00:24:41,630 --> 00:24:46,109
+a good um a good analogy which occurred to me 
+
+475
+00:24:46,430 --> 00:24:48,189
+for those who,
+
+476
+00:24:48,199 --> 00:24:51,630
+who know this is when G's book Rainbow's End,
+
+477
+00:24:51,640 --> 00:24:55,569
+which is sort of a nice uh uh science fiction,
+
+478
+00:24:55,579 --> 00:24:57,949
+which is not so far away from today.
+
+479
+00:24:58,390 --> 00:25:03,229
+There people have something which they call the secure hardware player,
+
+480
+00:25:03,239 --> 00:25:07,770
+which is some sort of un hackable secure layer of all 
+
+481
+00:25:07,780 --> 00:25:11,890
+hardware where you cannot get through.
+
+482
+00:25:11,900 --> 00:25:12,099
+I mean,
+
+483
+00:25:12,109 --> 00:25:16,579
+when you have some sort of mathematical certainty that some bad things will not happen.
+
+484
+00:25:17,119 --> 00:25:18,050
+So basically,
+
+485
+00:25:18,060 --> 00:25:22,589
+basically this is what formal or computer understandable proof gives you,
+
+486
+00:25:22,829 --> 00:25:27,790
+it gives you a full mathematical logical certainty that 
+
+487
+00:25:27,869 --> 00:25:31,890
+a particular system behaves according to its specification.
+
+488
+00:25:31,900 --> 00:25:34,469
+So it's the sort of we have nothing.
+
+489
+00:25:34,479 --> 00:25:35,329
+But at the moment,
+
+490
+00:25:35,339 --> 00:25:35,849
+basically,
+
+491
+00:25:35,859 --> 00:25:38,729
+that's the ultimate certainty that we have today.
+
+492
+00:25:39,579 --> 00:25:42,750
+So conceptually form of math is really very simple.
+
+493
+00:25:42,760 --> 00:25:47,739
+So you sort of write all your axioms and theorems in some sort of 
+
+494
+00:25:47,750 --> 00:25:49,219
+computer pars form.
+
+495
+00:25:49,229 --> 00:25:51,790
+So it's similar to programming languages.
+
+496
+00:25:52,619 --> 00:25:56,400
+And then you write some sort of inference rules which where the 
+
+497
+00:25:56,410 --> 00:26:01,280
+computer can apply operations like deriving 
+
+498
+00:26:01,290 --> 00:26:05,839
+one formula from two other formulas like using mode respondents or 
+
+499
+00:26:05,849 --> 00:26:08,880
+whatever the favorite inference rule.
+
+500
+00:26:09,530 --> 00:26:14,150
+And then you use a computer to check the proofs which are sort of written 
+
+501
+00:26:14,640 --> 00:26:19,530
+sufficiently in sufficient detail to allow them to understand 
+
+502
+00:26:19,540 --> 00:26:21,479
+how the inference rules operate.
+
+503
+00:26:21,489 --> 00:26:23,859
+Etc in practice,
+
+504
+00:26:23,869 --> 00:26:24,260
+it's,
+
+505
+00:26:24,270 --> 00:26:25,410
+it's sort of hard,
+
+506
+00:26:25,420 --> 00:26:29,500
+it's been a field developing for some 50 years now.
+
+507
+00:26:29,520 --> 00:26:33,180
+And there are quite a few approaches 
+
+508
+00:26:34,209 --> 00:26:35,630
+and uh I,
+
+509
+00:26:35,640 --> 00:26:37,020
+I'd say for,
+
+510
+00:26:37,030 --> 00:26:38,020
+for a long time,
+
+511
+00:26:38,030 --> 00:26:38,579
+for example,
+
+512
+00:26:38,589 --> 00:26:41,260
+the mathematicians didn't really buy into it.
+
+513
+00:26:41,829 --> 00:26:44,869
+Uh and some extremely opposed to it.
+
+514
+00:26:44,880 --> 00:26:45,630
+So for example,
+
+515
+00:26:45,640 --> 00:26:46,780
+Michael Atia,
+
+516
+00:26:46,790 --> 00:26:50,910
+who is this very senior a guy 
+
+517
+00:26:50,920 --> 00:26:55,739
+who has fields medals and all of that and has 
+
+518
+00:26:55,750 --> 00:27:00,079
+done incredible work in the last century in mathematics and 
+
+519
+00:27:00,089 --> 00:27:04,280
+geometry was very opposed to it.
+
+520
+00:27:04,670 --> 00:27:08,089
+Uh until let's say in the last decade,
+
+521
+00:27:08,349 --> 00:27:11,859
+people really made these breakthroughs,
+
+522
+00:27:11,869 --> 00:27:16,329
+these very large proofs like the proof of the capital conjecture or the proof of the fight 
+
+523
+00:27:18,250 --> 00:27:19,260
+uh theorem.
+
+524
+00:27:19,270 --> 00:27:24,180
+So the the situation is really changing quite a bit in the 
+
+525
+00:27:24,189 --> 00:27:28,930
+last decade in the sense that mathematicians are 
+
+526
+00:27:29,500 --> 00:27:34,140
+sort of coming on board and exploring ways how they could start to 
+
+527
+00:27:34,150 --> 00:27:38,660
+collaborate with computers in the sense of verifying their proofs basically.
+
+528
+00:27:39,719 --> 00:27:40,699
+Um So,
+
+529
+00:27:40,709 --> 00:27:45,369
+so here is an example worked out by 
+
+530
+00:27:45,380 --> 00:27:49,729
+my colleague from the Elon's fre weed egg showing the 
+
+531
+00:27:49,739 --> 00:27:51,709
+irrationality of the square root of two.
+
+532
+00:27:52,569 --> 00:27:54,459
+Uh So he,
+
+533
+00:27:54,680 --> 00:27:59,599
+he always shows people this sort of informal proof from hard 
+
+534
+00:27:59,729 --> 00:28:00,439
+and right,
+
+535
+00:28:00,479 --> 00:28:05,270
+uh which is a proof by contradiction and sort of 
+
+536
+00:28:05,280 --> 00:28:06,880
+ascribed to Pythagoras.
+
+537
+00:28:06,890 --> 00:28:07,560
+As you,
+
+538
+00:28:07,569 --> 00:28:12,459
+you may know the story about Pythagoras being unhappy that there are things 
+
+539
+00:28:12,469 --> 00:28:14,140
+which are not rational.
+
+540
+00:28:14,880 --> 00:28:19,750
+So you assume that the square root of two is rational,
+
+541
+00:28:20,569 --> 00:28:25,310
+then you sort of get this equation A squared equals to B square root 
+
+542
+00:28:25,790 --> 00:28:28,900
+which is soluble in integers A B,
+
+543
+00:28:28,910 --> 00:28:33,500
+so that the G they are called prime basically.
+
+544
+00:28:33,510 --> 00:28:36,819
+So it's this bracket A B equals one.
+
+545
+00:28:37,520 --> 00:28:40,280
+And then you continue saying,
+
+546
+00:28:40,290 --> 00:28:40,739
+well,
+
+547
+00:28:40,750 --> 00:28:44,750
+that means the A A squared is even and therefore A is even.
+
+548
+00:28:45,099 --> 00:28:50,099
+And then you express A as to C and then you rewrite it and then you infer that B is 
+
+549
+00:28:50,109 --> 00:28:51,209
+also even.
+
+550
+00:28:51,219 --> 00:28:55,770
+And this is a contradiction to your assumption that A and B are a COP 
+
+551
+00:28:55,959 --> 00:28:56,380
+prime.
+
+552
+00:28:56,390 --> 00:28:59,280
+So they didn't have any common divisor.
+
+553
+00:28:59,439 --> 00:29:04,310
+So that's the sort of classical classical proof written in natural 
+
+554
+00:29:04,319 --> 00:29:05,300
+language mathematics.
+
+555
+00:29:06,150 --> 00:29:10,739
+Uh So this is the first example of a formal 
+
+556
+00:29:10,750 --> 00:29:15,569
+proof which is sort of very um similar 
+
+557
+00:29:15,579 --> 00:29:17,810
+or related to,
+
+558
+00:29:17,819 --> 00:29:19,030
+to the informal one.
+
+559
+00:29:19,500 --> 00:29:20,089
+So,
+
+560
+00:29:20,140 --> 00:29:20,569
+so,
+
+561
+00:29:20,579 --> 00:29:22,410
+so this is really something which you,
+
+562
+00:29:22,420 --> 00:29:24,739
+which is written in a programming language.
+
+563
+00:29:24,750 --> 00:29:26,400
+The programming language is called Mizar.
+
+564
+00:29:26,449 --> 00:29:30,439
+It's a sort of formal formal proof language and 
+
+565
+00:29:31,170 --> 00:29:35,550
+this is all uh fully passable by the Mizar 
+
+566
+00:29:36,219 --> 00:29:36,689
+group checker.
+
+567
+00:29:36,699 --> 00:29:41,290
+So it will understand um these uh keywords 
+
+568
+00:29:41,589 --> 00:29:45,709
+like uh theorem and proof and assume 
+
+569
+00:29:46,500 --> 00:29:51,400
+um and it will also understand like the uh formulas 
+
+570
+00:29:51,410 --> 00:29:52,199
+written here.
+
+571
+00:29:52,969 --> 00:29:54,500
+And,
+
+572
+00:29:54,569 --> 00:29:59,170
+uh this is not a fool proof in bizarre 
+
+573
+00:29:59,560 --> 00:30:02,699
+because it's missing uh justifications.
+
+574
+00:30:02,709 --> 00:30:03,020
+So,
+
+575
+00:30:03,030 --> 00:30:05,420
+so here on the right hand side,
+
+576
+00:30:05,910 --> 00:30:06,239
+you,
+
+577
+00:30:06,250 --> 00:30:08,660
+you would typically justify,
+
+578
+00:30:09,310 --> 00:30:09,410
+uh,
+
+579
+00:30:09,420 --> 00:30:11,369
+like for example,
+
+580
+00:30:11,569 --> 00:30:12,449
+why,
+
+581
+00:30:12,459 --> 00:30:17,270
+why did you go from a squared being even to a being 
+
+582
+00:30:17,280 --> 00:30:17,650
+even?
+
+583
+00:30:17,660 --> 00:30:17,849
+So,
+
+584
+00:30:17,859 --> 00:30:18,199
+so here,
+
+585
+00:30:18,209 --> 00:30:22,630
+here you would have to say something like by the RM five from,
+
+586
+00:30:22,640 --> 00:30:22,650
+uh,
+
+587
+00:30:22,660 --> 00:30:25,859
+I don't know theory X or something like that.
+
+588
+00:30:26,069 --> 00:30:28,250
+But um this,
+
+589
+00:30:28,260 --> 00:30:33,219
+this is sort of already the proof checker will at 
+
+590
+00:30:33,229 --> 00:30:34,390
+this point tell you,
+
+591
+00:30:34,859 --> 00:30:39,209
+I don't understand why a particular inference has been justified because it's 
+
+592
+00:30:39,219 --> 00:30:39,869
+missing.
+
+593
+00:30:40,060 --> 00:30:41,020
+But it will tell you,
+
+594
+00:30:41,030 --> 00:30:41,540
+yes,
+
+595
+00:30:41,550 --> 00:30:45,099
+I can parse all the formulas and I can parse all the 
+
+596
+00:30:47,099 --> 00:30:51,959
+sort of natural deduction that they like this assume and consider etcetera.
+
+597
+00:30:52,630 --> 00:30:57,609
+And I can see that if I could justify all these 
+
+598
+00:30:57,619 --> 00:30:59,150
+tiny steps there,
+
+599
+00:30:59,290 --> 00:31:00,729
+then indeed,
+
+600
+00:31:00,739 --> 00:31:04,189
+this is a proof of what I,
+
+601
+00:31:04,199 --> 00:31:07,890
+what I'm trying to show of the fact that square of two is rational.
+
+602
+00:31:08,500 --> 00:31:13,349
+This particular misar proof 
+
+603
+00:31:13,359 --> 00:31:18,000
+style is called declarative because you are sort of writing down 
+
+604
+00:31:18,089 --> 00:31:19,530
+the statements.
+
+605
+00:31:19,540 --> 00:31:23,560
+Like similarly to the informal 
+
+606
+00:31:23,569 --> 00:31:24,630
+proof.
+
+607
+00:31:25,020 --> 00:31:29,640
+Here is an example of a totally different system which is very non declarative.
+
+608
+00:31:29,650 --> 00:31:33,109
+It's called procedural proof style or tactical proof style.
+
+609
+00:31:33,510 --> 00:31:35,459
+So the system is called whole light.
+
+610
+00:31:36,189 --> 00:31:40,439
+And uh it has it again,
+
+611
+00:31:40,449 --> 00:31:44,959
+it takes um your your statement which you want to prove 
+
+612
+00:31:45,219 --> 00:31:49,689
+and then it applies all sorts of tactics to uh to the 
+
+613
+00:31:49,699 --> 00:31:50,410
+statement.
+
+614
+00:31:50,420 --> 00:31:50,609
+So,
+
+615
+00:31:50,619 --> 00:31:54,849
+so it applies some sort of simplification technique uh with some names of 
+
+616
+00:31:54,859 --> 00:31:59,479
+definitions which you sort of might want to expand and then you 
+
+617
+00:31:59,489 --> 00:32:03,619
+apply some rewriting tactic and some discharge tactic,
+
+618
+00:32:03,800 --> 00:32:04,140
+et cetera.
+
+619
+00:32:04,280 --> 00:32:04,800
+And so,
+
+620
+00:32:05,069 --> 00:32:07,680
+so this is sort of very 
+
+621
+00:32:09,650 --> 00:32:12,189
+imperative way of.
+
+622
+00:32:12,199 --> 00:32:15,550
+So when you are writing the proof in the whole light,
+
+623
+00:32:15,719 --> 00:32:20,500
+you do see what's your current goal and how have you transformed the conjecture which you 
+
+624
+00:32:20,510 --> 00:32:21,550
+wanted to prove?
+
+625
+00:32:21,729 --> 00:32:26,660
+But this sort of proof is not really readable.
+
+626
+00:32:26,670 --> 00:32:28,829
+So it's called this tactical,
+
+627
+00:32:28,839 --> 00:32:33,689
+it has some advantages like you can use really 
+
+628
+00:32:33,699 --> 00:32:38,430
+like powerful programmed tactics to do the various goal 
+
+629
+00:32:38,439 --> 00:32:39,369
+transformations.
+
+630
+00:32:40,189 --> 00:32:44,660
+And the last one I'll show you is this Isabel Hole which is sort 
+
+631
+00:32:44,670 --> 00:32:49,359
+of a combination of the declarative and and the more 
+
+632
+00:32:49,369 --> 00:32:53,520
+procedural style where the the basis is very similar to,
+
+633
+00:32:53,530 --> 00:32:55,599
+to the declarative misar proof style.
+
+634
+00:32:56,140 --> 00:32:57,530
+But you,
+
+635
+00:32:57,540 --> 00:33:02,469
+you have these um there is sort of procedural 
+
+636
+00:33:02,479 --> 00:33:06,819
+complicated commands like this auto sim at power two equal,
+
+637
+00:33:07,170 --> 00:33:11,989
+which is sort of a powerful simplification tactic basically which you 
+
+638
+00:33:12,000 --> 00:33:16,609
+can use somewhere uh somewhere in the middle of the 
+
+639
+00:33:16,619 --> 00:33:17,150
+proof.
+
+640
+00:33:17,160 --> 00:33:17,599
+So,
+
+641
+00:33:17,869 --> 00:33:22,599
+so the main point here is that these are three examples 
+
+642
+00:33:23,050 --> 00:33:24,069
+of,
+
+643
+00:33:25,300 --> 00:33:29,270
+of you could say programming languages for mathematics,
+
+644
+00:33:29,280 --> 00:33:33,920
+for writing mathematical proofs in which huge 
+
+645
+00:33:33,930 --> 00:33:36,060
+libraries have been written today,
+
+646
+00:33:36,069 --> 00:33:38,390
+huge libraries of theorems,
+
+647
+00:33:38,400 --> 00:33:43,099
+definitions and proofs and all of that is sort of 
+
+648
+00:33:43,109 --> 00:33:43,540
+fully,
+
+649
+00:33:43,550 --> 00:33:45,270
+fully parsed by,
+
+650
+00:33:45,430 --> 00:33:49,859
+by these sort of programming languages and also very 
+
+651
+00:33:49,869 --> 00:33:51,189
+securely verified.
+
+652
+00:33:51,199 --> 00:33:51,359
+So,
+
+653
+00:33:51,369 --> 00:33:53,989
+so so so the proof is is really,
+
+654
+00:33:54,640 --> 00:33:57,150
+so the technology has gone crazy recently,
+
+655
+00:33:57,160 --> 00:34:00,150
+like people re verify,
+
+656
+00:34:00,160 --> 00:34:00,869
+for example,
+
+657
+00:34:00,880 --> 00:34:05,800
+the source code of one CRM through in another the RM 
+
+658
+00:34:05,859 --> 00:34:06,040
+through.
+
+659
+00:34:06,530 --> 00:34:10,560
+So there are layers and layers of security 
+
+660
+00:34:10,750 --> 00:34:15,739
+to make this sort of verification technology as secure as 
+
+661
+00:34:15,750 --> 00:34:16,340
+possible.
+
+662
+00:34:17,668 --> 00:34:17,678
+Oh,
+
+663
+00:34:17,688 --> 00:34:21,299
+this is the big uh fly spec project,
+
+664
+00:34:21,309 --> 00:34:24,688
+the formal proof of the capital conjecture I was mentioning.
+
+665
+00:34:25,658 --> 00:34:30,279
+So it's this uh nice story from 
+
+666
+00:34:30,289 --> 00:34:35,259
+Prague where uh Kepler was walking in December 
+
+667
+00:34:35,717 --> 00:34:37,428
+from his house,
+
+668
+00:34:37,438 --> 00:34:42,438
+which is on one side of the Volta River to the Prague Castle 
+
+669
+00:34:42,447 --> 00:34:47,039
+where he was working and he was hit by a snowflake 
+
+670
+00:34:47,750 --> 00:34:52,750
+and he started to wonder why the snowflake has 
+
+671
+00:34:52,760 --> 00:34:53,728
+a hexagonal shape.
+
+672
+00:34:54,600 --> 00:34:55,620
+And he,
+
+673
+00:34:55,629 --> 00:34:56,489
+he wrote,
+
+674
+00:34:58,610 --> 00:35:02,179
+he wrote a nice treatise about it where he,
+
+675
+00:35:02,189 --> 00:35:06,850
+he does a lot of this conjecture and a lot of this 
+
+676
+00:35:07,149 --> 00:35:12,080
+sort of natural trying to mathematically explain all all these natural 
+
+677
+00:35:12,090 --> 00:35:12,620
+phenomena,
+
+678
+00:35:12,629 --> 00:35:17,270
+like why the flowers have five petals 
+
+679
+00:35:17,280 --> 00:35:18,679
+or stuff like that.
+
+680
+00:35:18,689 --> 00:35:23,040
+So he really collects a body of nature 
+
+681
+00:35:23,050 --> 00:35:23,989
+knowledge.
+
+682
+00:35:24,050 --> 00:35:25,879
+And thus,
+
+683
+00:35:25,889 --> 00:35:30,719
+it's a very nice exercise in mathematical conjecturing for explaining the nature 
+
+684
+00:35:30,729 --> 00:35:31,260
+of this.
+
+685
+00:35:31,270 --> 00:35:32,709
+A lot of that is wrong.
+
+686
+00:35:32,719 --> 00:35:37,719
+But and he actually didn't explain why the snowflake is 
+
+687
+00:35:38,169 --> 00:35:38,479
+there.
+
+688
+00:35:39,689 --> 00:35:44,600
+And like one of the conjectures which he sort of puts forward there 
+
+689
+00:35:45,280 --> 00:35:50,260
+is this conjecture that the sort of orange pyramid 
+
+690
+00:35:50,850 --> 00:35:55,540
+or cannonball packing of balls is the most optimal 
+
+691
+00:35:55,550 --> 00:35:59,469
+packing of balls in space.
+
+692
+00:35:59,479 --> 00:36:04,139
+So this had military applications at the time when they wanted to load 
+
+693
+00:36:04,149 --> 00:36:05,659
+cannon balls on a ship,
+
+694
+00:36:05,669 --> 00:36:09,159
+they really wanted to pack them as tightly as possible.
+
+695
+00:36:09,969 --> 00:36:11,550
+Um So,
+
+696
+00:36:11,560 --> 00:36:13,709
+so this has been unproved for 400 years,
+
+697
+00:36:13,719 --> 00:36:14,780
+as I mentioned.
+
+698
+00:36:14,790 --> 00:36:19,060
+And uh the American 
+
+699
+00:36:19,070 --> 00:36:23,320
+mathematicians Tom Hall and Sam Ferguson proved it in 1998.
+
+700
+00:36:23,330 --> 00:36:27,949
+Um sort of using standard Math and a lot of 
+
+701
+00:36:27,959 --> 00:36:29,389
+computational technology.
+
+702
+00:36:30,270 --> 00:36:34,719
+And basically uh the the the 
+
+703
+00:36:35,250 --> 00:36:39,870
+the review is very completely mm 
+
+704
+00:36:40,260 --> 00:36:45,209
+sort of swamped by by the amount of the material that they had 
+
+705
+00:36:45,219 --> 00:36:47,750
+to verify because the proof is really huge.
+
+706
+00:36:48,500 --> 00:36:50,100
+And they basically,
+
+707
+00:36:50,110 --> 00:36:52,320
+after four years of reviewing the proof,
+
+708
+00:36:52,330 --> 00:36:55,300
+the reviewers who were really good people said,
+
+709
+00:36:55,310 --> 00:36:55,340
+well,
+
+710
+00:36:55,590 --> 00:37:00,320
+we cannot verify this proof that this is like we we and out of energy.
+
+711
+00:37:01,020 --> 00:37:05,520
+So Tom Tom got annoyed by that or 
+
+712
+00:37:05,530 --> 00:37:10,280
+motivated by that and he decided to do the whole proof 
+
+713
+00:37:10,290 --> 00:37:15,280
+of the capital conjecture formally to verify to 
+
+714
+00:37:15,290 --> 00:37:18,310
+using the formal proof assistance.
+
+715
+00:37:19,199 --> 00:37:23,530
+And this was an effort which took something like 20 to 30 years.
+
+716
+00:37:23,540 --> 00:37:27,689
+So it was successfully finished in 2014 and it started in 
+
+717
+00:37:27,699 --> 00:37:28,820
+2004,
+
+718
+00:37:28,830 --> 00:37:29,659
+2003.
+
+719
+00:37:30,760 --> 00:37:35,570
+And it led to a really a lot of improved technology 
+
+720
+00:37:36,389 --> 00:37:40,570
+and the result is about 20,000 or 25,000 
+
+721
+00:37:40,580 --> 00:37:44,929
+lemmas and the lemmas look like this.
+
+722
+00:37:44,939 --> 00:37:49,780
+So basically all of that is written in this whole light proof system in this technical proof system.
+
+723
+00:37:50,270 --> 00:37:54,780
+And you have Lemas like this saying that FS is a polyhedron and C is the face of us,
+
+724
+00:37:54,790 --> 00:37:59,729
+then C is also a polyhedron and all the LAMAs 
+
+725
+00:37:59,739 --> 00:38:01,449
+sort of build on each other.
+
+726
+00:38:01,459 --> 00:38:05,310
+And they all of them are approved uh a 
+
+727
+00:38:05,389 --> 00:38:09,979
+brief one slide about what are automated here in the.
+
+728
+00:38:10,189 --> 00:38:10,409
+So,
+
+729
+00:38:10,419 --> 00:38:10,790
+so,
+
+730
+00:38:10,800 --> 00:38:14,310
+so what I was explaining until now are 
+
+731
+00:38:15,149 --> 00:38:17,370
+formal proof assistance,
+
+732
+00:38:17,379 --> 00:38:20,540
+formal proof checkers or interactive theorems.
+
+733
+00:38:21,629 --> 00:38:26,530
+That sort of one side of the automated reasoning landscape.
+
+734
+00:38:27,060 --> 00:38:31,639
+The other side are these sort of good old A I 
+
+735
+00:38:31,659 --> 00:38:36,270
+people who are trying 
+
+736
+00:38:36,280 --> 00:38:41,199
+to write systems which would automatically find 
+
+737
+00:38:41,209 --> 00:38:43,489
+proofs of nontrivial conjectures.
+
+738
+00:38:43,949 --> 00:38:47,510
+And like as you probably know,
+
+739
+00:38:47,520 --> 00:38:52,250
+this really goes back to the very beginnings of A I to this sort of good old 
+
+740
+00:38:52,260 --> 00:38:57,010
+fashioned A I people like John mccarthy and 
+
+741
+00:38:57,020 --> 00:38:58,600
+Martin Davis,
+
+742
+00:38:58,610 --> 00:38:59,189
+etcetera.
+
+743
+00:38:59,560 --> 00:39:04,290
+So the field has sort of lived its life and 
+
+744
+00:39:04,419 --> 00:39:08,889
+interesting things have been developed although like they 
+
+745
+00:39:08,899 --> 00:39:13,709
+didn't really make it to and somehow they 
+
+746
+00:39:13,719 --> 00:39:17,550
+disappeared from the A I mainstream at some point.
+
+747
+00:39:17,560 --> 00:39:19,459
+And like today,
+
+748
+00:39:19,469 --> 00:39:21,489
+the A I is machine learning,
+
+749
+00:39:21,500 --> 00:39:21,699
+right?
+
+750
+00:39:21,709 --> 00:39:22,139
+Like that,
+
+751
+00:39:22,149 --> 00:39:23,300
+that's the,
+
+752
+00:39:23,620 --> 00:39:28,620
+that's the impression of deep learning we don't even say machine 
+
+753
+00:39:28,629 --> 00:39:29,419
+learning today.
+
+754
+00:39:29,889 --> 00:39:31,219
+Um But so,
+
+755
+00:39:31,229 --> 00:39:31,419
+so,
+
+756
+00:39:31,429 --> 00:39:34,699
+so you have all these systems based on different logical calculus 
+
+757
+00:39:36,540 --> 00:39:40,909
+like resolution superposition tableau satisfiability module theories.
+
+758
+00:39:41,669 --> 00:39:44,409
+And some of them are really very useful.
+
+759
+00:39:44,419 --> 00:39:45,520
+For example,
+
+760
+00:39:45,530 --> 00:39:48,370
+for this field of software and hardware verification.
+
+761
+00:39:48,379 --> 00:39:53,219
+So that's like the best smt satisfiability 
+
+762
+00:39:53,350 --> 00:39:58,050
+modal theory systems is developed in Microsoft today and they use it for a 
+
+763
+00:39:58,060 --> 00:40:01,159
+lot of software verification.
+
+764
+00:40:01,169 --> 00:40:03,929
+They are the same holds for Amazon.
+
+765
+00:40:04,020 --> 00:40:07,570
+There is a lot of such symbolic tools,
+
+766
+00:40:08,100 --> 00:40:12,860
+the web there for all sorts of these verification tasks and combining them with the 
+
+767
+00:40:12,870 --> 00:40:14,159
+interactive the improvement tools.
+
+768
+00:40:14,600 --> 00:40:18,080
+So the problem with these tools is that 
+
+769
+00:40:18,699 --> 00:40:22,989
+basically all of that is very much human design 
+
+770
+00:40:23,000 --> 00:40:27,459
+heuristics based on some sort of complete calculus or complete means 
+
+771
+00:40:27,889 --> 00:40:31,840
+that you will find the proof given infinite time.
+
+772
+00:40:32,270 --> 00:40:36,919
+But the combinatorial explosion there is really 
+
+773
+00:40:36,929 --> 00:40:37,330
+huge.
+
+774
+00:40:37,340 --> 00:40:38,479
+So typically,
+
+775
+00:40:38,889 --> 00:40:43,850
+you cannot without very very reasonable heuristics 
+
+776
+00:40:43,860 --> 00:40:48,399
+find even slightly uh more 
+
+777
+00:40:48,409 --> 00:40:50,320
+advanced uh proof.
+
+778
+00:40:51,330 --> 00:40:56,229
+So basically what we are doing to a large extent is to take such 
+
+779
+00:40:56,239 --> 00:41:00,469
+sort of symbolic tools which do symbolically correct steps 
+
+780
+00:41:01,080 --> 00:41:04,179
+and equip them with some intelligence,
+
+781
+00:41:04,189 --> 00:41:08,270
+like basically some sort of guidance which will tell them 
+
+782
+00:41:08,699 --> 00:41:11,370
+from this huge number of possibilities.
+
+783
+00:41:11,379 --> 00:41:14,669
+From this huge combinatorial explosion.
+
+784
+00:41:14,820 --> 00:41:19,179
+Choose this step because that's the step which will lead you 
+
+785
+00:41:19,189 --> 00:41:21,219
+to the final proof.
+
+786
+00:41:22,649 --> 00:41:27,270
+Um I will hopefully show you a demo now.
+
+787
+00:41:27,459 --> 00:41:30,530
+So um so,
+
+788
+00:41:30,540 --> 00:41:34,659
+so this is uh this is again a mesa 
+
+789
+00:41:35,169 --> 00:41:36,479
+formalization.
+
+790
+00:41:37,020 --> 00:41:41,879
+So somebody is uh trying to prove 
+
+791
+00:41:41,979 --> 00:41:46,530
+this uh statement um 
+
+792
+00:41:46,540 --> 00:41:49,620
+that if X uh is a,
+
+793
+00:41:49,629 --> 00:41:51,540
+is a subset of M,
+
+794
+00:41:52,060 --> 00:41:54,879
+then M is a cardinal here,
+
+795
+00:41:54,889 --> 00:41:57,790
+that's what you would see if I scroll up but I cannot,
+
+796
+00:41:57,979 --> 00:42:01,959
+then the cardinality of X is also a subset of M.
+
+797
+00:42:02,100 --> 00:42:06,580
+So it's a relatively simple mathematical theorem in set 
+
+798
+00:42:06,639 --> 00:42:07,199
+theory.
+
+799
+00:42:07,830 --> 00:42:12,830
+And what you see there is the um is the human written 
+
+800
+00:42:12,959 --> 00:42:13,719
+me are there.
+
+801
+00:42:14,739 --> 00:42:19,129
+And uh you can see that this is not horribly 
+
+802
+00:42:19,250 --> 00:42:20,449
+long.
+
+803
+00:42:20,870 --> 00:42:22,250
+I hope this will work.
+
+804
+00:42:22,500 --> 00:42:22,750
+So,
+
+805
+00:42:22,760 --> 00:42:23,500
+so first of all,
+
+806
+00:42:23,510 --> 00:42:25,590
+what happened is that the system verified it.
+
+807
+00:42:25,600 --> 00:42:25,830
+So,
+
+808
+00:42:25,840 --> 00:42:28,800
+so that's when it showed you that there are zero errors,
+
+809
+00:42:28,810 --> 00:42:29,399
+etcetera.
+
+810
+00:42:30,500 --> 00:42:34,439
+Uh what should happen?
+
+811
+00:42:34,770 --> 00:42:36,010
+Hopefully now,
+
+812
+00:42:36,810 --> 00:42:38,429
+I hope the video works.
+
+813
+00:42:40,929 --> 00:42:42,060
+Uh So,
+
+814
+00:42:42,070 --> 00:42:47,070
+so what happens now is that somebody evil removes all the 
+
+815
+00:42:47,080 --> 00:42:48,520
+justifications from,
+
+816
+00:42:48,530 --> 00:42:49,429
+from the proof?
+
+817
+00:42:49,439 --> 00:42:49,989
+So,
+
+818
+00:42:50,239 --> 00:42:51,449
+so at this point,
+
+819
+00:42:51,530 --> 00:42:55,939
+um we are taking the truth 
+
+820
+00:42:56,189 --> 00:43:00,860
+and we are removing the 
+
+821
+00:43:00,870 --> 00:43:01,679
+steps,
+
+822
+00:43:01,750 --> 00:43:06,629
+the sort of justifications of the steps which point somewhere to some 
+
+823
+00:43:06,639 --> 00:43:11,040
+huge library saying this is how you justify this step.
+
+824
+00:43:11,050 --> 00:43:13,139
+And this is how you justify that step.
+
+825
+00:43:13,689 --> 00:43:15,139
+And instead of that,
+
+826
+00:43:15,149 --> 00:43:19,770
+they are sort of sending it to some cool A I there which has 
+
+827
+00:43:19,780 --> 00:43:22,860
+learned from all the previous proofs in the library,
+
+828
+00:43:23,469 --> 00:43:24,520
+uh which,
+
+829
+00:43:24,530 --> 00:43:28,919
+which recommends the correct lemas and definitions 
+
+830
+00:43:28,929 --> 00:43:33,419
+from the library and basically sends them uh 
+
+831
+00:43:33,429 --> 00:43:35,739
+to an automated theorem improver,
+
+832
+00:43:36,270 --> 00:43:37,679
+which on,
+
+833
+00:43:37,689 --> 00:43:39,189
+on these steps is,
+
+834
+00:43:39,199 --> 00:43:42,050
+is typically able to finish the proof automatically.
+
+835
+00:43:42,320 --> 00:43:42,820
+So,
+
+836
+00:43:42,830 --> 00:43:47,570
+so that's um um basically 
+
+837
+00:43:47,639 --> 00:43:48,909
+how,
+
+838
+00:43:49,169 --> 00:43:53,810
+how the A I research is today helping the 
+
+839
+00:43:53,820 --> 00:43:54,850
+people who are,
+
+840
+00:43:54,860 --> 00:43:56,570
+who are writing these formal truths,
+
+841
+00:43:56,659 --> 00:44:01,110
+you sort of give them some unfinished unjustified 
+
+842
+00:44:01,120 --> 00:44:05,979
+lemmas and you unleash the A I to sort of search 
+
+843
+00:44:05,989 --> 00:44:10,959
+over the huge libraries of the facts to 
+
+844
+00:44:10,969 --> 00:44:13,840
+use whatever algorithm to,
+
+845
+00:44:13,850 --> 00:44:18,189
+to select the most promising ones and 
+
+846
+00:44:18,199 --> 00:44:22,149
+then give it to some symbolic,
+
+847
+00:44:22,159 --> 00:44:23,429
+symbolic prisoners.
+
+848
+00:44:24,310 --> 00:44:25,760
+Uh So,
+
+849
+00:44:26,459 --> 00:44:27,729
+so that's the demo.
+
+850
+00:44:29,159 --> 00:44:33,280
+Um So I will sort of proceed into 
+
+851
+00:44:34,070 --> 00:44:38,989
+showing you some examples how basically machine learning 
+
+852
+00:44:39,000 --> 00:44:41,709
+and theory improving is,
+
+853
+00:44:41,719 --> 00:44:43,270
+is combined today.
+
+854
+00:44:44,419 --> 00:44:44,719
+Uh So,
+
+855
+00:44:44,729 --> 00:44:48,080
+so there are like various ways how to do.
+
+856
+00:44:48,090 --> 00:44:52,199
+So what what what you just saw is is basically pres 
+
+857
+00:44:52,399 --> 00:44:54,830
+selecting the correct knowledge from,
+
+858
+00:44:54,840 --> 00:44:59,629
+from a really large formal corpus by some sort 
+
+859
+00:44:59,639 --> 00:45:04,550
+of pretty simple machine learning and shipping 
+
+860
+00:45:04,560 --> 00:45:07,399
+it over to a black box,
+
+861
+00:45:07,409 --> 00:45:10,560
+symbolic solver to automated the theory.
+
+862
+00:45:10,820 --> 00:45:15,020
+So that's very high level because you do the machine learning only once,
+
+863
+00:45:15,030 --> 00:45:15,510
+basically,
+
+864
+00:45:15,520 --> 00:45:18,739
+only once when you are choosing,
+
+865
+00:45:18,750 --> 00:45:23,320
+choosing the knowledge and then you delegate stuff to the automated the theory which would 
+
+866
+00:45:23,330 --> 00:45:24,909
+otherwise blow up horribly.
+
+867
+00:45:24,919 --> 00:45:27,290
+If you gave to the automated the theory,
+
+868
+00:45:27,810 --> 00:45:32,310
+a whole library of like let's say 100,000 lemmas and definitions,
+
+869
+00:45:32,320 --> 00:45:36,229
+then the automated the would do very little.
+
+870
+00:45:37,020 --> 00:45:41,750
+So um there are similar high level ways of 
+
+871
+00:45:41,760 --> 00:45:46,479
+using some sort of A I or machine learning to assist um theory 
+
+872
+00:45:46,489 --> 00:45:47,229
+improving.
+
+873
+00:45:47,580 --> 00:45:47,870
+So,
+
+874
+00:45:47,879 --> 00:45:52,669
+so another one is when you have a very 
+
+875
+00:45:52,719 --> 00:45:54,919
+large number of different theory,
+
+876
+00:45:54,949 --> 00:45:56,229
+improving strategies,
+
+877
+00:45:56,479 --> 00:46:01,260
+you can try to learn how which strategies will be good 
+
+878
+00:46:01,270 --> 00:46:05,939
+for which sort of sorts of problems or kinds of problems.
+
+879
+00:46:05,949 --> 00:46:10,750
+So that's another very high level machine learning task where 
+
+880
+00:46:10,760 --> 00:46:12,290
+again you just do this,
+
+881
+00:46:12,300 --> 00:46:16,939
+once you select the good strategy or a portfolio of strategies,
+
+882
+00:46:16,949 --> 00:46:17,570
+and again,
+
+883
+00:46:17,580 --> 00:46:22,290
+you ship it over and then you don't talk to the solver anymore.
+
+884
+00:46:23,320 --> 00:46:28,010
+And and another very sort of high level way is when you 
+
+885
+00:46:28,020 --> 00:46:33,020
+have a huge set of flamas used in in the previous booths.
+
+886
+00:46:34,270 --> 00:46:38,909
+And you there is technology to use the Isla mass as 
+
+887
+00:46:38,919 --> 00:46:41,010
+conjectures for your current proof.
+
+888
+00:46:41,340 --> 00:46:43,510
+So this technology is called hints.
+
+889
+00:46:43,520 --> 00:46:46,610
+So you load the hints into your current proof state.
+
+890
+00:46:47,219 --> 00:46:50,949
+And the situation is that 
+
+891
+00:46:51,300 --> 00:46:53,370
+typically from the previous proofs,
+
+892
+00:46:53,379 --> 00:46:58,050
+you can load like millions or hundreds of thousands of hens.
+
+893
+00:46:58,820 --> 00:47:00,310
+And again,
+
+894
+00:47:00,320 --> 00:47:00,560
+you,
+
+895
+00:47:00,570 --> 00:47:02,300
+you want to do this in a smart way.
+
+896
+00:47:02,310 --> 00:47:07,000
+So rather than sort of flooding the theorem two with the wrong 
+
+897
+00:47:07,010 --> 00:47:07,320
+hints,
+
+898
+00:47:07,330 --> 00:47:10,780
+you want to flood it only with the with the right hints,
+
+899
+00:47:12,199 --> 00:47:16,959
+the sort of more challenging and also more recent 
+
+900
+00:47:18,570 --> 00:47:23,469
+way how to make some sort of combinations of 
+
+901
+00:47:23,479 --> 00:47:28,360
+learning and theory improving is to really try to influence every low 
+
+902
+00:47:28,370 --> 00:47:31,080
+level step of of the automated the the.
+
+903
+00:47:31,600 --> 00:47:36,500
+So basically every inference the solver is 
+
+904
+00:47:36,510 --> 00:47:41,360
+doing and that's much more challenging because these 
+
+905
+00:47:41,370 --> 00:47:42,840
+symbolic systems are really,
+
+906
+00:47:42,850 --> 00:47:43,739
+really fast.
+
+907
+00:47:43,750 --> 00:47:47,449
+So uh they they do 
+
+908
+00:47:47,870 --> 00:47:52,629
+11 inference per microsecond or like people have been 
+
+909
+00:47:52,639 --> 00:47:56,229
+optimizing the systems forever and written them in all the languages.
+
+910
+00:47:56,239 --> 00:47:57,729
+So so as soon as you,
+
+911
+00:47:57,739 --> 00:48:02,330
+as you want to ask some trained neural network or 
+
+912
+00:48:02,340 --> 00:48:02,830
+whatever,
+
+913
+00:48:02,840 --> 00:48:06,860
+please advise me on the next inference step.
+
+914
+00:48:07,199 --> 00:48:09,469
+And the neural network takes,
+
+915
+00:48:09,479 --> 00:48:09,989
+I don't know,
+
+916
+00:48:10,000 --> 00:48:14,810
+like one 10,000 microseconds or 
+
+917
+00:48:14,820 --> 00:48:15,290
+whatever,
+
+918
+00:48:15,300 --> 00:48:19,129
+then you clearly have a program like if you are completely right,
+
+919
+00:48:19,139 --> 00:48:20,070
+then it will work.
+
+920
+00:48:20,080 --> 00:48:21,909
+But typically you are not completely right.
+
+921
+00:48:21,919 --> 00:48:23,330
+So you still need to backtrack etc.
+
+922
+00:48:24,239 --> 00:48:25,179
+Uh So,
+
+923
+00:48:25,189 --> 00:48:28,129
+so this is much more challenging but also much more,
+
+924
+00:48:28,139 --> 00:48:29,260
+much more interesting.
+
+925
+00:48:29,270 --> 00:48:33,320
+And there is interesting research in there and I'll show you some examples,
+
+926
+00:48:33,760 --> 00:48:38,459
+then there are sort of some sort of combinations 
+
+927
+00:48:38,469 --> 00:48:43,439
+of some sort of compromise between doing things 
+
+928
+00:48:43,449 --> 00:48:46,379
+at a very high level and doing things at a very low level.
+
+929
+00:48:46,620 --> 00:48:46,870
+So,
+
+930
+00:48:46,879 --> 00:48:47,530
+so for example,
+
+931
+00:48:47,540 --> 00:48:50,540
+in these tactical proof assistance,
+
+932
+00:48:50,550 --> 00:48:53,429
+like whole light the system,
+
+933
+00:48:53,439 --> 00:48:55,879
+which I which was used for flight back,
+
+934
+00:48:57,129 --> 00:49:01,810
+you you what you can do instead of like going into the very,
+
+935
+00:49:01,820 --> 00:49:05,750
+very kernel of the system and the tiny 
+
+936
+00:49:06,169 --> 00:49:10,750
+inferences you can try to learn how to 
+
+937
+00:49:10,760 --> 00:49:14,510
+compose the tactics used,
+
+938
+00:49:14,520 --> 00:49:18,600
+which are typically some bigger programs 
+
+939
+00:49:19,000 --> 00:49:23,719
+which are often used to sort of structure the proof and to 
+
+940
+00:49:23,729 --> 00:49:25,590
+transform the goals etc etc.
+
+941
+00:49:26,550 --> 00:49:26,889
+So,
+
+942
+00:49:26,899 --> 00:49:28,870
+so that's today,
+
+943
+00:49:28,879 --> 00:49:33,780
+maybe one of the most practically useful things.
+
+944
+00:49:34,010 --> 00:49:35,780
+So very recently,
+
+945
+00:49:35,790 --> 00:49:40,590
+we have done things like Monte Carlo research for that,
+
+946
+00:49:40,600 --> 00:49:45,169
+like combined with some sort of machine learning guidance where it's 
+
+947
+00:49:45,179 --> 00:49:50,030
+really better than just the sort of high level guidance when 
+
+948
+00:49:50,040 --> 00:49:54,360
+you choose the premises in the beginning and ship it over to an automated,
+
+949
+00:49:54,389 --> 00:49:54,719
+the MP.
+
+950
+00:49:55,639 --> 00:50:00,419
+And then there are all these things which cannot really be classified too much as some sort of machine 
+
+951
+00:50:00,429 --> 00:50:01,050
+learning.
+
+952
+00:50:01,459 --> 00:50:05,659
+But they are more sort of A I things like theory 
+
+953
+00:50:05,669 --> 00:50:06,610
+exploration,
+
+954
+00:50:06,620 --> 00:50:11,290
+which is like you want to develop the theory 
+
+955
+00:50:11,300 --> 00:50:16,179
+to have good new dilemmas and definitions 
+
+956
+00:50:16,189 --> 00:50:16,580
+in it.
+
+957
+00:50:17,219 --> 00:50:21,719
+Or like there are all these interesting feedback loops when you,
+
+958
+00:50:21,899 --> 00:50:25,879
+when you prove something you learn from the proof.
+
+959
+00:50:25,889 --> 00:50:27,610
+Thanks to that,
+
+960
+00:50:27,620 --> 00:50:32,020
+you sort of get the smarter guidance and the smarter 
+
+961
+00:50:32,030 --> 00:50:36,600
+guidance allows you to prove more problems and that 
+
+962
+00:50:36,610 --> 00:50:37,729
+allows you to learn,
+
+963
+00:50:37,739 --> 00:50:42,370
+learn more and this can go on and on in these sort of feedback loops.
+
+964
+00:50:42,379 --> 00:50:44,050
+So to some extent,
+
+965
+00:50:44,060 --> 00:50:48,360
+it's related to some reinforcement learning um 
+
+966
+00:50:49,330 --> 00:50:50,389
+data sets,
+
+967
+00:50:50,399 --> 00:50:55,280
+like there are all these large libraries I mentioned 
+
+968
+00:50:55,580 --> 00:50:59,669
+Mizar Isabel Flybe Cock is a very 
+
+969
+00:51:00,149 --> 00:51:05,040
+developed proof assistant used for the formalization of the five Thompson theorem,
+
+970
+00:51:05,989 --> 00:51:06,399
+et cetera,
+
+971
+00:51:06,409 --> 00:51:06,989
+et cetera.
+
+972
+00:51:08,060 --> 00:51:12,620
+Uh So now briefly to the to the various high level,
+
+973
+00:51:12,629 --> 00:51:14,560
+low level and mid-level methods.
+
+974
+00:51:14,719 --> 00:51:15,209
+So,
+
+975
+00:51:15,219 --> 00:51:16,060
+so basically,
+
+976
+00:51:16,810 --> 00:51:18,899
+uh like 15 years ago,
+
+977
+00:51:19,159 --> 00:51:22,590
+I sort of started to play with the S Mizar library,
+
+978
+00:51:22,600 --> 00:51:27,580
+which was really a huge uh biggest library of mathematics at the time 
+
+979
+00:51:28,270 --> 00:51:32,959
+and translated it to be able to give it to automated theorem previous 
+
+980
+00:51:32,969 --> 00:51:37,629
+and to see whether the automated theorem previous can 
+
+981
+00:51:37,639 --> 00:51:42,300
+prove anything at all or whether it's a totally hopeless 
+
+982
+00:51:42,310 --> 00:51:43,070
+task.
+
+983
+00:51:43,500 --> 00:51:46,209
+So it turns out it is a hopeless task if you,
+
+984
+00:51:46,219 --> 00:51:47,590
+if you give all the,
+
+985
+00:51:47,600 --> 00:51:50,669
+let's say 50,000 facts from the library to an automated theory.
+
+986
+00:51:50,679 --> 00:51:50,989
+Previous,
+
+987
+00:51:51,000 --> 00:51:51,489
+as I said,
+
+988
+00:51:51,500 --> 00:51:54,479
+this really blows up extremely quickly.
+
+989
+00:51:54,979 --> 00:51:59,340
+But um 
+
+990
+00:51:59,350 --> 00:52:00,020
+well,
+
+991
+00:52:00,449 --> 00:52:05,100
+unlike some people uh who believe that uh uh 
+
+992
+00:52:05,729 --> 00:52:08,060
+selecting mathematical knowledge,
+
+993
+00:52:08,070 --> 00:52:11,860
+um would think um to,
+
+994
+00:52:11,870 --> 00:52:13,280
+to be sort of impossible.
+
+995
+00:52:13,290 --> 00:52:14,100
+Like if you read,
+
+996
+00:52:14,110 --> 00:52:14,639
+for example,
+
+997
+00:52:14,729 --> 00:52:15,590
+Penrose,
+
+998
+00:52:15,709 --> 00:52:15,729
+it,
+
+999
+00:52:15,739 --> 00:52:19,949
+it really turns out that this is not something 
+
+1000
+00:52:19,959 --> 00:52:24,090
+impossible and that there is a clear improvement path.
+
+1001
+00:52:24,100 --> 00:52:28,889
+So like from 2003 to 
+
+1002
+00:52:28,899 --> 00:52:29,639
+today,
+
+1003
+00:52:29,949 --> 00:52:34,689
+we can see that the better sort of technology we 
+
+1004
+00:52:34,699 --> 00:52:35,540
+put at it,
+
+1005
+00:52:35,550 --> 00:52:39,860
+that the better we can basically select what is the 
+
+1006
+00:52:39,870 --> 00:52:44,449
+relevant knowledge for solving a particular 
+
+1007
+00:52:44,459 --> 00:52:45,530
+mathematical problem.
+
+1008
+00:52:46,270 --> 00:52:51,080
+And the methods are basically very similar to what people do in some sort of query 
+
+1009
+00:52:51,090 --> 00:52:55,850
+answering or natural language um uh answering.
+
+1010
+00:52:56,360 --> 00:52:57,489
+Um So,
+
+1011
+00:52:57,500 --> 00:53:00,610
+so this is one system you,
+
+1012
+00:53:00,620 --> 00:53:00,810
+you,
+
+1013
+00:53:00,820 --> 00:53:02,050
+you basically,
+
+1014
+00:53:02,840 --> 00:53:02,969
+so,
+
+1015
+00:53:02,979 --> 00:53:03,459
+so this,
+
+1016
+00:53:03,469 --> 00:53:04,739
+this is the oldest one when I,
+
+1017
+00:53:04,750 --> 00:53:09,610
+when I just trained a naive base um um sort 
+
+1018
+00:53:09,620 --> 00:53:12,110
+of linguistic system to do that.
+
+1019
+00:53:12,489 --> 00:53:14,979
+So you uh so for,
+
+1020
+00:53:14,989 --> 00:53:15,340
+for,
+
+1021
+00:53:15,350 --> 00:53:16,810
+for each proof,
+
+1022
+00:53:16,949 --> 00:53:17,179
+you,
+
+1023
+00:53:17,189 --> 00:53:19,899
+you create a training example from the conjecture.
+
+1024
+00:53:19,909 --> 00:53:22,620
+The conjecture is characterized somehow,
+
+1025
+00:53:22,629 --> 00:53:24,219
+like in this first instance,
+
+1026
+00:53:24,229 --> 00:53:27,280
+it's characterized just by the symbols which are in the conjecture.
+
+1027
+00:53:27,770 --> 00:53:32,419
+And then the proof is characterized just by by the names of the facts which,
+
+1028
+00:53:32,429 --> 00:53:32,850
+which are,
+
+1029
+00:53:32,860 --> 00:53:33,979
+which are used in,
+
+1030
+00:53:33,989 --> 00:53:35,010
+in in the proof.
+
+1031
+00:53:35,370 --> 00:53:37,239
+So so so each proof gives you,
+
+1032
+00:53:37,250 --> 00:53:41,580
+gives you one sort of positive training example,
+
+1033
+00:53:42,070 --> 00:53:43,610
+sort of a multi,
+
+1034
+00:53:43,699 --> 00:53:44,830
+multi label example.
+
+1035
+00:53:44,840 --> 00:53:48,110
+Basically you train your favorite machine lender on that,
+
+1036
+00:53:48,120 --> 00:53:48,989
+like in this case,
+
+1037
+00:53:49,000 --> 00:53:49,909
+it was naive base.
+
+1038
+00:53:50,580 --> 00:53:52,419
+And very surprisingly,
+
+1039
+00:53:52,429 --> 00:53:56,959
+it turns out that already such a simple 
+
+1040
+00:53:56,969 --> 00:54:01,270
+solution can give you something like 70% 
+
+1041
+00:54:01,280 --> 00:54:05,739
+coverage in the 1st 100 recommended premises.
+
+1042
+00:54:05,750 --> 00:54:10,330
+So let's say if you give to the automated theorem P instead 
+
+1043
+00:54:10,340 --> 00:54:15,000
+of let's say 50,000 of all the available facts in your library,
+
+1044
+00:54:15,270 --> 00:54:20,179
+just the 1st 100 then so if you have a 
+
+1045
+00:54:20,189 --> 00:54:25,090
+70% coverage of what was actually used in the 
+
+1046
+00:54:25,100 --> 00:54:26,169
+human proof.
+
+1047
+00:54:26,439 --> 00:54:29,649
+So that shows you that in some sense,
+
+1048
+00:54:30,250 --> 00:54:34,050
+the formal mathematical corpus is,
+
+1049
+00:54:34,310 --> 00:54:39,010
+is not something crazily undecidable with a lot of 
+
+1050
+00:54:39,020 --> 00:54:40,169
+randomness in it.
+
+1051
+00:54:40,179 --> 00:54:43,290
+It's something uh which,
+
+1052
+00:54:43,300 --> 00:54:46,760
+which is constructed by humans in some sense,
+
+1053
+00:54:46,770 --> 00:54:51,229
+similar to what humans do when they write 
+
+1054
+00:54:51,239 --> 00:54:53,550
+textbooks and when they write stories,
+
+1055
+00:54:53,560 --> 00:54:54,169
+et cetera,
+
+1056
+00:54:54,179 --> 00:54:57,929
+when they write some sort of scientific treaties 
+
+1057
+00:54:58,739 --> 00:55:02,070
+and that there is a lot of predictability there.
+
+1058
+00:55:03,169 --> 00:55:04,669
+So at the time,
+
+1059
+00:55:04,679 --> 00:55:05,300
+if you,
+
+1060
+00:55:05,310 --> 00:55:08,330
+if you gave this to an automated theorem period,
+
+1061
+00:55:08,340 --> 00:55:12,379
+then you could get something like 14% of the library approved fully 
+
+1062
+00:55:12,389 --> 00:55:13,350
+automatically.
+
+1063
+00:55:13,820 --> 00:55:15,070
+Today,
+
+1064
+00:55:15,080 --> 00:55:19,889
+we have something like 45 to 50% on these 
+
+1065
+00:55:19,899 --> 00:55:20,550
+libraries.
+
+1066
+00:55:21,199 --> 00:55:26,000
+So these are just quickly some some graphs 
+
+1067
+00:55:26,010 --> 00:55:31,000
+like from about 67 years ago when we compared the 
+
+1068
+00:55:31,010 --> 00:55:35,189
+performance of different machine learning techniques and some heuristic techniques.
+
+1069
+00:55:35,199 --> 00:55:37,860
+So uh the best one,
+
+1070
+00:55:37,870 --> 00:55:42,709
+the blue one which has the best coverage very fast,
+
+1071
+00:55:42,719 --> 00:55:45,110
+very kernel methods at the time.
+
+1072
+00:55:45,120 --> 00:55:46,310
+And obviously today,
+
+1073
+00:55:46,320 --> 00:55:51,100
+you can you can go better with some sort of deep learning methods.
+
+1074
+00:55:51,750 --> 00:55:56,120
+This is another interesting graph like if you combine a 
+
+1075
+00:55:56,129 --> 00:56:00,040
+particular machine learning method with sort 
+
+1076
+00:56:00,989 --> 00:56:03,699
+of the shelf automated theorem.
+
+1077
+00:56:03,709 --> 00:56:08,500
+And how does the sort of machine learning performance in 
+
+1078
+00:56:08,510 --> 00:56:13,370
+selecting the right facts from your library influence the performance of the 
+
+1079
+00:56:13,379 --> 00:56:14,530
+of the solver.
+
+1080
+00:56:14,540 --> 00:56:16,929
+So you can see that it's sort of really,
+
+1081
+00:56:17,340 --> 00:56:18,979
+really matters.
+
+1082
+00:56:18,989 --> 00:56:20,360
+So on the y axis,
+
+1083
+00:56:20,429 --> 00:56:24,350
+that's the number of solved problems basically from this particular benchmark.
+
+1084
+00:56:25,040 --> 00:56:29,409
+Oh The um 
+
+1085
+00:56:31,110 --> 00:56:31,939
+as I said,
+
+1086
+00:56:31,949 --> 00:56:35,840
+like this is probably the most 
+
+1087
+00:56:35,850 --> 00:56:39,850
+industrially used part of what we are doing today.
+
+1088
+00:56:39,860 --> 00:56:42,899
+So the system are called hammers.
+
+1089
+00:56:42,909 --> 00:56:47,219
+So that's a terminology invented by Larry Paulson,
+
+1090
+00:56:47,229 --> 00:56:50,610
+who is the developer in Cambridge of the Isabel system.
+
+1091
+00:56:50,620 --> 00:56:52,729
+So yet the name Sledgehammer,
+
+1092
+00:56:53,300 --> 00:56:57,979
+so you take a problem from an interactive theorem prover 
+
+1093
+00:56:58,100 --> 00:56:59,929
+proof a system like Isabel,
+
+1094
+00:57:00,540 --> 00:57:05,360
+the logic is typically richer than just some basic first of logic 
+
+1095
+00:57:05,370 --> 00:57:08,360
+which the automated the the work in.
+
+1096
+00:57:08,909 --> 00:57:09,239
+So,
+
+1097
+00:57:09,250 --> 00:57:13,219
+so you need to that that's a reasonably big part of the problem.
+
+1098
+00:57:13,229 --> 00:57:16,620
+You need to translate at least in this scenario,
+
+1099
+00:57:16,629 --> 00:57:20,580
+the rich logic to the sort of more basic logic.
+
+1100
+00:57:22,540 --> 00:57:27,469
+So you create this very solid problem you from the 
+
+1101
+00:57:27,479 --> 00:57:28,500
+huge database,
+
+1102
+00:57:28,510 --> 00:57:31,110
+you select the relevant knowledge,
+
+1103
+00:57:31,560 --> 00:57:34,360
+you ship it all to an automated theorem period,
+
+1104
+00:57:34,389 --> 00:57:36,310
+like in this case,
+
+1105
+00:57:36,620 --> 00:57:39,540
+and if the theory finds the proof,
+
+1106
+00:57:39,550 --> 00:57:43,610
+then then you try to reconstruct the proof in the 
+
+1107
+00:57:44,800 --> 00:57:49,270
+logic of the interactive the m the sometimes it might fail because there might be some 
+
+1108
+00:57:49,280 --> 00:57:51,949
+simplifications when you are doing the translation.
+
+1109
+00:57:52,330 --> 00:57:57,270
+So this has been done in the recent years for basically 
+
+1110
+00:57:57,280 --> 00:58:01,830
+all the mainstream interactive the periods and like the 
+
+1111
+00:58:01,840 --> 00:58:05,330
+success rate on the top level lemmas in these libraries,
+
+1112
+00:58:05,340 --> 00:58:07,750
+which are typically there are thousands of them.
+
+1113
+00:58:08,159 --> 00:58:11,310
+It's surprisingly for all of them about the same.
+
+1114
+00:58:11,320 --> 00:58:14,189
+So it's about these 45%.
+
+1115
+00:58:15,729 --> 00:58:19,709
+Um so this is quite recent.
+
+1116
+00:58:19,719 --> 00:58:23,070
+So like people are still working on this quite a bit.
+
+1117
+00:58:23,409 --> 00:58:23,689
+So,
+
+1118
+00:58:23,699 --> 00:58:28,090
+so basically the biggest uh issue when you are doing some sort of machine learning 
+
+1119
+00:58:28,100 --> 00:58:31,330
+for semantic data for for mathematics,
+
+1120
+00:58:31,340 --> 00:58:36,169
+for formulas and for proofs is to figure out what should be good features of these 
+
+1121
+00:58:36,179 --> 00:58:36,540
+data.
+
+1122
+00:58:36,550 --> 00:58:41,209
+Like what what characterizes two formulas 
+
+1123
+00:58:41,260 --> 00:58:46,139
+and what distinguishes between very different proofs that you have for 
+
+1124
+00:58:46,149 --> 00:58:47,179
+two formulas.
+
+1125
+00:58:47,639 --> 00:58:51,879
+So you can really go pretty wild there.
+
+1126
+00:58:51,889 --> 00:58:56,449
+Like you can use all sorts of syntactic features like the symbols and the terms 
+
+1127
+00:58:56,459 --> 00:58:56,899
+there.
+
+1128
+00:58:57,310 --> 00:59:01,870
+But you can also go very semantic like you can pre compute 
+
+1129
+00:59:01,879 --> 00:59:06,290
+features which solve some sort of unification or 
+
+1130
+00:59:06,300 --> 00:59:08,469
+matching problem there.
+
+1131
+00:59:08,709 --> 00:59:09,409
+You can,
+
+1132
+00:59:09,419 --> 00:59:11,649
+you can really also try to,
+
+1133
+00:59:12,199 --> 00:59:12,979
+for example,
+
+1134
+00:59:12,989 --> 00:59:17,820
+look at at a large number of models in which these 
+
+1135
+00:59:17,830 --> 00:59:22,620
+formulas hold or do not hold and take the validity of the formulas in these 
+
+1136
+00:59:22,629 --> 00:59:27,550
+models as some sort of semantic characterization of some sort of characteristic 
+
+1137
+00:59:27,560 --> 00:59:28,219
+vector,
+
+1138
+00:59:28,709 --> 00:59:30,820
+which you feed to the machine learners.
+
+1139
+00:59:31,719 --> 00:59:36,479
+You can obviously you can try deep learning to do it all for you which sort 
+
+1140
+00:59:36,489 --> 00:59:41,139
+of does something but but it's not amazing at the 
+
+1141
+00:59:41,149 --> 00:59:41,820
+moment.
+
+1142
+00:59:43,300 --> 00:59:44,800
+As I mentioned,
+
+1143
+00:59:44,810 --> 00:59:49,419
+you can also extract all dilemmas from all the previous 
+
+1144
+00:59:49,429 --> 00:59:51,949
+proofs and use them for the current proof.
+
+1145
+00:59:51,959 --> 00:59:56,449
+So then your task is to 
+
+1146
+00:59:56,459 --> 01:00:00,239
+deal like instead of tens of thousands of previous knowledge,
+
+1147
+01:00:00,250 --> 01:00:05,169
+you might get millions or even billions of lemmas from the previous 
+
+1148
+01:00:05,179 --> 01:00:05,489
+proofs.
+
+1149
+01:00:05,500 --> 01:00:06,229
+And then again,
+
+1150
+01:00:06,239 --> 01:00:10,239
+you need to select from them uh et cetera,
+
+1151
+01:00:10,250 --> 01:00:10,620
+et cetera.
+
+1152
+01:00:10,629 --> 01:00:10,909
+So,
+
+1153
+01:00:10,919 --> 01:00:13,689
+so a very,
+
+1154
+01:00:13,699 --> 01:00:18,520
+one of the very interesting tasks is how to learn from multiple proofs.
+
+1155
+01:00:18,530 --> 01:00:22,639
+So as you probably know like one 
+
+1156
+01:00:23,449 --> 01:00:25,820
+theorem or one conjecture in mathematics can,
+
+1157
+01:00:25,830 --> 01:00:30,199
+can have basically an infinite number of proofs and they may 
+
+1158
+01:00:30,209 --> 01:00:31,580
+differ in,
+
+1159
+01:00:31,590 --> 01:00:33,050
+in all sorts of ways.
+
+1160
+01:00:33,679 --> 01:00:37,209
+And now if you have a very simple machine learn area,
+
+1161
+01:00:38,030 --> 01:00:40,370
+this might confuse the machine learner.
+
+1162
+01:00:41,209 --> 01:00:42,550
+Uh So,
+
+1163
+01:00:42,560 --> 01:00:43,030
+so how,
+
+1164
+01:00:43,040 --> 01:00:43,820
+how do you,
+
+1165
+01:00:43,830 --> 01:00:47,209
+how do you sort of adjust for that?
+
+1166
+01:00:47,219 --> 01:00:51,800
+How do you make the machine learner take the 
+
+1167
+01:00:51,810 --> 01:00:55,800
+advantage of the ability to have really many 
+
+1168
+01:00:56,469 --> 01:01:00,919
+different proofs for the same thing and many different ideas 
+
+1169
+01:01:00,929 --> 01:01:01,750
+basically.
+
+1170
+01:01:02,610 --> 01:01:06,840
+Um And these are some of the features.
+
+1171
+01:01:06,850 --> 01:01:09,629
+So I will not go into it.
+
+1172
+01:01:09,639 --> 01:01:10,590
+So as I said,
+
+1173
+01:01:10,600 --> 01:01:12,129
+they can be very synthetic,
+
+1174
+01:01:12,139 --> 01:01:14,590
+like the symbols and terms etcetera.
+
+1175
+01:01:15,360 --> 01:01:20,320
+But like you can also also do these very semantic things like 
+
+1176
+01:01:20,330 --> 01:01:24,550
+evaluating things in a finite finite model,
+
+1177
+01:01:24,560 --> 01:01:26,810
+evaluating each formula in a finite model,
+
+1178
+01:01:27,739 --> 01:01:28,290
+et cetera,
+
+1179
+01:01:28,300 --> 01:01:28,830
+et cetera.
+
+1180
+01:01:29,699 --> 01:01:32,850
+Oh th th this is one bragging example.
+
+1181
+01:01:33,020 --> 01:01:33,560
+So,
+
+1182
+01:01:33,570 --> 01:01:36,290
+so it's a uh it's,
+
+1183
+01:01:36,300 --> 01:01:38,689
+it's the two which I uh it,
+
+1184
+01:01:38,699 --> 01:01:41,169
+it's the formula of this work.
+
+1185
+01:01:42,459 --> 01:01:43,110
+Oh Yeah.
+
+1186
+01:01:43,570 --> 01:01:45,320
+Um So it's,
+
+1187
+01:01:45,330 --> 01:01:49,879
+it's the formula I mentioned in the proof of uh when I was mentioning P back.
+
+1188
+01:01:49,889 --> 01:01:54,699
+So it's this formula that if C is a S is a polyhedron and C is a face of 
+
+1189
+01:01:54,709 --> 01:01:55,469
+S then,
+
+1190
+01:01:55,479 --> 01:01:59,090
+then C is also uh a polyhedron.
+
+1191
+01:01:59,949 --> 01:02:01,399
+And the,
+
+1192
+01:02:01,570 --> 01:02:06,300
+this is a very um well fairly 
+
+1193
+01:02:06,310 --> 01:02:11,080
+involved uh technical proof uh written by one of the 
+
+1194
+01:02:11,090 --> 01:02:14,419
+masters of formal formal proof basically.
+
+1195
+01:02:14,879 --> 01:02:19,639
+So this will take you really a nontrivial time to,
+
+1196
+01:02:19,649 --> 01:02:20,179
+to,
+
+1197
+01:02:20,429 --> 01:02:21,959
+to do like this.
+
+1198
+01:02:22,540 --> 01:02:26,260
+Uh We basically,
+
+1199
+01:02:26,870 --> 01:02:31,280
+we basically cannot get this proof by an automated theory improver.
+
+1200
+01:02:31,290 --> 01:02:34,260
+Even if we advise the automated theory improver,
+
+1201
+01:02:34,469 --> 01:02:39,429
+what are exactly the facts this proof is using because 
+
+1202
+01:02:39,610 --> 01:02:44,459
+the proof is using a lot of stuff and it blows up inside the 
+
+1203
+01:02:44,469 --> 01:02:45,550
+automated theory theory.
+
+1204
+01:02:46,120 --> 01:02:50,739
+But the machine learning in this case found that 
+
+1205
+01:02:50,750 --> 01:02:55,750
+in the formal library that already have been 
+
+1206
+01:02:55,760 --> 01:03:00,550
+developed lemmas which allow to construct the 
+
+1207
+01:03:00,560 --> 01:03:01,330
+proof much,
+
+1208
+01:03:01,340 --> 01:03:02,120
+much faster.
+
+1209
+01:03:02,820 --> 01:03:03,419
+So,
+
+1210
+01:03:03,429 --> 01:03:08,239
+so even though the guy who wrote the proof is 
+
+1211
+01:03:08,250 --> 01:03:11,080
+sort of a master of formalization.
+
+1212
+01:03:11,860 --> 01:03:16,739
+The sheer size of the library at this time was too much 
+
+1213
+01:03:16,750 --> 01:03:17,469
+for him.
+
+1214
+01:03:17,739 --> 01:03:22,600
+And instead of like finding the very easy 
+
+1215
+01:03:22,610 --> 01:03:25,000
+proof or reasonably easy proof,
+
+1216
+01:03:25,010 --> 01:03:29,340
+which in this case means basically combining just 
+
+1217
+01:03:29,350 --> 01:03:34,239
+44 previous lemmas which are there and like doing some sort 
+
+1218
+01:03:34,250 --> 01:03:35,469
+of trick there,
+
+1219
+01:03:35,899 --> 01:03:35,969
+he,
+
+1220
+01:03:36,010 --> 01:03:36,639
+he,
+
+1221
+01:03:36,649 --> 01:03:41,479
+he sort of went down to sort of to expanding the definitions 
+
+1222
+01:03:41,489 --> 01:03:41,810
+and,
+
+1223
+01:03:41,820 --> 01:03:43,520
+and doing the,
+
+1224
+01:03:43,530 --> 01:03:43,649
+the,
+
+1225
+01:03:43,659 --> 01:03:47,679
+the sort of carrying out the intuition which he had about it.
+
+1226
+01:03:48,229 --> 01:03:49,139
+Uh Where,
+
+1227
+01:03:49,149 --> 01:03:51,750
+where is the um the,
+
+1228
+01:03:51,760 --> 01:03:54,250
+the machine learner really sees,
+
+1229
+01:03:54,560 --> 01:03:56,620
+sees the whole library like it's,
+
+1230
+01:03:56,629 --> 01:03:57,879
+it's your sort of Google,
+
+1231
+01:03:57,889 --> 01:03:58,120
+right?
+
+1232
+01:03:58,129 --> 01:04:02,909
+Like it can really draw the right uh stuff from the 
+
+1233
+01:04:02,919 --> 01:04:03,679
+library.
+
+1234
+01:04:03,689 --> 01:04:07,189
+And uh in this case,
+
+1235
+01:04:07,199 --> 01:04:09,969
+it was sufficiently easy for the automated,
+
+1236
+01:04:10,010 --> 01:04:11,820
+the improver to finish the proof.
+
+1237
+01:04:11,830 --> 01:04:13,189
+So in this case,
+
+1238
+01:04:13,199 --> 01:04:18,020
+we have managed to come up with an easier or 
+
+1239
+01:04:18,030 --> 01:04:18,820
+shorter,
+
+1240
+01:04:19,139 --> 01:04:23,760
+shorter proof than the human um a 
+
+1241
+01:04:23,770 --> 01:04:24,520
+bit on,
+
+1242
+01:04:24,530 --> 01:04:26,360
+on this low level guidance.
+
+1243
+01:04:27,189 --> 01:04:27,949
+So I,
+
+1244
+01:04:27,959 --> 01:04:32,399
+I'll show you one or two systems 
+
+1245
+01:04:32,409 --> 01:04:34,570
+what we are trying to,
+
+1246
+01:04:34,580 --> 01:04:39,489
+to do to really guide a reason when we 
+
+1247
+01:04:39,500 --> 01:04:41,080
+are guiding every step.
+
+1248
+01:04:42,090 --> 01:04:43,389
+Um So,
+
+1249
+01:04:43,399 --> 01:04:48,030
+so we took a very simple theorem proving 
+
+1250
+01:04:48,040 --> 01:04:50,000
+calculus called connection tableau.
+
+1251
+01:04:50,199 --> 01:04:53,570
+So uh t is this,
+
+1252
+01:04:53,580 --> 01:04:54,739
+it's a tree,
+
+1253
+01:04:54,919 --> 01:04:56,010
+it's a proof tree.
+
+1254
+01:04:56,739 --> 01:04:57,810
+And uh in,
+
+1255
+01:04:57,830 --> 01:05:01,149
+in this calculus you work with clauses.
+
+1256
+01:05:01,159 --> 01:05:04,080
+So um these are all clauses,
+
+1257
+01:05:04,090 --> 01:05:08,570
+clauses are these junctions of literals and 
+
+1258
+01:05:08,580 --> 01:05:12,870
+literal is either an atom or its negation.
+
+1259
+01:05:13,330 --> 01:05:14,919
+So I don't know,
+
+1260
+01:05:14,929 --> 01:05:16,300
+like for example,
+
+1261
+01:05:16,310 --> 01:05:21,020
+this one would say out of XY or not P of X or 
+
+1262
+01:05:21,030 --> 01:05:22,129
+Qqy,
+
+1263
+01:05:22,139 --> 01:05:22,360
+right.
+
+1264
+01:05:23,030 --> 01:05:23,850
+Um So,
+
+1265
+01:05:23,860 --> 01:05:24,780
+so in connection Tableau,
+
+1266
+01:05:24,889 --> 01:05:26,790
+you sort of start with a.
+
+1267
+01:05:27,340 --> 01:05:27,800
+So,
+
+1268
+01:05:27,810 --> 01:05:28,080
+so,
+
+1269
+01:05:28,090 --> 01:05:28,919
+so all,
+
+1270
+01:05:28,969 --> 01:05:29,030
+all,
+
+1271
+01:05:29,070 --> 01:05:33,169
+all this theory improving in connection tableau 
+
+1272
+01:05:33,500 --> 01:05:37,979
+typically proceeds by negating the conjecture and trying to 
+
+1273
+01:05:37,989 --> 01:05:42,939
+show that the conjecture together with the negated conjecture together with the X 
+
+1274
+01:05:43,159 --> 01:05:44,189
+is contradictory.
+
+1275
+01:05:44,399 --> 01:05:49,340
+So you are sort of trying to infer contradiction.
+
+1276
+01:05:50,050 --> 01:05:54,429
+Um And the way how you show that the,
+
+1277
+01:05:54,590 --> 01:05:59,419
+that the proof tree is contradictory is that basically every,
+
+1278
+01:06:00,239 --> 01:06:04,899
+every path in this tree will contain two 
+
+1279
+01:06:05,709 --> 01:06:07,699
+atoms with different sign.
+
+1280
+01:06:07,889 --> 01:06:08,550
+So for example,
+
+1281
+01:06:08,560 --> 01:06:13,520
+you know that pa and not P of A cannot hold together like 
+
+1282
+01:06:13,530 --> 01:06:13,739
+that,
+
+1283
+01:06:13,750 --> 01:06:15,199
+that's a contradiction right,
+
+1284
+01:06:15,209 --> 01:06:16,060
+like the same,
+
+1285
+01:06:16,350 --> 01:06:19,530
+same here Q of B and not Q of B cannot hold together.
+
+1286
+01:06:19,729 --> 01:06:19,939
+So,
+
+1287
+01:06:19,949 --> 01:06:20,179
+so,
+
+1288
+01:06:20,189 --> 01:06:21,110
+so when this happens,
+
+1289
+01:06:21,120 --> 01:06:23,330
+when you have a proof tree or a table like this,
+
+1290
+01:06:23,340 --> 01:06:27,850
+you say this is a close connection tableau and you have sort of finish the proof.
+
+1291
+01:06:28,399 --> 01:06:30,159
+So when you,
+
+1292
+01:06:30,169 --> 01:06:31,169
+when you are doing this,
+
+1293
+01:06:31,179 --> 01:06:36,110
+you start with some particular clause and now you are doing operation 
+
+1294
+01:06:36,120 --> 01:06:37,100
+called resolution.
+
+1295
+01:06:37,110 --> 01:06:41,919
+That's a sort of an inference that similar to mode respondents basically where 
+
+1296
+01:06:41,929 --> 01:06:45,250
+you are sort of connecting,
+
+1297
+01:06:46,080 --> 01:06:46,770
+for example,
+
+1298
+01:06:46,780 --> 01:06:47,520
+this literal,
+
+1299
+01:06:47,610 --> 01:06:52,280
+which was initially this P of X very likely 
+
+1300
+01:06:52,290 --> 01:06:53,679
+with this clause.
+
+1301
+01:06:54,760 --> 01:06:57,489
+And then you would get,
+
+1302
+01:06:57,500 --> 01:07:02,179
+you would connect it through the central P and then you would immediately close the branch 
+
+1303
+01:07:02,659 --> 01:07:02,830
+and,
+
+1304
+01:07:02,840 --> 01:07:05,820
+but you would open two more branches here.
+
+1305
+01:07:06,570 --> 01:07:11,040
+Um And it's very non deterministic as you can imagine.
+
+1306
+01:07:11,050 --> 01:07:14,149
+So you can extend with all sorts of clauses,
+
+1307
+01:07:14,290 --> 01:07:17,479
+clauses and it usually blows up.
+
+1308
+01:07:17,909 --> 01:07:18,159
+So,
+
+1309
+01:07:18,169 --> 01:07:18,439
+so,
+
+1310
+01:07:18,449 --> 01:07:19,830
+so that's a very,
+
+1311
+01:07:19,840 --> 01:07:21,239
+very simple automated theorem.
+
+1312
+01:07:22,370 --> 01:07:23,110
+The,
+
+1313
+01:07:23,409 --> 01:07:23,429
+the,
+
+1314
+01:07:23,489 --> 01:07:28,199
+the advantage of this very simple setting is that the proof 
+
+1315
+01:07:28,209 --> 01:07:32,739
+state is always very compactly represented.
+
+1316
+01:07:32,750 --> 01:07:37,300
+So it's always this relatively smallish fruit tree which you have there.
+
+1317
+01:07:37,570 --> 01:07:39,699
+So if you want to do some machine learning on that,
+
+1318
+01:07:40,040 --> 01:07:44,939
+you have a reasonably compact object on which you can try to do some machine learning.
+
+1319
+01:07:45,770 --> 01:07:46,909
+Uh So,
+
+1320
+01:07:46,919 --> 01:07:51,350
+so we uh we have been trying for 
+
+1321
+01:07:51,909 --> 01:07:56,229
+some time uh to do basically machine learning of 
+
+1322
+01:07:56,239 --> 01:08:00,360
+choosing the right clauses at the right points of the tableau.
+
+1323
+01:08:00,370 --> 01:08:00,669
+So,
+
+1324
+01:08:00,679 --> 01:08:05,149
+so the first incarnation of the system was this machine learning connection through 
+
+1325
+01:08:05,399 --> 01:08:10,350
+or male cop where we just trained a naive base to do it for us.
+
+1326
+01:08:10,360 --> 01:08:11,479
+And unfortunately,
+
+1327
+01:08:11,489 --> 01:08:14,709
+that was really horribly slow at that time.
+
+1328
+01:08:14,719 --> 01:08:14,939
+So,
+
+1329
+01:08:14,949 --> 01:08:19,870
+so the sort of the shelf naive based learner was about 1000 
+
+1330
+01:08:19,879 --> 01:08:20,939
+times slower than,
+
+1331
+01:08:20,950 --> 01:08:22,569
+than the inference speed of,
+
+1332
+01:08:22,580 --> 01:08:23,479
+of the,
+
+1333
+01:08:23,490 --> 01:08:28,459
+of the calculus of the uh of the of the resolution uh 
+
+1334
+01:08:28,470 --> 01:08:30,160
+step in the tableau.
+
+1335
+01:08:31,089 --> 01:08:35,799
+But already then basically in the number of inferences and the sort of 
+
+1336
+01:08:35,810 --> 01:08:40,680
+abstract time we managed to shorten the proof search typically 
+
+1337
+01:08:40,689 --> 01:08:43,479
+20 times compared to the brute force search.
+
+1338
+01:08:43,979 --> 01:08:48,850
+So then we did sort of a second version which was this fairly efficient male cop or a 
+
+1339
+01:08:48,859 --> 01:08:50,040
+female cop.
+
+1340
+01:08:50,339 --> 01:08:55,029
+And there we related a lot of indexing and a lot of optimizations 
+
+1341
+01:08:55,470 --> 01:09:00,459
+and uh we could solve about 15% more problems than 
+
+1342
+01:09:00,470 --> 01:09:04,629
+the um than the than the original system,
+
+1343
+01:09:04,640 --> 01:09:06,049
+which doesn't use machine learning.
+
+1344
+01:09:06,700 --> 01:09:08,520
+Very recently,
+
+1345
+01:09:08,879 --> 01:09:13,479
+we have really gone for a stronger 
+
+1346
+01:09:13,490 --> 01:09:14,810
+machine learning system.
+
+1347
+01:09:14,819 --> 01:09:16,160
+So in this case,
+
+1348
+01:09:16,450 --> 01:09:21,259
+the reasonably cheap but state of the art um machine learning we use 
+
+1349
+01:09:21,270 --> 01:09:24,770
+is XG boost this gradient boost tree.
+
+1350
+01:09:25,819 --> 01:09:30,759
+And instead of sort of staying in 
+
+1351
+01:09:30,770 --> 01:09:32,740
+the limits of the original calculus,
+
+1352
+01:09:32,750 --> 01:09:36,620
+we have just plugged in Monte Carlo research there like this standard 
+
+1353
+01:09:37,299 --> 01:09:41,680
+um Kish Peshwari formula 
+
+1354
+01:09:42,100 --> 01:09:46,680
+where we are sort of learning some sort of policy for choosing 
+
+1355
+01:09:46,689 --> 01:09:51,350
+the next step and some sort of value for evaluating the current proof 
+
+1356
+01:09:51,359 --> 01:09:51,799
+state.
+
+1357
+01:09:51,810 --> 01:09:53,479
+Like how,
+
+1358
+01:09:53,759 --> 01:09:58,649
+how likely is the current proof state to be completed to 
+
+1359
+01:09:58,660 --> 01:10:00,509
+lead to a to a finished proof?
+
+1360
+01:10:01,560 --> 01:10:05,490
+And uh I'll just show you the results.
+
+1361
+01:10:05,740 --> 01:10:06,919
+So we uh we,
+
+1362
+01:10:06,930 --> 01:10:11,640
+we basically do very sort of alpha go alpha 
+
+1363
+01:10:11,759 --> 01:10:14,290
+zero style reinforcement learning here.
+
+1364
+01:10:14,299 --> 01:10:19,299
+So we take uh uh we take 32,000 mizar 
+
+1365
+01:10:19,520 --> 01:10:24,279
+problems and then we do like 
+
+1366
+01:10:24,290 --> 01:10:26,899
+standard 9 to 1 split on them.
+
+1367
+01:10:26,910 --> 01:10:31,879
+So about 30,000 are the training ones and like the remaining 
+
+1368
+01:10:31,890 --> 01:10:33,319
+ones are the testing.
+
+1369
+01:10:34,189 --> 01:10:37,939
+So if you use the standard system without any machine learning,
+
+1370
+01:10:37,950 --> 01:10:42,680
+it can do about 10,000 of the of the training funds 
+
+1371
+01:10:42,899 --> 01:10:45,529
+and about 1100 of the testing vans.
+
+1372
+01:10:45,979 --> 01:10:50,569
+The very stupid pro without any Monte Carlo guidance is much,
+
+1373
+01:10:50,580 --> 01:10:55,020
+much worse than this sort of hand written standard Tableau 
+
+1374
+01:10:55,029 --> 01:10:55,609
+solver,
+
+1375
+01:10:56,129 --> 01:11:00,870
+the Monte Carlo thing without any learned policy and 
+
+1376
+01:11:00,879 --> 01:11:05,770
+value is better but still not beating the sort 
+
+1377
+01:11:05,779 --> 01:11:07,430
+of human written thing.
+
+1378
+01:11:07,799 --> 01:11:11,979
+But then we sort of plug in the learning.
+
+1379
+01:11:11,990 --> 01:11:16,490
+So from these 7300 training 
+
+1380
+01:11:16,500 --> 01:11:17,509
+examples,
+
+1381
+01:11:17,850 --> 01:11:22,819
+we start to learn the policy and the value and we plug it in the 
+
+1382
+01:11:22,830 --> 01:11:24,959
+next iterations and,
+
+1383
+01:11:24,970 --> 01:11:29,740
+and we sort of learn and prove and learn and prove in 
+
+1384
+01:11:29,750 --> 01:11:32,560
+these whatever 88 iterations.
+
+1385
+01:11:33,029 --> 01:11:37,569
+And you can see that uh like on the testing programs which are 
+
+1386
+01:11:37,750 --> 01:11:39,660
+never used for the training,
+
+1387
+01:11:39,959 --> 01:11:43,060
+we get something like 40% improvement over,
+
+1388
+01:11:43,720 --> 01:11:47,549
+over the sort of human human written theorem three.
+
+1389
+01:11:48,160 --> 01:11:48,640
+So,
+
+1390
+01:11:48,649 --> 01:11:51,959
+so even though uh like we,
+
+1391
+01:11:51,970 --> 01:11:55,040
+we still are pretty 
+
+1392
+01:11:56,830 --> 01:12:01,799
+beginning when it comes to the technology for characterizing mathematical 
+
+1393
+01:12:01,810 --> 01:12:05,770
+data for characterizing the proof state and for characterizing the clauses.
+
+1394
+01:12:06,580 --> 01:12:07,919
+Uh So,
+
+1395
+01:12:07,930 --> 01:12:09,959
+so we did try some deep learning,
+
+1396
+01:12:09,970 --> 01:12:11,080
+but at the moment,
+
+1397
+01:12:11,089 --> 01:12:13,459
+the planning really doesn't help much on,
+
+1398
+01:12:13,470 --> 01:12:14,089
+on this.
+
+1399
+01:12:14,100 --> 01:12:15,640
+It could be that we don't have enough data,
+
+1400
+01:12:15,649 --> 01:12:18,359
+but it's more like uh you,
+
+1401
+01:12:18,370 --> 01:12:19,240
+you need to,
+
+1402
+01:12:19,250 --> 01:12:20,270
+to make deep learning,
+
+1403
+01:12:20,279 --> 01:12:21,640
+more semantic to,
+
+1404
+01:12:21,649 --> 01:12:25,509
+to uh to do something more you,
+
+1405
+01:12:25,520 --> 01:12:27,549
+you can see that was so,
+
+1406
+01:12:27,930 --> 01:12:28,290
+so,
+
+1407
+01:12:28,299 --> 01:12:32,439
+so this is done with hand engineered 
+
+1408
+01:12:32,450 --> 01:12:37,270
+syntactic mildly semantic features and you 
+
+1409
+01:12:37,279 --> 01:12:42,220
+can already beat the sort of human human written thing here.
+
+1410
+01:12:43,410 --> 01:12:44,770
+A similar.
+
+1411
+01:12:45,089 --> 01:12:45,430
+So,
+
+1412
+01:12:45,439 --> 01:12:50,399
+so there there are the state of the art approvers which work differently than,
+
+1413
+01:12:50,410 --> 01:12:50,990
+than the table.
+
+1414
+01:12:51,180 --> 01:12:52,660
+So pro is one of them,
+
+1415
+01:12:52,669 --> 01:12:55,830
+it's called the saturation superposition style theorem.
+
+1416
+01:12:56,669 --> 01:12:56,919
+So,
+
+1417
+01:12:56,930 --> 01:12:59,950
+so they are basically in instead of working on,
+
+1418
+01:12:59,959 --> 01:13:01,089
+on some proof tree,
+
+1419
+01:13:01,399 --> 01:13:06,229
+these saturation style systems take the Aio and the Neg conjecture 
+
+1420
+01:13:06,720 --> 01:13:11,609
+and they turn out lemmas like they infer a new and 
+
+1421
+01:13:11,620 --> 01:13:14,720
+new lemas from this initial set of common causes,
+
+1422
+01:13:14,839 --> 01:13:16,959
+hoping to get to a contradiction.
+
+1423
+01:13:16,970 --> 01:13:18,040
+So typically,
+
+1424
+01:13:18,459 --> 01:13:20,140
+in the first one minute,
+
+1425
+01:13:20,149 --> 01:13:21,939
+they would generate like 1 million,
+
+1426
+01:13:21,950 --> 01:13:23,240
+1 million lemmas.
+
+1427
+01:13:23,509 --> 01:13:25,339
+And obviously,
+
+1428
+01:13:25,430 --> 01:13:29,990
+this is a huge blow up and there are some ways how to surf curb it but 
+
+1429
+01:13:30,000 --> 01:13:32,490
+not crazy good ones.
+
+1430
+01:13:32,500 --> 01:13:37,080
+So what you can do and what we did and our friends from Google 
+
+1431
+01:13:37,129 --> 01:13:42,120
+research also did was basically try to guide 
+
+1432
+01:13:42,509 --> 01:13:46,319
+the selection of the next 
+
+1433
+01:13:46,330 --> 01:13:50,490
+clause on which you will be doing inferences.
+
+1434
+01:13:50,779 --> 01:13:51,100
+So,
+
+1435
+01:13:51,109 --> 01:13:55,040
+so you sort of at each iteration of this,
+
+1436
+01:13:55,049 --> 01:13:56,890
+the three where you choose one clause from,
+
+1437
+01:13:56,899 --> 01:14:01,560
+from this sort of 1 million and you do all the inferences of this clause 
+
+1438
+01:14:01,569 --> 01:14:04,720
+with all the clauses which have been chosen previously.
+
+1439
+01:14:05,479 --> 01:14:07,660
+And if you guide this,
+
+1440
+01:14:07,669 --> 01:14:12,379
+so we guide it by some sort of manual 
+
+1441
+01:14:12,390 --> 01:14:15,140
+features and very simple machine learning.
+
+1442
+01:14:15,680 --> 01:14:18,740
+And you can do similar things with deep neural networks,
+
+1443
+01:14:19,129 --> 01:14:23,620
+then we get about 80% 
+
+1444
+01:14:23,629 --> 01:14:26,169
+improvement on a particular benchmark.
+
+1445
+01:14:26,180 --> 01:14:28,140
+So even again,
+
+1446
+01:14:28,149 --> 01:14:29,850
+very simple synthetic features,
+
+1447
+01:14:29,859 --> 01:14:30,419
+in this case,
+
+1448
+01:14:30,430 --> 01:14:35,310
+with a bit of semantic engineering can uh can uh 
+
+1449
+01:14:35,319 --> 01:14:37,779
+improve the performance at the,
+
+1450
+01:14:37,790 --> 01:14:42,779
+at the moment quite uh uh with Zagger who 
+
+1451
+01:14:42,790 --> 01:14:44,459
+might not be here.
+
+1452
+01:14:44,990 --> 01:14:45,700
+OK.
+
+1453
+01:14:46,189 --> 01:14:51,060
+Uh So we uh we recently did 
+
+1454
+01:14:51,069 --> 01:14:55,729
+uh something which is sort of a combination of 
+
+1455
+01:14:55,740 --> 01:14:59,609
+statistical and semantic guidance of improving.
+
+1456
+01:15:00,729 --> 01:15:01,270
+So,
+
+1457
+01:15:01,279 --> 01:15:01,640
+so,
+
+1458
+01:15:01,649 --> 01:15:05,709
+so that's basically the,
+
+1459
+01:15:05,720 --> 01:15:10,680
+the technology I was mentioning when you load a load of lemmas from previous 
+
+1460
+01:15:10,689 --> 01:15:15,419
+proofs into the current proof state and you sort of 
+
+1461
+01:15:15,430 --> 01:15:20,220
+prioritize inferences if if you manage to infer 
+
+1462
+01:15:20,359 --> 01:15:22,939
+some of some of these previously useful,
+
+1463
+01:15:22,950 --> 01:15:23,870
+useful lemmas.
+
+1464
+01:15:24,720 --> 01:15:29,640
+Oh So in uh 
+
+1465
+01:15:29,680 --> 01:15:34,439
+so the sort of contribution there is that we 
+
+1466
+01:15:34,450 --> 01:15:34,919
+again,
+
+1467
+01:15:34,930 --> 01:15:35,419
+like we,
+
+1468
+01:15:35,430 --> 01:15:36,049
+first of all,
+
+1469
+01:15:36,060 --> 01:15:40,509
+we statistically um prioritize the 
+
+1470
+01:15:40,520 --> 01:15:43,220
+dilemmas and the proofs which we want to load.
+
+1471
+01:15:43,750 --> 01:15:48,620
+But the second improvement there is that the 
+
+1472
+01:15:48,790 --> 01:15:51,899
+dynamically inside of the proof search,
+
+1473
+01:15:52,549 --> 01:15:57,549
+we boost those lemmas which are from 
+
+1474
+01:15:57,560 --> 01:15:59,609
+the most completed proofs basically.
+
+1475
+01:15:59,620 --> 01:16:04,479
+So we sort of have let's say 100 different 
+
+1476
+01:16:04,490 --> 01:16:06,459
+proofs loaded in the current proof search.
+
+1477
+01:16:07,140 --> 01:16:10,220
+And we are sort of jumping from one to the other,
+
+1478
+01:16:10,419 --> 01:16:14,759
+like always greedily trying to complete most of the,
+
+1479
+01:16:14,770 --> 01:16:17,560
+of the one which is most completed,
+
+1480
+01:16:17,810 --> 01:16:18,680
+but at some point,
+
+1481
+01:16:18,689 --> 01:16:20,279
+we might run into trouble.
+
+1482
+01:16:20,290 --> 01:16:25,180
+So we start focusing on the other ones which are less completed.
+
+1483
+01:16:25,350 --> 01:16:30,279
+And this way we are climbing 
+
+1484
+01:16:30,290 --> 01:16:34,509
+over the infrastructure imported from the previous proofs.
+
+1485
+01:16:34,830 --> 01:16:36,000
+And of course,
+
+1486
+01:16:36,009 --> 01:16:38,080
+sometimes we need to do some brute force search.
+
+1487
+01:16:38,089 --> 01:16:43,040
+So the brute force search is sort of this slow thinking mode when you have 
+
+1488
+01:16:43,049 --> 01:16:46,069
+run out of the previous guidance of the previous ideas,
+
+1489
+01:16:46,080 --> 01:16:50,520
+and you somehow need to connect things to get to something new.
+
+1490
+01:16:51,459 --> 01:16:53,169
+Oh So,
+
+1491
+01:16:53,180 --> 01:16:57,069
+so that's uh also improves improver 
+
+1492
+01:16:57,750 --> 01:16:58,680
+quite a bit.
+
+1493
+01:16:58,689 --> 01:17:01,680
+So here is an example from the research.
+
+1494
+01:17:01,689 --> 01:17:06,049
+So we were trying to prove a particular meile 
+
+1495
+01:17:06,299 --> 01:17:10,660
+formula which is basically the Morgan loss for bull and let 
+
+1496
+01:17:10,970 --> 01:17:15,680
+this not A and not B is not 
+
+1497
+01:17:15,770 --> 01:17:17,379
+A or B etcetera.
+
+1498
+01:17:18,609 --> 01:17:19,970
+And uh we,
+
+1499
+01:17:20,399 --> 01:17:25,290
+we can find the proof without the guidance but with the guidance,
+
+1500
+01:17:25,299 --> 01:17:25,950
+in particular,
+
+1501
+01:17:25,959 --> 01:17:30,910
+if we import a proof of a related proof done 
+
+1502
+01:17:30,919 --> 01:17:35,560
+in a weaker setting than for hating algebras where you kind of 
+
+1503
+01:17:35,640 --> 01:17:38,870
+prove the full the organ but something slightly weaker,
+
+1504
+01:17:39,120 --> 01:17:43,839
+then then the the 
+
+1505
+01:17:43,850 --> 01:17:48,350
+proof of of this de Morgan stuff gets uh sort of uh 
+
+1506
+01:17:48,359 --> 01:17:51,140
+reasonably uh faster.
+
+1507
+01:17:52,899 --> 01:17:56,220
+And as a benefit of doing this,
+
+1508
+01:17:56,229 --> 01:17:57,279
+like that's been,
+
+1509
+01:17:57,299 --> 01:18:00,169
+I think we have been fighting with for some time,
+
+1510
+01:18:00,720 --> 01:18:05,459
+we get instead of these humongous proof state characterized 
+
+1511
+01:18:05,470 --> 01:18:07,379
+by millions of clauses,
+
+1512
+01:18:07,770 --> 01:18:12,069
+we get a reasonable characterization of the proof state of this situation style theorem period.
+
+1513
+01:18:12,080 --> 01:18:12,540
+So,
+
+1514
+01:18:12,750 --> 01:18:16,629
+so at each point of the run of the situation style theorem period,
+
+1515
+01:18:16,640 --> 01:18:21,279
+we have this vector of similarities of the current pro state to the 
+
+1516
+01:18:21,290 --> 01:18:26,069
+previous blues and that we are planning to plug it again to the machine 
+
+1517
+01:18:26,080 --> 01:18:31,009
+learners uh tactic to that's the probably last 
+
+1518
+01:18:31,020 --> 01:18:33,089
+one film from this guiding stuff.
+
+1519
+01:18:33,209 --> 01:18:33,799
+So,
+
+1520
+01:18:33,810 --> 01:18:33,830
+so,
+
+1521
+01:18:33,839 --> 01:18:34,990
+so that's that,
+
+1522
+01:18:35,000 --> 01:18:39,310
+that's a uh that's the tactical mid-level 
+
+1523
+01:18:39,319 --> 01:18:44,149
+guidance I have mentioned when you basically no longer translate 
+
+1524
+01:18:44,160 --> 01:18:49,120
+your knowledge from some rich rich logic to the 
+
+1525
+01:18:49,129 --> 01:18:53,790
+first of automated the the but you do some sort of Monte Carlo,
+
+1526
+01:18:54,080 --> 01:18:58,299
+whatever machine learning guidance inside the interactive theory,
+
+1527
+01:18:58,330 --> 01:19:02,060
+the learning from the previous proofs,
+
+1528
+01:19:02,339 --> 01:19:07,330
+how to apply the tactics to a particular goal and possibly backtracking,
+
+1529
+01:19:07,339 --> 01:19:07,950
+etcetera,
+
+1530
+01:19:07,970 --> 01:19:08,250
+etcetera.
+
+1531
+01:19:08,959 --> 01:19:11,439
+So in some sense,
+
+1532
+01:19:11,450 --> 01:19:15,540
+it's similar to this sort of reinforcement learning in the tableau,
+
+1533
+01:19:15,649 --> 01:19:17,240
+I think in some sense,
+
+1534
+01:19:17,250 --> 01:19:21,470
+it's much more complicated because all the data structures 
+
+1535
+01:19:21,870 --> 01:19:25,060
+are much more complicated in the interactive,
+
+1536
+01:19:25,470 --> 01:19:26,470
+the improving I think.
+
+1537
+01:19:27,459 --> 01:19:32,229
+But this is really currently the best working technology 
+
+1538
+01:19:32,240 --> 01:19:37,109
+for helping people with automation of their 
+
+1539
+01:19:37,120 --> 01:19:38,000
+proofs inside.
+
+1540
+01:19:38,790 --> 01:19:39,600
+So,
+
+1541
+01:19:39,609 --> 01:19:43,750
+so there is quite a bit of interest in doing it for other systems.
+
+1542
+01:19:44,220 --> 01:19:49,120
+So Ya Kashima from my group is doing it for Isabel which is a big 
+
+1543
+01:19:49,129 --> 01:19:49,919
+system.
+
+1544
+01:19:50,370 --> 01:19:54,500
+Uh We and some open A I and Berkeley people are doing it for Coke 
+
+1545
+01:19:54,979 --> 01:19:59,799
+and we and the Google and some people are trying to do it 
+
+1546
+01:19:59,810 --> 01:20:01,560
+for a whole whole life now.
+
+1547
+01:20:02,520 --> 01:20:05,970
+Oh some of these feedback loops.
+
+1548
+01:20:05,979 --> 01:20:08,229
+So I've mentioned some of them already.
+
+1549
+01:20:08,529 --> 01:20:13,529
+So this machine learner for automated reasoning or malaria is 
+
+1550
+01:20:13,540 --> 01:20:15,729
+basically this sort of feedback loop.
+
+1551
+01:20:15,740 --> 01:20:19,370
+When you prove something you learn from it,
+
+1552
+01:20:19,379 --> 01:20:21,609
+thanks that you get better guidance.
+
+1553
+01:20:21,979 --> 01:20:23,250
+Thanks to the better guidance,
+
+1554
+01:20:23,259 --> 01:20:27,810
+you get more proofs and you continue to infinitum.
+
+1555
+01:20:28,209 --> 01:20:31,540
+So it can be done in all sorts of ways.
+
+1556
+01:20:31,549 --> 01:20:33,750
+You have to deal with multiple proofs.
+
+1557
+01:20:33,959 --> 01:20:35,580
+You can employ,
+
+1558
+01:20:35,589 --> 01:20:40,589
+you can grow all sorts of additional data structures like 
+
+1559
+01:20:40,930 --> 01:20:42,350
+these counter models,
+
+1560
+01:20:42,359 --> 01:20:47,149
+which again help you to characterize your data and 
+
+1561
+01:20:47,250 --> 01:20:50,529
+you can do really pretty crazy meta systems.
+
+1562
+01:20:51,370 --> 01:20:56,330
+And typically we regularly beat these other people who don't do machine learning.
+
+1563
+01:20:56,339 --> 01:20:58,819
+So so so far in these A P competitions,
+
+1564
+01:20:58,830 --> 01:21:01,819
+we are the only ones who do some sort of machine learning,
+
+1565
+01:21:02,850 --> 01:21:04,319
+a blind stuff that you maker.
+
+1566
+01:21:04,330 --> 01:21:05,790
+That's probably the last one.
+
+1567
+01:21:07,950 --> 01:21:11,939
+All these automated solvers automated the figures.
+
+1568
+01:21:12,089 --> 01:21:13,419
+If they want to be good,
+
+1569
+01:21:13,430 --> 01:21:17,799
+they have to develop a lot of different 
+
+1570
+01:21:17,810 --> 01:21:21,370
+strategies which are parameterized by a lot of parameters.
+
+1571
+01:21:22,029 --> 01:21:26,879
+And the humans who are designing these strategies do 
+
+1572
+01:21:26,890 --> 01:21:31,689
+not scale to a large library of very heterogeneous mathematical 
+
+1573
+01:21:31,700 --> 01:21:32,359
+problems.
+
+1574
+01:21:33,120 --> 01:21:33,379
+Uh So,
+
+1575
+01:21:33,390 --> 01:21:34,609
+so again,
+
+1576
+01:21:34,620 --> 01:21:35,939
+like we,
+
+1577
+01:21:36,640 --> 01:21:41,529
+you you would like to develop some sort of um automated 
+
+1578
+01:21:42,109 --> 01:21:43,500
+in in an automated way,
+
+1579
+01:21:43,509 --> 01:21:47,459
+some population of sufficiently diverse strategies that will 
+
+1580
+01:21:48,580 --> 01:21:53,250
+beat the humans in developing these strategies.
+
+1581
+01:21:53,259 --> 01:21:58,169
+So the blind strategy maker is a pun on this blind 
+
+1582
+01:21:58,180 --> 01:21:59,700
+watchmaker by doin.
+
+1583
+01:22:00,080 --> 01:22:03,000
+So the strategies are here,
+
+1584
+01:22:03,100 --> 01:22:07,970
+the long connect giraffes which 
+
+1585
+01:22:07,979 --> 01:22:11,859
+specialized for eating the very tall problems and 
+
+1586
+01:22:12,990 --> 01:22:17,229
+uh the better the particular J for whatever that 
+
+1587
+01:22:17,450 --> 01:22:19,049
+specializes for,
+
+1588
+01:22:19,060 --> 01:22:21,120
+for their own problems.
+
+1589
+01:22:21,140 --> 01:22:22,930
+And so by others,
+
+1590
+01:22:22,939 --> 01:22:26,209
+the more time you give them to evolve basically,
+
+1591
+01:22:26,220 --> 01:22:26,660
+right?
+
+1592
+01:22:27,000 --> 01:22:27,529
+So,
+
+1593
+01:22:27,850 --> 01:22:29,390
+um so,
+
+1594
+01:22:29,399 --> 01:22:29,759
+so again,
+
+1595
+01:22:29,770 --> 01:22:29,879
+there,
+
+1596
+01:22:29,890 --> 01:22:33,689
+there is some sort of feedback loop when you are developing the strategies and 
+
+1597
+01:22:34,149 --> 01:22:35,390
+evaluating them,
+
+1598
+01:22:35,399 --> 01:22:36,160
+etcetera,
+
+1599
+01:22:36,169 --> 01:22:36,740
+etcetera.
+
+1600
+01:22:37,240 --> 01:22:41,200
+And this gives us something on a,
+
+1601
+01:22:41,209 --> 01:22:45,700
+on a particular mated term proving benchmark gives us 
+
+1602
+01:22:45,709 --> 01:22:48,459
+something like 25% improvement.
+
+1603
+01:22:48,470 --> 01:22:51,600
+This is the first iteration of the system since then.
+
+1604
+01:22:51,609 --> 01:22:54,140
+We have done some more.
+
+1605
+01:22:55,189 --> 01:22:57,259
+Um I'm not,
+
+1606
+01:22:57,270 --> 01:22:57,569
+no,
+
+1607
+01:22:57,580 --> 01:22:59,180
+I'm on time.
+
+1608
+01:22:59,589 --> 01:22:59,810
+Yeah,
+
+1609
+01:22:59,819 --> 01:23:01,020
+I'm running out of time.
+
+1610
+01:23:01,479 --> 01:23:04,290
+Uh So I'll like this,
+
+1611
+01:23:04,299 --> 01:23:09,160
+this last topic um which I call automated formalization.
+
+1612
+01:23:10,140 --> 01:23:13,520
+Uh I'll show you hopefully an 
+
+1613
+01:23:13,529 --> 01:23:17,779
+example or maybe I'll show you a demo.
+
+1614
+01:23:17,790 --> 01:23:19,669
+That's probably the best thing to do.
+
+1615
+01:23:22,169 --> 01:23:24,370
+Uh Let's see if we can do that.
+
+1616
+01:23:24,689 --> 01:23:25,180
+Uh Yeah,
+
+1617
+01:23:25,640 --> 01:23:26,200
+so,
+
+1618
+01:23:26,430 --> 01:23:27,279
+so what,
+
+1619
+01:23:27,290 --> 01:23:31,689
+what should be automated formalization that there is a lot of informal 
+
+1620
+01:23:31,700 --> 01:23:35,259
+mathematics on the archive and like in textbooks,
+
+1621
+01:23:35,270 --> 01:23:35,839
+et cetera.
+
+1622
+01:23:36,620 --> 01:23:39,250
+And currently with the informal math,
+
+1623
+01:23:39,259 --> 01:23:43,899
+we cannot do all this cool stuff that we can do with these formal math libraries 
+
+1624
+01:23:44,299 --> 01:23:45,759
+and we would like to obviously.
+
+1625
+01:23:46,379 --> 01:23:47,000
+So,
+
+1626
+01:23:47,009 --> 01:23:49,000
+so basically some four years ago,
+
+1627
+01:23:49,009 --> 01:23:49,479
+we said,
+
+1628
+01:23:49,490 --> 01:23:49,899
+OK,
+
+1629
+01:23:49,910 --> 01:23:54,160
+so let's train Google translate to translate all of archive into,
+
+1630
+01:23:54,169 --> 01:23:56,430
+into a formal proof language,
+
+1631
+01:23:56,439 --> 01:23:56,790
+right?
+
+1632
+01:23:56,799 --> 01:23:58,919
+Un Unfortunately,
+
+1633
+01:23:58,930 --> 01:23:59,830
+at that time,
+
+1634
+01:23:59,839 --> 01:24:04,740
+at least doing Google translate wasn't too feasible because we didn't have the aligned 
+
+1635
+01:24:04,750 --> 01:24:07,879
+data like for German and you have a lot of stuff.
+
+1636
+01:24:08,620 --> 01:24:09,040
+We,
+
+1637
+01:24:09,049 --> 01:24:12,040
+we didn't have too much formal stuff aligned with this informal one.
+
+1638
+01:24:12,740 --> 01:24:17,620
+So the first system which I'm showing you here is basically done by informal 
+
+1639
+01:24:17,850 --> 01:24:22,520
+by taking the fly spec library and the formal statements 
+
+1640
+01:24:22,529 --> 01:24:26,299
+there and making them ambiguous.
+
+1641
+01:24:26,310 --> 01:24:30,839
+And that way we got something like 20,000 aligned pairs of ambiguous 
+
+1642
+01:24:30,850 --> 01:24:33,310
+statement and non ambiguous statement.
+
+1643
+01:24:33,830 --> 01:24:38,649
+And then we basically have not a neural network but a 
+
+1644
+01:24:38,660 --> 01:24:42,839
+pro grammar which uh which sort of 
+
+1645
+01:24:43,759 --> 01:24:44,500
+takes,
+
+1646
+01:24:44,509 --> 01:24:46,700
+which trains on this sort of tree bank.
+
+1647
+01:24:46,959 --> 01:24:50,379
+And then when you give it an example,
+
+1648
+01:24:50,390 --> 01:24:53,600
+it sort of gives you the most prevalent parses,
+
+1649
+01:24:53,910 --> 01:24:58,819
+it sends it to the type checker and to the sort of large 
+
+1650
+01:24:58,830 --> 01:25:03,209
+theory theorem figure and the type checker and the theorem period 
+
+1651
+01:25:03,290 --> 01:25:06,379
+tells you whether it's true or whether it's false.
+
+1652
+01:25:06,390 --> 01:25:07,819
+So this is what you will,
+
+1653
+01:25:07,979 --> 01:25:09,410
+you will see in this demo.
+
+1654
+01:25:09,459 --> 01:25:11,720
+So somebody is writing these formulas.
+
+1655
+01:25:12,229 --> 01:25:12,700
+Oops.
+
+1656
+01:25:13,600 --> 01:25:15,939
+Um So,
+
+1657
+01:25:17,169 --> 01:25:18,669
+um for example,
+
+1658
+01:25:18,680 --> 01:25:19,490
+somebody,
+
+1659
+01:25:19,500 --> 01:25:24,189
+somebody wrote this sine zero equals Sine 
+
+1660
+01:25:24,569 --> 01:25:25,330
+pi.
+
+1661
+01:25:26,120 --> 01:25:30,540
+Um And uh uh it should delete this 
+
+1662
+01:25:30,549 --> 01:25:32,709
+plus uh over two.
+
+1663
+01:25:33,000 --> 01:25:35,279
+And uh now you,
+
+1664
+01:25:35,290 --> 01:25:38,279
+you have different interpretations of that's like for example,
+
+1665
+01:25:38,290 --> 01:25:38,990
+the two,
+
+1666
+01:25:39,279 --> 01:25:43,040
+the first two parts is differ by,
+
+1667
+01:25:43,049 --> 01:25:44,040
+by the bracket thing.
+
+1668
+01:25:44,580 --> 01:25:47,919
+And uh I should probably go slightly back here.
+
+1669
+01:25:48,509 --> 01:25:52,109
+Um So the,
+
+1670
+01:25:52,939 --> 01:25:56,069
+but you can see if this thing,
+
+1671
+01:25:56,229 --> 01:25:56,589
+well,
+
+1672
+01:25:56,600 --> 01:25:57,459
+maybe you can see it.
+
+1673
+01:25:57,979 --> 01:26:02,870
+So the top parts which is the most probable according to the bank according 
+
+1674
+01:26:02,879 --> 01:26:06,740
+to the probability grammar is actually disproved by uh by the automated,
+
+1675
+01:26:06,779 --> 01:26:08,580
+the where is the,
+
+1676
+01:26:08,669 --> 01:26:09,939
+where is the second one?
+
+1677
+01:26:10,359 --> 01:26:15,310
+Which is actually the correct one can be proved by looking at the 
+
+1678
+01:26:15,319 --> 01:26:20,299
+huge knowledge base of mathematics in the library and basically assembling a proof 
+
+1679
+01:26:20,310 --> 01:26:23,419
+using this large theory there.
+
+1680
+01:26:24,310 --> 01:26:27,080
+Oh So that's,
+
+1681
+01:26:27,089 --> 01:26:31,299
+I'll probably stop the demo and the 
+
+1682
+01:26:32,430 --> 01:26:33,609
+mm So yeah,
+
+1683
+01:26:33,620 --> 01:26:33,890
+this,
+
+1684
+01:26:33,899 --> 01:26:38,700
+this is basically what the demo is showing and I'll skip that 
+
+1685
+01:26:38,709 --> 01:26:43,490
+and just mention that in the very 
+
+1686
+01:26:43,500 --> 01:26:44,930
+recent time,
+
+1687
+01:26:44,939 --> 01:26:47,660
+like this last half year,
+
+1688
+01:26:48,020 --> 01:26:50,720
+we have also really tried to do neural translation.
+
+1689
+01:26:50,729 --> 01:26:55,290
+So we took it took some engineering but we got like 1 
+
+1690
+01:26:55,299 --> 01:27:00,149
+million latex to misar pairs and we fed it 
+
+1691
+01:27:00,160 --> 01:27:04,899
+to state of the art neural translation kit and I avoid 
+
+1692
+01:27:04,910 --> 01:27:06,890
+it on another 100,000.
+
+1693
+01:27:07,919 --> 01:27:12,459
+So this is how it looks like this is the rendered thing 
+
+1694
+01:27:12,470 --> 01:27:17,149
+and this is the Mizar thing and this is the tokenized misa and 
+
+1695
+01:27:17,160 --> 01:27:20,419
+tokens late and 
+
+1696
+01:27:21,689 --> 01:27:25,060
+um I'll skip this and just show you this.
+
+1697
+01:27:25,810 --> 01:27:26,189
+So,
+
+1698
+01:27:26,200 --> 01:27:31,169
+so this is what detained neural network is is 
+
+1699
+01:27:31,180 --> 01:27:33,339
+doing when you,
+
+1700
+01:27:33,350 --> 01:27:36,729
+when you give it a piece of input latex like this.
+
+1701
+01:27:37,419 --> 01:27:42,229
+So so this latex uh corresponds basically 
+
+1702
+01:27:42,240 --> 01:27:46,790
+to this formal Mizar sort of statement.
+
+1703
+01:27:47,609 --> 01:27:51,830
+And the neural network is 
+
+1704
+01:27:51,839 --> 01:27:56,629
+evaluated every now and then on this sort of testing data as it is 
+
+1705
+01:27:56,640 --> 01:27:57,709
+being trained.
+
+1706
+01:27:58,060 --> 01:27:59,029
+So in the beginning,
+
+1707
+01:27:59,040 --> 01:28:02,890
+you can see that the neural meric produces tot total garbage,
+
+1708
+01:28:02,899 --> 01:28:07,149
+it produces some symbols which don't even occur in the 
+
+1709
+01:28:07,160 --> 01:28:08,810
+target formula.
+
+1710
+01:28:08,819 --> 01:28:11,549
+But as you train more and more on the data,
+
+1711
+01:28:12,089 --> 01:28:16,890
+the target formula is becoming more and more correct.
+
+1712
+01:28:17,180 --> 01:28:21,669
+And basically the last one is equivalent to the 
+
+1713
+01:28:21,680 --> 01:28:23,160
+original one modulo,
+
+1714
+01:28:23,169 --> 01:28:24,450
+renaming of variables,
+
+1715
+01:28:24,459 --> 01:28:29,459
+which is sort of interesting because it got it semantically run despite 
+
+1716
+01:28:30,459 --> 01:28:35,000
+uh renaming sequel two to sequel nine and 
+
+1717
+01:28:35,009 --> 01:28:36,689
+sequel one to sequel.
+
+1718
+01:28:36,700 --> 01:28:37,180
+So,
+
+1719
+01:28:37,319 --> 01:28:37,740
+so if you,
+
+1720
+01:28:37,750 --> 01:28:38,089
+if you,
+
+1721
+01:28:38,100 --> 01:28:42,850
+if you let it train longer than it actually even gets the names of the variable strength.
+
+1722
+01:28:43,259 --> 01:28:43,910
+But anyway,
+
+1723
+01:28:43,919 --> 01:28:48,859
+the point of this is to show that at least on 
+
+1724
+01:28:48,870 --> 01:28:50,000
+this example,
+
+1725
+01:28:51,200 --> 01:28:55,870
+which is slightly synthetic because the latex is sort of generated from the Mizar formulas.
+
+1726
+01:28:56,569 --> 01:29:00,919
+It is not totally 
+
+1727
+01:29:00,930 --> 01:29:05,259
+unbelievable that we might be able to 
+
+1728
+01:29:05,270 --> 01:29:10,100
+turn a lot of informal late written mathematics into this sort of 
+
+1729
+01:29:10,109 --> 01:29:13,000
+formal formal mathematical code which would be really,
+
+1730
+01:29:13,450 --> 01:29:14,089
+really good.
+
+1731
+01:29:14,600 --> 01:29:18,089
+So these are the acknowledgements like a lot of people from Prague,
+
+1732
+01:29:18,100 --> 01:29:19,220
+from Innsbruck,
+
+1733
+01:29:19,990 --> 01:29:21,100
+ITP ITP,
+
+1734
+01:29:21,109 --> 01:29:21,899
+Google people,
+
+1735
+01:29:21,910 --> 01:29:25,029
+etc some references.
+
+1736
+01:29:25,060 --> 01:29:26,229
+And if you are interested,
+
+1737
+01:29:26,240 --> 01:29:29,640
+then come to our A ITP conference in April.
+
+1738
+01:29:41,350 --> 01:29:44,080
+I'd like to be here to start to introduce yourself.
+
+1739
+01:29:44,089 --> 01:29:49,060
+But one of the one of the benefits of organizing a conference is that you barely get to participate in 
+
+1740
+01:29:51,509 --> 01:29:52,609
+doing other stuff.
+
+1741
+01:29:52,620 --> 01:29:53,020
+But yeah,
+
+1742
+01:29:53,029 --> 01:29:57,529
+I hope the reason why I wanted to invite Joseph 
+
+1743
+01:29:57,540 --> 01:30:00,029
+here is clear,
+
+1744
+01:30:00,040 --> 01:30:01,899
+it's not just that he was my,
+
+1745
+01:30:01,910 --> 01:30:03,540
+my son's thesis advisor.
+
+1746
+01:30:03,549 --> 01:30:05,970
+But also more,
+
+1747
+01:30:05,979 --> 01:30:06,819
+more importantly,
+
+1748
+01:30:06,830 --> 01:30:06,879
+I,
+
+1749
+01:30:06,890 --> 01:30:09,660
+I think there's a two aspects to it.
+
+1750
+01:30:09,669 --> 01:30:14,609
+One is as an application area for a I 
+
+1751
+01:30:14,620 --> 01:30:19,580
+that's advancing toward a gi I think mathematics is a lot more interesting 
+
+1752
+01:30:19,589 --> 01:30:24,490
+than chess go or a lot of other video games out 
+
+1753
+01:30:24,500 --> 01:30:24,660
+there.
+
+1754
+01:30:24,669 --> 01:30:24,859
+I mean,
+
+1755
+01:30:24,870 --> 01:30:29,390
+the branching factor is much larger and I mean,
+
+1756
+01:30:29,399 --> 01:30:29,930
+in a way,
+
+1757
+01:30:29,939 --> 01:30:31,540
+in a way it's a game but it's,
+
+1758
+01:30:31,549 --> 01:30:34,379
+it's a game in the same sense that human civilization is.
+
+1759
+01:30:35,040 --> 01:30:35,399
+I mean,
+
+1760
+01:30:35,410 --> 01:30:35,959
+it's a,
+
+1761
+01:30:36,089 --> 01:30:40,899
+it's a big game which is developed for the creating all the technology that we,
+
+1762
+01:30:40,910 --> 01:30:43,899
+that we have around us and all of our science and so forth.
+
+1763
+01:30:43,910 --> 01:30:44,450
+So,
+
+1764
+01:30:44,560 --> 01:30:49,509
+but yet it's a formal thing that exists inside the computer.
+
+1765
+01:30:49,520 --> 01:30:49,729
+So I,
+
+1766
+01:30:49,740 --> 01:30:50,620
+I think it's a,
+
+1767
+01:30:50,740 --> 01:30:54,529
+it's a really interesting area to experiment with learning reasoning and,
+
+1768
+01:30:54,540 --> 01:30:56,500
+and all the different things we do in,
+
+1769
+01:30:56,509 --> 01:30:56,970
+in,
+
+1770
+01:30:56,979 --> 01:31:01,799
+in a gi I wouldn't say it should be the sole thing that A G I research 
+
+1771
+01:31:01,930 --> 01:31:02,459
+work on.
+
+1772
+01:31:02,470 --> 01:31:02,839
+But it,
+
+1773
+01:31:02,850 --> 01:31:04,259
+it certainly is,
+
+1774
+01:31:04,270 --> 01:31:08,910
+it is really an interesting challenge and I'm surprised it doesn't get more 
+
+1775
+01:31:08,919 --> 01:31:13,759
+attention that the other thing is for those of us working on A I systems that 
+
+1776
+01:31:13,770 --> 01:31:17,839
+incorporate logic as one of the tools.
+
+1777
+01:31:17,870 --> 01:31:21,970
+I think there's a lot of interesting tricks and then maybe more than tricks,
+
+1778
+01:31:21,979 --> 01:31:26,680
+ways of thinking in the augment their improving world that 
+
+1779
+01:31:26,779 --> 01:31:30,520
+could be abuse in common sense reasoning as well.
+
+1780
+01:31:30,669 --> 01:31:35,299
+But I see there's not that much communication for people working in common sense,
+
+1781
+01:31:35,310 --> 01:31:39,410
+reasoning and people working in this sort of formal math reasoning.
+
+1782
+01:31:39,419 --> 01:31:40,250
+Of course,
+
+1783
+01:31:40,700 --> 01:31:42,729
+one talk barely hints at all the,
+
+1784
+01:31:42,740 --> 01:31:44,049
+all the stuff underlying it.
+
+1785
+01:31:44,060 --> 01:31:44,649
+But my,
+
+1786
+01:31:44,660 --> 01:31:49,520
+my hope is that there can be more interaction between the two communities and the ways 
+
+1787
+01:31:49,529 --> 01:31:52,500
+of drinking and going forward.
+
+1788
+01:31:52,540 --> 01:31:53,339
+And now we're,
+
+1789
+01:31:53,350 --> 01:31:56,259
+we're sort of into the lunch time here.
+
+1790
+01:31:56,270 --> 01:31:58,129
+So we don't have time for lengthy questions.
+
+1791
+01:31:58,140 --> 01:32:00,299
+Maybe we can do a couple of brief questions.
+
+1792
+01:32:01,859 --> 01:32:04,879
+I don't know if you can do a quick,
+
+1793
+01:32:05,470 --> 01:32:05,850
+quick,
+
+1794
+01:32:05,859 --> 01:32:07,750
+quick uh twofold question.
+
+1795
+01:32:08,399 --> 01:32:11,660
+Um What is your take on the unive and foundations?
+
+1796
+01:32:11,669 --> 01:32:13,200
+Will it shorten proofs?
+
+1797
+01:32:13,209 --> 01:32:14,259
+And second,
+
+1798
+01:32:14,270 --> 01:32:19,140
+um how would you compare Cock and Mizar in 
+
+1799
+01:32:19,149 --> 01:32:21,509
+terms of practical usability,
+
+1800
+01:32:21,520 --> 01:32:26,180
+especially for us A I folk who are not very experienced in this 
+
+1801
+01:32:26,189 --> 01:32:26,899
+stuff?
+
+1802
+01:32:26,910 --> 01:32:28,180
+It's really funny.
+
+1803
+01:32:28,189 --> 01:32:29,430
+So the reason why I wasn't,
+
+1804
+01:32:29,439 --> 01:32:34,259
+in fact was that I was indu at indu seminary on formalization of 
+
+1805
+01:32:34,270 --> 01:32:35,680
+mathematics and type theory.
+
+1806
+01:32:36,000 --> 01:32:39,819
+And I gave a slightly differently geared but 
+
+1807
+01:32:40,450 --> 01:32:42,660
+propaganda talk about what we are doing.
+
+1808
+01:32:42,669 --> 01:32:46,330
+I got the exact same question from Andre Bauer,
+
+1809
+01:32:46,470 --> 01:32:49,509
+who is one of the guys working on homotopy theory.
+
+1810
+01:32:49,620 --> 01:32:50,140
+So,
+
+1811
+01:32:50,149 --> 01:32:55,060
+so is there any difference for us as the people who are trying to do the A 
+
+1812
+01:32:55,069 --> 01:32:56,919
+I for math between,
+
+1813
+01:32:56,930 --> 01:33:01,100
+let's say Mizar Isabel Coco Light and my answer 
+
+1814
+01:33:01,109 --> 01:33:03,609
+was at the moment no,
+
+1815
+01:33:03,839 --> 01:33:07,740
+if you want to do feature engineering 
+
+1816
+01:33:08,209 --> 01:33:12,509
+beyond some simple symbol term sub the 
+
+1817
+01:33:12,729 --> 01:33:13,450
+stuff,
+
+1818
+01:33:13,459 --> 01:33:14,450
+some semantics,
+
+1819
+01:33:14,459 --> 01:33:15,100
+et cetera,
+
+1820
+01:33:15,279 --> 01:33:16,569
+then you will get to it.
+
+1821
+01:33:16,580 --> 01:33:21,540
+Like if you want to go into semantic characterization 
+
+1822
+01:33:21,549 --> 01:33:23,930
+of your math objects like formulas and truths,
+
+1823
+01:33:23,939 --> 01:33:24,450
+et cetera,
+
+1824
+01:33:24,700 --> 01:33:26,250
+then you will get there,
+
+1825
+01:33:26,259 --> 01:33:29,180
+you will have some homotopy as your model,
+
+1826
+01:33:29,189 --> 01:33:29,350
+etc,
+
+1827
+01:33:29,399 --> 01:33:29,509
+etc.
+
+1828
+01:33:30,450 --> 01:33:32,609
+But at the moment,
+
+1829
+01:33:32,759 --> 01:33:37,490
+what we are doing is mostly very synthetic and the methods we use 
+
+1830
+01:33:37,500 --> 01:33:40,350
+for Misa is a boll hole we use also for Coke.
+
+1831
+01:33:40,759 --> 01:33:45,709
+And the second question was which one you should choose whether 
+
+1832
+01:33:45,720 --> 01:33:46,620
+it's Coke or.
+
+1833
+01:33:49,509 --> 01:33:51,250
+So for example,
+
+1834
+01:33:51,279 --> 01:33:56,089
+homotopy theory or uno foundations is specifically geared treatment of 
+
+1835
+01:33:56,100 --> 01:33:57,140
+isomorphism.
+
+1836
+01:33:57,149 --> 01:33:59,529
+So if that's important for you,
+
+1837
+01:33:59,729 --> 01:34:04,589
+then you will get a lot of mileage out of using a particular system 
+
+1838
+01:34:05,169 --> 01:34:09,859
+which will do a lot of isomorphism computation for you automatically 
+
+1839
+01:34:09,939 --> 01:34:10,370
+if you,
+
+1840
+01:34:10,379 --> 01:34:11,859
+if you are not into that,
+
+1841
+01:34:11,870 --> 01:34:16,109
+if you are doing some number theory or whatever you should be watching for other auto 
+
+1842
+01:34:16,475 --> 01:34:17,305
+mechanisms,
+
+1843
+01:34:17,314 --> 01:34:21,935
+which are implemented as tactics as sometimes very sophisticated tactics I know in 
+
+1844
+01:34:21,944 --> 01:34:26,435
+Isabel or in whole light etc where you have a huge number of 
+
+1845
+01:34:26,444 --> 01:34:28,674
+theoretic formalization.
+
+1846
+01:34:28,685 --> 01:34:33,674
+So one way how to see uni and foundation the theory is as 
+
+1847
+01:34:33,685 --> 01:34:37,904
+a particular kind of automation geared towards treatment of 
+
+1848
+01:34:37,915 --> 01:34:38,765
+isomorphism.
+
+1849
+01:34:38,774 --> 01:34:43,625
+But there is a lot of other automation which you have to do when you are doing 
+
+1850
+01:34:43,634 --> 01:34:45,165
+different branches of mathematics.
+
+1851
+01:34:45,174 --> 01:34:49,029
+So um choose your weapons wisely.
+
+1852
+01:34:51,910 --> 01:34:56,779
+So there's a highly rated question on the app that I'm 
+
+1853
+01:34:56,790 --> 01:34:59,410
+not sure has a short answer either.
+
+1854
+01:34:59,839 --> 01:35:02,160
+Um this is from David,
+
+1855
+01:35:04,109 --> 01:35:09,009
+it says rather than using automated theorem prover to prove theorems whose statements are 
+
+1856
+01:35:09,020 --> 01:35:10,919
+provided by mathematicians,
+
+1857
+01:35:11,089 --> 01:35:15,919
+how much of their capability could be repurposed to derive mathematics 
+
+1858
+01:35:15,930 --> 01:35:20,379
+from scratch that is start them off with the Z FC axioms of set 
+
+1859
+01:35:20,390 --> 01:35:21,089
+theory.
+
+1860
+01:35:21,100 --> 01:35:25,540
+Then let them derive interesting results or interesting has something to do with the depth and 
+
+1861
+01:35:25,549 --> 01:35:30,049
+generality of their implications and perhaps something additional learned from its own 
+
+1862
+01:35:30,060 --> 01:35:31,439
+mathematical experience.
+
+1863
+01:35:33,589 --> 01:35:33,970
+Yeah.
+
+1864
+01:35:33,979 --> 01:35:34,310
+Yeah,
+
+1865
+01:35:34,319 --> 01:35:34,910
+of course.
+
+1866
+01:35:34,919 --> 01:35:34,939
+Yeah,
+
+1867
+01:35:34,950 --> 01:35:35,609
+that's a color.
+
+1868
+01:35:36,209 --> 01:35:36,470
+So,
+
+1869
+01:35:36,479 --> 01:35:36,740
+so,
+
+1870
+01:35:36,750 --> 01:35:41,319
+so we had a very interesting discussion about reinforcement learning and like is 
+
+1871
+01:35:41,330 --> 01:35:44,279
+math a game at A IP this year.
+
+1872
+01:35:44,290 --> 01:35:48,890
+So David Mistry who is at the Toyota Technological Institute in Chicago 
+
+1873
+01:35:48,899 --> 01:35:53,669
+came up with a particular idea of what could 
+
+1874
+01:35:53,680 --> 01:35:58,459
+be a general characterization of interesting theory 
+
+1875
+01:35:58,470 --> 01:36:03,379
+or interesting theorems and what could trigger this sort of 
+
+1876
+01:36:03,390 --> 01:36:08,314
+huge enforcement learning loop start from the scratch and 
+
+1877
+01:36:08,325 --> 01:36:12,875
+then have some very basic core criterion for what is 
+
+1878
+01:36:12,884 --> 01:36:17,145
+interesting and that would sort of trigger off the research in 
+
+1879
+01:36:17,154 --> 01:36:21,984
+mathematics and then you would sort of go down the street.
+
+1880
+01:36:22,310 --> 01:36:23,009
+Uh So,
+
+1881
+01:36:23,020 --> 01:36:23,410
+so,
+
+1882
+01:36:23,419 --> 01:36:28,129
+so I think it's really interesting and people should do research on that,
+
+1883
+01:36:28,140 --> 01:36:29,529
+but we haven't,
+
+1884
+01:36:29,540 --> 01:36:34,410
+we are currently still struggling with the basic tasks 
+
+1885
+01:36:34,419 --> 01:36:36,609
+being really too hard for us.
+
+1886
+01:36:36,620 --> 01:36:39,910
+So we are trying to improve on 
+
+1887
+01:36:43,700 --> 01:36:46,629
+sort of a rule for what's an interesting,
+
+1888
+01:36:57,720 --> 01:37:01,620
+I hope so,
+
+1889
+01:37:01,790 --> 01:37:06,089
+you can definitely create the database and feed your favorite neural 
+
+1890
+01:37:06,100 --> 01:37:08,189
+network to the database.
+
+1891
+01:37:08,430 --> 01:37:13,319
+People have come up with human written criteria of what 
+
+1892
+01:37:13,330 --> 01:37:17,029
+should be interesting like Pat Langley and Simon Colton,
+
+1893
+01:37:17,060 --> 01:37:17,660
+et cetera.
+
+1894
+01:37:18,140 --> 01:37:21,859
+Uh But real really doing it the neural way,
+
+1895
+01:37:21,870 --> 01:37:23,069
+the data driven way.
+
+1896
+01:37:23,080 --> 01:37:24,649
+I don't think this has been tried yet.
+
+1897
+01:37:24,660 --> 01:37:25,080
+So.
+
+1898
+01:37:25,720 --> 01:37:25,799
+Yeah.
+
+1899
+01:37:26,040 --> 01:37:26,120
+Yeah.
+
+1900
+01:37:27,379 --> 01:37:27,790
+Yeah.
+
+1901
+01:37:27,799 --> 01:37:28,109
+Yeah.
+
+1902
+01:37:28,120 --> 01:37:28,509
+Yeah.
+
+1903
+01:37:28,529 --> 01:37:28,870
+Yeah.
+
+1904
+01:37:29,370 --> 01:37:29,629
+Yeah.
+
+1905
+01:37:29,740 --> 01:37:29,850
+Yeah,
+
+1906
+01:37:29,859 --> 01:37:30,529
+definitely.
+
+1907
+01:37:30,540 --> 01:37:30,709
+Yeah.
+
+1908
+01:37:32,180 --> 01:37:32,850
+Then you can 
+
+1909
+01:37:37,779 --> 01:37:42,399
+tell there is a valuation function 
+
+1910
+01:37:42,410 --> 01:37:42,899
+there.
+
+1911
+01:37:42,910 --> 01:37:44,919
+Uh It's just just a quick comment.
+
+1912
+01:37:45,209 --> 01:37:49,479
+Um The frequency with which a particular 
+
+1913
+01:37:49,490 --> 01:37:52,399
+result is used,
+
+1914
+01:37:52,430 --> 01:37:54,240
+it is a kind of fitness.
+
+1915
+01:37:54,250 --> 01:37:54,919
+Actually,
+
+1916
+01:37:54,930 --> 01:37:57,000
+I think automated mathematician,
+
+1917
+01:37:57,609 --> 01:38:00,350
+the original AM program was something like that.
+
+1918
+01:38:00,359 --> 01:38:04,859
+But say if you plug in particular numbers into a 
+
+1919
+01:38:04,870 --> 01:38:06,279
+theorem in number theory,
+
+1920
+01:38:06,290 --> 01:38:07,740
+it's probably not so interesting.
+
+1921
+01:38:07,750 --> 01:38:08,890
+But if you use variables,
+
+1922
+01:38:08,899 --> 01:38:09,669
+it might be.
+
+1923
+01:38:09,680 --> 01:38:13,600
+So that's because it will be reused many times in the future.
+
+1924
+01:38:13,609 --> 01:38:15,370
+So that's probably the right.
+
+1925
+01:38:17,310 --> 01:38:21,825
+So indeed the systems which have been human written have 
+
+1926
+01:38:21,834 --> 01:38:26,685
+used like the number of things have been used and the number like the shortness,
+
+1927
+01:38:26,694 --> 01:38:27,245
+for example,
+
+1928
+01:38:27,254 --> 01:38:31,975
+the generality as various features of this 
+
+1929
+01:38:31,984 --> 01:38:36,895
+ultimate interesting this formula and you could play with the features with 
+
+1930
+01:38:36,904 --> 01:38:38,154
+the weights of these features,
+
+1931
+01:38:38,165 --> 01:38:38,584
+for example.
+
+1932
+01:38:38,595 --> 01:38:43,015
+So that's been done to some extent by Stepan Schulz and Simon Colton.
+
+1933
+01:38:45,024 --> 01:38:47,294
+So just just the usage.
+
+1934
+01:38:48,100 --> 01:38:51,620
+So sometimes the usage is sort of a boring thing because you,
+
+1935
+01:38:51,629 --> 01:38:56,359
+you have some I know reflexivity of equality you used all the time or 
+
+1936
+01:38:56,370 --> 01:38:57,770
+symmetry of equality.
+
+1937
+01:38:57,859 --> 01:38:58,129
+So,
+
+1938
+01:38:58,140 --> 01:39:02,390
+so that's not your most important dilemma there.
+
+1939
+01:39:02,399 --> 01:39:03,209
+In some sense,
+
+1940
+01:39:03,220 --> 01:39:05,109
+it's not the most interesting clemma.
+
+1941
+01:39:05,120 --> 01:39:05,410
+At least,
+
+1942
+01:39:05,419 --> 01:39:06,589
+maybe most important,
+
+1943
+01:39:06,600 --> 01:39:08,240
+but not the most interesting 
+
+1944
+01:39:22,910 --> 01:39:24,279
+you probably need.
+
+1945
+01:39:24,290 --> 01:39:29,080
+Uh uh that's the measure um because we're 
+
+1946
+01:39:29,089 --> 01:39:30,500
+talking about the domain.
+
+1947
+01:39:30,509 --> 01:39:35,410
+So you have to predict how useful is this theorem going to be in 
+
+1948
+01:39:35,419 --> 01:39:36,279
+the future.
+
+1949
+01:39:36,430 --> 01:39:38,089
+So that's like density.
+
+1950
+01:39:39,770 --> 01:39:40,189
+Yeah,
+
+1951
+01:39:40,240 --> 01:39:42,060
+I don't know how to predict the future.
+
+1952
+01:39:43,299 --> 01:39:43,709
+Well,
+
+1953
+01:39:43,720 --> 01:39:44,029
+you could,
+
+1954
+01:39:44,040 --> 01:39:44,560
+you could try,
+
+1955
+01:39:48,850 --> 01:39:48,870
+yeah,
+
+1956
+01:39:48,879 --> 01:39:51,319
+there's a problem there because the future depends on the 
+
+1957
+01:39:57,700 --> 01:39:57,850
+you,
+
+1958
+01:39:57,859 --> 01:39:57,890
+you,
+
+1959
+01:39:57,899 --> 01:39:57,970
+you,
+
+1960
+01:39:57,979 --> 01:39:59,560
+you could always split that.
+
+1961
+01:39:59,569 --> 01:40:00,770
+That's what we do quite often.
+
+1962
+01:40:00,779 --> 01:40:05,450
+We split the library as it's sort of chronologically developed and then we have a sense of 
+
+1963
+01:40:05,459 --> 01:40:06,720
+history and a future.
+
+1964
+01:40:06,729 --> 01:40:07,060
+And so you,
+
+1965
+01:40:07,069 --> 01:40:08,689
+you would have some future.
+
+1966
+01:40:09,020 --> 01:40:09,279
+Well,
+
+1967
+01:40:09,290 --> 01:40:14,089
+the other thing you can do is um presumably you're going to be pruning your 
+
+1968
+01:40:14,100 --> 01:40:15,419
+search tree often.
+
+1969
+01:40:15,430 --> 01:40:18,910
+So you can look at not just your prediction as to how much it will be used,
+
+1970
+01:40:18,919 --> 01:40:23,700
+but also how much it has been used and not prune it 
+
+1971
+01:40:23,709 --> 01:40:28,350
+with as high a probability if it has been used frequently,
+
+1972
+01:40:28,359 --> 01:40:28,959
+for example.
+
+1973
+01:40:29,609 --> 01:40:33,930
+So definitely like when you are doing some sort of simplest be 
+
+1974
+01:40:34,299 --> 01:40:37,560
+learning of this lemma recommendation,
+
+1975
+01:40:37,990 --> 01:40:42,970
+like the number of times it has been used is absolutely a major factor.
+
+1976
+01:40:48,060 --> 01:40:48,270
+Well,
+
+1977
+01:40:48,279 --> 01:40:52,399
+there's this uh intrinsic motivations you might have heard about or not.
+
+1978
+01:40:52,410 --> 01:40:56,490
+Uh but I talked about it before and uh so this is this notion,
+
+1979
+01:40:56,500 --> 01:40:57,569
+it's called empowerment.
+
+1980
+01:40:57,580 --> 01:40:59,879
+It tells you,
+
+1981
+01:40:59,890 --> 01:41:04,839
+it says you should go to a state from where you have like the can reach 
+
+1982
+01:41:04,850 --> 01:41:07,319
+the most possible future experiences.
+
+1983
+01:41:07,879 --> 01:41:08,799
+So in math,
+
+1984
+01:41:08,810 --> 01:41:10,149
+I would say you,
+
+1985
+01:41:11,220 --> 01:41:16,049
+you should try to find the theorems that will let you get 
+
+1986
+01:41:16,319 --> 01:41:17,000
+the most,
+
+1987
+01:41:17,009 --> 01:41:19,629
+prove the most theorems from,
+
+1988
+01:41:19,759 --> 01:41:21,470
+from having this theorem.
+
+1989
+01:41:22,169 --> 01:41:26,330
+And probably also in the shortest like it,
+
+1990
+01:41:26,339 --> 01:41:29,270
+it should be discounted for how many further,
+
+1991
+01:41:29,279 --> 01:41:34,200
+how many further steps you have to uh use to get to those ones?
+
+1992
+01:41:34,729 --> 01:41:34,970
+Yeah,
+
+1993
+01:41:34,979 --> 01:41:35,560
+but,
+
+1994
+01:41:35,569 --> 01:41:36,290
+but then again,
+
+1995
+01:41:36,299 --> 01:41:37,259
+like you,
+
+1996
+01:41:37,720 --> 01:41:37,939
+you,
+
+1997
+01:41:37,950 --> 01:41:37,970
+you,
+
+1998
+01:41:37,979 --> 01:41:39,330
+you still need some,
+
+1999
+01:41:39,339 --> 01:41:41,560
+some way of saying what,
+
+2000
+01:41:41,569 --> 01:41:46,180
+what will be the stuff you are actually interested in,
+
+2001
+01:41:46,189 --> 01:41:46,459
+right?
+
+2002
+01:41:46,470 --> 01:41:50,819
+So statement only.
+
+2003
+01:41:50,850 --> 01:41:50,870
+Yeah,
+
+2004
+01:41:52,189 --> 01:41:53,640
+that one plus one equals two,
+
+2005
+01:41:53,660 --> 01:41:57,100
+you can get through a lot of experience by adding one to each side.
+
+2006
+01:41:58,200 --> 01:42:00,370
+Um So yeah,
+
+2007
+01:42:00,379 --> 01:42:01,529
+this is,
+
+2008
+01:42:01,540 --> 01:42:03,549
+this is a very interesting discussion.
+
+2009
+01:42:03,750 --> 01:42:08,350
+Entropic force.
+
+2010
+01:42:10,109 --> 01:42:10,319
+Yeah.
+
+2011
+01:42:10,330 --> 01:42:12,149
+Causal entropic forces is,
+
+2012
+01:42:12,160 --> 01:42:12,450
+is,
+
+2013
+01:42:12,459 --> 01:42:13,549
+is just empowerment.
+
+2014
+01:42:14,259 --> 01:42:15,240
+It's the same thing.
+
+2015
+01:42:15,259 --> 01:42:15,299
+Yeah,
+
+2016
+01:42:15,310 --> 01:42:17,970
+it's similar but in,
+
+2017
+01:42:17,979 --> 01:42:22,180
+in mathematics it seems a little trickier than so.
+
+2018
+01:42:22,189 --> 01:42:24,910
+So I I'm I'm having these discussions like now,
+
+2019
+01:42:24,919 --> 01:42:25,970
+now in Pittsburgh,
+
+2020
+01:42:25,979 --> 01:42:30,370
+there were all these mathematicians working on geometry and on the Langlands 
+
+2021
+01:42:30,410 --> 01:42:33,319
+program and I'm asking them like,
+
+2022
+01:42:33,330 --> 01:42:33,640
+what,
+
+2023
+01:42:33,649 --> 01:42:38,520
+what's your criterion for an interesting or cool conjecture 
+
+2024
+01:42:38,529 --> 01:42:39,319
+or theorem?
+
+2025
+01:42:39,870 --> 01:42:42,370
+And the answer is OK,
+
+2026
+01:42:42,600 --> 01:42:45,250
+it's been long unproved uh right?
+
+2027
+01:42:45,259 --> 01:42:48,779
+Like it's important or it's cool.
+
+2028
+01:42:49,549 --> 01:42:51,390
+Um Well,
+
+2029
+01:42:51,640 --> 01:42:51,810
+that,
+
+2030
+01:42:51,819 --> 01:42:53,399
+that's a weird thing.
+
+2031
+01:42:53,500 --> 01:42:53,620
+Mathematics,
+
+2032
+01:42:54,970 --> 01:42:57,930
+there are some results that some mathematicians.
+
+2033
+01:43:05,149 --> 01:43:09,100
+So sometimes it's really like,
+
+2034
+01:43:09,109 --> 01:43:09,830
+like for example,
+
+2035
+01:43:09,839 --> 01:43:13,799
+the full color theorem people will tell you well,
+
+2036
+01:43:13,810 --> 01:43:16,140
+this is so virtually useless,
+
+2037
+01:43:16,390 --> 01:43:21,229
+but it's been open for such a long time or whatever that when people proved it 
+
+2038
+01:43:21,240 --> 01:43:22,779
+then got famous.
+
+2039
+01:43:24,040 --> 01:43:28,979
+And so so then you have LS program which everybody says that it's 
+
+2040
+01:43:28,990 --> 01:43:29,979
+extremely deep.
+
+2041
+01:43:30,100 --> 01:43:32,189
+And if they got it,
+
+2042
+01:43:32,200 --> 01:43:33,259
+if they get it,
+
+2043
+01:43:33,270 --> 01:43:38,140
+then the understanding of mathematics will really deeply 
+
+2044
+01:43:38,149 --> 01:43:38,990
+change.
+
+2045
+01:43:39,000 --> 01:43:39,779
+But then again,
+
+2046
+01:43:39,790 --> 01:43:43,359
+what does it mean that the understanding of mathematics will really deeply change?
+
+2047
+01:43:43,370 --> 01:43:48,140
+That means that you have some very deep connections and you will be able to transport some results.
+
+2048
+01:43:48,279 --> 01:43:52,490
+And maybe that plugs in to some utility function like you are 
+
+2049
+01:43:52,500 --> 01:43:53,379
+describing,
+
+2050
+01:43:53,759 --> 01:43:57,810
+I don't know different things that 
+
+2051
+01:43:58,029 --> 01:44:00,339
+humans intuitively think 
+
+2052
+01:44:02,959 --> 01:44:07,890
+actually connecting algebra and geometry from a math view.
+
+2053
+01:44:07,899 --> 01:44:09,560
+It's just more manipulation.
+
+2054
+01:44:09,569 --> 01:44:10,049
+We just,
+
+2055
+01:44:10,419 --> 01:44:14,310
+we think it's important to connect space and language we've seen different.
+
+2056
+01:44:14,399 --> 01:44:16,270
+Uh So yeah,
+
+2057
+01:44:16,720 --> 01:44:21,279
+there's what's interesting in terms of the information theory of math and what's 
+
+2058
+01:44:21,290 --> 01:44:26,250
+interesting that it strikes human emotions in a certain way and it's not even clear which 
+
+2059
+01:44:26,259 --> 01:44:26,799
+one you want.
+
+2060
+01:44:26,810 --> 01:44:31,810
+The A I there's something there 
+
+2061
+01:44:31,819 --> 01:44:33,810
+about the unexpectedness of Yeah.
+
+2062
+01:44:33,830 --> 01:44:34,060
+Yeah,
+
+2063
+01:44:34,069 --> 01:44:34,729
+no surprising.
+
+2064
+01:44:34,790 --> 01:44:39,430
+This is definitely surprising this to human 
+
+2065
+01:44:39,439 --> 01:44:40,220
+emotion,
+
+2066
+01:44:40,379 --> 01:44:45,040
+has a sort of pure math aspect and has a sort 
+
+2067
+01:44:45,049 --> 01:44:49,975
+of human human aspect of four color here seems like it,
+
+2068
+01:44:50,055 --> 01:44:53,134
+it gets us emotionally because that's the colors on.
+
+2069
+01:44:54,154 --> 01:44:56,205
+Whereas maybe an A I mathematician,
+
+2070
+01:44:56,214 --> 01:44:56,774
+it's like,
+
+2071
+01:44:57,444 --> 01:44:59,285
+who gets shit about two dimensions anyway,
+
+2072
+01:44:59,294 --> 01:45:00,115
+there's a dimension.
+
+2073
+01:45:03,689 --> 01:45:05,450
+So I guess we should let and have lunch.
+
+2074
+01:45:05,459 --> 01:45:05,799
+But yeah,
+
+2075
+01:45:05,810 --> 01:45:07,339
+thanks a lot for really interesting.
+

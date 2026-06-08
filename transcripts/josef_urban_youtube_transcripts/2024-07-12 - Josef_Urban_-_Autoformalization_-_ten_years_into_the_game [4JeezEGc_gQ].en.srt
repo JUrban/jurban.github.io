@@ -1,0 +1,5935 @@
+1
+00:00:00,000 --> 00:00:03,150
+
+I didn't want to initially give a talk
+
+2
+00:00:03,150 --> 00:00:03,160
+I didn't want to initially give a talk
+ 
+
+3
+00:00:03,160 --> 00:00:05,390
+I didn't want to initially give a talk
+but like I
+
+4
+00:00:05,390 --> 00:00:05,400
+but like I
+ 
+
+5
+00:00:05,400 --> 00:00:07,710
+but like I
+I have realized that it's been like
+
+6
+00:00:07,710 --> 00:00:07,720
+I have realized that it's been like
+ 
+
+7
+00:00:07,720 --> 00:00:11,870
+I have realized that it's been like
+today exactly 10 years since I
+
+8
+00:00:11,870 --> 00:00:11,880
+today exactly 10 years since I
+ 
+
+9
+00:00:11,880 --> 00:00:14,470
+today exactly 10 years since I
+proudly announced the
+
+10
+00:00:14,470 --> 00:00:14,480
+proudly announced the
+ 
+
+11
+00:00:14,480 --> 00:00:17,590
+proudly announced the
+the formalization project at Kiko.
+
+12
+00:00:17,590 --> 00:00:17,600
+the formalization project at Kiko.
+ 
+
+13
+00:00:17,600 --> 00:00:19,030
+the formalization project at Kiko.
+So in
+
+14
+00:00:19,030 --> 00:00:19,040
+So in
+ 
+
+15
+00:00:19,040 --> 00:00:21,350
+So in
+I think it's been 10 years.
+
+16
+00:00:21,350 --> 00:00:21,360
+I think it's been 10 years.
+ 
+
+17
+00:00:21,360 --> 00:00:23,830
+I think it's been 10 years.
+Yeah, so today is July 10th.
+
+18
+00:00:23,830 --> 00:00:23,840
+Yeah, so today is July 10th.
+ 
+
+19
+00:00:23,840 --> 00:00:25,270
+Yeah, so today is July 10th.
+Also
+
+20
+00:00:25,270 --> 00:00:25,280
+Also
+ 
+
+21
+00:00:25,280 --> 00:00:28,310
+Also
+Also
+
+22
+00:00:28,310 --> 00:00:28,320
+
+ 
+
+23
+00:00:28,320 --> 00:00:31,270
+
+I I should probably say a little bit of
+
+24
+00:00:31,270 --> 00:00:31,280
+I I should probably say a little bit of
+ 
+
+25
+00:00:31,280 --> 00:00:33,630
+I I should probably say a little bit of
+a story but like I I didn't even know
+
+26
+00:00:33,630 --> 00:00:33,640
+a story but like I I didn't even know
+ 
+
+27
+00:00:33,640 --> 00:00:34,990
+a story but like I I didn't even know
+that Michael would schedule me for
+
+28
+00:00:34,990 --> 00:00:35,000
+that Michael would schedule me for
+ 
+
+29
+00:00:35,000 --> 00:00:38,390
+that Michael would schedule me for
+today. I just
+
+30
+00:00:38,390 --> 00:00:38,400
+
+ 
+
+31
+00:00:38,400 --> 00:00:42,950
+
+And Prophecy is a good analogy. And
+
+32
+00:00:42,950 --> 00:00:42,960
+And Prophecy is a good analogy. And
+ 
+
+33
+00:00:42,960 --> 00:00:45,590
+And Prophecy is a good analogy. And
+I I just wanted to say a couple of words
+
+34
+00:00:45,590 --> 00:00:45,600
+I I just wanted to say a couple of words
+ 
+
+35
+00:00:45,600 --> 00:00:49,230
+I I just wanted to say a couple of words
+about like this whole landscape and what
+
+36
+00:00:49,230 --> 00:00:49,240
+about like this whole landscape and what
+ 
+
+37
+00:00:49,240 --> 00:00:51,390
+about like this whole landscape and what
+I think
+
+38
+00:00:51,390 --> 00:00:51,400
+I think
+ 
+
+39
+00:00:51,400 --> 00:00:56,230
+I think
+about like the past, present, and some
+
+40
+00:00:56,230 --> 00:00:56,240
+about like the past, present, and some
+ 
+
+41
+00:00:56,240 --> 00:00:59,790
+about like the past, present, and some
+surprises that that were on the way and
+
+42
+00:00:59,790 --> 00:00:59,800
+surprises that that were on the way and
+ 
+
+43
+00:00:59,800 --> 00:01:02,830
+surprises that that were on the way and
+I should say that I will not speak like
+
+44
+00:01:02,830 --> 00:01:02,840
+I should say that I will not speak like
+ 
+
+45
+00:01:02,840 --> 00:01:05,189
+I should say that I will not speak like
+too much about LLM based formalization
+
+46
+00:01:05,189 --> 00:01:05,199
+too much about LLM based formalization
+ 
+
+47
+00:01:05,199 --> 00:01:07,710
+too much about LLM based formalization
+because we have lambda for that and for
+
+48
+00:01:07,710 --> 00:01:07,720
+because we have lambda for that and for
+ 
+
+49
+00:01:07,720 --> 00:01:10,550
+because we have lambda for that and for
+conjecturing with LLMs we have more more
+
+50
+00:01:10,550 --> 00:01:10,560
+conjecturing with LLMs we have more more
+ 
+
+51
+00:01:10,560 --> 00:01:12,910
+conjecturing with LLMs we have more more
+talk I I think so.
+
+52
+00:01:12,910 --> 00:01:12,920
+talk I I think so.
+ 
+
+53
+00:01:12,920 --> 00:01:14,710
+talk I I think so.
+Don't don't expect
+
+54
+00:01:14,710 --> 00:01:14,720
+Don't don't expect
+ 
+
+55
+00:01:14,720 --> 00:01:17,590
+Don't don't expect
+some craziness.
+
+56
+00:01:17,590 --> 00:01:17,600
+some craziness.
+ 
+
+57
+00:01:17,600 --> 00:01:20,950
+some craziness.
+I I tried to sort of like I took it as
+
+58
+00:01:20,950 --> 00:01:20,960
+I I tried to sort of like I took it as
+ 
+
+59
+00:01:20,960 --> 00:01:23,310
+I I tried to sort of like I took it as
+an opportunity to slightly sort of
+
+60
+00:01:23,310 --> 00:01:23,320
+an opportunity to slightly sort of
+ 
+
+61
+00:01:23,320 --> 00:01:25,670
+an opportunity to slightly sort of
+organize my
+
+62
+00:01:25,670 --> 00:01:25,680
+organize my
+ 
+
+63
+00:01:25,680 --> 00:01:27,190
+organize my
+my
+
+64
+00:01:27,190 --> 00:01:27,200
+my
+ 
+
+65
+00:01:27,200 --> 00:01:28,150
+my
+my
+
+66
+00:01:28,150 --> 00:01:28,160
+my
+ 
+
+67
+00:01:28,160 --> 00:01:29,350
+my
+in
+
+68
+00:01:29,350 --> 00:01:29,360
+in
+ 
+
+69
+00:01:29,360 --> 00:01:31,990
+in
+in in the history of of of this times
+
+70
+00:01:31,990 --> 00:01:32,000
+in in the history of of of this times
+ 
+
+71
+00:01:32,000 --> 00:01:36,150
+in in the history of of of this times
+and also why I sort of felt uh
+
+72
+00:01:36,150 --> 00:01:36,160
+and also why I sort of felt uh
+ 
+
+73
+00:01:36,160 --> 00:01:37,070
+and also why I sort of felt uh
+that
+
+74
+00:01:37,070 --> 00:01:37,080
+that
+ 
+
+75
+00:01:37,080 --> 00:01:39,430
+that
+things weren't going in the in the right
+
+76
+00:01:39,430 --> 00:01:39,440
+things weren't going in the in the right
+ 
+
+77
+00:01:39,440 --> 00:01:42,190
+things weren't going in the in the right
+direction when I declared this project
+
+78
+00:01:42,190 --> 00:01:42,200
+direction when I declared this project
+ 
+
+79
+00:01:42,200 --> 00:01:43,470
+direction when I declared this project
+10 years ago.
+
+80
+00:01:43,470 --> 00:01:43,480
+10 years ago.
+ 
+
+81
+00:01:43,480 --> 00:01:46,750
+10 years ago.
+And like you can obviously correct me.
+
+82
+00:01:46,750 --> 00:01:46,760
+And like you can obviously correct me.
+ 
+
+83
+00:01:46,760 --> 00:01:50,590
+And like you can obviously correct me.
+I I don't claim uh super historical
+
+84
+00:01:50,590 --> 00:01:50,600
+I I don't claim uh super historical
+ 
+
+85
+00:01:50,600 --> 00:01:53,670
+I I don't claim uh super historical
+expertise on this. So so you you have
+
+86
+00:01:53,670 --> 00:01:53,680
+expertise on this. So so you you have
+ 
+
+87
+00:01:53,680 --> 00:01:56,110
+expertise on this. So so you you have
+these I don't know like 10
+
+88
+00:01:56,110 --> 00:01:56,120
+these I don't know like 10
+ 
+
+89
+00:01:56,120 --> 00:01:57,670
+these I don't know like 10
+to 15
+
+90
+00:01:57,670 --> 00:01:57,680
+to 15
+ 
+
+91
+00:01:57,680 --> 00:02:01,630
+to 15
+uh events I would say in the history
+
+92
+00:02:01,630 --> 00:02:01,640
+uh events I would say in the history
+ 
+
+93
+00:02:01,640 --> 00:02:02,390
+uh events I would say in the history
+of
+
+94
+00:02:02,390 --> 00:02:02,400
+of
+ 
+
+95
+00:02:02,400 --> 00:02:06,550
+of
+like sort of human friendly
+
+96
+00:02:06,550 --> 00:02:06,560
+like sort of human friendly
+ 
+
+97
+00:02:06,560 --> 00:02:10,550
+like sort of human friendly
+automated maybe formalization
+
+98
+00:02:10,550 --> 00:02:10,560
+automated maybe formalization
+ 
+
+99
+00:02:10,560 --> 00:02:12,550
+automated maybe formalization
+uh starting really
+
+100
+00:02:12,550 --> 00:02:12,560
+uh starting really
+ 
+
+101
+00:02:12,560 --> 00:02:14,230
+uh starting really
+with this Yushkevich's
+
+102
+00:02:14,230 --> 00:02:14,240
+with this Yushkevich's
+ 
+
+103
+00:02:14,240 --> 00:02:15,910
+with this Yushkevich's
+work on
+
+104
+00:02:15,910 --> 00:02:15,920
+work on
+ 
+
+105
+00:02:15,920 --> 00:02:18,790
+work on
+natural deduction which is very very
+
+106
+00:02:18,790 --> 00:02:18,800
+natural deduction which is very very
+ 
+
+107
+00:02:18,800 --> 00:02:22,230
+natural deduction which is very very
+much
+
+108
+00:02:22,230 --> 00:02:22,240
+
+ 
+
+109
+00:02:22,240 --> 00:02:25,270
+
+uh very much sort of embodied in the in
+
+110
+00:02:25,270 --> 00:02:25,280
+uh very much sort of embodied in the in
+ 
+
+111
+00:02:25,280 --> 00:02:26,430
+uh very much sort of embodied in the in
+the desire
+
+112
+00:02:26,430 --> 00:02:26,440
+the desire
+ 
+
+113
+00:02:26,440 --> 00:02:27,830
+the desire
+of style.
+
+114
+00:02:27,830 --> 00:02:27,840
+of style.
+ 
+
+115
+00:02:27,840 --> 00:02:31,310
+of style.
+And I I I tracked the first thing into
+
+116
+00:02:31,310 --> 00:02:31,320
+And I I I tracked the first thing into
+ 
+
+117
+00:02:31,320 --> 00:02:33,110
+And I I I tracked the first thing into
+John McCarthy.
+
+118
+00:02:33,110 --> 00:02:33,120
+John McCarthy.
+ 
+
+119
+00:02:33,120 --> 00:02:36,190
+John McCarthy.
+And I think J. Alan Robinson was his PhD
+
+120
+00:02:36,190 --> 00:02:36,200
+And I think J. Alan Robinson was his PhD
+ 
+
+121
+00:02:36,200 --> 00:02:38,270
+And I think J. Alan Robinson was his PhD
+student but correct me if I'm if I'm
+
+122
+00:02:38,270 --> 00:02:38,280
+student but correct me if I'm if I'm
+ 
+
+123
+00:02:38,280 --> 00:02:40,910
+student but correct me if I'm if I'm
+wrong. Who remembers the history?
+
+124
+00:02:40,910 --> 00:02:40,920
+wrong. Who remembers the history?
+ 
+
+125
+00:02:40,920 --> 00:02:42,070
+wrong. Who remembers the history?
+So
+
+126
+00:02:42,070 --> 00:02:42,080
+So
+ 
+
+127
+00:02:42,080 --> 00:02:44,910
+So
+I like he really thought
+
+128
+00:02:44,910 --> 00:02:44,920
+I like he really thought
+ 
+
+129
+00:02:44,920 --> 00:02:47,910
+I like he really thought
+that he he would be checking natural
+
+130
+00:02:47,910 --> 00:02:47,920
+that he he would be checking natural
+ 
+
+131
+00:02:47,920 --> 00:02:52,070
+that he he would be checking natural
+language textbooks back in 1962 and 19
+
+132
+00:02:52,070 --> 00:02:52,080
+language textbooks back in 1962 and 19
+ 
+
+133
+00:02:52,080 --> 00:02:54,910
+language textbooks back in 1962 and 19
+63. So these
+
+134
+00:02:54,910 --> 00:02:54,920
+63. So these
+ 
+
+135
+00:02:54,920 --> 00:02:56,550
+63. So these
+these pioneers they were pretty crazy,
+
+136
+00:02:56,550 --> 00:02:56,560
+these pioneers they were pretty crazy,
+ 
+
+137
+00:02:56,560 --> 00:02:58,430
+these pioneers they were pretty crazy,
+right?
+
+138
+00:02:58,430 --> 00:02:58,440
+right?
+ 
+
+139
+00:02:58,440 --> 00:03:01,110
+right?
+Can I add one thing on that one? I mean
+
+140
+00:03:01,110 --> 00:03:01,120
+Can I add one thing on that one? I mean
+ 
+
+141
+00:03:01,120 --> 00:03:03,750
+Can I add one thing on that one? I mean
+people don't mention here the student
+
+142
+00:03:03,750 --> 00:03:03,760
+people don't mention here the student
+ 
+
+143
+00:03:03,760 --> 00:03:06,910
+people don't mention here the student
+program of of Danny Bobrow who was doing
+
+144
+00:03:06,910 --> 00:03:06,920
+program of of Danny Bobrow who was doing
+ 
+
+145
+00:03:06,920 --> 00:03:09,630
+program of of Danny Bobrow who was doing
+this Adam work between informal and
+
+146
+00:03:09,630 --> 00:03:09,640
+this Adam work between informal and
+ 
+
+147
+00:03:09,640 --> 00:03:13,070
+this Adam work between informal and
+formal in 1964 is his PhD thesis. So
+
+148
+00:03:13,070 --> 00:03:13,080
+formal in 1964 is his PhD thesis. So
+ 
+
+149
+00:03:13,080 --> 00:03:15,670
+formal in 1964 is his PhD thesis. So
+it's kind of just
+
+150
+00:03:15,670 --> 00:03:15,680
+it's kind of just
+ 
+
+151
+00:03:15,680 --> 00:03:18,910
+it's kind of just
+Yeah, so so like I said I don't claim
+
+152
+00:03:18,910 --> 00:03:18,920
+Yeah, so so like I said I don't claim
+ 
+
+153
+00:03:18,920 --> 00:03:22,110
+Yeah, so so like I said I don't claim
+any completeness. I also think that
+
+154
+00:03:22,110 --> 00:03:22,120
+any completeness. I also think that
+ 
+
+155
+00:03:22,120 --> 00:03:24,710
+any completeness. I also think that
+Andre could could say and and his
+
+156
+00:03:24,710 --> 00:03:24,720
+Andre could could say and and his
+ 
+
+157
+00:03:24,720 --> 00:03:25,950
+Andre could could say and and his
+seniors
+
+158
+00:03:25,950 --> 00:03:25,960
+seniors
+ 
+
+159
+00:03:25,960 --> 00:03:28,990
+seniors
+uh from here should should should
+
+160
+00:03:28,990 --> 00:03:29,000
+uh from here should should should
+ 
+
+161
+00:03:29,000 --> 00:03:31,990
+uh from here should should should
+do some full time work. Uh
+
+162
+00:03:31,990 --> 00:03:32,000
+do some full time work. Uh
+ 
+
+163
+00:03:32,000 --> 00:03:34,990
+do some full time work. Uh
+a a lot of studies and we had it 10
+
+164
+00:03:34,990 --> 00:03:35,000
+a a lot of studies and we had it 10
+ 
+
+165
+00:03:35,000 --> 00:03:37,750
+a a lot of studies and we had it 10
+years ago in in the Western Electric was
+
+166
+00:03:37,750 --> 00:03:37,760
+years ago in in the Western Electric was
+ 
+
+167
+00:03:37,760 --> 00:03:38,630
+years ago in in the Western Electric was
+done
+
+168
+00:03:38,630 --> 00:03:38,640
+done
+ 
+
+169
+00:03:38,640 --> 00:03:42,110
+done
+a bit about the side system developed by
+
+170
+00:03:42,110 --> 00:03:42,120
+a bit about the side system developed by
+ 
+
+171
+00:03:42,120 --> 00:03:43,910
+a bit about the side system developed by
+the Push Cup team.
+
+172
+00:03:43,910 --> 00:03:43,920
+the Push Cup team.
+ 
+
+173
+00:03:43,920 --> 00:03:46,990
+the Push Cup team.
+Uh and like that was very much parallel
+
+174
+00:03:46,990 --> 00:03:47,000
+Uh and like that was very much parallel
+ 
+
+175
+00:03:47,000 --> 00:03:48,630
+Uh and like that was very much parallel
+I would say to to to to this John
+
+176
+00:03:48,630 --> 00:03:48,640
+I would say to to to to this John
+ 
+
+177
+00:03:48,640 --> 00:03:50,910
+I would say to to to to this John
+McCarthy development in the Western and
+
+178
+00:03:50,910 --> 00:03:50,920
+McCarthy development in the Western and
+ 
+
+179
+00:03:50,920 --> 00:03:53,350
+McCarthy development in the Western and
+is very unknown still on side social
+
+180
+00:03:53,350 --> 00:03:53,360
+is very unknown still on side social
+ 
+
+181
+00:03:53,360 --> 00:03:54,670
+is very unknown still on side social
+like that.
+
+182
+00:03:54,670 --> 00:03:54,680
+like that.
+ 
+
+183
+00:03:54,680 --> 00:03:56,750
+like that.
+Uh and then then obviously we have Andre
+
+184
+00:03:56,750 --> 00:03:56,760
+Uh and then then obviously we have Andre
+ 
+
+185
+00:03:56,760 --> 00:04:01,070
+Uh and then then obviously we have Andre
+Trybulec getting into it in 19 73. And
+
+186
+00:04:01,070 --> 00:04:01,080
+Trybulec getting into it in 19 73. And
+ 
+
+187
+00:04:01,080 --> 00:04:02,950
+Trybulec getting into it in 19 73. And
+then like that's one of the project
+
+188
+00:04:02,950 --> 00:04:02,960
+then like that's one of the project
+ 
+
+189
+00:04:02,960 --> 00:04:04,630
+then like that's one of the project
+that's the last.
+
+190
+00:04:04,630 --> 00:04:04,640
+that's the last.
+ 
+
+191
+00:04:04,640 --> 00:04:07,230
+that's the last.
+I I I would say so so these are the
+
+192
+00:04:07,230 --> 00:04:07,240
+I I I would say so so these are the
+ 
+
+193
+00:04:07,240 --> 00:04:09,670
+I I I would say so so these are the
+things so like for example Andre was
+
+194
+00:04:09,670 --> 00:04:09,680
+things so like for example Andre was
+ 
+
+195
+00:04:09,680 --> 00:04:11,110
+things so like for example Andre was
+sort of initially some sort of a
+
+196
+00:04:11,110 --> 00:04:11,120
+sort of initially some sort of a
+ 
+
+197
+00:04:11,120 --> 00:04:14,430
+sort of initially some sort of a
+linguist / AI guy but he quickly
+
+198
+00:04:14,430 --> 00:04:14,440
+linguist / AI guy but he quickly
+ 
+
+199
+00:04:14,440 --> 00:04:16,670
+linguist / AI guy but he quickly
+uh sort of went with with the sort of
+
+200
+00:04:16,670 --> 00:04:16,680
+uh sort of went with with the sort of
+ 
+
+201
+00:04:16,680 --> 00:04:18,390
+uh sort of went with with the sort of
+Abrahams
+
+202
+00:04:18,390 --> 00:04:18,400
+Abrahams
+ 
+
+203
+00:04:18,400 --> 00:04:21,270
+Abrahams
+Abrahams' conclusion that checking like
+
+204
+00:04:21,270 --> 00:04:21,280
+Abrahams' conclusion that checking like
+ 
+
+205
+00:04:21,280 --> 00:04:22,950
+Abrahams' conclusion that checking like
+the full natural language is is too
+
+206
+00:04:22,950 --> 00:04:22,960
+the full natural language is is too
+ 
+
+207
+00:04:22,960 --> 00:04:24,630
+the full natural language is is too
+crazy but but we
+
+208
+00:04:24,630 --> 00:04:24,640
+crazy but but we
+ 
+
+209
+00:04:24,640 --> 00:04:26,790
+crazy but but we
+we don't have the tools for for for for
+
+210
+00:04:26,790 --> 00:04:26,800
+we don't have the tools for for for for
+ 
+
+211
+00:04:26,800 --> 00:04:28,470
+we don't have the tools for for for for
+the time so he really went in this
+
+212
+00:04:28,470 --> 00:04:28,480
+the time so he really went in this
+ 
+
+213
+00:04:28,480 --> 00:04:30,710
+the time so he really went in this
+direction of controlled
+
+214
+00:04:30,710 --> 00:04:30,720
+direction of controlled
+ 
+
+215
+00:04:30,720 --> 00:04:33,390
+direction of controlled
+natural language. Then
+
+216
+00:04:33,390 --> 00:04:33,400
+natural language. Then
+ 
+
+217
+00:04:33,400 --> 00:04:37,270
+natural language. Then
+I I again I don't know much about
+
+218
+00:04:37,270 --> 00:04:37,280
+I I again I don't know much about
+ 
+
+219
+00:04:37,280 --> 00:04:40,470
+I I again I don't know much about
+Donald Simon's PhD thesis. Maybe Shankar
+
+220
+00:04:40,470 --> 00:04:40,480
+Donald Simon's PhD thesis. Maybe Shankar
+ 
+
+221
+00:04:40,480 --> 00:04:43,030
+Donald Simon's PhD thesis. Maybe Shankar
+uh yeah. Because this was I think Andre
+
+222
+00:04:43,030 --> 00:04:43,040
+uh yeah. Because this was I think Andre
+ 
+
+223
+00:04:43,040 --> 00:04:45,190
+uh yeah. Because this was I think Andre
+would have done so, right? Yes.
+
+224
+00:04:45,190 --> 00:04:45,200
+would have done so, right? Yes.
+ 
+
+225
+00:04:45,200 --> 00:04:48,270
+would have done so, right? Yes.
+And that that again seems like a very
+
+226
+00:04:48,270 --> 00:04:48,280
+And that that again seems like a very
+ 
+
+227
+00:04:48,280 --> 00:04:51,510
+And that that again seems like a very
+amazing
+
+228
+00:04:51,510 --> 00:04:51,520
+
+ 
+
+229
+00:04:51,520 --> 00:04:53,790
+
+Um yeah. Yeah. Yeah.
+
+230
+00:04:53,790 --> 00:04:53,800
+Um yeah. Yeah. Yeah.
+ 
+
+231
+00:04:53,800 --> 00:04:56,590
+Um yeah. Yeah. Yeah.
+So so so that was again like like like
+
+232
+00:04:56,590 --> 00:04:56,600
+So so so that was again like like like
+ 
+
+233
+00:04:56,600 --> 00:05:00,030
+So so so that was again like like like
+this very direct attempt like like write
+
+234
+00:05:00,030 --> 00:05:00,040
+this very direct attempt like like write
+ 
+
+235
+00:05:00,040 --> 00:05:01,550
+this very direct attempt like like write
+parser for
+
+236
+00:05:01,550 --> 00:05:01,560
+parser for
+ 
+
+237
+00:05:01,560 --> 00:05:04,550
+parser for
+like controlled or maybe even like
+
+238
+00:05:04,550 --> 00:05:04,560
+like controlled or maybe even like
+ 
+
+239
+00:05:04,560 --> 00:05:06,590
+like controlled or maybe even like
+unlimited natural language manually
+
+240
+00:05:06,590 --> 00:05:06,600
+unlimited natural language manually
+ 
+
+241
+00:05:06,600 --> 00:05:08,510
+unlimited natural language manually
+write and try to prove check it with
+
+242
+00:05:08,510 --> 00:05:08,520
+write and try to prove check it with
+ 
+
+243
+00:05:08,520 --> 00:05:11,190
+write and try to prove check it with
+some with some manual inference rules.
+
+244
+00:05:11,190 --> 00:05:11,200
+some with some manual inference rules.
+ 
+
+245
+00:05:11,200 --> 00:05:12,870
+some with some manual inference rules.
+He was working on the the back end of
+
+246
+00:05:12,870 --> 00:05:12,880
+He was working on the the back end of
+ 
+
+247
+00:05:12,880 --> 00:05:15,510
+He was working on the the back end of
+the material.
+
+248
+00:05:15,510 --> 00:05:15,520
+
+ 
+
+249
+00:05:15,520 --> 00:05:17,270
+
+So so then
+
+250
+00:05:17,270 --> 00:05:17,280
+So so then
+ 
+
+251
+00:05:17,280 --> 00:05:19,070
+So so then
+like I guess everybody knows this E and
+
+252
+00:05:19,070 --> 00:05:19,080
+like I guess everybody knows this E and
+ 
+
+253
+00:05:19,080 --> 00:05:23,110
+like I guess everybody knows this E and
+P but it's just structured proofs. I I
+
+254
+00:05:23,110 --> 00:05:23,120
+P but it's just structured proofs. I I
+ 
+
+255
+00:05:23,120 --> 00:05:25,270
+P but it's just structured proofs. I I
+didn't know much about how how Arnauld
+
+256
+00:05:25,270 --> 00:05:25,280
+didn't know much about how how Arnauld
+ 
+
+257
+00:05:25,280 --> 00:05:27,910
+didn't know much about how how Arnauld
+got into grammatical frameworks. My
+
+258
+00:05:27,910 --> 00:05:27,920
+got into grammatical frameworks. My
+ 
+
+259
+00:05:27,920 --> 00:05:30,550
+got into grammatical frameworks. My
+estimate is that it's 1990s on on words
+
+260
+00:05:30,550 --> 00:05:30,560
+estimate is that it's 1990s on on words
+ 
+
+261
+00:05:30,560 --> 00:05:32,870
+estimate is that it's 1990s on on words
+but like yeah.
+
+262
+00:05:32,870 --> 00:05:32,880
+but like yeah.
+ 
+
+263
+00:05:32,880 --> 00:05:33,710
+but like yeah.
+Uh
+
+264
+00:05:33,710 --> 00:05:33,720
+Uh
+ 
+
+265
+00:05:33,720 --> 00:05:35,030
+Uh
+then then
+
+266
+00:05:35,030 --> 00:05:35,040
+then then
+ 
+
+267
+00:05:35,040 --> 00:05:37,270
+then then
+you know at some point Macario's
+
+268
+00:05:37,270 --> 00:05:37,280
+you know at some point Macario's
+ 
+
+269
+00:05:37,280 --> 00:05:39,950
+you know at some point Macario's
+rewrote Isabelle basically like like the
+
+270
+00:05:39,950 --> 00:05:39,960
+rewrote Isabelle basically like like the
+ 
+
+271
+00:05:39,960 --> 00:05:42,230
+rewrote Isabelle basically like like the
+the Mizar people are joking that it's
+
+272
+00:05:42,230 --> 00:05:42,240
+the Mizar people are joking that it's
+ 
+
+273
+00:05:42,240 --> 00:05:43,870
+the Mizar people are joking that it's
+just Mizar, right?
+
+274
+00:05:43,870 --> 00:05:43,880
+just Mizar, right?
+ 
+
+275
+00:05:43,880 --> 00:05:46,710
+just Mizar, right?
+And I I think the the
+
+276
+00:05:46,710 --> 00:05:46,720
+And I I think the the
+ 
+
+277
+00:05:46,720 --> 00:05:48,430
+And I I think the the
+the the big thing which I learned from
+
+278
+00:05:48,430 --> 00:05:48,440
+the the big thing which I learned from
+ 
+
+279
+00:05:48,440 --> 00:05:49,910
+the the big thing which I learned from
+the Mizar guys
+
+280
+00:05:49,910 --> 00:05:49,920
+the Mizar guys
+ 
+
+281
+00:05:49,920 --> 00:05:53,230
+the Mizar guys
+is that you shouldn't try to do some
+
+282
+00:05:53,230 --> 00:05:53,240
+is that you shouldn't try to do some
+ 
+
+283
+00:05:53,240 --> 00:05:56,270
+is that you shouldn't try to do some
+sort of natural language
+
+284
+00:05:56,270 --> 00:05:56,280
+sort of natural language
+ 
+
+285
+00:05:56,280 --> 00:05:58,150
+sort of natural language
+parsing like Andre Trybulec was
+
+286
+00:05:58,150 --> 00:05:58,160
+parsing like Andre Trybulec was
+ 
+
+287
+00:05:58,160 --> 00:06:01,470
+parsing like Andre Trybulec was
+extremely skeptical about it because he
+
+288
+00:06:01,470 --> 00:06:01,480
+extremely skeptical about it because he
+ 
+
+289
+00:06:01,480 --> 00:06:04,590
+extremely skeptical about it because he
+knew the work of Klaus Sena which was
+
+290
+00:06:04,590 --> 00:06:04,600
+knew the work of Klaus Sena which was
+ 
+
+291
+00:06:04,600 --> 00:06:06,790
+knew the work of Klaus Sena which was
+done I don't know maybe Michael knows
+
+292
+00:06:06,790 --> 00:06:06,800
+done I don't know maybe Michael knows
+ 
+
+293
+00:06:06,800 --> 00:06:08,230
+done I don't know maybe Michael knows
+more about it because this was done in
+
+294
+00:06:08,230 --> 00:06:08,240
+more about it because this was done in
+ 
+
+295
+00:06:08,240 --> 00:06:11,830
+more about it because this was done in
+the Omega Omega group. No.
+
+296
+00:06:11,830 --> 00:06:11,840
+the Omega Omega group. No.
+ 
+
+297
+00:06:11,840 --> 00:06:14,470
+the Omega Omega group. No.
+What in Erlangen? Oh in Erlangen but he
+
+298
+00:06:14,470 --> 00:06:14,480
+What in Erlangen? Oh in Erlangen but he
+ 
+
+299
+00:06:14,480 --> 00:06:17,030
+What in Erlangen? Oh in Erlangen but he
+did work with Omega. Erlangen parser to
+
+300
+00:06:17,030 --> 00:06:17,040
+did work with Omega. Erlangen parser to
+ 
+
+301
+00:06:17,040 --> 00:06:19,310
+did work with Omega. Erlangen parser to
+be something. He did work with lots of
+
+302
+00:06:19,310 --> 00:06:19,320
+be something. He did work with lots of
+ 
+
+303
+00:06:19,320 --> 00:06:20,590
+be something. He did work with lots of
+things.
+
+304
+00:06:20,590 --> 00:06:20,600
+things.
+ 
+
+305
+00:06:20,600 --> 00:06:23,150
+things.
+Okay. Not not really the Omega. No.
+
+306
+00:06:23,150 --> 00:06:23,160
+Okay. Not not really the Omega. No.
+ 
+
+307
+00:06:23,160 --> 00:06:25,390
+Okay. Not not really the Omega. No.
+Related to Michael. Okay.
+
+308
+00:06:25,390 --> 00:06:25,400
+Related to Michael. Okay.
+ 
+
+309
+00:06:25,400 --> 00:06:28,510
+Related to Michael. Okay.
+So so so I I would say this
+
+310
+00:06:28,510 --> 00:06:28,520
+So so so I I would say this
+ 
+
+311
+00:06:28,520 --> 00:06:31,110
+So so so I I would say this
+this is probably very much worth reading
+
+312
+00:06:31,110 --> 00:06:31,120
+this is probably very much worth reading
+ 
+
+313
+00:06:31,120 --> 00:06:33,870
+this is probably very much worth reading
+because it's it's a big exploration.
+
+314
+00:06:33,870 --> 00:06:33,880
+because it's it's a big exploration.
+ 
+
+315
+00:06:33,880 --> 00:06:36,670
+because it's it's a big exploration.
+Can we can we do this stuff manually?
+
+316
+00:06:36,670 --> 00:06:36,680
+Can we can we do this stuff manually?
+ 
+
+317
+00:06:36,680 --> 00:06:39,350
+Can we can we do this stuff manually?
+And like I said like when I started to
+
+318
+00:06:39,350 --> 00:06:39,360
+And like I said like when I started to
+ 
+
+319
+00:06:39,360 --> 00:06:40,870
+And like I said like when I started to
+look at Mizar for other reasons
+
+320
+00:06:40,870 --> 00:06:40,880
+look at Mizar for other reasons
+ 
+
+321
+00:06:40,880 --> 00:06:42,870
+look at Mizar for other reasons
+basically to steal steal this data set
+
+322
+00:06:42,870 --> 00:06:42,880
+basically to steal steal this data set
+ 
+
+323
+00:06:42,880 --> 00:06:44,670
+basically to steal steal this data set
+for machine learning of automated
+
+324
+00:06:44,670 --> 00:06:44,680
+for machine learning of automated
+ 
+
+325
+00:06:44,680 --> 00:06:46,150
+for machine learning of automated
+theorem proving
+
+326
+00:06:46,150 --> 00:06:46,160
+theorem proving
+ 
+
+327
+00:06:46,160 --> 00:06:48,750
+theorem proving
+they they were extremely negative about
+
+328
+00:06:48,750 --> 00:06:48,760
+they they were extremely negative about
+ 
+
+329
+00:06:48,760 --> 00:06:50,790
+they they were extremely negative about
+try trying this sort of
+
+330
+00:06:50,790 --> 00:06:50,800
+try trying this sort of
+ 
+
+331
+00:06:50,800 --> 00:06:53,870
+try trying this sort of
+automated for formalization.
+
+332
+00:06:53,870 --> 00:06:53,880
+automated for formalization.
+ 
+
+333
+00:06:53,880 --> 00:06:58,190
+automated for formalization.
+And like then again then there is Andre
+
+334
+00:06:58,190 --> 00:06:58,200
+And like then again then there is Andre
+ 
+
+335
+00:06:58,200 --> 00:07:01,150
+And like then again then there is Andre
+working on SAT but I think it has always
+
+336
+00:07:01,150 --> 00:07:01,160
+working on SAT but I think it has always
+ 
+
+337
+00:07:01,160 --> 00:07:03,470
+working on SAT but I think it has always
+been like kept in the controlled natural
+
+338
+00:07:03,470 --> 00:07:03,480
+been like kept in the controlled natural
+ 
+
+339
+00:07:03,480 --> 00:07:05,270
+been like kept in the controlled natural
+language domain, right? Like it's it's
+
+340
+00:07:05,270 --> 00:07:05,280
+language domain, right? Like it's it's
+ 
+
+341
+00:07:05,280 --> 00:07:06,390
+language domain, right? Like it's it's
+very
+
+342
+00:07:06,390 --> 00:07:06,400
+very
+ 
+
+343
+00:07:06,400 --> 00:07:08,110
+very
+and then there is Peter and then there
+
+344
+00:07:08,110 --> 00:07:08,120
+and then there is Peter and then there
+ 
+
+345
+00:07:08,120 --> 00:07:11,030
+and then there is Peter and then there
+is Mohan, right? And and with Mohan I I
+
+346
+00:07:11,030 --> 00:07:11,040
+is Mohan, right? And and with Mohan I I
+ 
+
+347
+00:07:11,040 --> 00:07:13,230
+is Mohan, right? And and with Mohan I I
+I talked with Mohan back in 2008 when I
+
+348
+00:07:13,230 --> 00:07:13,240
+I talked with Mohan back in 2008 when I
+ 
+
+349
+00:07:13,240 --> 00:07:14,750
+I talked with Mohan back in 2008 when I
+visited Ladek.
+
+350
+00:07:14,750 --> 00:07:14,760
+visited Ladek.
+ 
+
+351
+00:07:14,760 --> 00:07:17,350
+visited Ladek.
+And I I was both impressed and and a bit
+
+352
+00:07:17,350 --> 00:07:17,360
+And I I was both impressed and and a bit
+ 
+
+353
+00:07:17,360 --> 00:07:19,390
+And I I was both impressed and and a bit
+because on one hand you you have this
+
+354
+00:07:19,390 --> 00:07:19,400
+because on one hand you you have this
+ 
+
+355
+00:07:19,400 --> 00:07:22,230
+because on one hand you you have this
+very smart guy and on the other hand he
+
+356
+00:07:22,230 --> 00:07:22,240
+very smart guy and on the other hand he
+ 
+
+357
+00:07:22,240 --> 00:07:24,270
+very smart guy and on the other hand he
+again wanted to do it manually. Like he
+
+358
+00:07:24,270 --> 00:07:24,280
+again wanted to do it manually. Like he
+ 
+
+359
+00:07:24,280 --> 00:07:27,830
+again wanted to do it manually. Like he
+wanted to write manual parser.
+
+360
+00:07:27,830 --> 00:07:27,840
+wanted to write manual parser.
+ 
+
+361
+00:07:27,840 --> 00:07:28,910
+wanted to write manual parser.
+So sort of
+
+362
+00:07:28,910 --> 00:07:28,920
+So sort of
+ 
+
+363
+00:07:28,920 --> 00:07:29,990
+So sort of
+it's really
+
+364
+00:07:29,990 --> 00:07:30,000
+it's really
+ 
+
+365
+00:07:30,000 --> 00:07:32,950
+it's really
+at at some point I I I said like like no
+
+366
+00:07:32,950 --> 00:07:32,960
+at at some point I I I said like like no
+ 
+
+367
+00:07:32,960 --> 00:07:34,510
+at at some point I I I said like like no
+like
+
+368
+00:07:34,510 --> 00:07:34,520
+like
+ 
+
+369
+00:07:34,520 --> 00:07:37,150
+like
+we we have to do it differently.
+
+370
+00:07:37,150 --> 00:07:37,160
+we we have to do it differently.
+ 
+
+371
+00:07:37,160 --> 00:07:38,870
+we we have to do it differently.
+Uh so
+
+372
+00:07:38,870 --> 00:07:38,880
+Uh so
+ 
+
+373
+00:07:38,880 --> 00:07:41,590
+Uh so
+so back in 2004 where then I was still
+
+374
+00:07:41,590 --> 00:07:41,600
+so back in 2004 where then I was still
+ 
+
+375
+00:07:41,600 --> 00:07:43,630
+so back in 2004 where then I was still
+stealing this Mizar data
+
+376
+00:07:43,630 --> 00:07:43,640
+stealing this Mizar data
+ 
+
+377
+00:07:43,640 --> 00:07:45,870
+stealing this Mizar data
+then they actually did formalize this
+
+378
+00:07:45,870 --> 00:07:45,880
+then they actually did formalize this
+ 
+
+379
+00:07:45,880 --> 00:07:48,830
+then they actually did formalize this
+compendium of continuous lattices
+
+380
+00:07:48,830 --> 00:07:48,840
+compendium of continuous lattices
+ 
+
+381
+00:07:48,840 --> 00:07:52,550
+compendium of continuous lattices
+from like 60% already
+
+382
+00:07:52,550 --> 00:07:52,560
+from like 60% already
+ 
+
+383
+00:07:52,560 --> 00:07:54,470
+from like 60% already
+by by the time.
+
+384
+00:07:54,470 --> 00:07:54,480
+by by the time.
+ 
+
+385
+00:07:54,480 --> 00:07:58,150
+by by the time.
+And like at that point it was so so
+
+386
+00:07:58,150 --> 00:07:58,160
+And like at that point it was so so
+ 
+
+387
+00:07:58,160 --> 00:08:01,550
+And like at that point it was so so
+crazy for some people to believe that we
+
+388
+00:08:01,550 --> 00:08:01,560
+crazy for some people to believe that we
+ 
+
+389
+00:08:01,560 --> 00:08:03,070
+crazy for some people to believe that we
+could try to like statistically
+
+390
+00:08:03,070 --> 00:08:03,080
+could try to like statistically
+ 
+
+391
+00:08:03,080 --> 00:08:06,750
+could try to like statistically
+translate LaTeX to to formal language
+
+392
+00:08:06,750 --> 00:08:06,760
+translate LaTeX to to formal language
+ 
+
+393
+00:08:06,760 --> 00:08:08,990
+translate LaTeX to to formal language
+that actually they did give me the LaTeX
+
+394
+00:08:08,990 --> 00:08:09,000
+that actually they did give me the LaTeX
+ 
+
+395
+00:08:09,000 --> 00:08:10,270
+that actually they did give me the LaTeX
+sources.
+
+396
+00:08:10,270 --> 00:08:10,280
+sources.
+ 
+
+397
+00:08:10,280 --> 00:08:12,390
+sources.
+But I I haven't used them for for like
+
+398
+00:08:12,390 --> 00:08:12,400
+But I I haven't used them for for like
+ 
+
+399
+00:08:12,400 --> 00:08:13,710
+But I I haven't used them for for like
+10 years.
+
+400
+00:08:13,710 --> 00:08:13,720
+10 years.
+ 
+
+401
+00:08:13,720 --> 00:08:15,950
+10 years.
+And like then
+
+402
+00:08:15,950 --> 00:08:15,960
+And like then
+ 
+
+403
+00:08:15,960 --> 00:08:18,790
+And like then
+I would say they basically for for 10
+
+404
+00:08:18,790 --> 00:08:18,800
+I would say they basically for for 10
+ 
+
+405
+00:08:18,800 --> 00:08:21,510
+I would say they basically for for 10
+years nothing was happening.
+
+406
+00:08:21,510 --> 00:08:21,520
+years nothing was happening.
+ 
+
+407
+00:08:21,520 --> 00:08:24,310
+years nothing was happening.
+And I I I really started to wonder will
+
+408
+00:08:24,310 --> 00:08:24,320
+And I I I really started to wonder will
+ 
+
+409
+00:08:24,320 --> 00:08:26,910
+And I I I really started to wonder will
+I die and people will be still writing
+
+410
+00:08:26,910 --> 00:08:26,920
+I die and people will be still writing
+ 
+
+411
+00:08:26,920 --> 00:08:30,550
+I die and people will be still writing
+like manual parsers? Like is this the
+
+412
+00:08:30,550 --> 00:08:30,560
+like manual parsers? Like is this the
+ 
+
+413
+00:08:30,560 --> 00:08:33,790
+like manual parsers? Like is this the
+Like Piotr Rudnicki at some point
+
+414
+00:08:33,790 --> 00:08:33,800
+Like Piotr Rudnicki at some point
+ 
+
+415
+00:08:33,800 --> 00:08:35,630
+Like Piotr Rudnicki at some point
+at this interview in some Polish
+
+416
+00:08:35,630 --> 00:08:35,640
+at this interview in some Polish
+ 
+
+417
+00:08:35,640 --> 00:08:37,709
+at this interview in some Polish
+newspaper was saying in 300 years we
+
+418
+00:08:37,709 --> 00:08:37,719
+newspaper was saying in 300 years we
+ 
+
+419
+00:08:37,719 --> 00:08:39,750
+newspaper was saying in 300 years we
+will formalize mathematics. So like
+
+420
+00:08:39,750 --> 00:08:39,760
+will formalize mathematics. So like
+ 
+
+421
+00:08:39,760 --> 00:08:42,390
+will formalize mathematics. So like
+okay, well.
+
+422
+00:08:42,390 --> 00:08:42,400
+okay, well.
+ 
+
+423
+00:08:42,400 --> 00:08:45,390
+okay, well.
+So so so so yes I I I simply decided
+
+424
+00:08:45,390 --> 00:08:45,400
+So so so so yes I I I simply decided
+ 
+
+425
+00:08:45,400 --> 00:08:47,550
+So so so so yes I I I simply decided
+that even though we have done very
+
+426
+00:08:47,550 --> 00:08:47,560
+that even though we have done very
+ 
+
+427
+00:08:47,560 --> 00:08:49,270
+that even though we have done very
+little we we simply have to declare this
+
+428
+00:08:49,270 --> 00:08:49,280
+little we we simply have to declare this
+ 
+
+429
+00:08:49,280 --> 00:08:53,030
+little we we simply have to declare this
+project that like we will be doing what
+
+430
+00:08:53,030 --> 00:08:53,040
+project that like we will be doing what
+ 
+
+431
+00:08:53,040 --> 00:08:54,310
+project that like we will be doing what
+for example Google Translate was
+
+432
+00:08:54,310 --> 00:08:54,320
+for example Google Translate was
+ 
+
+433
+00:08:54,320 --> 00:08:57,070
+for example Google Translate was
+becoming very good at at the time. And
+
+434
+00:08:57,070 --> 00:08:57,080
+becoming very good at at the time. And
+ 
+
+435
+00:08:57,080 --> 00:08:59,990
+becoming very good at at the time. And
+this was before they they actually put
+
+436
+00:08:59,990 --> 00:09:00,000
+this was before they they actually put
+ 
+
+437
+00:09:00,000 --> 00:09:02,710
+this was before they they actually put
+uh language models at Google Translate.
+
+438
+00:09:02,710 --> 00:09:02,720
+uh language models at Google Translate.
+ 
+
+439
+00:09:02,720 --> 00:09:04,550
+uh language models at Google Translate.
+Uh and and that's basically some sort of
+
+440
+00:09:04,550 --> 00:09:04,560
+Uh and and that's basically some sort of
+ 
+
+441
+00:09:04,560 --> 00:09:07,390
+Uh and and that's basically some sort of
+statistical machine translation to to
+
+442
+00:09:07,390 --> 00:09:07,400
+statistical machine translation to to
+ 
+
+443
+00:09:07,400 --> 00:09:10,790
+statistical machine translation to to
+and combinations with with all all the
+
+444
+00:09:10,790 --> 00:09:10,800
+and combinations with with all all the
+ 
+
+445
+00:09:10,800 --> 00:09:12,310
+and combinations with with all all the
+stuff
+
+446
+00:09:12,310 --> 00:09:12,320
+stuff
+ 
+
+447
+00:09:12,320 --> 00:09:14,590
+stuff
+uh semantic weapons that we have like
+
+448
+00:09:14,590 --> 00:09:14,600
+uh semantic weapons that we have like
+ 
+
+449
+00:09:14,600 --> 00:09:17,390
+uh semantic weapons that we have like
+type checking, theorem proving, etc.
+
+450
+00:09:17,390 --> 00:09:17,400
+type checking, theorem proving, etc.
+ 
+
+451
+00:09:17,400 --> 00:09:21,030
+type checking, theorem proving, etc.
+So so I
+
+452
+00:09:21,030 --> 00:09:21,040
+
+ 
+
+453
+00:09:21,040 --> 00:09:23,830
+
+I I in my mind like there there are like
+
+454
+00:09:23,830 --> 00:09:23,840
+I I in my mind like there there are like
+ 
+
+455
+00:09:23,840 --> 00:09:26,870
+I I in my mind like there there are like
+a bunch of things that that somehow
+
+456
+00:09:26,870 --> 00:09:26,880
+a bunch of things that that somehow
+ 
+
+457
+00:09:26,880 --> 00:09:28,750
+a bunch of things that that somehow
+interact together.
+
+458
+00:09:28,750 --> 00:09:28,760
+interact together.
+ 
+
+459
+00:09:28,760 --> 00:09:32,270
+interact together.
+And like today like everybody thinks
+
+460
+00:09:32,270 --> 00:09:32,280
+And like today like everybody thinks
+ 
+
+461
+00:09:32,280 --> 00:09:34,270
+And like today like everybody thinks
+large language models will will do it
+
+462
+00:09:34,270 --> 00:09:34,280
+large language models will will do it
+ 
+
+463
+00:09:34,280 --> 00:09:37,670
+large language models will will do it
+all and we will uh fully translate
+
+464
+00:09:37,670 --> 00:09:37,680
+all and we will uh fully translate
+ 
+
+465
+00:09:37,680 --> 00:09:39,870
+all and we will uh fully translate
+natural language to to formal proofs but
+
+466
+00:09:39,870 --> 00:09:39,880
+natural language to to formal proofs but
+ 
+
+467
+00:09:39,880 --> 00:09:41,990
+natural language to to formal proofs but
+like you have just seen I don't know. I
+
+468
+00:09:41,990 --> 00:09:42,000
+like you have just seen I don't know. I
+ 
+
+469
+00:09:42,000 --> 00:09:43,030
+like you have just seen I don't know. I
+still
+
+470
+00:09:43,030 --> 00:09:43,040
+still
+ 
+
+471
+00:09:43,040 --> 00:09:46,470
+still
+like if you are still struggling with
+
+472
+00:09:46,470 --> 00:09:46,480
+like if you are still struggling with
+ 
+
+473
+00:09:46,480 --> 00:09:48,270
+like if you are still struggling with
+large language models and I guess we
+
+474
+00:09:48,270 --> 00:09:48,280
+large language models and I guess we
+ 
+
+475
+00:09:48,280 --> 00:09:50,590
+large language models and I guess we
+will see more talks about about that.
+
+476
+00:09:50,590 --> 00:09:50,600
+will see more talks about about that.
+ 
+
+477
+00:09:50,600 --> 00:09:52,070
+will see more talks about about that.
+But then there there is this controlled
+
+478
+00:09:52,070 --> 00:09:52,080
+But then there there is this controlled
+ 
+
+479
+00:09:52,080 --> 00:09:53,670
+But then there there is this controlled
+natural language.
+
+480
+00:09:53,670 --> 00:09:53,680
+natural language.
+ 
+
+481
+00:09:53,680 --> 00:09:56,990
+natural language.
+And I I I think it's it's it may be like
+
+482
+00:09:56,990 --> 00:09:57,000
+And I I I think it's it's it may be like
+ 
+
+483
+00:09:57,000 --> 00:10:00,470
+And I I I think it's it's it may be like
+a very important weapon. So for example,
+
+484
+00:10:00,470 --> 00:10:00,480
+a very important weapon. So for example,
+ 
+
+485
+00:10:00,480 --> 00:10:01,910
+a very important weapon. So for example,
+last year
+
+486
+00:10:01,910 --> 00:10:01,920
+last year
+ 
+
+487
+00:10:01,920 --> 00:10:03,150
+last year
+we did a
+
+488
+00:10:03,150 --> 00:10:03,160
+we did a
+ 
+
+489
+00:10:03,160 --> 00:10:05,910
+we did a
+very small project on common sense
+
+490
+00:10:05,910 --> 00:10:05,920
+very small project on common sense
+ 
+
+491
+00:10:05,920 --> 00:10:07,910
+very small project on common sense
+reasoning.
+
+492
+00:10:07,910 --> 00:10:07,920
+reasoning.
+ 
+
+493
+00:10:07,920 --> 00:10:10,430
+reasoning.
+And what turned out to be like a very
+
+494
+00:10:10,430 --> 00:10:10,440
+And what turned out to be like a very
+ 
+
+495
+00:10:10,440 --> 00:10:12,310
+And what turned out to be like a very
+very good trade-off
+
+496
+00:10:12,310 --> 00:10:12,320
+very good trade-off
+ 
+
+497
+00:10:12,320 --> 00:10:13,990
+very good trade-off
+was to
+
+498
+00:10:13,990 --> 00:10:14,000
+was to
+ 
+
+499
+00:10:14,000 --> 00:10:16,590
+was to
+if you have natural language
+
+500
+00:10:16,590 --> 00:10:16,600
+if you have natural language
+ 
+
+501
+00:10:16,600 --> 00:10:19,910
+if you have natural language
+ask large or small language model to to
+
+502
+00:10:19,910 --> 00:10:19,920
+ask large or small language model to to
+ 
+
+503
+00:10:19,920 --> 00:10:22,550
+ask large or small language model to to
+simplify it, to to split it into small
+
+504
+00:10:22,550 --> 00:10:22,560
+simplify it, to to split it into small
+ 
+
+505
+00:10:22,560 --> 00:10:25,830
+simplify it, to to split it into small
+sentences, make them simple, remove like
+
+506
+00:10:25,830 --> 00:10:25,840
+sentences, make them simple, remove like
+ 
+
+507
+00:10:25,840 --> 00:10:28,030
+sentences, make them simple, remove like
+the fancy vocabulary.
+
+508
+00:10:28,030 --> 00:10:28,040
+the fancy vocabulary.
+ 
+
+509
+00:10:28,040 --> 00:10:29,830
+the fancy vocabulary.
+And once once once you have it, it's
+
+510
+00:10:29,830 --> 00:10:29,840
+And once once once you have it, it's
+ 
+
+511
+00:10:29,840 --> 00:10:31,710
+And once once once you have it, it's
+sort of approaching the control natural
+
+512
+00:10:31,710 --> 00:10:31,720
+sort of approaching the control natural
+ 
+
+513
+00:10:31,720 --> 00:10:34,590
+sort of approaching the control natural
+language area, for which you can even
+
+514
+00:10:34,590 --> 00:10:34,600
+language area, for which you can even
+ 
+
+515
+00:10:34,600 --> 00:10:37,150
+language area, for which you can even
+attempt to like force something like GF
+
+516
+00:10:37,150 --> 00:10:37,160
+attempt to like force something like GF
+ 
+
+517
+00:10:37,160 --> 00:10:39,590
+attempt to like force something like GF
+or something portal or map map project
+
+518
+00:10:39,590 --> 00:10:39,600
+or something portal or map map project
+ 
+
+519
+00:10:39,600 --> 00:10:44,070
+or something portal or map map project
+etc. So so I think one
+
+520
+00:10:44,070 --> 00:10:44,080
+etc. So so I think one
+ 
+
+521
+00:10:44,080 --> 00:10:47,150
+etc. So so I think one
+one thing that we should be exploring
+
+522
+00:10:47,150 --> 00:10:47,160
+one thing that we should be exploring
+ 
+
+523
+00:10:47,160 --> 00:10:50,670
+one thing that we should be exploring
+is like at least this today's
+
+524
+00:10:50,670 --> 00:10:50,680
+is like at least this today's
+ 
+
+525
+00:10:50,680 --> 00:10:53,990
+is like at least this today's
+generations of the statistical
+
+526
+00:10:53,990 --> 00:10:54,000
+generations of the statistical
+ 
+
+527
+00:10:54,000 --> 00:10:55,870
+generations of the statistical
+machine learning tools.
+
+528
+00:10:55,870 --> 00:10:55,880
+machine learning tools.
+ 
+
+529
+00:10:55,880 --> 00:10:59,150
+machine learning tools.
+It At least my experience in the last 10
+
+530
+00:10:59,150 --> 00:10:59,160
+It At least my experience in the last 10
+ 
+
+531
+00:10:59,160 --> 00:11:00,829
+It At least my experience in the last 10
+years has been
+
+532
+00:11:00,829 --> 00:11:00,839
+years has been
+ 
+
+533
+00:11:00,839 --> 00:11:03,390
+years has been
+that we some tasks are simply too
+
+534
+00:11:03,390 --> 00:11:03,400
+that we some tasks are simply too
+ 
+
+535
+00:11:03,400 --> 00:11:05,950
+that we some tasks are simply too
+ambitious. Like you shouldn't go for
+
+536
+00:11:05,950 --> 00:11:05,960
+ambitious. Like you shouldn't go for
+ 
+
+537
+00:11:05,960 --> 00:11:09,110
+ambitious. Like you shouldn't go for
+example for some fully elaborated Mizar
+
+538
+00:11:09,110 --> 00:11:09,120
+example for some fully elaborated Mizar
+ 
+
+539
+00:11:09,120 --> 00:11:12,510
+example for some fully elaborated Mizar
+text from from high tech when you can go
+
+540
+00:11:12,510 --> 00:11:12,520
+text from from high tech when you can go
+ 
+
+541
+00:11:12,520 --> 00:11:15,750
+text from from high tech when you can go
+from the unelaborated
+
+542
+00:11:15,750 --> 00:11:15,760
+from the unelaborated
+ 
+
+543
+00:11:15,760 --> 00:11:18,150
+from the unelaborated
+Mizar text where for example the hidden
+
+544
+00:11:18,150 --> 00:11:18,160
+Mizar text where for example the hidden
+ 
+
+545
+00:11:18,160 --> 00:11:19,630
+Mizar text where for example the hidden
+arguments and
+
+546
+00:11:19,630 --> 00:11:19,640
+arguments and
+ 
+
+547
+00:11:19,640 --> 00:11:20,870
+arguments and
+the type
+
+548
+00:11:20,870 --> 00:11:20,880
+the type
+ 
+
+549
+00:11:20,880 --> 00:11:23,670
+the type
+I I added then by the elaborator. So so
+
+550
+00:11:23,670 --> 00:11:23,680
+I I added then by the elaborator. So so
+ 
+
+551
+00:11:23,680 --> 00:11:27,270
+I I added then by the elaborator. So so
+if you if you can sort of very much
+
+552
+00:11:27,270 --> 00:11:27,280
+if you if you can sort of very much
+ 
+
+553
+00:11:27,280 --> 00:11:30,510
+if you if you can sort of very much
+simplify the the task
+
+554
+00:11:30,510 --> 00:11:30,520
+simplify the the task
+ 
+
+555
+00:11:30,520 --> 00:11:31,870
+simplify the the task
+that you are giving to to these
+
+556
+00:11:31,870 --> 00:11:31,880
+that you are giving to to these
+ 
+
+557
+00:11:31,880 --> 00:11:33,710
+that you are giving to to these
+statistical methods
+
+558
+00:11:33,710 --> 00:11:33,720
+statistical methods
+ 
+
+559
+00:11:33,720 --> 00:11:36,310
+statistical methods
+the whole pipeline becomes better. So so
+
+560
+00:11:36,310 --> 00:11:36,320
+the whole pipeline becomes better. So so
+ 
+
+561
+00:11:36,320 --> 00:11:39,230
+the whole pipeline becomes better. So so
+I I I'd say like one
+
+562
+00:11:39,230 --> 00:11:39,240
+I I I'd say like one
+ 
+
+563
+00:11:39,240 --> 00:11:42,950
+I I I'd say like one
+one note like about how how to how these
+
+564
+00:11:42,950 --> 00:11:42,960
+one note like about how how to how these
+ 
+
+565
+00:11:42,960 --> 00:11:46,590
+one note like about how how to how these
+things can interact is is that like we
+
+566
+00:11:46,590 --> 00:11:46,600
+things can interact is is that like we
+ 
+
+567
+00:11:46,600 --> 00:11:49,070
+things can interact is is that like we
+we are not crazily ambitious and and we
+
+568
+00:11:49,070 --> 00:11:49,080
+we are not crazily ambitious and and we
+ 
+
+569
+00:11:49,080 --> 00:11:51,870
+we are not crazily ambitious and and we
+will basically have have these for
+
+570
+00:11:51,870 --> 00:11:51,880
+will basically have have these for
+ 
+
+571
+00:11:51,880 --> 00:11:54,470
+will basically have have these for
+example use of map reduce, right?
+
+572
+00:11:54,470 --> 00:11:54,480
+example use of map reduce, right?
+ 
+
+573
+00:11:54,480 --> 00:11:56,430
+example use of map reduce, right?
+Map reduce in the middle or something
+
+574
+00:11:56,430 --> 00:11:56,440
+Map reduce in the middle or something
+ 
+
+575
+00:11:56,440 --> 00:11:57,350
+Map reduce in the middle or something
+like that.
+
+576
+00:11:57,350 --> 00:11:57,360
+like that.
+ 
+
+577
+00:11:57,360 --> 00:12:00,870
+like that.
+Another folder again like people today
+
+578
+00:12:00,870 --> 00:12:00,880
+Another folder again like people today
+ 
+
+579
+00:12:00,880 --> 00:12:04,390
+Another folder again like people today
+like with the sort of lean revolution
+
+580
+00:12:04,390 --> 00:12:04,400
+like with the sort of lean revolution
+ 
+
+581
+00:12:04,400 --> 00:12:08,150
+like with the sort of lean revolution
+I like several people asked me privately
+
+582
+00:12:08,150 --> 00:12:08,160
+I like several people asked me privately
+ 
+
+583
+00:12:08,160 --> 00:12:11,070
+I like several people asked me privately
+could you do or ask people
+
+584
+00:12:11,070 --> 00:12:11,080
+could you do or ask people
+ 
+
+585
+00:12:11,080 --> 00:12:12,470
+could you do or ask people
+could you do a formal to formal
+
+586
+00:12:12,470 --> 00:12:12,480
+could you do a formal to formal
+ 
+
+587
+00:12:12,480 --> 00:12:14,270
+could you do a formal to formal
+translator from I don't know lean to
+
+588
+00:12:14,270 --> 00:12:14,280
+translator from I don't know lean to
+ 
+
+589
+00:12:14,280 --> 00:12:15,750
+translator from I don't know lean to
+ right? Like we want to steal math
+
+590
+00:12:15,750 --> 00:12:15,760
+right? Like we want to steal math
+ 
+
+591
+00:12:15,760 --> 00:12:18,670
+right? Like we want to steal math
+flip because it's very good etc.
+
+592
+00:12:18,670 --> 00:12:18,680
+flip because it's very good etc.
+ 
+
+593
+00:12:18,680 --> 00:12:20,829
+flip because it's very good etc.
+So so again like
+
+594
+00:12:20,829 --> 00:12:20,839
+So so again like
+ 
+
+595
+00:12:20,839 --> 00:12:24,990
+So so again like
+for example people did like these
+
+596
+00:12:24,990 --> 00:12:25,000
+for example people did like these
+ 
+
+597
+00:12:25,000 --> 00:12:26,710
+for example people did like these
+pretty
+
+598
+00:12:26,710 --> 00:12:26,720
+pretty
+ 
+
+599
+00:12:26,720 --> 00:12:29,070
+pretty
+surprising I I'd say
+
+600
+00:12:29,070 --> 00:12:29,080
+surprising I I'd say
+ 
+
+601
+00:12:29,080 --> 00:12:30,510
+surprising I I'd say
+um
+
+602
+00:12:30,510 --> 00:12:30,520
+um
+ 
+
+603
+00:12:30,520 --> 00:12:32,150
+um
+alignments
+
+604
+00:12:32,150 --> 00:12:32,160
+alignments
+ 
+
+605
+00:12:32,160 --> 00:12:33,190
+alignments
+sort of
+
+606
+00:12:33,190 --> 00:12:33,200
+sort of
+ 
+
+607
+00:12:33,200 --> 00:12:35,510
+sort of
+statistically simultaneously between
+
+608
+00:12:35,510 --> 00:12:35,520
+statistically simultaneously between
+ 
+
+609
+00:12:35,520 --> 00:12:37,990
+statistically simultaneously between
+different proof libraries.
+
+610
+00:12:37,990 --> 00:12:38,000
+different proof libraries.
+ 
+
+611
+00:12:38,000 --> 00:12:39,829
+different proof libraries.
+And
+
+612
+00:12:39,829 --> 00:12:39,839
+And
+ 
+
+613
+00:12:39,839 --> 00:12:42,030
+And
+you you could sort of try to
+
+614
+00:12:42,030 --> 00:12:42,040
+you you could sort of try to
+ 
+
+615
+00:12:42,040 --> 00:12:43,950
+you you could sort of try to
+somehow
+
+616
+00:12:43,950 --> 00:12:43,960
+somehow
+ 
+
+617
+00:12:43,960 --> 00:12:46,910
+somehow
+do the formal to formal if you if you
+
+618
+00:12:46,910 --> 00:12:46,920
+do the formal to formal if you if you
+ 
+
+619
+00:12:46,920 --> 00:12:50,190
+do the formal to formal if you if you
+are aiming for some crazy future where
+
+620
+00:12:50,190 --> 00:12:50,200
+are aiming for some crazy future where
+ 
+
+621
+00:12:50,200 --> 00:12:52,150
+are aiming for some crazy future where
+we will be very easily translating from
+
+622
+00:12:52,150 --> 00:12:52,160
+we will be very easily translating from
+ 
+
+623
+00:12:52,160 --> 00:12:54,350
+we will be very easily translating from
+Isabelle to lean to Mizar to to
+
+624
+00:12:54,350 --> 00:12:54,360
+Isabelle to lean to Mizar to to
+ 
+
+625
+00:12:54,360 --> 00:12:55,550
+Isabelle to lean to Mizar to to
+whatever.
+
+626
+00:12:55,550 --> 00:12:55,560
+whatever.
+ 
+
+627
+00:12:55,560 --> 00:12:57,590
+whatever.
+You you will
+
+628
+00:12:57,590 --> 00:12:57,600
+You you will
+ 
+
+629
+00:12:57,600 --> 00:12:59,829
+You you will
+you you could say that this will this
+
+630
+00:12:59,829 --> 00:12:59,839
+you you could say that this will this
+ 
+
+631
+00:12:59,839 --> 00:13:02,070
+you you could say that this will this
+will all be done by statistical machine
+
+632
+00:13:02,070 --> 00:13:02,080
+will all be done by statistical machine
+ 
+
+633
+00:13:02,080 --> 00:13:04,110
+will all be done by statistical machine
+translation. But but again like for
+
+634
+00:13:04,110 --> 00:13:04,120
+translation. But but again like for
+ 
+
+635
+00:13:04,120 --> 00:13:05,990
+translation. But but again like for
+example Mario has this lean three to
+
+636
+00:13:05,990 --> 00:13:06,000
+example Mario has this lean three to
+ 
+
+637
+00:13:06,000 --> 00:13:07,790
+example Mario has this lean three to
+lean four, right? And and that that
+
+638
+00:13:07,790 --> 00:13:07,800
+lean four, right? And and that that
+ 
+
+639
+00:13:07,800 --> 00:13:09,470
+lean four, right? And and that that
+could probably be extended to I don't
+
+640
+00:13:09,470 --> 00:13:09,480
+could probably be extended to I don't
+ 
+
+641
+00:13:09,480 --> 00:13:12,390
+could probably be extended to I don't
+know lean to or to lean or
+
+642
+00:13:12,390 --> 00:13:12,400
+know lean to or to lean or
+ 
+
+643
+00:13:12,400 --> 00:13:13,710
+know lean to or to lean or
+whatever.
+
+644
+00:13:13,710 --> 00:13:13,720
+whatever.
+ 
+
+645
+00:13:13,720 --> 00:13:16,390
+whatever.
+So so again like I'm
+
+646
+00:13:16,390 --> 00:13:16,400
+So so again like I'm
+ 
+
+647
+00:13:16,400 --> 00:13:19,230
+So so again like I'm
+I'm somehow seeing this thing as some
+
+648
+00:13:19,230 --> 00:13:19,240
+I'm somehow seeing this thing as some
+ 
+
+649
+00:13:19,240 --> 00:13:24,590
+I'm somehow seeing this thing as some
+part of the sort of design space where
+
+650
+00:13:24,590 --> 00:13:24,600
+part of the sort of design space where
+ 
+
+651
+00:13:24,600 --> 00:13:28,030
+part of the sort of design space where
+some of it like GF, right? Like we could
+
+652
+00:13:28,030 --> 00:13:28,040
+some of it like GF, right? Like we could
+ 
+
+653
+00:13:28,040 --> 00:13:30,590
+some of it like GF, right? Like we could
+have like GF for
+
+654
+00:13:30,590 --> 00:13:30,600
+have like GF for
+ 
+
+655
+00:13:30,600 --> 00:13:32,950
+have like GF for
+I don't know Mizar to map reduce, or map
+
+656
+00:13:32,950 --> 00:13:32,960
+I don't know Mizar to map reduce, or map
+ 
+
+657
+00:13:32,960 --> 00:13:35,230
+I don't know Mizar to map reduce, or map
+reduce to Mizar or whatever.
+
+658
+00:13:35,230 --> 00:13:35,240
+reduce to Mizar or whatever.
+ 
+
+659
+00:13:35,240 --> 00:13:37,270
+reduce to Mizar or whatever.
+So
+
+660
+00:13:37,270 --> 00:13:37,280
+So
+ 
+
+661
+00:13:37,280 --> 00:13:39,590
+So
+again like do we do we have to do it all
+
+662
+00:13:39,590 --> 00:13:39,600
+again like do we do we have to do it all
+ 
+
+663
+00:13:39,600 --> 00:13:41,310
+again like do we do we have to do it all
+by
+
+664
+00:13:41,310 --> 00:13:41,320
+by
+ 
+
+665
+00:13:41,320 --> 00:13:43,590
+by
+like large language models? Or for
+
+666
+00:13:43,590 --> 00:13:43,600
+like large language models? Or for
+ 
+
+667
+00:13:43,600 --> 00:13:45,510
+like large language models? Or for
+example could we
+
+668
+00:13:45,510 --> 00:13:45,520
+example could we
+ 
+
+669
+00:13:45,520 --> 00:13:48,510
+example could we
+could we for example use the the AI that
+
+670
+00:13:48,510 --> 00:13:48,520
+could we for example use the the AI that
+ 
+
+671
+00:13:48,520 --> 00:13:51,030
+could we for example use the the AI that
+we have today to automatically design
+
+672
+00:13:51,030 --> 00:13:51,040
+we have today to automatically design
+ 
+
+673
+00:13:51,040 --> 00:13:53,110
+we have today to automatically design
+these translations, right? Like to to
+
+674
+00:13:53,110 --> 00:13:53,120
+these translations, right? Like to to
+ 
+
+675
+00:13:53,120 --> 00:13:56,470
+these translations, right? Like to to
+for example have a GF translation system
+
+676
+00:13:56,470 --> 00:13:56,480
+for example have a GF translation system
+ 
+
+677
+00:13:56,480 --> 00:13:59,550
+for example have a GF translation system
+that that is sort of explainable and and
+
+678
+00:13:59,550 --> 00:13:59,560
+that that is sort of explainable and and
+ 
+
+679
+00:13:59,560 --> 00:14:01,590
+that that is sort of explainable and and
+goes back and
+
+680
+00:14:01,590 --> 00:14:01,600
+goes back and
+ 
+
+681
+00:14:01,600 --> 00:14:03,590
+goes back and
+back and forth.
+
+682
+00:14:03,590 --> 00:14:03,600
+back and forth.
+ 
+
+683
+00:14:03,600 --> 00:14:07,550
+back and forth.
+Yeah so so I I guess these are some some
+
+684
+00:14:07,550 --> 00:14:07,560
+Yeah so so I I guess these are some some
+ 
+
+685
+00:14:07,560 --> 00:14:10,550
+Yeah so so I I guess these are some some
+sort of three to four things
+
+686
+00:14:10,550 --> 00:14:10,560
+sort of three to four things
+ 
+
+687
+00:14:10,560 --> 00:14:11,910
+sort of three to four things
+that
+
+688
+00:14:11,910 --> 00:14:11,920
+that
+ 
+
+689
+00:14:11,920 --> 00:14:14,550
+that
+that are somehow in
+
+690
+00:14:14,550 --> 00:14:14,560
+that are somehow in
+ 
+
+691
+00:14:14,560 --> 00:14:16,750
+that are somehow in
+in this
+
+692
+00:14:16,750 --> 00:14:16,760
+in this
+ 
+
+693
+00:14:16,760 --> 00:14:19,910
+in this
+in this area and I will I will not go
+
+694
+00:14:19,910 --> 00:14:19,920
+in this area and I will I will not go
+ 
+
+695
+00:14:19,920 --> 00:14:21,949
+in this area and I will I will not go
+through all the slides but the way
+
+696
+00:14:21,949 --> 00:14:21,959
+through all the slides but the way
+ 
+
+697
+00:14:21,959 --> 00:14:23,630
+through all the slides but the way
+but like I will
+
+698
+00:14:23,630 --> 00:14:23,640
+but like I will
+ 
+
+699
+00:14:23,640 --> 00:14:26,350
+but like I will
+I'll just say like what I'll say in
+
+700
+00:14:26,350 --> 00:14:26,360
+I'll just say like what I'll say in
+ 
+
+701
+00:14:26,360 --> 00:14:29,470
+I'll just say like what I'll say in
+these 10 years have have been
+
+702
+00:14:29,470 --> 00:14:29,480
+these 10 years have have been
+ 
+
+703
+00:14:29,480 --> 00:14:32,190
+these 10 years have have been
+probably the the biggest surprises for
+
+704
+00:14:32,190 --> 00:14:32,200
+probably the the biggest surprises for
+ 
+
+705
+00:14:32,200 --> 00:14:36,110
+probably the the biggest surprises for
+me. So so I I guess
+
+706
+00:14:36,110 --> 00:14:36,120
+me. So so I I guess
+ 
+
+707
+00:14:36,120 --> 00:14:39,230
+me. So so I I guess
+maybe the first one and I'm I'm
+
+708
+00:14:39,230 --> 00:14:39,240
+maybe the first one and I'm I'm
+ 
+
+709
+00:14:39,240 --> 00:14:41,829
+maybe the first one and I'm I'm
+to the people who haven't seen it but I
+
+710
+00:14:41,829 --> 00:14:41,839
+to the people who haven't seen it but I
+ 
+
+711
+00:14:41,839 --> 00:14:44,590
+to the people who haven't seen it but I
+think many of you have seen it.
+
+712
+00:14:44,590 --> 00:14:44,600
+think many of you have seen it.
+ 
+
+713
+00:14:44,600 --> 00:14:47,870
+think many of you have seen it.
+Show you this sort of
+
+714
+00:14:47,870 --> 00:14:47,880
+Show you this sort of
+ 
+
+715
+00:14:47,880 --> 00:14:49,310
+Show you this sort of
+probabilistic context free grammar that
+
+716
+00:14:49,310 --> 00:14:49,320
+probabilistic context free grammar that
+ 
+
+717
+00:14:49,320 --> 00:14:51,630
+probabilistic context free grammar that
+they did
+
+718
+00:14:51,630 --> 00:14:51,640
+they did
+ 
+
+719
+00:14:51,640 --> 00:14:54,949
+they did
+as as as the first approach in in 2015
+
+720
+00:14:54,949 --> 00:14:54,959
+as as as the first approach in in 2015
+ 
+
+721
+00:14:54,959 --> 00:14:55,949
+as as as the first approach in in 2015
+where
+
+722
+00:14:55,949 --> 00:14:55,959
+where
+ 
+
+723
+00:14:55,959 --> 00:14:57,870
+where
+it's a picture
+
+724
+00:14:57,870 --> 00:14:57,880
+it's a picture
+ 
+
+725
+00:14:57,880 --> 00:15:00,710
+it's a picture
+this
+
+726
+00:15:00,710 --> 00:15:00,720
+
+ 
+
+727
+00:15:00,720 --> 00:15:04,069
+
+this demo which only takes one minute.
+
+728
+00:15:04,069 --> 00:15:04,079
+this demo which only takes one minute.
+ 
+
+729
+00:15:04,079 --> 00:15:05,829
+this demo which only takes one minute.
+So I I think many of you have seen it
+
+730
+00:15:05,829 --> 00:15:05,839
+So I I think many of you have seen it
+ 
+
+731
+00:15:05,839 --> 00:15:08,110
+So I I think many of you have seen it
+multiple times. So so you sort of write
+
+732
+00:15:08,110 --> 00:15:08,120
+multiple times. So so you sort of write
+ 
+
+733
+00:15:08,120 --> 00:15:11,870
+multiple times. So so you sort of write
+an informalized statement and then you
+
+734
+00:15:11,870 --> 00:15:11,880
+an informalized statement and then you
+ 
+
+735
+00:15:11,880 --> 00:15:14,190
+an informalized statement and then you
+on the fly today we'd call it retrieval
+
+736
+00:15:14,190 --> 00:15:14,200
+on the fly today we'd call it retrieval
+ 
+
+737
+00:15:14,200 --> 00:15:17,390
+on the fly today we'd call it retrieval
+augmented generation create
+
+738
+00:15:17,390 --> 00:15:17,400
+augmented generation create
+ 
+
+739
+00:15:17,400 --> 00:15:18,949
+augmented generation create
+a grammar probabilistic context free
+
+740
+00:15:18,949 --> 00:15:18,959
+a grammar probabilistic context free
+ 
+
+741
+00:15:18,959 --> 00:15:19,990
+a grammar probabilistic context free
+grammar
+
+742
+00:15:19,990 --> 00:15:20,000
+grammar
+ 
+
+743
+00:15:20,000 --> 00:15:23,790
+grammar
+which
+
+744
+00:15:23,790 --> 00:15:23,800
+
+ 
+
+745
+00:15:23,800 --> 00:15:26,630
+
+the informal statements
+
+746
+00:15:26,630 --> 00:15:26,640
+the informal statements
+ 
+
+747
+00:15:26,640 --> 00:15:28,190
+the informal statements
+and
+
+748
+00:15:28,190 --> 00:15:28,200
+and
+ 
+
+749
+00:15:28,200 --> 00:15:29,630
+and
+type checking them like in the
+
+750
+00:15:29,630 --> 00:15:29,640
+type checking them like in the
+ 
+
+751
+00:15:29,640 --> 00:15:32,510
+type checking them like in the
+probabilistic context free parser.
+
+752
+00:15:32,510 --> 00:15:32,520
+probabilistic context free parser.
+ 
+
+753
+00:15:32,520 --> 00:15:33,990
+probabilistic context free parser.
+There there there is the whole in the
+
+754
+00:15:33,990 --> 00:15:34,000
+There there there is the whole in the
+ 
+
+755
+00:15:34,000 --> 00:15:35,790
+There there there is the whole in the
+middle of the type checker.
+
+756
+00:15:35,790 --> 00:15:35,800
+middle of the type checker.
+ 
+
+757
+00:15:35,800 --> 00:15:38,750
+middle of the type checker.
+And some limited version of it. And then
+
+758
+00:15:38,750 --> 00:15:38,760
+And some limited version of it. And then
+ 
+
+759
+00:15:38,760 --> 00:15:40,790
+And some limited version of it. And then
+you are sort of sending it to to
+
+760
+00:15:40,790 --> 00:15:40,800
+you are sort of sending it to to
+ 
+
+761
+00:15:40,800 --> 00:15:43,350
+you are sort of sending it to to
+basically to to the whole hammer that we
+
+762
+00:15:43,350 --> 00:15:43,360
+basically to to the whole hammer that we
+ 
+
+763
+00:15:43,360 --> 00:15:45,750
+basically to to the whole hammer that we
+that we created
+
+764
+00:15:45,750 --> 00:15:45,760
+that we created
+ 
+
+765
+00:15:45,760 --> 00:15:47,470
+that we created
+so uh
+
+766
+00:15:47,470 --> 00:15:47,480
+so uh
+ 
+
+767
+00:15:47,480 --> 00:15:50,910
+so uh
+so so this was um
+
+768
+00:15:50,910 --> 00:15:50,920
+so so this was um
+ 
+
+769
+00:15:50,920 --> 00:15:53,069
+so so this was um
+go back.
+
+770
+00:15:53,069 --> 00:15:53,079
+go back.
+ 
+
+771
+00:15:53,079 --> 00:15:54,550
+go back.
+Uh
+
+772
+00:15:54,550 --> 00:15:54,560
+Uh
+ 
+
+773
+00:15:54,560 --> 00:15:57,230
+Uh
+this was probably the first prize
+
+774
+00:15:57,230 --> 00:15:57,240
+this was probably the first prize
+ 
+
+775
+00:15:57,240 --> 00:15:59,829
+this was probably the first prize
+that even though this was produced by
+
+776
+00:15:59,829 --> 00:15:59,839
+that even though this was produced by
+ 
+
+777
+00:15:59,839 --> 00:16:01,790
+that even though this was produced by
+informalization like it's a sort of
+
+778
+00:16:01,790 --> 00:16:01,800
+informalization like it's a sort of
+ 
+
+779
+00:16:01,800 --> 00:16:04,790
+informalization like it's a sort of
+synthetic data etc. etc.
+
+780
+00:16:04,790 --> 00:16:04,800
+synthetic data etc. etc.
+ 
+
+781
+00:16:04,800 --> 00:16:06,030
+synthetic data etc. etc.
+The the
+
+782
+00:16:06,030 --> 00:16:06,040
+The the
+ 
+
+783
+00:16:06,040 --> 00:16:08,310
+The the
+the grammar that we created completely
+
+784
+00:16:08,310 --> 00:16:08,320
+the grammar that we created completely
+ 
+
+785
+00:16:08,320 --> 00:16:10,190
+the grammar that we created completely
+automatically like just just from the
+
+786
+00:16:10,190 --> 00:16:10,200
+automatically like just just from the
+ 
+
+787
+00:16:10,200 --> 00:16:12,310
+automatically like just just from the
+corpus by the probabilities from from
+
+788
+00:16:12,310 --> 00:16:12,320
+corpus by the probabilities from from
+ 
+
+789
+00:16:12,320 --> 00:16:13,550
+corpus by the probabilities from from
+the corpus
+
+790
+00:16:13,550 --> 00:16:13,560
+the corpus
+ 
+
+791
+00:16:13,560 --> 00:16:16,949
+the corpus
+was really very good in in in this task.
+
+792
+00:16:16,949 --> 00:16:16,959
+was really very good in in in this task.
+ 
+
+793
+00:16:16,959 --> 00:16:18,829
+was really very good in in in this task.
+The the type checking methods that that
+
+794
+00:16:18,829 --> 00:16:18,839
+The the type checking methods that that
+ 
+
+795
+00:16:18,839 --> 00:16:22,069
+The the type checking methods that that
+were put inside the PCFG parser were
+
+796
+00:16:22,069 --> 00:16:22,079
+were put inside the PCFG parser were
+ 
+
+797
+00:16:22,079 --> 00:16:23,630
+were put inside the PCFG parser were
+extremely useful like they were really
+
+798
+00:16:23,630 --> 00:16:23,640
+extremely useful like they were really
+ 
+
+799
+00:16:23,640 --> 00:16:26,590
+extremely useful like they were really
+improving the job efficiently. And and
+
+800
+00:16:26,590 --> 00:16:26,600
+improving the job efficiently. And and
+ 
+
+801
+00:16:26,600 --> 00:16:28,990
+improving the job efficiently. And and
+then what also surprised me is that like
+
+802
+00:16:28,990 --> 00:16:29,000
+then what also surprised me is that like
+ 
+
+803
+00:16:29,000 --> 00:16:32,829
+then what also surprised me is that like
+these things were sort of occasionally
+
+804
+00:16:32,829 --> 00:16:32,839
+these things were sort of occasionally
+ 
+
+805
+00:16:32,839 --> 00:16:34,670
+these things were sort of occasionally
+coming up with new conjectures that we
+
+806
+00:16:34,670 --> 00:16:34,680
+coming up with new conjectures that we
+ 
+
+807
+00:16:34,680 --> 00:16:36,310
+coming up with new conjectures that we
+could prove for example by by by the
+
+808
+00:16:36,310 --> 00:16:36,320
+could prove for example by by by the
+ 
+
+809
+00:16:36,320 --> 00:16:38,230
+could prove for example by by by the
+hammer. So so for example it would take
+
+810
+00:16:38,230 --> 00:16:38,240
+hammer. So so for example it would take
+ 
+
+811
+00:16:38,240 --> 00:16:40,670
+hammer. So so for example it would take
+the informalized statement interpret it
+
+812
+00:16:40,670 --> 00:16:40,680
+the informalized statement interpret it
+ 
+
+813
+00:16:40,680 --> 00:16:43,150
+the informalized statement interpret it
+differently and and then it could
+
+814
+00:16:43,150 --> 00:16:43,160
+differently and and then it could
+ 
+
+815
+00:16:43,160 --> 00:16:45,150
+differently and and then it could
+actually prove it. So instead of a
+
+816
+00:16:45,150 --> 00:16:45,160
+actually prove it. So instead of a
+ 
+
+817
+00:16:45,160 --> 00:16:46,750
+actually prove it. So instead of a
+theorem for
+
+818
+00:16:46,750 --> 00:16:46,760
+theorem for
+ 
+
+819
+00:16:46,760 --> 00:16:49,750
+theorem for
+square matrices we would prove a theorem
+
+820
+00:16:49,750 --> 00:16:49,760
+square matrices we would prove a theorem
+ 
+
+821
+00:16:49,760 --> 00:16:52,030
+square matrices we would prove a theorem
+for rectangular matrices just by by the
+
+822
+00:16:52,030 --> 00:16:52,040
+for rectangular matrices just by by the
+ 
+
+823
+00:16:52,040 --> 00:16:53,910
+for rectangular matrices just by by the
+wrong parsing.
+
+824
+00:16:53,910 --> 00:16:53,920
+wrong parsing.
+ 
+
+825
+00:16:53,920 --> 00:16:55,710
+wrong parsing.
+So that was the surprise.
+
+826
+00:16:55,710 --> 00:16:55,720
+So that was the surprise.
+ 
+
+827
+00:16:55,720 --> 00:16:58,949
+So that was the surprise.
+And I I I somehow still think
+
+828
+00:16:58,949 --> 00:16:58,959
+And I I I somehow still think
+ 
+
+829
+00:16:58,959 --> 00:17:01,590
+And I I I somehow still think
+that like these
+
+830
+00:17:01,590 --> 00:17:01,600
+that like these
+ 
+
+831
+00:17:01,600 --> 00:17:03,190
+that like these
+and maybe there's some sort of a bridge
+
+832
+00:17:03,190 --> 00:17:03,200
+and maybe there's some sort of a bridge
+ 
+
+833
+00:17:03,200 --> 00:17:04,910
+and maybe there's some sort of a bridge
+between what Arnd I was showing and
+
+834
+00:17:04,910 --> 00:17:04,920
+between what Arnd I was showing and
+ 
+
+835
+00:17:04,920 --> 00:17:07,470
+between what Arnd I was showing and
+Peter was showing and what we will see
+
+836
+00:17:07,470 --> 00:17:07,480
+Peter was showing and what we will see
+ 
+
+837
+00:17:07,480 --> 00:17:09,510
+Peter was showing and what we will see
+with the large language models
+
+838
+00:17:09,510 --> 00:17:09,520
+with the large language models
+ 
+
+839
+00:17:09,520 --> 00:17:12,110
+with the large language models
+is somewhere in the middle.
+
+840
+00:17:12,110 --> 00:17:12,120
+is somewhere in the middle.
+ 
+
+841
+00:17:12,120 --> 00:17:15,910
+is somewhere in the middle.
+Like it is statistical, it is sort of
+
+842
+00:17:15,910 --> 00:17:15,920
+Like it is statistical, it is sort of
+ 
+
+843
+00:17:15,920 --> 00:17:18,390
+Like it is statistical, it is sort of
+initially
+
+844
+00:17:18,390 --> 00:17:18,400
+initially
+ 
+
+845
+00:17:18,400 --> 00:17:21,429
+initially
+produced by a machine like the parser
+
+846
+00:17:21,429 --> 00:17:21,439
+produced by a machine like the parser
+ 
+
+847
+00:17:21,439 --> 00:17:23,470
+produced by a machine like the parser
+but it's sort of in the explainable
+
+848
+00:17:23,470 --> 00:17:23,480
+but it's sort of in the explainable
+ 
+
+849
+00:17:23,480 --> 00:17:26,470
+but it's sort of in the explainable
+realm. So so so maybe what once you
+
+850
+00:17:26,470 --> 00:17:26,480
+realm. So so so maybe what once you
+ 
+
+851
+00:17:26,480 --> 00:17:28,870
+realm. So so so maybe what once you
+generate the the grammar from some some
+
+852
+00:17:28,870 --> 00:17:28,880
+generate the the grammar from some some
+ 
+
+853
+00:17:28,880 --> 00:17:32,030
+generate the the grammar from some some
+some corpus you can go sort of in the
+
+854
+00:17:32,030 --> 00:17:32,040
+some corpus you can go sort of in the
+ 
+
+855
+00:17:32,040 --> 00:17:33,070
+some corpus you can go sort of in the
+Arnd
+
+856
+00:17:33,070 --> 00:17:33,080
+Arnd
+ 
+
+857
+00:17:33,080 --> 00:17:36,190
+Arnd
+direction and somehow tweak the grammar
+
+858
+00:17:36,190 --> 00:17:36,200
+direction and somehow tweak the grammar
+ 
+
+859
+00:17:36,200 --> 00:17:38,669
+direction and somehow tweak the grammar
+to your liking, maybe limit it, get get
+
+860
+00:17:38,669 --> 00:17:38,679
+to your liking, maybe limit it, get get
+ 
+
+861
+00:17:38,679 --> 00:17:41,030
+to your liking, maybe limit it, get get
+rid of the worst possible cases. And I
+
+862
+00:17:41,030 --> 00:17:41,040
+rid of the worst possible cases. And I
+ 
+
+863
+00:17:41,040 --> 00:17:44,110
+rid of the worst possible cases. And I
+think maybe today we could do this even
+
+864
+00:17:44,110 --> 00:17:44,120
+think maybe today we could do this even
+ 
+
+865
+00:17:44,120 --> 00:17:46,630
+think maybe today we could do this even
+like with the bigger guns that we have
+
+866
+00:17:46,630 --> 00:17:46,640
+like with the bigger guns that we have
+ 
+
+867
+00:17:46,640 --> 00:17:49,070
+like with the bigger guns that we have
+in in the LLM like take I don't know
+
+868
+00:17:49,070 --> 00:17:49,080
+in in the LLM like take I don't know
+ 
+
+869
+00:17:49,080 --> 00:17:51,990
+in in the LLM like take I don't know
+Isabelle and ask
+
+870
+00:17:51,990 --> 00:17:52,000
+Isabelle and ask
+ 
+
+871
+00:17:52,000 --> 00:17:55,430
+Isabelle and ask
+ask for reasonable grammar from from
+
+872
+00:17:55,430 --> 00:17:55,440
+ask for reasonable grammar from from
+ 
+
+873
+00:17:55,440 --> 00:17:57,350
+ask for reasonable grammar from from
+that line. So so I I think that that is
+
+874
+00:17:57,350 --> 00:17:57,360
+that line. So so I I think that that is
+ 
+
+875
+00:17:57,360 --> 00:18:00,710
+that line. So so I I think that that is
+the space of solutions that are
+
+876
+00:18:00,710 --> 00:18:00,720
+the space of solutions that are
+ 
+
+877
+00:18:00,720 --> 00:18:02,790
+the space of solutions that are
+explainable. Maybe they have some
+
+878
+00:18:02,790 --> 00:18:02,800
+explainable. Maybe they have some
+ 
+
+879
+00:18:02,800 --> 00:18:05,350
+explainable. Maybe they have some
+probabilistic thing to it but they are
+
+880
+00:18:05,350 --> 00:18:05,360
+probabilistic thing to it but they are
+ 
+
+881
+00:18:05,360 --> 00:18:08,030
+probabilistic thing to it but they are
+not as crazy black box as as the full
+
+882
+00:18:08,030 --> 00:18:08,040
+not as crazy black box as as the full
+ 
+
+883
+00:18:08,040 --> 00:18:09,590
+not as crazy black box as as the full
+scale
+
+884
+00:18:09,590 --> 00:18:09,600
+scale
+ 
+
+885
+00:18:09,600 --> 00:18:11,830
+scale
+neural neural machine.
+
+886
+00:18:11,830 --> 00:18:11,840
+neural neural machine.
+ 
+
+887
+00:18:11,840 --> 00:18:14,950
+neural neural machine.
+I probably um
+
+888
+00:18:14,950 --> 00:18:14,960
+I probably um
+ 
+
+889
+00:18:14,960 --> 00:18:17,030
+I probably um
+mentioned the
+
+890
+00:18:17,030 --> 00:18:17,040
+mentioned the
+ 
+
+891
+00:18:17,040 --> 00:18:18,550
+mentioned the
+people thing
+
+892
+00:18:18,550 --> 00:18:18,560
+people thing
+ 
+
+893
+00:18:18,560 --> 00:18:19,630
+people thing
+already.
+
+894
+00:18:19,630 --> 00:18:19,640
+already.
+ 
+
+895
+00:18:19,640 --> 00:18:22,510
+already.
+Oh I better not do this one sorry.
+
+896
+00:18:22,510 --> 00:18:22,520
+Oh I better not do this one sorry.
+ 
+
+897
+00:18:22,520 --> 00:18:26,070
+Oh I better not do this one sorry.
+Yeah. So so so what also very much
+
+898
+00:18:26,070 --> 00:18:26,080
+Yeah. So so so what also very much
+ 
+
+899
+00:18:26,080 --> 00:18:27,630
+Yeah. So so so what also very much
+surprised me and that that may be sort
+
+900
+00:18:27,630 --> 00:18:27,640
+surprised me and that that may be sort
+ 
+
+901
+00:18:27,640 --> 00:18:30,190
+surprised me and that that may be sort
+of a new thing for people who don't know
+
+902
+00:18:30,190 --> 00:18:30,200
+of a new thing for people who don't know
+ 
+
+903
+00:18:30,200 --> 00:18:31,190
+of a new thing for people who don't know
+it.
+
+904
+00:18:31,190 --> 00:18:31,200
+it.
+ 
+
+905
+00:18:31,200 --> 00:18:35,710
+it.
+Yeah. So so this is about what he
+
+906
+00:18:35,710 --> 00:18:35,720
+Yeah. So so this is about what he
+ 
+
+907
+00:18:35,720 --> 00:18:38,030
+Yeah. So so this is about what he
+before he got into home and hammer
+
+908
+00:18:38,030 --> 00:18:38,040
+before he got into home and hammer
+ 
+
+909
+00:18:38,040 --> 00:18:40,630
+before he got into home and hammer
+or maybe simultaneously
+
+910
+00:18:40,630 --> 00:18:40,640
+or maybe simultaneously
+ 
+
+911
+00:18:40,640 --> 00:18:44,230
+or maybe simultaneously
+was working on alignment between
+
+912
+00:18:44,230 --> 00:18:44,240
+was working on alignment between
+ 
+
+913
+00:18:44,240 --> 00:18:45,669
+was working on alignment between
+libraries
+
+914
+00:18:45,669 --> 00:18:45,679
+libraries
+ 
+
+915
+00:18:45,679 --> 00:18:48,470
+libraries
+which weren't weren't like purely
+
+916
+00:18:48,470 --> 00:18:48,480
+which weren't weren't like purely
+ 
+
+917
+00:18:48,480 --> 00:18:50,630
+which weren't weren't like purely
+statistical. They were really like a
+
+918
+00:18:50,630 --> 00:18:50,640
+statistical. They were really like a
+ 
+
+919
+00:18:50,640 --> 00:18:53,790
+statistical. They were really like a
+nice combination of what you could say
+
+920
+00:18:53,790 --> 00:18:53,800
+nice combination of what you could say
+ 
+
+921
+00:18:53,800 --> 00:18:56,470
+nice combination of what you could say
+statistical and symbolic methods
+
+922
+00:18:56,470 --> 00:18:56,480
+statistical and symbolic methods
+ 
+
+923
+00:18:56,480 --> 00:18:58,430
+statistical and symbolic methods
+in in the sense
+
+924
+00:18:58,430 --> 00:18:58,440
+in in the sense
+ 
+
+925
+00:18:58,440 --> 00:19:00,790
+in in the sense
+that you basically take two libraries
+
+926
+00:19:00,790 --> 00:19:00,800
+that you basically take two libraries
+ 
+
+927
+00:19:00,800 --> 00:19:02,149
+that you basically take two libraries
+like I don't know whole light or whole
+
+928
+00:19:02,149 --> 00:19:02,159
+like I don't know whole light or whole
+ 
+
+929
+00:19:02,159 --> 00:19:04,390
+like I don't know whole light or whole
+four Isabelle etc.
+
+930
+00:19:04,390 --> 00:19:04,400
+four Isabelle etc.
+ 
+
+931
+00:19:04,400 --> 00:19:06,350
+four Isabelle etc.
+And you
+
+932
+00:19:06,350 --> 00:19:06,360
+And you
+ 
+
+933
+00:19:06,360 --> 00:19:08,710
+And you
+characterize each symbol
+
+934
+00:19:08,710 --> 00:19:08,720
+characterize each symbol
+ 
+
+935
+00:19:08,720 --> 00:19:11,190
+characterize each symbol
+by by the list of lambda abstracted
+
+936
+00:19:11,190 --> 00:19:11,200
+by by the list of lambda abstracted
+ 
+
+937
+00:19:11,200 --> 00:19:13,630
+by by the list of lambda abstracted
+properties that hold
+
+938
+00:19:13,630 --> 00:19:13,640
+properties that hold
+ 
+
+939
+00:19:13,640 --> 00:19:16,310
+properties that hold
+about that symbol. And you you do some
+
+940
+00:19:16,310 --> 00:19:16,320
+about that symbol. And you you do some
+ 
+
+941
+00:19:16,320 --> 00:19:17,550
+about that symbol. And you you do some
+sort of reasonable probabilistic
+
+942
+00:19:17,550 --> 00:19:17,560
+sort of reasonable probabilistic
+ 
+
+943
+00:19:17,560 --> 00:19:19,350
+sort of reasonable probabilistic
+weighting like TF-IDF like if some
+
+944
+00:19:19,350 --> 00:19:19,360
+weighting like TF-IDF like if some
+ 
+
+945
+00:19:19,360 --> 00:19:21,710
+weighting like TF-IDF like if some
+property is valid about every symbol it
+
+946
+00:19:21,710 --> 00:19:21,720
+property is valid about every symbol it
+ 
+
+947
+00:19:21,720 --> 00:19:23,630
+property is valid about every symbol it
+shouldn't be too
+
+948
+00:19:23,630 --> 00:19:23,640
+shouldn't be too
+ 
+
+949
+00:19:23,640 --> 00:19:26,430
+shouldn't be too
+too too important as a as a
+
+950
+00:19:26,430 --> 00:19:26,440
+too too important as a as a
+ 
+
+951
+00:19:26,440 --> 00:19:28,350
+too too important as a as a
+characterization of the symbol.
+
+952
+00:19:28,350 --> 00:19:28,360
+characterization of the symbol.
+ 
+
+953
+00:19:28,360 --> 00:19:30,230
+characterization of the symbol.
+And then just by doing this and and
+
+954
+00:19:30,230 --> 00:19:30,240
+And then just by doing this and and
+ 
+
+955
+00:19:30,240 --> 00:19:32,149
+And then just by doing this and and
+having some some sort of fixed point
+
+956
+00:19:32,149 --> 00:19:32,159
+having some some sort of fixed point
+ 
+
+957
+00:19:32,159 --> 00:19:33,430
+having some some sort of fixed point
+algorithm
+
+958
+00:19:33,430 --> 00:19:33,440
+algorithm
+ 
+
+959
+00:19:33,440 --> 00:19:37,669
+algorithm
+he he could really surprisingly well
+
+960
+00:19:37,669 --> 00:19:37,679
+he he could really surprisingly well
+ 
+
+961
+00:19:37,679 --> 00:19:40,630
+he he could really surprisingly well
+align multiple proof assistant
+
+962
+00:19:40,630 --> 00:19:40,640
+align multiple proof assistant
+ 
+
+963
+00:19:40,640 --> 00:19:41,909
+align multiple proof assistant
+libraries.
+
+964
+00:19:41,909 --> 00:19:41,919
+libraries.
+ 
+
+965
+00:19:41,919 --> 00:19:43,510
+libraries.
+And
+
+966
+00:19:43,510 --> 00:19:43,520
+And
+ 
+
+967
+00:19:43,520 --> 00:19:44,710
+And
+like
+
+968
+00:19:44,710 --> 00:19:44,720
+like
+ 
+
+969
+00:19:44,720 --> 00:19:46,350
+like
+again like there there there is this
+
+970
+00:19:46,350 --> 00:19:46,360
+again like there there there is this
+ 
+
+971
+00:19:46,360 --> 00:19:51,230
+again like there there there is this
+aspect of like like fine maybe today for
+
+972
+00:19:51,230 --> 00:19:51,240
+aspect of like like fine maybe today for
+ 
+
+973
+00:19:51,240 --> 00:19:52,910
+aspect of like like fine maybe today for
+example we have this graph you will not
+
+974
+00:19:52,910 --> 00:19:52,920
+example we have this graph you will not
+ 
+
+975
+00:19:52,920 --> 00:19:54,910
+example we have this graph you will not
+verify by medical chart, which is like
+
+976
+00:19:54,910 --> 00:19:54,920
+verify by medical chart, which is like
+ 
+
+977
+00:19:54,920 --> 00:19:57,310
+verify by medical chart, which is like
+fully signature independent, and it's
+
+978
+00:19:57,310 --> 00:19:57,320
+fully signature independent, and it's
+ 
+
+979
+00:19:57,320 --> 00:19:59,790
+fully signature independent, and it's
+very good in understanding
+
+980
+00:19:59,790 --> 00:19:59,800
+very good in understanding
+ 
+
+981
+00:19:59,800 --> 00:20:00,510
+very good in understanding
+uh
+
+982
+00:20:00,510 --> 00:20:00,520
+uh
+ 
+
+983
+00:20:00,520 --> 00:20:03,230
+uh
+and citing theorems from one domain to
+
+984
+00:20:03,230 --> 00:20:03,240
+and citing theorems from one domain to
+ 
+
+985
+00:20:03,240 --> 00:20:06,110
+and citing theorems from one domain to
+to to another. But like maybe we could
+
+986
+00:20:06,110 --> 00:20:06,120
+to to another. But like maybe we could
+ 
+
+987
+00:20:06,120 --> 00:20:07,350
+to to another. But like maybe we could
+uh
+
+988
+00:20:07,350 --> 00:20:07,360
+uh
+ 
+
+989
+00:20:07,360 --> 00:20:09,430
+uh
+have
+
+990
+00:20:09,430 --> 00:20:09,440
+have
+ 
+
+991
+00:20:09,440 --> 00:20:12,190
+have
+as as a complement to to all all of
+
+992
+00:20:12,190 --> 00:20:12,200
+as as a complement to to all all of
+ 
+
+993
+00:20:12,200 --> 00:20:15,710
+as as a complement to to all all of
+these sort of either manual or like very
+
+994
+00:20:15,710 --> 00:20:15,720
+these sort of either manual or like very
+ 
+
+995
+00:20:15,720 --> 00:20:18,470
+these sort of either manual or like very
+neural black box methods,
+
+996
+00:20:18,470 --> 00:20:18,480
+neural black box methods,
+ 
+
+997
+00:20:18,480 --> 00:20:21,830
+neural black box methods,
+more of these like
+
+998
+00:20:21,830 --> 00:20:21,840
+more of these like
+ 
+
+999
+00:20:21,840 --> 00:20:25,030
+more of these like
+mhm transparent semantic methods, which
+
+1000
+00:20:25,030 --> 00:20:25,040
+mhm transparent semantic methods, which
+ 
+
+1001
+00:20:25,040 --> 00:20:28,190
+mhm transparent semantic methods, which
+so if you you you cannot really see so
+
+1002
+00:20:28,190 --> 00:20:28,200
+so if you you you cannot really see so
+ 
+
+1003
+00:20:28,200 --> 00:20:30,150
+so if you you you cannot really see so
+well in the in the sort of neural
+
+1004
+00:20:30,150 --> 00:20:30,160
+well in the in the sort of neural
+ 
+
+1005
+00:20:30,160 --> 00:20:31,510
+well in the in the sort of neural
+language modeling
+
+1006
+00:20:31,510 --> 00:20:31,520
+language modeling
+ 
+
+1007
+00:20:31,520 --> 00:20:32,590
+language modeling
+world.
+
+1008
+00:20:32,590 --> 00:20:32,600
+world.
+ 
+
+1009
+00:20:32,600 --> 00:20:34,470
+world.
+Uh so so if you don't know it, then I
+
+1010
+00:20:34,470 --> 00:20:34,480
+Uh so so if you don't know it, then I
+ 
+
+1011
+00:20:34,480 --> 00:20:36,430
+Uh so so if you don't know it, then I
+would recommend it to to all all such
+
+1012
+00:20:36,430 --> 00:20:36,440
+would recommend it to to all all such
+ 
+
+1013
+00:20:36,440 --> 00:20:38,310
+would recommend it to to all all such
+people interested in in this in this
+
+1014
+00:20:38,310 --> 00:20:38,320
+people interested in in this in this
+ 
+
+1015
+00:20:38,320 --> 00:20:39,630
+people interested in in this in this
+space, too,
+
+1016
+00:20:39,630 --> 00:20:39,640
+space, too,
+ 
+
+1017
+00:20:39,640 --> 00:20:42,230
+space, too,
+uh to to look at it.
+
+1018
+00:20:42,230 --> 00:20:42,240
+uh to to look at it.
+ 
+
+1019
+00:20:42,240 --> 00:20:43,950
+uh to to look at it.
+I I would say at some point like with
+
+1020
+00:20:43,950 --> 00:20:43,960
+I I would say at some point like with
+ 
+
+1021
+00:20:43,960 --> 00:20:47,550
+I I would say at some point like with
+Sean we we did this first
+
+1022
+00:20:47,550 --> 00:20:47,560
+Sean we we did this first
+ 
+
+1023
+00:20:47,560 --> 00:20:50,150
+Sean we we did this first
+basically neural autoformalization on
+
+1024
+00:20:50,150 --> 00:20:50,160
+basically neural autoformalization on
+ 
+
+1025
+00:20:50,160 --> 00:20:53,710
+basically neural autoformalization on
+the on the desire uh synthetic data set.
+
+1026
+00:20:53,710 --> 00:20:53,720
+the on the desire uh synthetic data set.
+ 
+
+1027
+00:20:53,720 --> 00:20:56,750
+the on the desire uh synthetic data set.
+And like this was really like I I had a
+
+1028
+00:20:56,750 --> 00:20:56,760
+And like this was really like I I had a
+ 
+
+1029
+00:20:56,760 --> 00:20:59,430
+And like this was really like I I had a
+couple of surprises in my research life
+
+1030
+00:20:59,430 --> 00:20:59,440
+couple of surprises in my research life
+ 
+
+1031
+00:20:59,440 --> 00:21:01,430
+couple of surprises in my research life
+so far, and then this this was
+
+1032
+00:21:01,430 --> 00:21:01,440
+so far, and then this this was
+ 
+
+1033
+00:21:01,440 --> 00:21:04,150
+so far, and then this this was
+definitely ranking pretty high,
+
+1034
+00:21:04,150 --> 00:21:04,160
+definitely ranking pretty high,
+ 
+
+1035
+00:21:04,160 --> 00:21:07,070
+definitely ranking pretty high,
+because I I gave Sean a data set of 1
+
+1036
+00:21:07,070 --> 00:21:07,080
+because I I gave Sean a data set of 1
+ 
+
+1037
+00:21:07,080 --> 00:21:10,070
+because I I gave Sean a data set of 1
+million LaTeX to Miz A formula that were
+
+1038
+00:21:10,070 --> 00:21:10,080
+million LaTeX to Miz A formula that were
+ 
+
+1039
+00:21:10,080 --> 00:21:12,430
+million LaTeX to Miz A formula that were
+synthetically generated, and he started
+
+1040
+00:21:12,430 --> 00:21:12,440
+synthetically generated, and he started
+ 
+
+1041
+00:21:12,440 --> 00:21:13,950
+synthetically generated, and he started
+to play with different neural
+
+1042
+00:21:13,950 --> 00:21:13,960
+to play with different neural
+ 
+
+1043
+00:21:13,960 --> 00:21:15,470
+to play with different neural
+architectures.
+
+1044
+00:21:15,470 --> 00:21:15,480
+architectures.
+ 
+
+1045
+00:21:15,480 --> 00:21:19,110
+architectures.
+And the the performance went from crappy
+
+1046
+00:21:19,110 --> 00:21:19,120
+And the the performance went from crappy
+ 
+
+1047
+00:21:19,120 --> 00:21:22,630
+And the the performance went from crappy
+and like that's what I expected, to very
+
+1048
+00:21:22,630 --> 00:21:22,640
+and like that's what I expected, to very
+ 
+
+1049
+00:21:22,640 --> 00:21:23,990
+and like that's what I expected, to very
+very good.
+
+1050
+00:21:23,990 --> 00:21:24,000
+very good.
+ 
+
+1051
+00:21:24,000 --> 00:21:26,110
+very good.
+And like at at that point, like this was
+
+1052
+00:21:26,110 --> 00:21:26,120
+And like at at that point, like this was
+ 
+
+1053
+00:21:26,120 --> 00:21:30,110
+And like at at that point, like this was
+2018, I I was sort of sold. I I I saw
+
+1054
+00:21:30,110 --> 00:21:30,120
+2018, I I was sort of sold. I I I saw
+ 
+
+1055
+00:21:30,120 --> 00:21:33,350
+2018, I I was sort of sold. I I I saw
+that the neural people, like like I I I
+
+1056
+00:21:33,350 --> 00:21:33,360
+that the neural people, like like I I I
+ 
+
+1057
+00:21:33,360 --> 00:21:35,750
+that the neural people, like like I I I
+know that today many people are annoyed
+
+1058
+00:21:35,750 --> 00:21:35,760
+know that today many people are annoyed
+ 
+
+1059
+00:21:35,760 --> 00:21:37,870
+know that today many people are annoyed
+by the neural people by the hype, but
+
+1060
+00:21:37,870 --> 00:21:37,880
+by the neural people by the hype, but
+ 
+
+1061
+00:21:37,880 --> 00:21:39,470
+by the neural people by the hype, but
+I'm also annoyed.
+
+1062
+00:21:39,470 --> 00:21:39,480
+I'm also annoyed.
+ 
+
+1063
+00:21:39,480 --> 00:21:42,030
+I'm also annoyed.
+But like at at that point, I saw that
+
+1064
+00:21:42,030 --> 00:21:42,040
+But like at at that point, I saw that
+ 
+
+1065
+00:21:42,040 --> 00:21:44,150
+But like at at that point, I saw that
+there there is real
+
+1066
+00:21:44,150 --> 00:21:44,160
+there there is real
+ 
+
+1067
+00:21:44,160 --> 00:21:46,630
+there there is real
+very valuable research done done here.
+
+1068
+00:21:46,630 --> 00:21:46,640
+very valuable research done done here.
+ 
+
+1069
+00:21:46,640 --> 00:21:48,110
+very valuable research done done here.
+But for example, the introduction of
+
+1070
+00:21:48,110 --> 00:21:48,120
+But for example, the introduction of
+ 
+
+1071
+00:21:48,120 --> 00:21:51,070
+But for example, the introduction of
+attention in already in LSTMs, I'm
+
+1072
+00:21:51,070 --> 00:21:51,080
+attention in already in LSTMs, I'm
+ 
+
+1073
+00:21:51,080 --> 00:21:53,150
+attention in already in LSTMs, I'm
+sorry, bidirectional LSTMs
+
+1074
+00:21:53,150 --> 00:21:53,160
+sorry, bidirectional LSTMs
+ 
+
+1075
+00:21:53,160 --> 00:21:56,070
+sorry, bidirectional LSTMs
+makes huge performance jumps in in in
+
+1076
+00:21:56,070 --> 00:21:56,080
+makes huge performance jumps in in in
+ 
+
+1077
+00:21:56,080 --> 00:21:58,350
+makes huge performance jumps in in in
+these neural architectures. So so I
+
+1078
+00:21:58,350 --> 00:21:58,360
+these neural architectures. So so I
+ 
+
+1079
+00:21:58,360 --> 00:21:59,910
+these neural architectures. So so I
+would say
+
+1080
+00:21:59,910 --> 00:21:59,920
+would say
+ 
+
+1081
+00:21:59,920 --> 00:22:00,990
+would say
+uh
+
+1082
+00:22:00,990 --> 00:22:01,000
+uh
+ 
+
+1083
+00:22:01,000 --> 00:22:03,310
+uh
+it's it's very hard today to to maintain
+
+1084
+00:22:03,310 --> 00:22:03,320
+it's it's very hard today to to maintain
+ 
+
+1085
+00:22:03,320 --> 00:22:06,710
+it's it's very hard today to to maintain
+some balance of your mind, but if you
+
+1086
+00:22:06,710 --> 00:22:06,720
+some balance of your mind, but if you
+ 
+
+1087
+00:22:06,720 --> 00:22:10,830
+some balance of your mind, but if you
+if if you if you try, this is after the
+
+1088
+00:22:10,830 --> 00:22:10,840
+if if you if you try, this is after the
+ 
+
+1089
+00:22:10,840 --> 00:22:12,870
+if if you if you try, this is after the
+spam filtering, this is really like a
+
+1090
+00:22:12,870 --> 00:22:12,880
+spam filtering, this is really like a
+ 
+
+1091
+00:22:12,880 --> 00:22:15,150
+spam filtering, this is really like a
+very interesting landscape of of
+
+1092
+00:22:15,150 --> 00:22:15,160
+very interesting landscape of of
+ 
+
+1093
+00:22:15,160 --> 00:22:16,510
+very interesting landscape of of
+solutions.
+
+1094
+00:22:16,510 --> 00:22:16,520
+solutions.
+ 
+
+1095
+00:22:16,520 --> 00:22:18,350
+solutions.
+Typically, you need to try it yourself.
+
+1096
+00:22:18,350 --> 00:22:18,360
+Typically, you need to try it yourself.
+ 
+
+1097
+00:22:18,360 --> 00:22:21,430
+Typically, you need to try it yourself.
+You you you sort of can't believe what
+
+1098
+00:22:21,430 --> 00:22:21,440
+You you you sort of can't believe what
+ 
+
+1099
+00:22:21,440 --> 00:22:25,669
+You you you sort of can't believe what
+some high-profile papers say, because
+
+1100
+00:22:25,669 --> 00:22:25,679
+some high-profile papers say, because
+ 
+
+1101
+00:22:25,679 --> 00:22:26,950
+some high-profile papers say, because
+there there there is really a lot of
+
+1102
+00:22:26,950 --> 00:22:26,960
+there there there is really a lot of
+ 
+
+1103
+00:22:26,960 --> 00:22:28,470
+there there there is really a lot of
+corruption, like training on testing
+
+1104
+00:22:28,470 --> 00:22:28,480
+corruption, like training on testing
+ 
+
+1105
+00:22:28,480 --> 00:22:31,710
+corruption, like training on testing
+data, etc. But but like really some some
+
+1106
+00:22:31,710 --> 00:22:31,720
+data, etc. But but like really some some
+ 
+
+1107
+00:22:31,720 --> 00:22:33,830
+data, etc. But but like really some some
+of these techniques that people develop
+
+1108
+00:22:33,830 --> 00:22:33,840
+of these techniques that people develop
+ 
+
+1109
+00:22:33,840 --> 00:22:36,910
+of these techniques that people develop
+in in language models are extremely
+
+1110
+00:22:36,910 --> 00:22:36,920
+in in language models are extremely
+ 
+
+1111
+00:22:36,920 --> 00:22:38,750
+in in language models are extremely
+uh powerful.
+
+1112
+00:22:38,750 --> 00:22:38,760
+uh powerful.
+ 
+
+1113
+00:22:38,760 --> 00:22:41,710
+uh powerful.
+And yeah, okay, let me skip to the end,
+
+1114
+00:22:41,710 --> 00:22:41,720
+And yeah, okay, let me skip to the end,
+ 
+
+1115
+00:22:41,720 --> 00:22:45,470
+And yeah, okay, let me skip to the end,
+cuz Valeria is nervous.
+
+1116
+00:22:45,470 --> 00:22:45,480
+
+ 
+
+1117
+00:22:45,480 --> 00:22:47,790
+
+Uh so um
+
+1118
+00:22:47,790 --> 00:22:47,800
+Uh so um
+ 
+
+1119
+00:22:47,800 --> 00:22:51,070
+Uh so um
+So I I I will be at AI one month from
+
+1120
+00:22:51,070 --> 00:22:51,080
+So I I I will be at AI one month from
+ 
+
+1121
+00:22:51,080 --> 00:22:53,390
+So I I I will be at AI one month from
+now, and I'm supposed to tell tell these
+
+1122
+00:22:53,390 --> 00:22:53,400
+now, and I'm supposed to tell tell these
+ 
+
+1123
+00:22:53,400 --> 00:22:56,669
+now, and I'm supposed to tell tell these
+AI people what's the future of of formal
+
+1124
+00:22:56,669 --> 00:22:56,679
+AI people what's the future of of formal
+ 
+
+1125
+00:22:56,679 --> 00:22:58,270
+AI people what's the future of of formal
+formal mathematics.
+
+1126
+00:22:58,270 --> 00:22:58,280
+formal mathematics.
+ 
+
+1127
+00:22:58,280 --> 00:23:01,150
+formal mathematics.
+And three years ago, I I sold them
+
+1128
+00:23:01,150 --> 00:23:01,160
+And three years ago, I I sold them
+ 
+
+1129
+00:23:01,160 --> 00:23:02,830
+And three years ago, I I sold them
+really this vision. Like like it was
+
+1130
+00:23:02,830 --> 00:23:02,840
+really this vision. Like like it was
+ 
+
+1131
+00:23:02,840 --> 00:23:05,350
+really this vision. Like like it was
+like what Johan Commelin was saying,
+
+1132
+00:23:05,350 --> 00:23:05,360
+like what Johan Commelin was saying,
+ 
+
+1133
+00:23:05,360 --> 00:23:07,870
+like what Johan Commelin was saying,
+that he's still talking to us in in
+
+1134
+00:23:07,870 --> 00:23:07,880
+that he's still talking to us in in
+ 
+
+1135
+00:23:07,880 --> 00:23:09,430
+that he's still talking to us in in
+natural language.
+
+1136
+00:23:09,430 --> 00:23:09,440
+natural language.
+ 
+
+1137
+00:23:09,440 --> 00:23:11,030
+natural language.
+I I think
+
+1138
+00:23:11,030 --> 00:23:11,040
+I I think
+ 
+
+1139
+00:23:11,040 --> 00:23:13,270
+I I think
+I think that this still really like like
+
+1140
+00:23:13,270 --> 00:23:13,280
+I think that this still really like like
+ 
+
+1141
+00:23:13,280 --> 00:23:15,550
+I think that this still really like like
+I I had these these bad surprises given
+
+1142
+00:23:15,550 --> 00:23:15,560
+I I had these these bad surprises given
+ 
+
+1143
+00:23:15,560 --> 00:23:18,510
+I I had these these bad surprises given
+to me by by this freak about how much we
+
+1144
+00:23:18,510 --> 00:23:18,520
+to me by by this freak about how much we
+ 
+
+1145
+00:23:18,520 --> 00:23:21,310
+to me by by this freak about how much we
+want to formalize in how how much time.
+
+1146
+00:23:21,310 --> 00:23:21,320
+want to formalize in how how much time.
+ 
+
+1147
+00:23:21,320 --> 00:23:24,070
+want to formalize in how how much time.
+But like today, I would be even like
+
+1148
+00:23:24,070 --> 00:23:24,080
+But like today, I would be even like
+ 
+
+1149
+00:23:24,080 --> 00:23:26,510
+But like today, I would be even like
+bold enough to to sort of sharpen it by
+
+1150
+00:23:26,510 --> 00:23:26,520
+bold enough to to sort of sharpen it by
+ 
+
+1151
+00:23:26,520 --> 00:23:28,550
+bold enough to to sort of sharpen it by
+by saying that like the combination of
+
+1152
+00:23:28,550 --> 00:23:28,560
+by saying that like the combination of
+ 
+
+1153
+00:23:28,560 --> 00:23:30,190
+by saying that like the combination of
+all all these methods that we are seeing
+
+1154
+00:23:30,190 --> 00:23:30,200
+all all these methods that we are seeing
+ 
+
+1155
+00:23:30,200 --> 00:23:32,950
+all all these methods that we are seeing
+here, for example, in in 10 years will
+
+1156
+00:23:32,950 --> 00:23:32,960
+here, for example, in in 10 years will
+ 
+
+1157
+00:23:32,960 --> 00:23:33,990
+here, for example, in in 10 years will
+really
+
+1158
+00:23:33,990 --> 00:23:34,000
+really
+ 
+
+1159
+00:23:34,000 --> 00:23:36,110
+really
+like the way YouTube is now transcribing
+
+1160
+00:23:36,110 --> 00:23:36,120
+like the way YouTube is now transcribing
+ 
+
+1161
+00:23:36,120 --> 00:23:38,070
+like the way YouTube is now transcribing
+transcribing our talks into natural
+
+1162
+00:23:38,070 --> 00:23:38,080
+transcribing our talks into natural
+ 
+
+1163
+00:23:38,080 --> 00:23:40,510
+transcribing our talks into natural
+language, we will have tools that will
+
+1164
+00:23:40,510 --> 00:23:40,520
+language, we will have tools that will
+ 
+
+1165
+00:23:40,520 --> 00:23:43,550
+language, we will have tools that will
+be transcribing the math talks in into I
+
+1166
+00:23:43,550 --> 00:23:43,560
+be transcribing the math talks in into I
+ 
+
+1167
+00:23:43,560 --> 00:23:45,630
+be transcribing the math talks in into I
+don't know approach or maybe even Lean,
+
+1168
+00:23:45,630 --> 00:23:45,640
+don't know approach or maybe even Lean,
+ 
+
+1169
+00:23:45,640 --> 00:23:47,990
+don't know approach or maybe even Lean,
+I I I don't know. Like but I I I would
+
+1170
+00:23:47,990 --> 00:23:48,000
+I I I don't know. Like but I I I would
+ 
+
+1171
+00:23:48,000 --> 00:23:49,110
+I I I don't know. Like but I I I would
+say
+
+1172
+00:23:49,110 --> 00:23:49,120
+say
+ 
+
+1173
+00:23:49,120 --> 00:23:52,390
+say
+may maybe the messages that I am
+
+1174
+00:23:52,390 --> 00:23:52,400
+may maybe the messages that I am
+ 
+
+1175
+00:23:52,400 --> 00:23:54,030
+may maybe the messages that I am
+sort of
+
+1176
+00:23:54,030 --> 00:23:54,040
+sort of
+ 
+
+1177
+00:23:54,040 --> 00:23:55,790
+sort of
+very pleasantly surprised how how the
+
+1178
+00:23:55,790 --> 00:23:55,800
+very pleasantly surprised how how the
+ 
+
+1179
+00:23:55,800 --> 00:23:57,790
+very pleasantly surprised how how the
+last 10 years developed, and I'm sort of
+
+1180
+00:23:57,790 --> 00:23:57,800
+last 10 years developed, and I'm sort of
+ 
+
+1181
+00:23:57,800 --> 00:23:59,390
+last 10 years developed, and I'm sort of
+very happy that
+
+1182
+00:23:59,390 --> 00:23:59,400
+very happy that
+ 
+
+1183
+00:23:59,400 --> 00:24:01,310
+very happy that
+the Lean people sort of forced me to to
+
+1184
+00:24:01,310 --> 00:24:01,320
+the Lean people sort of forced me to to
+ 
+
+1185
+00:24:01,320 --> 00:24:03,910
+the Lean people sort of forced me to to
+go there by basically telling me yes, do
+
+1186
+00:24:03,910 --> 00:24:03,920
+go there by basically telling me yes, do
+ 
+
+1187
+00:24:03,920 --> 00:24:08,720
+go there by basically telling me yes, do
+do this project. So that's thanks.
+
